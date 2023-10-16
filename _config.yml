@@ -21,7 +21,8 @@ resume-external: true
 resume-url: https://google.com/?q=my+resume
 
 collections:
-  book:
+  lessons:
+    output: true
     sort_by: lesson
 
 url: https://RuneSchool.github.io

@@ -5,6 +5,12 @@
                 <a class="link" href="{{ site.url }}/">Home</a>
             </li>
         {% endif %}
+        
+        {% if page.title != "Learn" %}
+            <li class="item">
+                <a class="link" href="{{ site.url }}/learn">Learn</a>
+            </li>
+        {% endif %}
 
         {% if site.blog == true %}
             {% if page.title != "Blog" %}

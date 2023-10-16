@@ -7,4 +7,15 @@ layout: default
 
 {{content}}
 
+<div class="blog-navigation">
+    {% if page.previous.hidden == false and page.previous.url %}
+        <a class="prev" href="{{ site.url }}{{ page.previous.url }}">&laquo; {{ page.previous.lesson }}</a>
+    {% else %}
+        <a class="prev"></a>
+    {% endif %}
+    {% if page.next.hidden == false and page.next.url %}
+        <a class="next" href="{{ site.url }}{{ page.next.url }}">{{ page.next.lesson }} &raquo;</a>
+    {% endif %}
+</div>
+
 {% include footer.html %}

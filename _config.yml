@@ -20,6 +20,10 @@ resume: false
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
+collections:
+  book:
+    sort_by: lesson
+
 url: https://RuneSchool.github.io
 # your url: https://USERNAME.github.io
 

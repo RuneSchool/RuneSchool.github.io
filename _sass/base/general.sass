@@ -16,9 +16,17 @@ summary
   font-size: 20px
   margin-bottom: 8px
 
-summary::marker
-  float: left
-  margin-right: 10px
+details
+  padding-left: 5px
+  border-left: 5px solid #0698CD
+
+details
+  summary
+    list-style: none
+
+details
+  summary::-webkit-details-marker
+    display: none
 
 h1, h2, h3, h4
   font-family: $fontSans

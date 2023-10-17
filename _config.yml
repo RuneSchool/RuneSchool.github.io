@@ -25,7 +25,7 @@ collections:
     output: true
     sort_by: lesson
 
-url: https://RuneSchool.github.io
+url: https://rune.school
 # your url: https://USERNAME.github.io
 
 permalink: /:title/

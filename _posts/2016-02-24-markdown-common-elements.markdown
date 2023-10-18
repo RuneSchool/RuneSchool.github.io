@@ -10,6 +10,7 @@ tag:
 star: true
 category: blog
 author: johndoe
+hidden: true
 description: Markdown summary with different options
 ---
 

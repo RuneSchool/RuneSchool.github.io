@@ -15,7 +15,7 @@ If you've ever wanted to learn how to read and write English with the Anglo-Saxo
 - [Rune Revival](https://www.youtube.com/@LearnRunes)'s Youtube channel
 - My [FuturePast.Runes](https://www.instagram.com/futurepast.runes/) Instagram
 - [Keyman](https://keyman.com/) app and the [keyboard](https://keyman.com/keyboards/runeboard) that Rune Revival made
-- My Discord server for practicing runes (Coming soon)
+- The [Rune School Discord server](https://discord.gg/BThW4fxAwN) for practicing runes
 
 <h2>My other language related websites</h2>
 

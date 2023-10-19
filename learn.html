@@ -4,10 +4,11 @@ title: Learn
 ---
 
 <section class="list">
-  {% for lesson in site.lessons %}
+  {% assign lessons = site.lessons | sort: "lesson" %}
+  {% for lesson in lessons %}
     <h2>
       <a href="{{ lesson.url }}">
-        {{ lesson.sort_by }} - {{ lesson.summary }}
+        {{ lesson.lesson }} - {{ lesson.summary }}
       </a>
     </h2>
   {% endfor %}

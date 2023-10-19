@@ -3,7 +3,7 @@ layout: default
 ---
 {% include header.html %}
 
-<h1>Lesson {{ page.lesson }} - {{ page.summary }}</h1>
+<h1>Lesson {{ page.number }} - {{ page.summary }}</h1>
 
 {{content}}
 
@@ -11,12 +11,12 @@ layout: default
 
 <div class="blog-navigation">
     {% if page.previous.hidden == false and page.previous.url %}
-        <a class="prev" href="{{ site.url }}{{ page.previous.url }}">&laquo; Lesson {{ page.previous.lesson }}</a>
+        <a class="prev" href="{{ site.url }}{{ page.previous.url }}">&laquo; Lesson {{ page.previous.number }}</a>
     {% else %}
         <a class="prev"></a>
     {% endif %}
     {% if page.next.hidden == false and page.next.url %}
-        <a class="next" href="{{ site.url }}{{ page.next.url }}">Lesson {{ page.next.lesson }} &raquo;</a>
+        <a class="next" href="{{ site.url }}{{ page.next.url }}">Lesson {{ page.next.number }} &raquo;</a>
     {% endif %}
 </div>
 

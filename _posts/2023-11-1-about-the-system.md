@@ -17,6 +17,12 @@ In learning this system, you will use only [Anglo-Saxon runes](https://en.wikipe
 
 The majority of rune usage in this system is taken from #1. We pick up today right where they left off. But in some cases, English today is different from English back then. In these situations, we need to make adjustments and take ideas from #2, #3, and #4.
 
+## Why doubled consonants
+
+https://en.wikipedia.org/wiki/English_orthography#Marking_sound_changes_in_other_letters
+
+https://en.wikipedia.org/wiki/Ormulum#Orthography
+
 ## Who is this for?
 
 If you speak English natively, but have never learned a language before, fear not! Writing English in runes is still English. This course doesn't require any linguistic knowledge. Any special terms that I use are explained.

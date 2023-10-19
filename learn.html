@@ -3,19 +3,12 @@ layout: page
 title: Learn
 ---
 
-{% assign sorted_lessons = site.lessons | sort: 'sort_by' %}
-{% assign lesson_numbers = sorted_lessons | map: 'sort_by' | map: 'to_integer' %}
-
 <section class="list">
-  {% for lesson_number in lesson_numbers %}
-    {% for lesson in sorted_lessons %}
-      {% if lesson.sort_by == lesson_number %}
-        <h2>
-          <a href="{{ lesson.url }}">
-            {{ lesson.title }} - {{ lesson.summary }}
-          </a>
-        </h2>
-      {% endif %}
-    {% endfor %}
+  {% for lesson in site.lessons %}
+    <h2>
+      <a href="{{ lesson.url }}">
+        {{ lesson.sort_by }} - {{ lesson.summary }}
+      </a>
+    </h2>
   {% endfor %}
 </section>

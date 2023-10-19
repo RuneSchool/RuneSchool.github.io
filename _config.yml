@@ -23,7 +23,7 @@ resume-url: https://google.com/?q=my+resume
 collections:
   lessons:
     output: true
-    sort_by: lesson
+    #sort_by: lesson
 
 url: https://rune.school
 # your url: https://USERNAME.github.io

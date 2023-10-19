@@ -6,15 +6,14 @@ title: Learn
 {% assign sorted_collection = site.lessons | sort: 'sort_by' %}
 {% assign sorted_collection_with_numbers = sorted_collection | map: 'sort_by' | map: 'to_integer' %}
 
-
 <section class="list">
-    {% for num in sorted_collection_with_numbers %}
-      {% assign lesson = sorted_collection | where: 'sort_by', num | first %}
-      <h2>
-        <a href="{{ lesson.url }}">
-          {{ lesson.title }} - {{ lesson.summary }}
-        </a>
-      </h2>
-    {% endfor %}
+  {% for num in sorted_collection_with_numbers %}
+    {% assign lesson = site.lessons | where: 'sort_by', num | first %}
+    <h2>
+      <a href="{{ lesson.url }}">
+        {{ lesson.title }} - {{ lesson.summary }}
+      </a>
+    </h2>
+  {% endfor %}
 </section>
 

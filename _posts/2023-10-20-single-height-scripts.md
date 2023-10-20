@@ -20,36 +20,41 @@ One of the first things that people will notice about runes is that they are all
 
 Variable-height (**V-H**) is when letters go up and down.
 
-```
 There was a dog who was so nice. Everyone loved him. - Lowercase English written with Latin letters
+
 𐑞𐑺 𐑢𐑪𐑟 𐑩 𐑛𐑪𐑜 𐑣𐑵 𐑢𐑪𐑟 𐑕𐑴 𐑯𐑲𐑕. 𐑧𐑝𐑮𐑦𐑢𐑳𐑯 𐑤𐑳𐑝𐑛 𐑣𐑦𐑥. - English written with Shavian letters
+
 كان هناك كلبًا كان لطيفًا جدًا. الجميع أحبه. - Arabic
+
 មានឆ្កែមួយក្បាលដែលស្អាតណាស់។ មនុស្សគ្រប់គ្នាស្រឡាញ់គាត់។ - Khmer
+
 वहाँ एक कुत्ता था जो बहुत अच्छा था। हर कोई उससे प्यार करता था. - Hindi
-```
 
 ## Single-height scripts
 
 Single-height (**S-H**) is when letters are all the same height.
 
-```
 THERE WAS A DOG WHO WAS SO NICE. EVERYONE LOVED HIM. - Uppercase English written with Latin letters
+
 とても優しい犬がいました。 誰もが彼を愛していました。- Japanese
+
 정말 착한 개가 있었어요. 모두가 그를 사랑했습니다. - Korean
+
 有一只狗，它非常善良。 每个人都爱他。- Chinese
+
 ᚦᛖᚱ᛫​ᚹᚪᛉᛉ᛫​ᛟ᛫​ᛞᚩᚸ᛫​ᚻᚢ᛫​ᚹᚪᛉᛉ᛫​ᛋᚩᚢ᛫​ᚾᚪᛡᛋ᛫​᛬​᛫​ᛖᚠᚱᛁᚹᚪᚾᚾ᛫​ᛚᚪᚠᚠᛞ᛫​ᚻᛁᛗᛗ᛫​᛬​ - English written with Runes
-```
 
 ## Sort of single-height scripts
 
 "Sort of S-H" is when letters are mostly the same height but have markings or a few extenders that go beyond.
 
-```
 𐐜𐐯𐑉 𐐶𐐲𐑆 𐐩 𐐼𐐫𐑀 𐐸𐐭 𐐶𐐲𐑆 𐑅𐐬 𐑌𐐨𐑅. 𐐇𐑂𐑉𐐨𐐶𐐲𐑌 𐑊𐐲𐑂𐐼 𐐸𐐮𐑋. - English written with Deseret letters
+
 Жила-была такая милая собака. Его все любили. - Russian
+
 היה כלב שהיה כל כך נחמד. כולם אהבו אותו. - Hebrew
+
 มีสุนัขตัวหนึ่งที่น่ารักมาก ทุกคนรักเขา - Thai
-```
 
 # Why variable height is good
 

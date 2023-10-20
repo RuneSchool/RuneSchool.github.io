@@ -30,27 +30,20 @@ Variable-height (**V-H**) is when letters go up and down.
 
 Single-height (**S-H**) is when letters are all the same height.
 
-THERE WAS A DOG WHO WAS SO NICE. EVERYONE LOVED HIM. - Uppercase English written with Latin letters
-
-とても優しい犬がいました。 誰もが彼を愛していました。- Japanese
-
-정말 착한 개가 있었어요. 모두가 그를 사랑했습니다. - Korean
-
-有一只狗，它非常善良。 每个人都爱他。- Chinese
-
-ᚦᛖᚱ᛫​ᚹᚪᛉᛉ᛫​ᛟ᛫​ᛞᚩᚸ᛫​ᚻᚢ᛫​ᚹᚪᛉᛉ᛫​ᛋᚩᚢ᛫​ᚾᚪᛡᛋ᛫​᛬​᛫​ᛖᚠᚱᛁᚹᚪᚾᚾ᛫​ᛚᚪᚠᚠᛞ᛫​ᚻᛁᛗᛗ᛫​᛬​ - English written with Runes
+| THERE WAS A DOG WHO WAS SO NICE. EVERYONE LOVED HIM. | Uppercase English written with Latin letters | 
+| とても優しい犬がいました。 誰もが彼を愛していました。| Japanese | 
+| 정말 착한 개가 있었어요. 모두가 그를 사랑했습니다. | Korean | 
+| 有一只狗，它非常善良。 每个人都爱他。| Chinese | 
+| ᚦᛖᚱ᛫​ᚹᚪᛉᛉ᛫​ᛟ᛫​ᛞᚩᚸ᛫​ᚻᚢ᛫​ᚹᚪᛉᛉ᛫​ᛋᚩᚢ᛫​ᚾᚪᛡᛋ᛫​᛬​᛫​ᛖᚠᚱᛁᚹᚪᚾᚾ᛫​ᛚᚪᚠᚠᛞ᛫​ᚻᛁᛗᛗ᛫​᛬​ | English written with Runes | 
 
 ## Sort of single-height scripts
 
 "Sort of S-H" is when letters are mostly the same height but have markings or a few extenders that go beyond.
 
-𐐜𐐯𐑉 𐐶𐐲𐑆 𐐩 𐐼𐐫𐑀 𐐸𐐭 𐐶𐐲𐑆 𐑅𐐬 𐑌𐐨𐑅. 𐐇𐑂𐑉𐐨𐐶𐐲𐑌 𐑊𐐲𐑂𐐼 𐐸𐐮𐑋. - English written with Deseret letters
-
-Жила-была такая милая собака. Его все любили. - Russian
-
-היה כלב שהיה כל כך נחמד. כולם אהבו אותו. - Hebrew
-
-มีสุนัขตัวหนึ่งที่น่ารักมาก ทุกคนรักเขา - Thai
+| 𐐜𐐯𐑉 𐐶𐐲𐑆 𐐩 𐐼𐐫𐑀 𐐸𐐭 𐐶𐐲𐑆 𐑅𐐬 𐑌𐐨𐑅. 𐐇𐑂𐑉𐐨𐐶𐐲𐑌 𐑊𐐲𐑂𐐼 𐐸𐐮𐑋. | English written with Deseret letters | 
+| Жила-была такая милая собака. Его все любили. | Russian | 
+| היה כלב שהיה כל כך נחמד. כולם אהבו אותו. | Hebrew | 
+| มีสุนัขตัวหนึ่งที่น่ารักมาก ทุกคนรักเขา | Thai | 
 
 # Why variable height is good
 

@@ -26,13 +26,13 @@ collections:
     #sort_by: lesson THIS ONLY WORKS IN JEKYLL 4 WHICH GITHUB PAGES DOESNT USE
 
 url: https://rune.school
-#domain: rune.school
+domain: rune.school
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
 
 # To enable google analytics, supply your token below
-#analytics-google: ''
+analytics-google: 'GTM-TD3SZXFG'
 
 # if you don't want comments in your posts, leave categories empty
 disqus:

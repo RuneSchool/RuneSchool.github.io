@@ -3,7 +3,7 @@ title: ᚱᚢᚾ᛫ᛋᛣᚢᛚ
 bio: Learn to write Modern English with Runes
 
 # twitter summary info
-description: Learn to write Modern English with Runes
+description: Learn to write Modern English with the Anglo Saxon Futhorc Runes
 
 # if it's an external image, update below for true
 # better with square images
@@ -26,6 +26,7 @@ collections:
     #sort_by: lesson THIS ONLY WORKS IN JEKYLL 4 WHICH GITHUB PAGES DOESNT USE
 
 url: https://rune.school
+domain: rune.school
 # your url: https://USERNAME.github.io
 
 permalink: /:title/

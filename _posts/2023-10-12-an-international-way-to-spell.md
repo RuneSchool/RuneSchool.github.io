@@ -38,9 +38,16 @@ A "yod" is the first sound in the word "you". In the International Phonetic Alph
 
 British people pronounce words like "new", and "dune" with a yod before the "u", while Americans do not. 
 
-But what about yod coalescence? Coalescence is when the yod combines with the next sound to produce a totally different sound. Words like "tune" and "dune" will often turn into "choon" and "june". In these words, the solution is to simply write the yod and leave it at that. The reason this is a good solution is because there are too many different ways that yod coalescence can manifest. Instead of writing "dune" in 3 different ways ("doon", "dyoon", "june"), we just write it one way ("dyun"). Then the 
+But what about yod coalescence? Coalescence is when the yod combines with the next sound to produce a totally different sound. Words like "tune" and "dune" will often turn into "choon" and "june". In these words, the solution is to simply write the yod and leave it at that. The reason this is a good solution is because there are too many different ways that yod coalescence can manifest. Instead of writing "dune" in 3 different ways ("doon", "dyoon", "june"), we just write it one way. Here are how these would look:
 
-**Keep the Yod.** *And never coalesce it.*
+- Dew/due = ᛞᛄᚢ
+- Dune = ᛞᛄᚢᚾ
+- Do = ᛞᚢ (no yod)
+- Tune = ᛏᛄᚢᚾ
+- Tube = ᛏᛄᚢᛒ
+- New = ᚾᛄᚢ
+
+**Keep the Yod.** *And avoid coalescence.*
 
 ## Lexical Sets
 
@@ -86,14 +93,14 @@ Note that the BATH lexical set would allow for whatever the author prefers.
 
 Keep Merry-Mary-Marry as distinct.
 
-- Merry = ᛖᚱᚱ
-- Mary = ᛖᚱ (SQUARE)
+- Merry = ᛖᚱᚱ (To Be Determined)
+- Mary = ᛖᚱ (To Be Determined)
 - Marry = ᚫᚱ
 
-Keep Hurry and Hurry as distinct.
+Keep Hurry and Furry as distinct.
 
 - Hurry = ᚪᚱᚱ
-- Furry = ᚢᚱ
+- Furry = ᛟᚱ
 
 Keep North and Force merged. Both as just ᚩᚱ.
 

@@ -1,7 +1,7 @@
 ---
 title: "Why a new script? Why not a spelling reform?"
 layout: post
-date: 2023-10-17
+date: 2023-10-22
 tag:
 - spelling reform
 category: blog

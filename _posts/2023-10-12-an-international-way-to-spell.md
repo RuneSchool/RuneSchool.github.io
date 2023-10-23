@@ -1,36 +1,108 @@
 ---
-title: "An International Way to Spell"
+title: "New Mid-Atlantic: An International Way to Spell"
 layout: post
-date: 2023-10-20
+date: 2023-10-12
 tag:
-- received pronunciation
 - accents
-- spelling standard
+- standardization
+- international
+- spelling
 category: blog
-hidden: true
+description: "A guide for how to write English with Anglo-Saxon runes in the most International way, creating a kind of mid-atlantic accent in writing."
+hidden: false
 ---
 
-
-
-If you are writing Runic English for an international audience, you may want to spell in a manner that is equally easily understood by all English accents. Imagine you are writing a news article or a future best-selling book. The chances are high that you don't want to rewrite the whole text in 4 different editions for 4 different accents.
+If you are writing Runic English for an international audience, you may want to spell in a manner that is equally easily understood by all English accents. Imagine you are writing a news article or a future best-selling book, for example. The chances are high that you don't want to rewrite the whole text in 4 different editions for 4 different accents. You will likely want the content to feel equally comfortable for all audiences.
 
 For the most part, Rune School already teaches a system that works well for international audiences. For example, it doesn't matter if a person in Scotland pronounces "mouth" differently from a person in America. Both will use the rune ᚣ.
 
-There are, however, a few cases in which whole phonemes will differ across different accents.
+There are, however, a few cases in which whole phonemes will differ across different accents. These usually involve the following issues:
 
 - rhoticity
-- yod coalescence
-- Lexical sets
+- yods
+- changing phonemes
 
-The best way to handle this is for *everyone* to make a few compromises.
+The best way to handle these issues is for *everyone* to make a few compromises. The end result of these compromises will be a new sort of Mid-Atlantic / Trans-Atlantic accent in written form.
 
-- keep the Rs
-- keep the Yods
-- use the LOT lexical set
+## Rhoticity
 
+Some accents are rhotic (pronounces the R), while others are non-rhotic (doesn't pronounce the R). The solution to this however is to write the R, even when it is not pronounced. This is because non-rhotic accents (like most British accents), are already used to writing the R in Latin English spelling. So it's no leap for them to do so in Runic English spelling. Therefore, non-rhotic accents already mentally distinguish words like "saw" from "soar" despite them often being pronounced the same.
 
-I like to spell the LOT words with ᚩ followed by a double consonant even though I am an American, because I think that is a good compromise for an international way to spell and most often reflects the historical latin spelling anyway. But 
+**Keep the R.**
 
-## When not to be "international"
+## Yods
 
-We always want to spell names as accurately as possible regardless of wanting to be international, however. If you're an American "Tom", you would likely spell your name like ᛏᚪᛗ. If you're a British "Tom", you would likely spell your name like ᛏᚩᛗᛗ.
+Now since the British (non-rhotics) make a compromise by adding in the Rs when they don't pronounce them, it's only fair if the Americans make a compromise as well. Their compromise would be to add in the yods.
+
+A "yod" is the first sound in the word "you". In the International Phonetic Alphabet it is portrayed as `/j/`.
+
+British people pronounce words like "new", and "dune" with a yod before the "u", while Americans do not. 
+
+But what about yod coalescence? Coalescence is when the yod combines with the next sound to produce a totally different sound. Words like "tune" and "dune" will often turn into "choon" and "june". In these words, the solution is to simply write the yod and leave it at that. The reason this is a good solution is because there are too many different ways that yod coalescence can manifest. Instead of writing "dune" in 3 different ways ("doon", "dyoon", "june"), we just write it one way ("dyun"). Then the 
+
+**Keep the Yod.** *And never coalesce it.*
+
+## Lexical Sets
+
+Not all accents have the same lexical sets. For example, British people have merged FORCE into NORTH and Americans have broken LOT up and pushed it into either THOUGHT or SPA.
+
+For this reason, a balanced view of the lexical sets to use would be the following:
+
+|    LS   |   RP   |    GA   | en-Runr |   Spelled Out  |
+|:-------:|:------:|:-------:|:-------:|:--------------:|
+|   TRAP  |    æ   |    æ    | ᚫ       | ᛏᚱᚫᛈ           |
+|   BATH  |   ɑː   |    æ    | ᚫ / ᚪ   | ᛒᚫᚦ / ᛒᚪᚦ      |
+|   SPA   |   ɑː   |    ɑ    | ᚪ       | ᛋᛈᚪ           |
+|   LOT   |    ɒ   |         | ᚩ       | ᛚᚩᛏᛏ           |
+|  CLOTH  |   ɒ    |   ɔ, ɑ  | ᚩ       | ᚳᛚᚩᚦᚦ           |
+| THOUGHT |   ɔː   |         | ᚩ       | ᚦᚩᛏ            |
+|   KIT   |    ɪ   |         | ᛁ       | ᛣᛁᛏᛏ           |
+|  DRESS  |    e   |    ɛ    | ᛖ       | ᛞᚱᛖᛋ          |
+|  STRUT  |    ʌ   |         | ᚪ       | ᛥᚱᚪᛏᛏ / ᛋᛏᚱᚪᛏᛏ |
+|   FOOT  |    ʊ   |         | ᚢ       | ᚠᚢᛏᛏ           |
+|   FACE  |   eɪ   |         | ᛖᛡ      | ᚠᛖᛡᛋ           |
+|   GOAT  |   əʊ   |    oʊ   | ᚩᚢ      | ᚸᚩᚢᛏ           |
+|  FLEECE |   iː   |    i    | ᛁ       | ᚠᛚᛁᛋ           |
+|  GOOSE  |   uː   |    u    | ᚢ      | ᚸᚢᛋ            |
+|  PRICE  |   aɪ   |         | ᚪᛡ      | ᛈᚱᚪᛡᛋ          |
+|  CHOICE |   ɔɪ   |         | ᚩᛡ      | ᚳᚩᛡᛋ           |
+|  MOUTH  |   aʊ   |         | ᚣ       | ᛗᚣᚦ            |
+|  NURSE  |   ɜː   |    ɜr   | ᛟᚱ      | ᚾᛟᚱᛋ           |
+|  START  |   ɑː   |    ɑr   | ᚪᚱ      | ᛥᚪᚱᛏ / ᛋᛏᚪᚱᛏ   |
+|  NORTH  |   ɔː   |    ɔr   | ᚩᚱ      | ᚾᚩᚱᚦ           |
+|  FORCE  |   ɔː   | ɔr, oʊr | ᚩᚱ      | ᚠᚩᚱᛋ           |
+|   NEAR  |   ɪə   |    ir   | ᛠᚱ      | ᚾᛠᚱ            |
+|  SQUARE |   ɛː   |    ɛr   | ᛖᚱ      | ᛋᛢᛖᚱ / ᛋᛣᚹᛖᚱ   |
+|   CURE  | ʊə, ɔː |    ʊr   | ᛄᚢᚱ     | ᚳᛄᚢᚱ          |
+|  COMMA  |    ə   |    ə    | ᛟ       | ᛣᚩᛗᛗᛟ           |
+|  LETTER |    ə   |    ər   | ᛟᚱ     | ᛚᛖᛏᛟᚱ          |
+|  HAPPY  |    i   |         | ᛁ       | ᚻᚫᛈᛁ           |
+
+This would have Americans compromise on LOT by just writing ᚩ followed by two consonants even if they personally pronounce the word closer to SPA or THOUGHT. I think this is fair because the way that the LOT words shift for Americans is often a bit unpredictable.
+
+Note that the BATH lexical set would allow for whatever the author prefers.
+
+### Mergers
+
+Keep Merry-Mary-Marry as distinct.
+
+- Merry = ᛖᚱᚱ
+- Mary = ᛖᚱ (SQUARE)
+- Marry = ᚫᚱ
+
+Keep Hurry and Hurry as distinct.
+
+- Hurry = ᚪᚱᚱ
+- Furry = ᚢᚱ
+
+Keep North and Force merged. Both as just ᚩᚱ.
+
+Keep fur, fern, and fir merged. All as ᛟᚱ.
+
+## When not to be international
+
+We always want to spell names as accurately as possible regardless of wanting to be international, however. 
+
+If you're talking about an American "Tom", you would likely spell his name like ᛏᚪᛗ. If you're writing about a British "Tom", you would likely spell his name like ᛏᚩᛗᛗ. The same is true of last names.
+
+**Respect context.**

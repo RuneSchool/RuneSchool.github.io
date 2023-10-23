@@ -10,8 +10,8 @@ layout: compress
     {% endif %}
 
     <meta charset="utf-8">
-    <meta name=viewport content="width=device-width, initial-scale=1">
-    <meta name=author content="{{ site.title }}">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="author" content="{{ site.title }}">
 
     <script src="https://cdn.counter.dev/script.js" data-id="94335033-b850-474c-9b7f-b85b90bfb5f2" data-utcoffset="-7"></script>
 
@@ -20,7 +20,7 @@ layout: compress
     {% include favicon.html %}
 
     <link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html','' }}">
-    <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ site.url }}{{ "/feed.xml" }}" />
+    <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ site.url }}/feed.xml" />
 
     <meta property="og:title" content="{{ page.title | default: site.title }}">
     <meta property="og:description" content="{{ page.description | default: site.description }}">

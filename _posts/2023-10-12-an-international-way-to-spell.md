@@ -101,6 +101,10 @@ See these examples from the book [Lexical Sets for Actors](https://ecampusontari
 
 > The <span style="color:blue">merry</span> <span style="color:purple">fairy</span> named <span style="color:purple">Mary</span> took the <span style="color:blue">ferry</span> to <span style="color:red">marry</span> <span style="color:purple">hairy</span> <span style="color:red">Harry</span> in <span style="color:red">Paris</span>.
 
+> <span style="color:blue">Terry</span> and <span style="color:red">Barry</span> <span style="color:blue">Berry</span> <span style="color:red">tarried</span> before buying two <span style="color:blue">very</span> <span style="color:purple">varied</span> <span style="color:purple">dairy</span> farms in <span style="color:blue">Derry</span>.
+
+> <span style="color:blue">ᛏᛖᚱᚱᛁ</span>᛫​ᚫᚾᛞ᛫<span style="color:red">​ᛒᚫᚱᛁ</span>᛫<span style="color:blue">​ᛒᛖᚱᚱᛁ</span>᛫<span style="color:red">​ᛏᚫᚱᛁᛞ</span>᛫​ᛒᛟᚠᚩᚱ᛫​ᛒᚪᛡᛁᛝ᛫​ᛏᚢ᛫​<span style="color:blue">ᚠᛖᚱᚱᛁ</span>᛫<span style="color:purple">​ᚠᛖᚱᛁᛞ</span>᛫<span style="color:purple">​ᛞᛖᚱᛁ</span>᛫​ᚠᚪᚱᛗᛉ᛫​ᛁᚾᚾ᛫<span style="color:blue">​ᛞᛖᚱᚱᛁ</span>᛫​᛬​
+
 > ᚦᛟ᛫<span style="color:blue">​ᛗᛖᚱᚱᛁ</span>᛫<span style="color:purple">​ᚠᛖᚱᛁ</span>᛫​ᚾᛖᛡᛗᛞ᛫<span style="color:purple">​ᛗᛖᚱᛁ</span>᛫​ᛏᚢᛣᛣ᛫​ᚦᛟ᛫<span style="color:blue">​ᚠᛖᚱᚱᛁ</span>᛫​ᛏᚢ᛫<span style="color:red">​ᛗᚫᚱᛁ</span>᛫<span style="color:purple">​ᚻᛖᚱᛁ</span>᛫<span style="color:red">​ᚻᚫᚱᛁ</span>᛫​ᛁᚾᚾ᛫<span style="color:red">​ᛈᚫᚱᛁᛋᛋ</span>᛫​᛬​
 
 > I was <span style="color:purple">scared</span> to be on the <span style="color:blue">terrace</span> as the floor was ​<span style="color:red">transparent</span> and it was <span style="color:blue">very</span> ​<span style="color:red">narrow</span> and <span style="color:purple">precarious</span>.

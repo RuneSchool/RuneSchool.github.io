@@ -97,15 +97,15 @@ Note that the BATH lexical set would allow for whatever the author prefers.
 - Mary = ᛖᚱ
 - Marry = ᚫᚱ
 
-See these examples from [Lexical Sets for Actors](https://ecampusontario.pressbooks.pub/lexicalsets/chapter/2-dress-lexical-set/#mergers) for how this looks in practice:
+See these examples from the book [Lexical Sets for Actors](https://ecampusontario.pressbooks.pub/lexicalsets/chapter/2-dress-lexical-set/#mergers) for how this looks in practice:
 
 > The <span style="color:blue">merry</span> <span style="color:green">fairy</span> named <span style="color:green">Mary</span> took the <span style="color:blue">ferry</span> to <span style="color:red">marry</span> <span style="color:green">hairy</span> <span style="color:red">Harry</span> in <span style="color:red">Paris</span>.
 
 > ᚦᛟ᛫<span style="color:blue">​ᛗᛖᚱᚱᛁ</span>᛫<span style="color:green">​ᚠᛖᚱᛁ</span>᛫​ᚾᛖᛡᛗᛞ᛫<span style="color:green">​ᛗᛖᚱᛁ</span>᛫​ᛏᚢᛣᛣ᛫​ᚦᛟ᛫<span style="color:blue">​ᚠᛖᚱᚱᛁ</span>᛫​ᛏᚢ᛫<span style="color:red">​ᛗᚫᚱᛁ</span>᛫<span style="color:green">​ᚻᛖᚱᛁ</span>᛫<span style="color:red">​ᚻᚫᚱᛁ</span>᛫​ᛁᚾᚾ᛫<span style="color:red">​ᛈᚫᚱᛁᛋᛋ</span>᛫​᛬​
 
-> I was <span style="color:green">scared to be on the <span style="color:blue">terrace</span> as the floor was ​<span style="color:red">transparent</span> and it was <span style="color:blue">very</span> narrow and <span style="color:green">precarious
+> I was <span style="color:green">scared to be on the <span style="color:blue">terrace</span> as the floor was ​<span style="color:red">transparent</span> and it was <span style="color:blue">very</span> ​<span style="color:red">narrow</span> and <span style="color:green">precarious</span>.
 
-> ᚪᛡ᛫​ᚹᚩᛉᛉ᛫<span style="color:green">​ᛋᛣᛖᚱᛞ</span>᛫​ᛏᚢ᛫​ᛒᛁ᛫​ᚩᚾᚾ᛫​ᚦᛟ᛫<span style="color:blue">​ᛏᛖᚱᚱᛟᛋ</span>᛫​ᚫᛉ᛫​ᚦᛟ᛫​ᚠᛚᚩᚱ᛫​ᚹᚩᛉᛉ᛫​<span style="color:red">ᛏᚱᚫᚾᛉᛈᚫᚱᛟᚾᛏ</span>᛫​ᚫᚾᛞ᛫​ᛁᛏ᛫​ᚹᚩᛉᛉ᛫<span style="color:blue">​ᚠᛖᚱᚱᛁ</span>᛫​<span style="color:red">ᚾᚫᚱᚩᚢ</span>᛫​ᚫᚾᛞ᛫<span style="color:green">​ᛈᚱᛟᛣᛖᚱᛠᛋ</span>᛫​᛬​
+> ᚪᛡ᛫​ᚹᚩᛉᛉ᛫<span style="color:green">​ᛋᛣᛖᚱᛞ</span>᛫​ᛏᚢ᛫​ᛒᛁ᛫​ᚩᚾᚾ᛫​ᚦᛟ᛫<span style="color:blue">​ᛏᛖᚱᚱᛟᛋ</span>᛫​ᚫᛉ᛫​ᚦᛟ᛫​ᚠᛚᚩᚱ᛫​ᚹᚩᛉᛉ᛫​<span style="color:red">ᛏᚱᚫᚾᛉᛈᚫᚱᛟᚾᛏ</span>᛫​ᚫᚾᛞ᛫​ᛁᛏᛏ᛫​ᚹᚩᛉᛉ᛫<span style="color:blue">​ᚠᛖᚱᚱᛁ</span>᛫​<span style="color:red">ᚾᚫᚱᚩᚢ</span>᛫​ᚫᚾᛞ᛫<span style="color:green">​ᛈᚱᛟᛣᛖᚱᛠᛋ</span>᛫​᛬​
 
 > <span style="color:blue">Gerald</span> told <span style="color:red">Barry</span> it was <span style="color:blue">necessary</span> that they <span style="color:green">prepare</span> the ring <span style="color:green">bearer</span> before the <span style="color:red">marriage</span> <span style="color:blue">ceremony</span>.
 

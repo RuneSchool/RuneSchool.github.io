@@ -91,20 +91,28 @@ Note that the BATH lexical set would allow for whatever the author prefers.
 
 ### Mergers
 
-Keep Merry-Mary-Marry as distinct.
+**Keep Merry-Mary-Marry distinct.**
 
-- Merry = ᛖᚱᚱ (To Be Determined)
-- Mary = ᛖᚱ (To Be Determined)
+- Merry = ᛖᚱᚱ
+- Mary = ᛖᚱ
 - Marry = ᚫᚱ
 
-Keep Hurry and Furry as distinct.
+See this example for how this looks in practice:
+
+> The *merry* **fairy** named **Mary** took the *ferry* to marry **hairy** Harry in Paris.
+
+> ᚦᛟ᛫*​ᛗᛖᚱᚱᛁ*᛫**​ᚠᛖᚱᛁ**᛫​ᚾᛖᛡᛗᛞ᛫**​ᛗᛖᚱᛁ**᛫​ᛏᚢᛣᛣ᛫​ᚦᛟ᛫*​ᚠᛖᚱᚱᛁ*᛫​ᛏᚢ᛫​ᛗᚫᚱᛁ᛫**​ᚻᛖᚱᛁ**᛫​ᚻᚫᚱᛁ᛫​ᛁᚾᚾ᛫​ᛈᚫᚱᛁᛋᛋ᛫​᛬​
+
+In Accents where Merry-Mary-Marry are all merged, these would all just be ᛖᚱ.
+
+**Keep Hurry and Furry distinct.**
 
 - Hurry = ᚪᚱᚱ
 - Furry = ᛟᚱ
 
-Keep North and Force merged. Both as just ᚩᚱ.
+**Keep North and Force merged.** Both as just ᚩᚱ.
 
-Keep fur, fern, and fir merged. All as ᛟᚱ.
+**Keep fur, fern, and fir merged.** All as ᛟᚱ.
 
 ## When not to be international
 

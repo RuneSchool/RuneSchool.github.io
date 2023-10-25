@@ -103,7 +103,7 @@ See these examples from the book [Lexical Sets for Actors](https://ecampusontari
 
 > ᚦᛟ᛫<span style="color:blue">​ᛗᛖᚱᚱᛁ</span>᛫<span style="color:green">​ᚠᛖᚱᛁ</span>᛫​ᚾᛖᛡᛗᛞ᛫<span style="color:green">​ᛗᛖᚱᛁ</span>᛫​ᛏᚢᛣᛣ᛫​ᚦᛟ᛫<span style="color:blue">​ᚠᛖᚱᚱᛁ</span>᛫​ᛏᚢ᛫<span style="color:red">​ᛗᚫᚱᛁ</span>᛫<span style="color:green">​ᚻᛖᚱᛁ</span>᛫<span style="color:red">​ᚻᚫᚱᛁ</span>᛫​ᛁᚾᚾ᛫<span style="color:red">​ᛈᚫᚱᛁᛋᛋ</span>᛫​᛬​
 
-> I was <span style="color:green">scared to be on the <span style="color:blue">terrace</span> as the floor was ​<span style="color:red">transparent</span> and it was <span style="color:blue">very</span> ​<span style="color:red">narrow</span> and <span style="color:green">precarious</span>.
+> I was <span style="color:green">scared</span> to be on the <span style="color:blue">terrace</span> as the floor was ​<span style="color:red">transparent</span> and it was <span style="color:blue">very</span> ​<span style="color:red">narrow</span> and <span style="color:green">precarious</span>.
 
 > ᚪᛡ᛫​ᚹᚩᛉᛉ᛫<span style="color:green">​ᛋᛣᛖᚱᛞ</span>᛫​ᛏᚢ᛫​ᛒᛁ᛫​ᚩᚾᚾ᛫​ᚦᛟ᛫<span style="color:blue">​ᛏᛖᚱᚱᛟᛋ</span>᛫​ᚫᛉ᛫​ᚦᛟ᛫​ᚠᛚᚩᚱ᛫​ᚹᚩᛉᛉ᛫​<span style="color:red">ᛏᚱᚫᚾᛉᛈᚫᚱᛟᚾᛏ</span>᛫​ᚫᚾᛞ᛫​ᛁᛏᛏ᛫​ᚹᚩᛉᛉ᛫<span style="color:blue">​ᚠᛖᚱᚱᛁ</span>᛫​<span style="color:red">ᚾᚫᚱᚩᚢ</span>᛫​ᚫᚾᛞ᛫<span style="color:green">​ᛈᚱᛟᛣᛖᚱᛠᛋ</span>᛫​᛬​
 

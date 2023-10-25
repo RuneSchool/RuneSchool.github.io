@@ -38,7 +38,7 @@ A "yod" is the first sound in the word "you". In the International Phonetic Alph
 
 British people pronounce words like "new", and "dune" with a yod before the "u", while Americans do not. 
 
-But what about yod coalescence? Coalescence is when the yod combines with the next sound to produce a totally different sound. Words like "tune" and "dune" will often turn into "choon" and "june". In these words, the solution is to simply write the yod and leave it at that. The reason this is a good solution is because there are too many different ways that yod coalescence can manifest. Instead of writing "dune" in 3 different ways ("doon", "dyoon", "june"), we just write it one way. Here are how these would look:
+But what about yod coalescence? Coalescence is when the yod combines with the next before to produce a totally different sound. Words like "tune" and "dune" will often turn into "choon" and "june". In these words, the solution is to simply write the yod and leave it at that. The reason this is a good solution is because there are too many different ways that yod coalescence can manifest. Instead of writing "dune" in 4 different ways (ᛞᚢᚾ "doon", ᛞᛄᚢᚾ "dyoon", ᚷᚢᚾ "june", ᚷᛄᚢᚾ "jyoon"), we just write it one way and let people say it how they say it. Here are how these would look:
 
 - Dew/due = ᛞᛄᚢ
 - Dune = ᛞᛄᚢᚾ
@@ -89,7 +89,9 @@ This would have Americans compromise on LOT by just writing ᚩ followed by two 
 
 Note that the BATH lexical set would allow for whatever the author prefers.
 
-### Mergers
+## Mergers
+
+### Merry-Mary-Marry
 
 **Keep Merry-Mary-Marry distinct.**
 
@@ -101,11 +103,11 @@ See these examples from the book [Lexical Sets for Actors](https://ecampusontari
 
 > The <span style="color:blue">merry</span> <span style="color:purple">fairy</span> named <span style="color:purple">Mary</span> took the <span style="color:blue">ferry</span> to <span style="color:red">marry</span> <span style="color:purple">hairy</span> <span style="color:red">Harry</span> in <span style="color:red">Paris</span>.
 
+> ᚦᛟ᛫<span style="color:blue">​ᛗᛖᚱᚱᛁ</span>᛫<span style="color:purple">​ᚠᛖᚱᛁ</span>᛫​ᚾᛖᛡᛗᛞ᛫<span style="color:purple">​ᛗᛖᚱᛁ</span>᛫​ᛏᚢᛣᛣ᛫​ᚦᛟ᛫<span style="color:blue">​ᚠᛖᚱᚱᛁ</span>᛫​ᛏᚢ᛫<span style="color:red">​ᛗᚫᚱᛁ</span>᛫<span style="color:purple">​ᚻᛖᚱᛁ</span>᛫<span style="color:red">​ᚻᚫᚱᛁ</span>᛫​ᛁᚾᚾ᛫<span style="color:red">​ᛈᚫᚱᛁᛋᛋ</span>᛫​᛬​
+
 > <span style="color:blue">Terry</span> and <span style="color:red">Barry</span> <span style="color:blue">Berry</span> <span style="color:red">tarried</span> before buying two <span style="color:blue">very</span> <span style="color:purple">varied</span> <span style="color:purple">dairy</span> farms in <span style="color:blue">Derry</span>.
 
 > <span style="color:blue">ᛏᛖᚱᚱᛁ</span>᛫​ᚫᚾᛞ᛫<span style="color:red">​ᛒᚫᚱᛁ</span>᛫<span style="color:blue">​ᛒᛖᚱᚱᛁ</span>᛫<span style="color:red">​ᛏᚫᚱᛁᛞ</span>᛫​ᛒᛟᚠᚩᚱ᛫​ᛒᚪᛡᛁᛝ᛫​ᛏᚢ᛫​<span style="color:blue">ᚠᛖᚱᚱᛁ</span>᛫<span style="color:purple">​ᚠᛖᚱᛁᛞ</span>᛫<span style="color:purple">​ᛞᛖᚱᛁ</span>᛫​ᚠᚪᚱᛗᛉ᛫​ᛁᚾᚾ᛫<span style="color:blue">​ᛞᛖᚱᚱᛁ</span>᛫​᛬​
-
-> ᚦᛟ᛫<span style="color:blue">​ᛗᛖᚱᚱᛁ</span>᛫<span style="color:purple">​ᚠᛖᚱᛁ</span>᛫​ᚾᛖᛡᛗᛞ᛫<span style="color:purple">​ᛗᛖᚱᛁ</span>᛫​ᛏᚢᛣᛣ᛫​ᚦᛟ᛫<span style="color:blue">​ᚠᛖᚱᚱᛁ</span>᛫​ᛏᚢ᛫<span style="color:red">​ᛗᚫᚱᛁ</span>᛫<span style="color:purple">​ᚻᛖᚱᛁ</span>᛫<span style="color:red">​ᚻᚫᚱᛁ</span>᛫​ᛁᚾᚾ᛫<span style="color:red">​ᛈᚫᚱᛁᛋᛋ</span>᛫​᛬​
 
 > I was <span style="color:purple">scared</span> to be on the <span style="color:blue">terrace</span> as the floor was ​<span style="color:red">transparent</span> and it was <span style="color:blue">very</span> ​<span style="color:red">narrow</span> and <span style="color:purple">precarious</span>.
 
@@ -117,6 +119,8 @@ See these examples from the book [Lexical Sets for Actors](https://ecampusontari
 
 In Accents where Merry-Mary-Marry are all merged, these would all just be ᛖᚱ.
 
+### Hurry-Furry
+
 **Keep Hurry and Furry distinct.**
 
 - Hurry = ᚪᚱᚱ
@@ -124,9 +128,13 @@ In Accents where Merry-Mary-Marry are all merged, these would all just be ᛖᚱ
 
 In accents where Hurry and Furry are merged, these would both be ᛟᚱ.
 
+### North-Force
+
 **Keep North and Force merged.** Both as just ᚩᚱ.
 
 In General American, North would be ᚩᚱ and Force would be ᚩᚢᚱ.
+
+### Fur-Fern-Fir
 
 **Keep fur, fern, and fir merged.** All as ᛟᚱ.
 

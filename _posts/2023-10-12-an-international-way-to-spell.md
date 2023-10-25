@@ -97,11 +97,19 @@ Note that the BATH lexical set would allow for whatever the author prefers.
 - Mary = ᛖᚱ
 - Marry = ᚫᚱ
 
-See this example for how this looks in practice:
+See these examples from [Lexical Sets for Actors](https://ecampusontario.pressbooks.pub/lexicalsets/chapter/2-dress-lexical-set/#mergers) for how this looks in practice:
 
-> The *merry* **fairy** named **Mary** took the *ferry* to marry **hairy** Harry in Paris.
+> The <span style="color:blue">merry</span> <span style="color:green">fairy</span> named <span style="color:green">Mary</span> took the <span style="color:blue">ferry</span> to <span style="color:red">marry</span> <span style="color:green">hairy</span> <span style="color:red">Harry</span> in <span style="color:red">Paris</span>.
 
-> ᚦᛟ᛫*​ᛗᛖᚱᚱᛁ*᛫**​ᚠᛖᚱᛁ**᛫​ᚾᛖᛡᛗᛞ᛫**​ᛗᛖᚱᛁ**᛫​ᛏᚢᛣᛣ᛫​ᚦᛟ᛫*​ᚠᛖᚱᚱᛁ*᛫​ᛏᚢ᛫​ᛗᚫᚱᛁ᛫**​ᚻᛖᚱᛁ**᛫​ᚻᚫᚱᛁ᛫​ᛁᚾᚾ᛫​ᛈᚫᚱᛁᛋᛋ᛫​᛬​
+> ᚦᛟ᛫<span style="color:blue">​ᛗᛖᚱᚱᛁ</span>᛫<span style="color:green">​ᚠᛖᚱᛁ</span>᛫​ᚾᛖᛡᛗᛞ᛫<span style="color:green">​ᛗᛖᚱᛁ</span>᛫​ᛏᚢᛣᛣ᛫​ᚦᛟ᛫<span style="color:blue">​ᚠᛖᚱᚱᛁ</span>᛫​ᛏᚢ᛫<span style="color:red">​ᛗᚫᚱᛁ</span>᛫<span style="color:green">​ᚻᛖᚱᛁ</span>᛫<span style="color:red">​ᚻᚫᚱᛁ</span>᛫​ᛁᚾᚾ᛫<span style="color:red">​ᛈᚫᚱᛁᛋᛋ</span>᛫​᛬​
+
+> I was <span style="color:green">scared to be on the <span style="color:blue">terrace</span> as the floor was ​<span style="color:red">transparent</span> and it was <span style="color:blue">very</span> narrow and <span style="color:green">precarious
+
+> ᚪᛡ᛫​ᚹᚩᛉᛉ᛫<span style="color:green">​ᛋᛣᛖᚱᛞ</span>᛫​ᛏᚢ᛫​ᛒᛁ᛫​ᚩᚾᚾ᛫​ᚦᛟ᛫<span style="color:blue">​ᛏᛖᚱᚱᛟᛋ</span>᛫​ᚫᛉ᛫​ᚦᛟ᛫​ᚠᛚᚩᚱ᛫​ᚹᚩᛉᛉ᛫​<span style="color:red">ᛏᚱᚫᚾᛉᛈᚫᚱᛟᚾᛏ</span>᛫​ᚫᚾᛞ᛫​ᛁᛏ᛫​ᚹᚩᛉᛉ᛫<span style="color:blue">​ᚠᛖᚱᚱᛁ</span>᛫​<span style="color:red">ᚾᚫᚱᚩᚢ</span>᛫​ᚫᚾᛞ᛫<span style="color:green">​ᛈᚱᛟᛣᛖᚱᛠᛋ</span>᛫​᛬​
+
+> <span style="color:blue">Gerald</span> told <span style="color:red">Barry</span> it was <span style="color:blue">necessary</span> that they <span style="color:green">prepare</span> the ring <span style="color:green">bearer</span> before the <span style="color:red">marriage</span> <span style="color:blue">ceremony</span>.
+
+> <span style="color:blue">ᚷᛖᚱᚱᛟᛚᛞ</span>᛫​ᛏᚩᚢᛚᛞ᛫<span style="color:red">​ᛒᚫᚱᛁ</span>᛫​ᛁᛏᛏ᛫​ᚹᚩᛉᛉ᛫<span style="color:blue">​ᚾᛖᛋᛟᛋᛖᚱᚱᛁ</span>᛫​ᚦᚫᛏ᛫​ᚦᛖᛡ᛫​<span style="color:green">ᛈᚱᛟᛈᛖᚱ</span>᛫​ᚦᛟ᛫​ᚱᛁᛝ᛫<span style="color:green">​ᛒᛖᚱᛟᚱ</span>᛫​ᛒᛟᚠᚩᚱ᛫​ᚦᛟ᛫<span style="color:red">​ᛗᚫᚱᛟᚷ</span>᛫<span style="color:blue">​ᛋᛖᚱᚱᛟᛗᚩᚢᚾᛁ</span>᛫​᛬​
 
 In Accents where Merry-Mary-Marry are all merged, these would all just be ᛖᚱ.
 
@@ -110,9 +118,15 @@ In Accents where Merry-Mary-Marry are all merged, these would all just be ᛖᚱ
 - Hurry = ᚪᚱᚱ
 - Furry = ᛟᚱ
 
+In accents where Hurry and Furry are merged, these would both be ᛟᚱ.
+
 **Keep North and Force merged.** Both as just ᚩᚱ.
 
+In General American, North would be ᚩᚱ and Force would be ᚩᚢᚱ.
+
 **Keep fur, fern, and fir merged.** All as ᛟᚱ.
+
+In some accents like Scottish, these can all be pronounced differently like ​ᚠᚢᚱ, ​ᚠᛖᚱᚾ, ​ᚠᛁᚱᚱᚾ. 
 
 ## When not to be international
 

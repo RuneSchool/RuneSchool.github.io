@@ -19,9 +19,13 @@ The majority of rune usage in this system is taken from #1. We pick up today rig
 
 ## Why doubled consonants
 
+Modern English has more vowels than Old English. There needs to be a way to represent those. This system has landed on consonant doubling to indicate "short" vowel sounds.
+
 https://en.wikipedia.org/wiki/English_orthography#Marking_sound_changes_in_other_letters
 
 https://en.wikipedia.org/wiki/Ormulum#Orthography
+
+The only other solution is to use runes in ways that they were not intended to be used. Like bringing foreign runes into the Anglo Saxon futhorc, etc.
 
 ## Who is this for?
 

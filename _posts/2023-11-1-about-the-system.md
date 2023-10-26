@@ -27,6 +27,72 @@ https://en.wikipedia.org/wiki/Ormulum#Orthography
 
 The only other solution is to use runes in ways that they were not intended to be used. Like bringing foreign runes into the Anglo Saxon futhorc, etc.
 
+## The runes
+
+Here is a list of runes so that you can see how this system has kept them the same or changed them.
+
+| Rune | Name             | Old English Rune Poem meaning | Elder Futhark IPA | Original English IPA | Modern English Futhorc pronunciation |
+|------|------------------|-----------------------------|-------------------|-----------------------|---|
+| ᚠ    | Feoh             | Wealth                      | /f/               | /f~v/                   | /f~v/ |
+| ᚢ    | Ur               | Aurochs                     | /u(ː)/           | /u(ː)/                   | GOOSE |
+| ᚦ    | Thorn            | Thorn                       | /θ/               | /θ~ð/                   | /θ~ð/ |
+| ᚩ    | Os               | Mouth                       | /a(ː)/           | /o(ː)/                   | THOUGHT |
+| ᚱ    | Rad              | Ride / Journey              | /r/               | /r/                   | /r/ |
+| ᚳ    | Cen              | Torch                       | /k/               | /k~c~tʃ/               | /k~tʃ/ |
+| ᚷ    | Gyfu             | Gift                        | /ɣ/               | /g~ɣ~ʎ~j/               | /d͡ʒ/ |
+| ᚹ    | Wyn (Wen)        | Joy                         | /w/               | /w/                   | /w/ |
+| ᚻ    | Haegl            | Hail                        | /h/               | /h/                   | /h/ |
+| ᚾ    | Nyd (Nydh)       | Need / Hardship             | /n/               | /n/                   | /n/ |
+| ᛁ    | Is               | Ice                         | /i(ː)/           | /i(ː)/                   | /ɪ~iː/ KIT~FLEECE |
+| ᛄ    | Gēr              | Year / Harvest              | /j/               | /j/                   | /j/ |
+| ᛡ    | Īor              | Eel                         |                   | /jo/                   | /oj/ (used as trailing /j/ sound in diphthongs) |
+| ᛇ    | Ēoh              | Yew                         | /iː~ç/            | /iː~x~ç/               | /i.ɒ~iˈɑ~i.oʊ/ and /hj~x~ç/ |
+| ᛈ    | Peorð            |                             | /p/               | /p/                   | /p/ |
+| ᛉ    | elk-sedge (ilks) | Elk                         | /z/               |                       | /z/ |
+| ᛋ    | Sigel            | Sun                         | /s/               | /s~z/                   | /s/  |
+| ᛏ    | Tīr              |                             | /t/               | /t/                   | /t/ |
+| ᛒ    | Beorc            | Birch / Poplar              | /β/               | /b/                   | /b/ |
+| ᛖ    | E(o)h            | Horse                       | /e(ː)/           | /e(ː)/                   | /ɛ~ɛə/ DRESS~SQUARE |
+| ᛗ    | Mann             | Man / Human                 | /m/               | /m/                   | /m/ |
+| ᛚ    | Lagu             | Ocean, Sea                  | /l/               | /l/                   | /l/  |
+| ᛝ    | Ing              |                             | /ŋ/               | /ŋ~ŋg/                   | /ŋ~ŋg/  |
+| ᛟ    | Ēðel            | Heritage / Estate           | /o(ː)/           | /eː~ø(ː)/               | /ə~ɚ~ɜː/ commA~lettER~NURSE |
+| ᛞ    | Dæg              | Day                         | /ð/               | /d/                   | /d/ |
+| ᚪ    | Āc              | Oak                         | /a(ː)/           | /ɑ(ː)/                   | PALM~SPA |
+| ᚫ    | Æsc             | Ash                         | /a(ː)/           | /æ(ː)/                   | TRAP |
+| ᛠ    | Ēar             | Earth                       |                   | /æ(ː)ɑ/                | NEAR |
+| ᚣ    |  Ȳr              | Bow                         |                   | /y(ː)/                   | MOUTH |
+| ᛣ    | Calc             | Chalk                       |                   | /k/                     | /k/ |
+| ᚸ    | Gar              | Spear                       |                   | /g/                     | /g/ |
+| ᛢ    | Cweorð           |                             | /a(ː)/           | /æ(ː)/                   | TRAP |
+| ᛥ    | Stan             | Stone                       | /a(ː)/           | /æ(ː)/                   | TRAP |
+| ᛤ    | Double Calc      |                             |                   | /k/                     | /k/ |
+| ![Catrinity font V](/assets/images/Catrinity-V.png) | Double Feoh   |                             |                   |                       | /v/ |
+
+Here is a list of [attested runic combinations](https://en.wikipedia.org/wiki/Anglo-Saxon_runes#Combinations_and_digraphs) and their sound in Modern English Futhorc. Note that not all sounds would even make sense for Modern English:
+
+| Combination | IPA       | Equivalent in Modern English Futhorc   |
+|------------|-----------|--------------|--
+| ᚩᛁ        | /oi/?     | ᚩᛡ      | 
+| ᚷᚳ        | [gg]?, [dʒ]? | ᚷ  |
+| ᚷᚷ        | ~[dʒ]     | ᚷᚷ    |
+| ᚻᚹ        | /ʍ/       | ᚻᚹ     |
+| ᚻᛋ        | /ks/      | ᚳᛋ       | 
+| ᚾᚷ        | /ŋg/      | ᛝ or ᛝᚸ       |
+| ᛁᚷ        | /ij/      | ᛁᛡ       | 
+| ᛇᛡ?      | ~/ij/?    | ᛁᛡ      |
+| ᛇᛋ        | /ks/      | ᚳᛋ   | 
+| ᛋᚳ        | /sk/, /ʃ/ | ᛋᚳ       | 
+| ᛖᚩ        | /eo/, /eːo/ | ᛖᚩ       | 
+| ᛖᚷ        | /ej/      | ᛖᛡ      | 
+| ᛖᛇ       | ~/ej/, [eʝ]? | ᛖᛡ | 
+| ᛖᚪ        | /æɑ/, /æːɑ/ | ᛖᚪ  | 
+| ᚪᚢ        | ~/ɑu/     | ᚣ      | 
+| ᚪᛁ        | /ɑi/      | ᚪᛡ        | 
+| ᚪᛡ        | /ɑj/?, /ɑx/? | ᚪᛡ | 
+| ᚫᚢ        | ~/æu/     | ᚫᚢ       | 
+| ᚫᚪ        | /æɑ/, /æːɑ/ | ᚫᚪ    | 
+
 ## Who is this for?
 
 If you speak English natively, but have never learned a language before, fear not! Writing English in runes is still English. This course doesn't require any linguistic knowledge. Any special terms that I use are explained.

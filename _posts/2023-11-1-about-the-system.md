@@ -31,43 +31,43 @@ The only other solution is to use runes in ways that they were not intended to b
 
 Here is a list of runes so that you can see how this system has kept them the same or changed them.
 
-| Rune | Name             | Old English Rune Poem meaning | Elder Futhark IPA | Original English IPA | Modern English Futhorc pronunciation |
+| Rune | Modern Name in Latin English  | Old English Name | Elder Futhark IPA | Original English IPA | Modern English Futhorc pronunciation |
 |------|------------------|-----------------------------|-------------------|-----------------------|---|
-| ᚠ    | Feoh             | Wealth                      | /f/               | /f~v/                   | /f~v/ |
-| ᚢ    | Ur               | Aurochs                     | /u(ː)/           | /u(ː)/                   | GOOSE |
-| ᚦ    | Thorn            | Thorn                       | /θ/               | /θ~ð/                   | /θ~ð/ |
-| ᚩ    | Os               | Mouth                       | /a(ː)/           | /o(ː)/                   | THOUGHT |
-| ᚱ    | Rad              | Ride / Journey              | /r/               | /r/                   | /r/ |
-| ᚳ    | Cen              | Torch                       | /k/               | /k~c~tʃ/               | /k~tʃ/ |
-| ᚷ    | Gyfu             | Gift                        | /ɣ/               | /g~ɣ~ʎ~j/               | /d͡ʒ/ |
-| ᚹ    | Wyn (Wen)        | Joy                         | /w/               | /w/                   | /w/ |
-| ᚻ    | Haegl            | Hail                        | /h/               | /h/                   | /h/ |
-| ᚾ    | Nyd (Nydh)       | Need / Hardship             | /n/               | /n/                   | /n/ |
-| ᛁ    | Is               | Ice                         | /i(ː)/           | /i(ː)/                   | /ɪ~iː/ KIT~FLEECE |
-| ᛄ    | Gēr              | Year / Harvest              | /j/               | /j/                   | /j/ |
-| ᛡ    | Īor              | Eel                         |                   | /jo/                   | /oj/ (used as trailing /j/ sound in diphthongs) |
-| ᛇ    | Ēoh              | Yew                         | /iː~ç/            | /iː~x~ç/               | /i.ɒ~iˈɑ~i.oʊ/ and /hj~x~ç/ |
-| ᛈ    | Peorð            |                             | /p/               | /p/                   | /p/ |
-| ᛉ    | elk-sedge (ilks) | Elk                         | /z/               |                       | /z/ |
-| ᛋ    | Sigel            | Sun                         | /s/               | /s~z/                   | /s/  |
-| ᛏ    | Tīr              |                             | /t/               | /t/                   | /t/ |
-| ᛒ    | Beorc            | Birch / Poplar              | /β/               | /b/                   | /b/ |
-| ᛖ    | E(o)h            | Horse                       | /e(ː)/           | /e(ː)/                   | /ɛ~ɛə/ DRESS~SQUARE |
-| ᛗ    | Mann             | Man / Human                 | /m/               | /m/                   | /m/ |
-| ᛚ    | Lagu             | Ocean, Sea                  | /l/               | /l/                   | /l/  |
-| ᛝ    | Ing              |                             | /ŋ/               | /ŋ~ŋg/                   | /ŋ~ŋg/  |
-| ᛟ    | Ēðel            | Heritage / Estate           | /o(ː)/           | /eː~ø(ː)/               | /ə~ɚ~ɜː/ commA~lettER~NURSE |
-| ᛞ    | Dæg              | Day                         | /ð/               | /d/                   | /d/ |
-| ᚪ    | Āc              | Oak                         | /a(ː)/           | /ɑ(ː)/                   | PALM~SPA |
-| ᚫ    | Æsc             | Ash                         | /a(ː)/           | /æ(ː)/                   | TRAP |
-| ᛠ    | Ēar             | Earth                       |                   | /æ(ː)ɑ/                | NEAR |
-| ᚣ    |  Ȳr              | Bow                         |                   | /y(ː)/                   | MOUTH |
-| ᛣ    | Calc             | Chalk                       |                   | /k/                     | /k/ |
-| ᚸ    | Gar              | Spear                       |                   | /g/                     | /g/ |
-| ᛢ    | Cweorð           |                             | /a(ː)/           | /æ(ː)/                   | TRAP |
+| ᚠ    | Fay             | feoh                      | /f/               | /f~v/                   | /f~v/ |
+| ᚢ    | Ur               | ūr                     | /u(ː)/           | /u(ː)/                   | GOOSE |
+| ᚦ    | Thorn            | þorn                       | /θ/               | /θ~ð/                   | /θ~ð/ |
+| ᚩ    | Os               | ōs                       | /a(ː)/           | /o(ː)/                   | THOUGHT |
+| ᚱ    | Ride              | rād              | /r/               | /r/                   | /r/ |
+| ᚳ    | Chen              | cēn                       | /k/               | /k~c~tʃ/               | /k~tʃ/ |
+| ᚷ    | Gif             | gyfu                        | /ɣ/               | /g~ɣ~ʎ~j/               | /d͡ʒ/ |
+| ᚹ    | Win        | wynn                         | /w/               | /w/                   | /w/ |
+| ᚻ    | Hail           | hægl                        | /h/               | /h/                   | /h/ |
+| ᚾ    | Need       | nēod             | /n/               | /n/                   | /n/ |
+| ᛁ    | Is               | īs                         | /i(ː)/           | /i(ː)/                   | /ɪ~iː/ KIT~FLEECE |
+| ᛄ    | Year              | Gēr             | /j/               | /j/                   | /j/ |
+| ᛡ    | Yore              | Īor                         |                   | /jo/                   | /oj/ (used as trailing /j/ sound in diphthongs) |
+| ᛇ    | Eeyaw              | Ēoh / īw                         | /iː~ç/            | /iː~x~ç/               | /i.ɒ~iˈɑ~i.oʊ/ and /hj~x~ç/ |
+| ᛈ    | Peorth            |  peorð                           | /p/               | /p/                   | /p/ |
+| ᛉ    | Elk | ilcs (eolh?)                         | /z/               |                       | /z/ |
+| ᛋ    | Sun            | sigel                         | /s/               | /s~z/                   | /s/  |
+| ᛏ    | Tea              |   Tīw                          | /t/               | /t/                   | /t/ |
+| ᛒ    | Birch            | beorc              | /β/               | /b/                   | /b/ |
+| ᛖ    | Eoh            | Eoh                       | /e(ː)/           | /e(ː)/                   | /ɛ~ɛə/ DRESS~SQUARE |
+| ᛗ    | Man             | Mann                 | /m/               | /m/                   | /m/ |
+| ᛚ    | Lake             | lagu                  | /l/               | /l/                   | /l/  |
+| ᛝ    | Ing              |   ing                          | /ŋ/               | /ŋ~ŋg/                   | /ŋ~ŋg/  |
+| ᛟ    | əthel            | oedil (ēðel)           | /o(ː)/           | /eː~ø(ː)/               | /ə~ɚ~ɜː/ commA~lettER~NURSE |
+| ᛞ    | Day              | dæg                         | /ð/               | /d/                   | /d/ |
+| ᚪ    | Ahk              | āc                         | /a(ː)/           | /ɑ(ː)/                   | PALM~SPA |
+| ᚫ    | Ash             | æsc                         | /a(ː)/           | /æ(ː)/                   | TRAP |
+| ᛠ    | Ear             | ēar                       |                   | /æ(ː)ɑ/                | NEAR |
+| ᚣ    |  Ow              | ȳr                         |                   | /y(ː)/                   | MOUTH |
+| ᛣ    | Calc             |                        |                   | /k/                     | /k/ |
+| ᚸ    | Gar              |                        |                   | /g/                     | /g/ |
+| ᛢ    | Qweorth           |  cweorð                           | /a(ː)/           | /æ(ː)/                   | TRAP |
 | ᛥ    | Stan             | Stone                       | /a(ː)/           | /æ(ː)/                   | TRAP |
 | ᛤ    | Double Calc      |                             |                   | /k/                     | /k/ |
-| ![Catrinity font V](/assets/images/Catrinity-V.png) | Double Feoh   |                             |                   |                       | /v/ |
+| ![Catrinity font V](/assets/images/Catrinity-V.png) | Double Fay   |                             |                   |                       | /v/ |
 
 Here is a list of [attested runic combinations](https://en.wikipedia.org/wiki/Anglo-Saxon_runes#Combinations_and_digraphs) and their sound in Modern English Futhorc. Note that not all sounds would even make sense for Modern English:
 

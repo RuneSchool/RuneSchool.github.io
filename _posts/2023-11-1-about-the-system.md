@@ -68,6 +68,7 @@ Here is a list of runes so that you can see how this system has kept them the sa
 | ᛥ    | Stone |            | /st/                   | <span style="color:green"> /st/ </span> |
 | ![Catrinity font V](/assets/images/Catrinity-V.png) | Double feoh   |                   |                       | <span style="color:red"> /v/ </span> |
 
+If we accept the doubled consonants changing the vowel sound before it, then the only real changes to research the reasonableness of are Double-Feoh, ᚣ, ᛠ, ᛟ, ᛇ, ᛡ, and ᚷ.
 
 Here is a list of [attested runic combinations](https://en.wikipedia.org/wiki/Anglo-Saxon_runes#Combinations_and_digraphs) and their sound in Modern English Futhorc. Note that not all sounds would even make sense for Modern English:
 
@@ -88,6 +89,8 @@ Here is a list of [attested runic combinations](https://en.wikipedia.org/wiki/An
 | ᚪᚢ   | ~/ɑu/ | <span style="color:orange"> ᚣ </span><span style="color:green">(ᚪᚢ is possible if you want to be very specific about pronunciation)</span>  | 
 | ᚪᛁ        | /ɑi/      | <span style="color:orange"> ᚪᛡ  </span>      | 
 | ᚪᛡ        | /ɑj/?, /ɑx/? | <span style="color:green"> ᚪᛡ </span>| 
+
+One thing that really stands out from this is that ᛡ seems to be an excellent compromise to rune combinations that involve both ᚷ and ᛁ.
 
 ## Who is this for?
 

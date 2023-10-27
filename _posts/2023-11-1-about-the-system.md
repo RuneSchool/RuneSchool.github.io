@@ -19,13 +19,17 @@ The majority of rune usage in this system is taken from #1. We pick up today rig
 
 ## Why doubled consonants
 
-Modern English has more vowels than Old English. There needs to be a way to represent those. This system has landed on consonant doubling to indicate "short" vowel sounds.
+In brief, consonant doubling is from consideration #2.
 
-https://en.wikipedia.org/wiki/English_orthography#Marking_sound_changes_in_other_letters
+Modern English has more vowels than Old English. There needs to be a way to represent those. [Modern English has a consonant doubling system](https://en.wikipedia.org/wiki/English_orthography#Marking_sound_changes_in_other_letters) to indicate short vowels. This [originally came from a very experimental era of English spelling](https://en.wikipedia.org/wiki/Ormulum#Orthography) that occured around the time that Runes were falling out of usage in England.
 
-https://en.wikipedia.org/wiki/Ormulum#Orthography
+English runic spelling originally did not have doubled consonants. But then Latin letters came along and eventually people started to like doubling consonants to indicate short vowels. There are other reasons that Latin letters took over in England. But at least partially, they did represent a superior way of representing English sounds.
 
-The only other solution is to use runes in ways that they were not intended to be used. Like bringing foreign runes into the Anglo Saxon futhorc, etc.
+The idea is that if Runes had remained in use, they would have borrowed this consonant doubling concept from Latin spelling convention. 
+
+The only other solution that alternative runic spelling systems have come up with for representing Modern English vowels is to use runes in ways that they were not intended to be used. Or to bring foreign runes into the Anglo Saxon futhorc.
+
+The consonant doubling solution allows us to keep the original Anglo-Saxon futhorc while also acknowledging the natural development of English spelling through history.
 
 ## The runes
 
@@ -48,7 +52,7 @@ Here is a list of runes so that you can see how this system has kept them the sa
 | ᛡ    | Īor |                   | /jo/                   | <span style="color:orange"> /oj/ (used as trailing /j/ sound in diphthongs) </span> |
 | ᛇ    | Ēoh / īw | /iː~ç/            | /iː~x~ç/               | <span style="color:orange"> /i.ɒ~iˈɑ~i.oʊ/ and /hj~x~ç/ </span> |
 | ᛈ    | peorð | /p/               | /p/                   | <span style="color:green"> /p/ </span> |
-| ᛉ    | ilcs (eolh?) | /z/               |                       | <span style="color:green"> /z/ </span> |
+| ᛉ    | ilcs (eolh?) | /z/               |                       | <span style="color:red"> /z/ </span> |
 | ᛋ    | sigel | /s/               | /s~z/                   | <span style="color:green"> /s/  </span> |
 | ᛏ    | Tīw | /t/               | /t/                   | <span style="color:green"> /t/ </span> |
 | ᛒ    | beorc | /β/               | /b/                   | <span style="color:green"> /b/ </span> |
@@ -66,9 +70,21 @@ Here is a list of runes so that you can see how this system has kept them the sa
 | ᚸ    | Gar |                   | /g/                     | <span style="color:green"> /g/ </span> |
 | ᛢ    | cweorð |           | /k/                   | <span style="color:orange"> /kw/ </span> |
 | ᛥ    | Stone |            | /st/                   | <span style="color:green"> /st/ </span> |
-| ![Catrinity font V](/assets/images/Catrinity-V.png) | Double feoh   |                   |                       | <span style="color:red"> /v/ </span> |
+| ᛤ    | Double-Calc |            | /k/                   | <span style="color:green"> /k/ </span> |
+| ![Catrinity font V](/assets/images/Catrinity-V.png) | Double-Feoh   |                   |                       | <span style="color:red"> /v/ </span> |
 
-If we accept the doubled consonants changing the vowel sound before it, then the only real changes to research the reasonableness of are Double-Feoh, ᚣ, ᛠ, ᛟ, ᛇ, ᛡ, and ᚷ.
+If we accept the doubled consonants changing the vowel sound before it, then the only real changes to research the reasonableness of are Double-Feoh, ᚣ, ᛠ, ᛟ, ᛇ, ᛉ, ᛡ, and ᚷ.
+
+To go over these quickly:
+
+- Double-Feoh is applying the same idea behind ᛣ to ᚠ
+- The sound closest to original ᚣ (/y(ː)/) in modern English is in the way some English accents pronounce the MOUTH lexical set. So this rune takes that lexical set.
+- ᛠ TODO
+- ᛟ TODO
+- ᛇ TODO
+- Old English didn't have a known sound for ᛉ despite keeping it in their Rune rows. Going back to the Elder Futhark (consideration #3), this had a /z/ sound
+- If we say that ᛡ went through metathesis and became /oj/, we can use this for the CHOICE, PRICE, and FACE lexical sets
+- ᚷ TODO
 
 Here is a list of [attested runic combinations](https://en.wikipedia.org/wiki/Anglo-Saxon_runes#Combinations_and_digraphs) and their sound in Modern English Futhorc. Note that not all sounds would even make sense for Modern English:
 
@@ -90,14 +106,6 @@ Here is a list of [attested runic combinations](https://en.wikipedia.org/wiki/An
 | ᚪᛁ        | /ɑi/      | <span style="color:orange"> ᚪᛡ  </span>      | 
 | ᚪᛡ        | /ɑj/?, /ɑx/? | <span style="color:green"> ᚪᛡ </span>| 
 
-One thing that really stands out from this is that ᛡ seems to be an excellent compromise to rune combinations that involve both ᚷ and ᛁ.
+One thing that really stands out from this is that ᛡ seems to be an excellent compromise to rune combinations that involve both ᚷ and ᛁ. 
 
-## Who is this for?
-
-If you speak English natively, but have never learned a language before, fear not! Writing English in runes is still English. This course doesn't require any linguistic knowledge. Any special terms that I use are explained.
-
-If you speak English and know some foreign languages, this course will give you the opportunity to look at English with new eyes. You will think about your native language in terms of phonemes (categories of sounds) rather than in terms of letters.
-
-If you do not speak English natively, but have learned it as a foreign language
-
-This course is for anyone that currently knows English.
+ᛁ + ᚷ = ᛡ 

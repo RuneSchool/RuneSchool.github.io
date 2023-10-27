@@ -78,7 +78,7 @@ If we accept the doubled consonants changing the vowel sound before it, then the
 To go over these quickly:
 
 - Double-Feoh is applying the same idea behind ᛣ to ᚠ
-- The sound closest to original ᚣ (/y(ː)/) in modern English is in the way some English accents pronounce the MOUTH lexical set. So this rune takes that lexical set.
+- ᚣ originally made a /y(ː)/ sound in Old English. This sound [only exists very rarely in the GOOSE lexical set](https://en.wikipedia.org/wiki/Close_front_rounded_vowel#Occurrence) for some accents. A similar sound (/ʉ/) [also appears in the MOUTH lexical set](https://ecampusontario.pressbooks.pub/lexicalsets/chapter/16-mouth-lexical-set/#altpron) for some accents. For this reason, this rune takes the MOUTH vowel.
 - ᛠ TODO
 - ᛟ originally made a /ø/ sound in Old English. The closest sound to this in Modern English is the way that [some English accents](https://en.wikipedia.org/wiki/Close-mid_front_rounded_vowel#Occurrence) pronounce the NURSE lexical set. So this run takes that lexical set.
 - ᛇ TODO

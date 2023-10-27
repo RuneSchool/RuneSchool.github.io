@@ -80,7 +80,7 @@ To go over these quickly:
 - Double-Feoh is applying the same idea behind ᛣ to ᚠ
 - The sound closest to original ᚣ (/y(ː)/) in modern English is in the way some English accents pronounce the MOUTH lexical set. So this rune takes that lexical set.
 - ᛠ TODO
-- ᛟ TODO
+- ᛟ originally made a /ø/ sound in Old English. The closest sound to this in Modern English is the way that [some English accents](https://en.wikipedia.org/wiki/Close-mid_front_rounded_vowel#Occurrence) pronounce the NURSE lexical set. So this run takes that lexical set.
 - ᛇ TODO
 - Old English didn't have a known sound for ᛉ despite keeping it in their Rune rows. Going back to the Elder Futhark (consideration #3), this had a /z/ sound
 - If we say that ᛡ went through metathesis and became /oj/, we can use this for the CHOICE, PRICE, and FACE lexical sets

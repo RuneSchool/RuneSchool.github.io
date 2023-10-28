@@ -1,12 +1,12 @@
 ---
 title: "About the system"
 layout: post
-date: 2023-10-17
+date: 2023-10-28
 tag:
-- spelling reform
+- phonology
 category: blog
 description: An unofficial attempt to explain the reasoning behind the choices made in Rune Revival's Modern English Futhorc system
-hidden: true
+hidden: false
 ---
 
 This article is my attempt at explaining the reasoning behind the choices made in [Rune Revival](https://www.youtube.com/@LearnRunes/)'s runic system taught in this course. It is unofficial and based on my own collection of information.
@@ -32,9 +32,9 @@ English runic spelling originally did not have doubled consonants. But then Lati
 
 The idea is that if Runes had remained in use, they would have borrowed this consonant doubling concept from Latin spelling convention. 
 
-The only other solution that alternative runic spelling systems have come up with for representing Modern English vowels is to use runes in ways that they were not intended to be used. Or to bring foreign runes into the Anglo Saxon futhorc.
+The only other solution that alternative runic spelling systems have come up with for representing Modern English vowels is to use runes in ways that break historical continuity, or to bring foreign runes (like from the Elder or Younger futhark) into the Anglo Saxon futhorc.
 
-The consonant doubling solution allows us to keep the original Anglo-Saxon futhorc while also acknowledging the natural development of English spelling through history.
+The consonant doubling solution allows us to keep the original Anglo-Saxon futhorc while also acknowledging the natural development of English phonology through history.
 
 ## The runes
 

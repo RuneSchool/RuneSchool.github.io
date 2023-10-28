@@ -35,7 +35,7 @@ The consonant doubling solution allows us to keep the original Anglo-Saxon futho
 
 Here is a list of runes so that you can see how this system has kept them the same or changed them. The text is green if it is the same, orange if it slightly different, and red if it is a fairly large difference.
 
-| Rune | Name | Elder Futhark IPA | Original English IPA | Modern English Futhorc pronunciation |
+| Rune | Name | Elder Futhark IPA | Old English IPA | Modern English Futhorc pronunciation |
 |------|------|-------------------|-----------------------|-------------------------------------|
 | ᚠ    | feoh | /f/               | /f~v/                   | <span style="color:green"> /f~v/ </span> |
 | ᚢ    | ūr  | /u(ː)/           | /u(ː)/                   | <span style="color:green"> GOOSE </span> |
@@ -52,7 +52,7 @@ Here is a list of runes so that you can see how this system has kept them the sa
 | ᛡ    | Īor |                   | /jo/                   | <span style="color:orange"> /oj/ (used as trailing /j/ sound in diphthongs) </span> |
 | ᛇ    | Ēoh / īw | /iː~ç/            | /iː~x~ç/               | <span style="color:orange"> /i.ɒ~iˈɑ~i.oʊ/ and /hj~x~ç/ </span> |
 | ᛈ    | peorð | /p/               | /p/                   | <span style="color:green"> /p/ </span> |
-| ᛉ    | ilcs (eolh?) | /z/               |                       | <span style="color:red"> /z/ </span> |
+| ᛉ    | ilcs (eolh?) | /z/               |    /ks/?                   | <span style="color:orange"> /z/ </span> |
 | ᛋ    | sigel | /s/               | /s~z/                   | <span style="color:green"> /s/  </span> |
 | ᛏ    | Tīw | /t/               | /t/                   | <span style="color:green"> /t/ </span> |
 | ᛒ    | beorc | /β/               | /b/                   | <span style="color:green"> /b/ </span> |
@@ -73,18 +73,18 @@ Here is a list of runes so that you can see how this system has kept them the sa
 | ᛤ    | Double-Calc |            | /k/                   | <span style="color:green"> /k/ </span> |
 | ![Catrinity font V](/assets/images/Catrinity-V.png) | Double-Feoh   |                   |                       | <span style="color:red"> /v/ </span> |
 
-If we accept the doubled consonants changing the vowel sound before it, then the only real changes to research the reasonableness of are Double-Feoh, ᚣ, ᛠ, ᛟ, ᛇ, ᛉ, ᛡ, and ᚷ.
+If we accept the doubled consonants system, then the only real changes to address are Double-Feoh, ᚣ, ᛠ, ᛟ, ᛇ, ᛉ, ᛡ, and ᚷ.
 
 To go over these quickly:
 
-- Double-Feoh is applying the same idea behind ᛣ to ᚠ
-- ᚣ originally made a /y(ː)/ sound in Old English. This sound [only exists very rarely in the GOOSE lexical set](https://en.wikipedia.org/wiki/Close_front_rounded_vowel#Occurrence) for some accents. A similar sound (/ʉ/) [also appears in the MOUTH lexical set](https://ecampusontario.pressbooks.pub/lexicalsets/chapter/16-mouth-lexical-set/#altpron) for some accents. For this reason, this rune takes the MOUTH vowel.
-- ᛠ TODO
-- ᛟ originally made a /ø/ sound in Old English. The closest sound to this in Modern English is the way that [some English accents](https://en.wikipedia.org/wiki/Close-mid_front_rounded_vowel#Occurrence) pronounce the NURSE lexical set. So this run takes that lexical set.
-- ᛇ TODO
-- Old English didn't have a known sound for ᛉ despite keeping it in their Rune rows. Going back to the Elder Futhark (consideration #3), this had a /z/ sound
-- If we say that ᛡ went through metathesis and became /oj/, we can use this for the CHOICE, PRICE, and FACE lexical sets
-- ᚷ TODO
+- **Double-Feoh** is applying the same idea behind ᛣ to ᚠ
+- **ᚣ** originally made a /y(ː)/ sound in Old English. This sound [only exists very rarely in the GOOSE lexical set](https://en.wikipedia.org/wiki/Close_front_rounded_vowel#Occurrence) for some accents today (a similar sound /ʉ/ [also appears in the MOUTH lexical set](https://ecampusontario.pressbooks.pub/lexicalsets/chapter/16-mouth-lexical-set/#altpron) for some accents). In Old English, you could hear /y:/ in the word [cow](https://en.wiktionary.org/wiki/cy#Pronunciation) which is part of the MOUTH lexical set today. The idea is that this sound evolved into the MOUTH set, and for this reason, ᚣ takes the MOUTH vowel.
+- **ᛠ** TODO
+- **ᛟ** originally made a /ø/ sound in Old English. The closest sound to this in Modern English is the way that [some English accents](https://en.wikipedia.org/wiki/Close-mid_front_rounded_vowel#Occurrence) pronounce the NURSE lexical set. So this rune takes that lexical set.
+- **ᛇ** TODO
+- Old English didn't have a known sound for **ᛉ** despite keeping it in their Rune rows. Some think that it made the sound of /ks/ like the latin "x", but it is unsure. Going back to the Elder Futhark (consideration #3), this had a /z/ sound, so we just keep that sound.
+- If we say that **ᛡ** went through [metathesis](https://en.wikipedia.org/wiki/Metathesis_(linguistics)) and became /oj/, we can use this for the CHOICE, PRICE, and FACE lexical sets
+- **ᚷ** TODO
 
 Here is a list of [attested runic combinations](https://en.wikipedia.org/wiki/Anglo-Saxon_runes#Combinations_and_digraphs) and their sound in Modern English Futhorc. Note that not all sounds would even make sense for Modern English:
 

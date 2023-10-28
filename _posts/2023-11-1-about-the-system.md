@@ -13,7 +13,9 @@ In learning this system, you will use only [Anglo-Saxon runes](https://en.wikipe
 1. The historical record of Anglo Saxon rune usage
 2. The era of latin letter usage in England that existed simultaneously with rune usage
 3. Rune usage from other areas that pre-dates the Anglo Saxon runes
-4. Modern latin letter usage
+4. Development from Old English to Modern English
+5. Logical appliciation of runic principles
+6. Desire to use all of the Anglo-Saxon runes
 
 The majority of rune usage in this system is taken from #1. We pick up today right where they left off. But in some cases, English today is different from English back then. In these situations, we need to make adjustments and take ideas from #2, #3, and #4.
 
@@ -43,7 +45,7 @@ Here is a list of runes so that you can see how this system has kept them the sa
 | ᚩ    | ōs  | /a(ː)/           | /o(ː)/                   | <span style="color:orange"> THOUGHT~LOT </span> |
 | ᚱ    | rād | /r/               | /r/                   | <span style="color:green"> /r/ </span> |
 | ᚳ    | cēn | /k/               | /k~c~tʃ/               | <span style="color:green"> /k~tʃ/ </span> |
-| ᚷ    | gyfu | /ɣ/               | /g~ɣ~ʎ~j/               | <span style="color:red"> /d͡ʒ/ </span> |
+| ᚷ    | gyfu | /ɣ/               | /g~ɣ~ʎ~j/               | <span style="color:red"> /dʒ/ </span> |
 | ᚹ    | wynn | /w/               | /w/                   | <span style="color:green"> /w/ </span> |
 | ᚻ    | hægl | /h/               | /h/                   | <span style="color:green"> /h/ </span> |
 | ᚾ    | nēod | /n/               | /n/                   | <span style="color:green"> /n/ </span> |
@@ -77,6 +79,19 @@ If we accept the doubled consonants system, then the only real changes to addres
 
 To go over these quickly:
 
+| Rune | Consideration | Reasoning |
+| --- | --- | --- |
+| Double-Feoh | 5 | **Double-Feoh** is applying the same idea behind ᛣ to ᚠ |
+| ᚣ | 4 | **ᚣ** originally made a /y(ː)/ sound in Old English. This sound [only exists very rarely in the GOOSE lexical set](https://en.wikipedia.org/wiki/Close_front_rounded_vowel#Occurrence) for some accents today (a similar sound /ʉ/ [also appears in the MOUTH lexical set](https://ecampusontario.pressbooks.pub/lexicalsets/chapter/16-mouth-lexical-set/#altpron) for some accents). In Old English, you could hear /y:/ in the word [cow](https://en.wiktionary.org/wiki/cy#Pronunciation) which is part of the MOUTH lexical set today. The idea is that this sound evolved into the MOUTH set, and for this reason, ᚣ takes the MOUTH vowel.|
+| ᛠ | TODO | TODO |
+| ᛟ | 4 | **ᛟ** originally made a /ø/ sound in Old English. The main occurence of this sound in Modern English is the way that [some English accents](https://en.wikipedia.org/wiki/Close-mid_front_rounded_vowel#Occurrence) pronounce the NURSE lexical set. Also considering then that [some accents pronounce NURSE with a schwa sound](https://ecampusontario.pressbooks.pub/lexicalsets/chapter/10-nurse-lexical-set/#altpron), this rune takes the NURSE and commA lexical sets.|
+| ᛇ | TODO | TODO |
+| ᛉ | 3 | Old English didn't have a known sound for **ᛉ** despite keeping it in their Rune rows. Some think that it made the sound of /ks/ like the latin "x", but it is unsure. Going back to the Elder Futhark, this had a /z/ sound, so we just keep that sound. |
+| ᛡ | 6 | If we say that **ᛡ** went through [metathesis](https://en.wikipedia.org/wiki/Metathesis_(linguistics)) and became /oj/, we can use this for the CHOICE, PRICE, and FACE lexical sets |
+| ᚷ | 4 | The original sound of **ᚷ** was /j/, but when French began to influence English after the Norman invasion (~1100), /j/ started to become /dʒ/ in English, [just like in French](https://en.wikipedia.org/wiki/Phonological_history_of_French#To_Early_Old_French[when?]) (Think of how the word Jehovah or Jesus changed in pronunciation over time). So also taking into account that ᛄ is already /j/, we can reduce historical ᚷᚷ to just ᚷ for /dʒ/. |
+
+
+
 - **Double-Feoh** is applying the same idea behind ᛣ to ᚠ
 - **ᚣ** originally made a /y(ː)/ sound in Old English. This sound [only exists very rarely in the GOOSE lexical set](https://en.wikipedia.org/wiki/Close_front_rounded_vowel#Occurrence) for some accents today (a similar sound /ʉ/ [also appears in the MOUTH lexical set](https://ecampusontario.pressbooks.pub/lexicalsets/chapter/16-mouth-lexical-set/#altpron) for some accents). In Old English, you could hear /y:/ in the word [cow](https://en.wiktionary.org/wiki/cy#Pronunciation) which is part of the MOUTH lexical set today. The idea is that this sound evolved into the MOUTH set, and for this reason, ᚣ takes the MOUTH vowel.
 - **ᛠ** TODO
@@ -84,7 +99,7 @@ To go over these quickly:
 - **ᛇ** TODO
 - Old English didn't have a known sound for **ᛉ** despite keeping it in their Rune rows. Some think that it made the sound of /ks/ like the latin "x", but it is unsure. Going back to the Elder Futhark (consideration #3), this had a /z/ sound, so we just keep that sound.
 - If we say that **ᛡ** went through [metathesis](https://en.wikipedia.org/wiki/Metathesis_(linguistics)) and became /oj/, we can use this for the CHOICE, PRICE, and FACE lexical sets
-- **ᚷ** TODO
+- The original sound of **ᚷ** was /j/, but when French began to influence English after the Norman invasion (~1100), /j/ started to become /dʒ/ in English, [just like in French](https://en.wikipedia.org/wiki/Phonological_history_of_French#To_Early_Old_French[when?]) (Think of how the word Jehovah or Jesus changed in pronunciation over time). So also taking into account that ᛄ is already /j/, we can reduce historical ᚷᚷ to just ᚷ for /dʒ/.
 
 Here is a list of [attested runic combinations](https://en.wikipedia.org/wiki/Anglo-Saxon_runes#Combinations_and_digraphs) and their sound in Modern English Futhorc. Note that not all sounds would even make sense for Modern English:
 

@@ -91,11 +91,10 @@ Now if we want to see just the individual frequency of runes, we need to split u
 | 0.59%  | ᚷ |
 | 0.50%  | ᚣ |
 
-ᛟ and ᛁ are the most common vowels in Modern English Futhorc by far. Of the three vowel sisters ᚫᚪᚩ, Ac ᚪ will be the most frequent. I think this is appropriate since it is in between the other two. It represents both Ash ᚫ and Os ᚩ in itself. So it's the perfect representative.
+ᛟ and ᛁ are the most common vowels in Modern English Futhorc by far. 
+
+Of the three vowel sisters ᚫᚪᚩ, Ac ᚪ will be the most frequent. I think this is appropriate since it is in between the other two. It represents both Ash ᚫ and Os ᚩ in itself. So it's the perfect representative. 
+
+Ac ᚪ is also the first rune in terms of frequency that is unique to just the Anglo-Saxon runes. So if you're trying to determine which language is being written with some runes, you will likely notice ᚪ and know that it is English. ᛡ and ᛣ will be the next clues that you're reading English.
 
 If you don't use "double feoh" for the /v/ sound, then ᚠ will be 3.72% right after Lagu ᛚ. If you do, then "double feoh" will be 2.01% and Feoh will be 1.71%.
-
-
-
-
-

@@ -11,12 +11,15 @@ hidden: true
 ---
 
 <style>
-h1, h3, p {
+h2, h3, p {
     font-family:BabelStoneRunic;
+}
+p {
+    font-size:16px;
 }
 </style>
 
-# ᛋᛏᚩᛈᛈᛁᛝ᛫​ᛒᚪᛡ᛫​ᚹᚢᛞᛞᛉ᛫​ᚩᚾᚾ᛫​ᛟ᛫​ᛋᚾᚩᚢᛁ᛫​ᛁᚠᚾᛁᛝ
+## ᛋᛏᚩᛈᛈᛁᛝ᛫​ᛒᚪᛡ᛫​ᚹᚢᛞᛞᛉ᛫​ᚩᚾᚾ᛫​ᛟ᛫​ᛋᚾᚩᚢᛁ᛫​ᛁᚠᚾᛁᛝ
 ### ᛒᚪᛡ᛫​ᚱᚩᛒᛒᛟᚱᛏ᛫​ᚠᚱᚩᛥ
 
 Whose woods these are I think I know.   

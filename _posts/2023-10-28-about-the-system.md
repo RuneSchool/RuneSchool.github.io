@@ -114,3 +114,41 @@ Here is a list of [attested runic combinations](https://en.wikipedia.org/wiki/An
 One thing that really stands out from this is that ᛡ seems to be an excellent compromise to rune combinations that involve both ᚷ and ᛁ. 
 
 ᛁ + ᚷ = ᛡ 
+
+
+<hr>
+
+## Bindrunes
+
+There are 33 regular base runes:
+
+ᚠᚢᚦᚩᚱᚳᚷᚹᚻᚾᛁᛄᛇᛈᛉᛋᛏᛒᛖᛗᛚᛝᛟᛞᚪᚫᛠᚣᛣᚸᛢᛥᛡ
+
+There are 16 consonants that could productively be doubled (useful after ["checked" vowels](https://en.wikipedia.org/wiki/Checked_and_free_vowels)):
+
+ᛈᛒᛏᛞᛣᚸᚳᚷᛗᚾᚦᚠᛋᛉᛚᚱ
+
+And there are 7 potential vowel bindrunes:
+
+ᚪᛡ᛫​ᚩᛡ᛫​ᛖᛡ᛫​ᚩᚢ᛫​ᚪᚱ᛫​ᚩᚱ᛫​ᛖᚱ
+
+This brings us to a total of **56** runes that a reader would want to be able to recognize on a given basis:
+
+<pre style="font-size:16px;font-family:BabelStoneRunic;">
+ᚠᚢᚦᚩᚱᚳᚷᚹᚻᚾᛁᛄᛇᛈᛉᛋᛏᛒᛖᛗᛚᛝᛟᛞᚪᚫᛠᚣᛣᚸᛢᛥᛡ᛫​᛫​ᚪ‍ᛡᚩ‍ᛡ​ᛖ‍ᛡᚩ‍ᚢ​ᚪ‍ᚱ​ᚩ‍ᚱᛖ‍ᚱ᛫​᛫​​ᛤᛈ‍ᛈᛒ‍ᛒᛏ‍ᛏᛞ‍ᛞᚸ‍ᚸᚳ‍ᚳᚷ‍ᚷᛗ‍ᛗᚾ‍ᚾᚦ‍ᚦᚠ‍ᚠᛋ‍ᛋᛉ‍ᛉᛚ‍ᛚᚱ‍ᚱ
+</pre>
+
+Many of those bindrunes are so clearly just 1+1 that they don't constitute a truly "new" rune. However, I want to be fair and consider them a separate rune in this case.
+
+Now if we have a barebones minimal runic alphabet with as few bindrunes as possible, I think that we would be perfectly fine with around only **35** runes.
+
+<pre style="font-size:16px;font-family:BabelStoneRunic;">
+ᚠᚢᚦᚩᚱᚳᚷᚹᚻᚾᛁᛄᛇᛈᛉᛋᛏᛒᛖᛗᛚᛝᛟᛞᚪᚫᛠᚣᛣᚸᛢᛥᛡ᛫​᛫​ᚠ‍ᚠᛋ‍ᛋ
+</pre>
+
+Why add the ᛋ double in this minimal runic alphabet? Mainly becuase it is useful in showing clear spellings for words like "mischief".
+
+<pre style="font-size:16px;font-family:BabelStoneRunic;">
+ᛗᛁᛋᛋᚳᛁᚠᚠ 👈 using no bindrunes
+ᛗᛁᛋ‍ᛋᚳᛁᚠᚠ 👈 using bindrunes
+</pre>

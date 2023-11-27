@@ -137,15 +137,21 @@ This brings us to a total of **56** runes that a reader would want to be able to
 
 Many of those bindrunes are so clearly just 1+1 that they don't constitute a truly "new" rune. However, I want to be fair and consider them a separate rune in this case.
 
-Now if we have a barebones minimal runic alphabet with as few bindrunes as possible, I think that we would be perfectly fine with around only **35** runes.
+## Minimal Runic Alphabet
+
+What is the least amount of runes that we can use and still make Modern English Futhorc work? We can get rid of most bindrunes and everything can still be understood. We can also get rid of some of the runes that are just shortcuts.
+
+With only **33** runes, Modern English Futhorc is still fully usable.
 
 <pre style="font-size:16px;font-family:BabelStoneRunic;">
-ᚠᚢᚦᚩᚱᚳᚷᚹᚻᚾᛁᛄᛇᛈᛉᛋᛏᛒᛖᛗᛚᛝᛟᛞᚪᚫᛠᚣᛣᚸᛢᛥᛡ᛫​᛫​ᚠ‍ᚠᛋ‍ᛋ
+ᚠᚢᚦᚩᚱᚳᚷᚹᚻᚾᛁᛄᛇᛈᛉᛋᛏᛒᛖᛗᛚᛝᛟᛞᚪᚫᛠᚣᛣᚸᛡᚠ‍ᚠᛋ‍ᛋ
 </pre>
 
-Why add the ᛋ double in this minimal runic alphabet? Mainly becuase it is useful in showing clear spellings for words like "mischief".
+Why add the double ᛋ in this minimal runic alphabet? Mainly becuase it is useful in showing clear spellings for words like "mischief".
 
 <pre style="font-size:16px;font-family:BabelStoneRunic;">
 ᛗᛁᛋᛋᚳᛁᚠᚠ 👈 using no bindrunes
 ᛗᛁᛋ‍ᛋᚳᛁᚠᚠ 👈 using bindrunes
 </pre>
+
+The Latin English alphabet is 26 letters. 33 is only 7 more than that. And what do we get for it? An alphabet that is native to the English language, able to account for a multitude of accents across the world, and eminently more understandable than Latin spelling.

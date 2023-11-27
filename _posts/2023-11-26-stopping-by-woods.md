@@ -1,27 +1,29 @@
 ---
-title: "Poetry"
+title: "Stopping by Woods on a Snowy Evening"
+subtitle: "by Robert Frost"
 layout: post
 date: 2023-11-26
 tag:
 - poetry
 category: blog
-description: "A guide for how to write English with Anglo-Saxon runes in the most International way, creating a kind of mid-atlantic accent in writing."
+description: "Stopping by Woods on a Snowy Evening by Robert Frost in Modern English Futhorc"
 hidden: true
 ---
 
-Stopping by Woods on a Snowy Evening
+# Stopping by Woods on a Snowy Evening 
+### by Robert Frost
 
 Whose woods these are I think I know.   
 His house is in the village though;   
 He will not see me stopping here   
 To watch his woods fill up with snow.   
 
-<p><div style="font-size:15.5px;font-family:BabelStoneRunic;">
+<p><span style="font-size:15px;font-family:BabelStoneRunic;">
 ᚻ‍ᚹᚢᛉ᛫​ᚹᚢᛞ‍ᛞᛉ᛫​ᚦᛁᛉ᛫​ᚪ‍ᚱ᛫​ᚪ‍ᛡ᛫​ᚦᛁᛝᛣ᛫​ᚪ‍ᛡ᛫​ᚾᚩ‍ᚢ᛫​᛬​<br>
 ᚻᛁᛉ‍ᛉ᛫​ᚻᚣᛋ᛫​ᛁᛉ‍ᛉ᛫​ᛁᚾ‍ᚾ᛫​ᚦᛟ᛫​ᚠ‍ᚠᛁᛚ‍ᛚᛟᚷ᛫​ᚦᚩ‍ᚢ᛫​᛫​<br>
 ᚻᛁ᛫​ᚹᛁᛚ‍ᛚ᛫​ᚾᚩᛏ‍ᛏ᛫​ᛋᛁ᛫​ᛗᛁ᛫​ᛥᚩᛈ‍ᛈᛁᛝ᛫​ᚻᛠᚱ<br>
 ᛏᚢ᛫​ᚹᚩᚳ‍ᚳ᛫​ᚻᛁᛉ‍ᛉ᛫​ᚹᚢᛞ‍ᛞᛉ᛫​ᚠᛁᛚ‍ᛚ᛫​ᚪᛈ‍ᛈ᛫​ᚹᛁᚦ‍ᚦ᛫​ᛋᚾᚩ‍ᚢ᛫​᛬
-</div></p>
+</span></p>
 
 <p>
 ᚻ‍ᚹᚢᛉ᛫​ᚹᚢᛞ‍ᛞᛉ᛫​ᚦᛁᛉ᛫​ᚪ‍ᚱ᛫​ᚪ‍ᛡ᛫​ᚦᛁᛝᛣ᛫​ᚪ‍ᛡ᛫​ᚾᚩ‍ᚢ᛫​᛬<br>

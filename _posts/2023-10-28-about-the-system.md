@@ -115,9 +115,6 @@ One thing that really stands out from this is that ᛡ seems to be an excellent 
 
 ᛁ + ᚷ = ᛡ 
 
-
-<hr>
-
 ## Bindrunes
 
 There are 33 regular base runes:

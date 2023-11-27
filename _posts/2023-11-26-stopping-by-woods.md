@@ -1,6 +1,6 @@
 ---
 title: "Stopping by Woods on a Snowy Evening"
-subtitle: "by Robert Frost"
+subtitle: "by Robert
 layout: post
 date: 2023-11-26
 tag:
@@ -18,17 +18,19 @@ His house is in the village though;
 He will not see me stopping here   
 To watch his woods fill up with snow.   
 
-<p style="font-size:15px;font-family:BabelStoneRunic;">ᚻ‍ᚹᚢᛉ᛫​ᚹᚢᛞ‍ᛞᛉ᛫​ᚦᛁᛉ᛫​ᚪ‍ᚱ᛫​ᚪ‍ᛡ᛫​ᚦᛁᛝᛣ᛫​ᚪ‍ᛡ᛫​ᚾᚩ‍ᚢ᛫​᛬​</p>
-<p style="font-size:15px;font-family:BabelStoneRunic;">ᚻᛁᛉ‍ᛉ᛫​ᚻᚣᛋ᛫​ᛁᛉ‍ᛉ᛫​ᛁᚾ‍ᚾ᛫​ᚦᛟ᛫​ᚠ‍ᚠᛁᛚ‍ᛚᛟᚷ᛫​ᚦᚩ‍ᚢ᛫​᛫</p>
-<p style="font-size:15px;font-family:BabelStoneRunic;">ᚻᛁ᛫​ᚹᛁᛚ‍ᛚ᛫​ᚾᚩᛏ‍ᛏ᛫​ᛋᛁ᛫​ᛗᛁ᛫​ᛥᚩᛈ‍ᛈᛁᛝ᛫​ᚻᛠᚱ</p>
-<p style="font-size:15px;font-family:BabelStoneRunic;">ᛏᚢ᛫​ᚹᚩᚳ‍ᚳ᛫​ᚻᛁᛉ‍ᛉ᛫​ᚹᚢᛞ‍ᛞᛉ᛫​ᚠᛁᛚ‍ᛚ᛫​ᚪᛈ‍ᛈ᛫​ᚹᛁᚦ‍ᚦ᛫​ᛋᚾᚩ‍ᚢ᛫​᛬</p>
+<div style="font-size:15px;font-family:BabelStoneRunic;">
+ᚻ‍ᚹᚢᛉ᛫​ᚹᚢᛞ‍ᛞᛉ᛫​ᚦᛁᛉ᛫​ᚪ‍ᚱ᛫​ᚪ‍ᛡ᛫​ᚦᛁᛝᛣ᛫​ᚪ‍ᛡ᛫​ᚾᚩ‍ᚢ᛫​᛬​<br>
+ᚻᛁᛉ‍ᛉ᛫​ᚻᚣᛋ᛫​ᛁᛉ‍ᛉ᛫​ᛁᚾ‍ᚾ᛫​ᚦᛟ᛫​ᚠ‍ᚠᛁᛚ‍ᛚᛟᚷ᛫​ᚦᚩ‍ᚢ᛫​᛫​<br>
+ᚻᛁ᛫​ᚹᛁᛚ‍ᛚ᛫​ᚾᚩᛏ‍ᛏ᛫​ᛋᛁ᛫​ᛗᛁ᛫​ᛥᚩᛈ‍ᛈᛁᛝ᛫​ᚻᛠᚱ<br>
+ᛏᚢ᛫​ᚹᚩᚳ‍ᚳ᛫​ᚻᛁᛉ‍ᛉ᛫​ᚹᚢᛞ‍ᛞᛉ᛫​ᚠᛁᛚ‍ᛚ᛫​ᚪᛈ‍ᛈ᛫​ᚹᛁᚦ‍ᚦ᛫​ᛋᚾᚩ‍ᚢ᛫​᛬
+</div>
 
-<p>
+<div style="font-family:NotoSansRunic-Regular;">
 ᚻ‍ᚹᚢᛉ᛫​ᚹᚢᛞ‍ᛞᛉ᛫​ᚦᛁᛉ᛫​ᚪ‍ᚱ᛫​ᚪ‍ᛡ᛫​ᚦᛁᛝᛣ᛫​ᚪ‍ᛡ᛫​ᚾᚩ‍ᚢ᛫​᛬<br>
 ᚻᛁᛉ‍ᛉ᛫​ᚻᚣᛋ᛫​ᛁᛉ‍ᛉ᛫​ᛁᚾ‍ᚾ᛫​ᚦᛟ᛫​ᚠ‍ᚠᛁᛚ‍ᛚᛟᚷ᛫​ᚦᚩ‍ᚢ᛫​᛫<br>
 ᚻᛁ᛫​ᚹᛁᛚ‍ᛚ᛫​ᚾᚩᛏ‍ᛏ᛫​ᛋᛁ᛫​ᛗᛁ᛫​ᛥᚩᛈ‍ᛈᛁᛝ᛫​ᚻᛠᚱ<br>
 ᛏᚢ᛫​ᚹᚩᚳ‍ᚳ᛫​ᚻᛁᛉ‍ᛉ᛫​ᚹᚢᛞ‍ᛞᛉ᛫​ᚠᛁᛚ‍ᛚ᛫​ᚪᛈ‍ᛈ᛫​ᚹᛁᚦ‍ᚦ᛫​ᛋᚾᚩ‍ᚢ᛫​᛬
-</p>
+</div>
 
 My little horse must think it queer   
 To stop without a farmhouse near   

@@ -18,12 +18,10 @@ His house is in the village though;
 He will not see me stopping here   
 To watch his woods fill up with snow.   
 
-<p><span style="font-size:15px;font-family:BabelStoneRunic;">
-ᚻ‍ᚹᚢᛉ᛫​ᚹᚢᛞ‍ᛞᛉ᛫​ᚦᛁᛉ᛫​ᚪ‍ᚱ᛫​ᚪ‍ᛡ᛫​ᚦᛁᛝᛣ᛫​ᚪ‍ᛡ᛫​ᚾᚩ‍ᚢ᛫​᛬​<br>
-ᚻᛁᛉ‍ᛉ᛫​ᚻᚣᛋ᛫​ᛁᛉ‍ᛉ᛫​ᛁᚾ‍ᚾ᛫​ᚦᛟ᛫​ᚠ‍ᚠᛁᛚ‍ᛚᛟᚷ᛫​ᚦᚩ‍ᚢ᛫​᛫​<br>
-ᚻᛁ᛫​ᚹᛁᛚ‍ᛚ᛫​ᚾᚩᛏ‍ᛏ᛫​ᛋᛁ᛫​ᛗᛁ᛫​ᛥᚩᛈ‍ᛈᛁᛝ᛫​ᚻᛠᚱ<br>
-ᛏᚢ᛫​ᚹᚩᚳ‍ᚳ᛫​ᚻᛁᛉ‍ᛉ᛫​ᚹᚢᛞ‍ᛞᛉ᛫​ᚠᛁᛚ‍ᛚ᛫​ᚪᛈ‍ᛈ᛫​ᚹᛁᚦ‍ᚦ᛫​ᛋᚾᚩ‍ᚢ᛫​᛬
-</span></p>
+<p style="font-size:15px;font-family:BabelStoneRunic;">ᚻ‍ᚹᚢᛉ᛫​ᚹᚢᛞ‍ᛞᛉ᛫​ᚦᛁᛉ᛫​ᚪ‍ᚱ᛫​ᚪ‍ᛡ᛫​ᚦᛁᛝᛣ᛫​ᚪ‍ᛡ᛫​ᚾᚩ‍ᚢ᛫​᛬​</p>
+<p style="font-size:15px;font-family:BabelStoneRunic;">ᚻᛁᛉ‍ᛉ᛫​ᚻᚣᛋ᛫​ᛁᛉ‍ᛉ᛫​ᛁᚾ‍ᚾ᛫​ᚦᛟ᛫​ᚠ‍ᚠᛁᛚ‍ᛚᛟᚷ᛫​ᚦᚩ‍ᚢ᛫​᛫</p>
+<p style="font-size:15px;font-family:BabelStoneRunic;">ᚻᛁ᛫​ᚹᛁᛚ‍ᛚ᛫​ᚾᚩᛏ‍ᛏ᛫​ᛋᛁ᛫​ᛗᛁ᛫​ᛥᚩᛈ‍ᛈᛁᛝ᛫​ᚻᛠᚱ</p>
+<p style="font-size:15px;font-family:BabelStoneRunic;">ᛏᚢ᛫​ᚹᚩᚳ‍ᚳ᛫​ᚻᛁᛉ‍ᛉ᛫​ᚹᚢᛞ‍ᛞᛉ᛫​ᚠᛁᛚ‍ᛚ᛫​ᚪᛈ‍ᛈ᛫​ᚹᛁᚦ‍ᚦ᛫​ᛋᚾᚩ‍ᚢ᛫​᛬</p>
 
 <p>
 ᚻ‍ᚹᚢᛉ᛫​ᚹᚢᛞ‍ᛞᛉ᛫​ᚦᛁᛉ᛫​ᚪ‍ᚱ᛫​ᚪ‍ᛡ᛫​ᚦᛁᛝᛣ᛫​ᚪ‍ᛡ᛫​ᚾᚩ‍ᚢ᛫​᛬<br>

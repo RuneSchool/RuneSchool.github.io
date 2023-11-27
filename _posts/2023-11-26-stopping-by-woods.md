@@ -1,6 +1,6 @@
 ---
 title: "Stopping by Woods on a Snowy Evening"
-subtitle: "by Robert
+subtitle: "by Robert Frost"
 layout: post
 date: 2023-11-26
 tag:
@@ -10,8 +10,8 @@ description: "Stopping by Woods on a Snowy Evening by Robert Frost in Modern Eng
 hidden: true
 ---
 
-# Stopping by Woods on a Snowy Evening 
-### by Robert Frost
+# ᛋᛏᚩᛈᛈᛁᛝ᛫​ᛒᚪᛡ᛫​ᚹᚢᛞᛞᛉ᛫​ᚩᚾᚾ᛫​ᛟ᛫​ᛋᚾᚩᚢᛁ᛫​ᛁᚠᚾᛁᛝ
+### ᛒᚪᛡ᛫​ᚱᚩᛒᛒᛟᚱᛏ᛫​ᚠᚱᚩᛥ
 
 Whose woods these are I think I know.   
 His house is in the village though;   

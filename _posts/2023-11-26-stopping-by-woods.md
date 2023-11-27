@@ -7,7 +7,7 @@ tag:
 - poetry
 category: blog
 description: "Stopping by Woods on a Snowy Evening by Robert Frost in Modern English Futhorc"
-hidden: true
+hidden: false
 ---
 
 <h2 lang="en-Runr" style="font-family:BabelStoneRunic;">ᛋᛏᚩᛈᛈᛁᛝ᛫​ᛒᚪ‍ᛡ᛫​ᚹᚢᛞ‍ᛞᛉ᛫​ᚩᚾ‍ᚾ᛫​ᛟ᛫​ᛋᚾᚩ‍ᚢᛁ᛫​ᛁᚠ‍ᚠᚾᛁᛝ</h2>

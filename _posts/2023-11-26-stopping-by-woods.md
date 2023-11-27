@@ -10,19 +10,24 @@ description: "Stopping by Woods on a Snowy Evening by Robert Frost in Modern Eng
 hidden: true
 ---
 
-<h2 style="font-size:16px;font-family:BabelStoneRunic;">ᛋᛏᚩᛈᛈᛁᛝ᛫​ᛒᚪᛡ᛫​ᚹᚢᛞ‍ᛞᛉ᛫​ᚩᚾᚾ᛫​ᛟ᛫​ᛋᚾᚩ‍ᚢᛁ᛫​ᛁᚠ‍ᚠᚾᛁᛝ</h2>
+<h2 lang="en-Runr" style="font-family:BabelStoneRunic;">ᛋᛏᚩᛈᛈᛁᛝ᛫​ᛒᚪᛡ᛫​ᚹᚢᛞ‍ᛞᛉ᛫​ᚩᚾᚾ᛫​ᛟ᛫​ᛋᚾᚩ‍ᚢᛁ᛫​ᛁᚠ‍ᚠᚾᛁᛝ</h2>
 
-### ᛒᚪᛡ᛫​ᚱᚩᛒᛒᛟᚱᛏ᛫​ᚠᚱᚩᛥ
+<h3 lang="en-Runr" style="font-family:BabelStoneRunic;">ᛒᚪᛡ᛫​ᚱᚩᛒᛒᛟᚱᛏ᛫​ᚠᚱᚩᛥ</h3>
 
 Whose woods these are I think I know.   
 His house is in the village though;   
 He will not see me stopping here   
 To watch his woods fill up with snow.   
 
+<p lang="en-Runr" style="font-family:BabelStoneRunic;">
 ᚻ‍ᚹᚢᛉ᛫​ᚹᚢᛞ‍ᛞᛉ᛫​ᚦᛁᛉ᛫​ᚪ‍ᚱ᛫​ᚪ‍ᛡ᛫​ᚦᛁᛝᛣ᛫​ᚪ‍ᛡ᛫​ᚾᚩ‍ᚢ᛫​᛬   
+<br>
 ᚻᛁᛉ‍ᛉ᛫​ᚻᚣᛋ᛫​ᛁᛉ‍ᛉ᛫​ᛁᚾ‍ᚾ᛫​ᚦᛟ᛫​ᚠ‍ᚠᛁᛚ‍ᛚᛟᚷ᛫​ᚦᚩ‍ᚢ᛫​᛫   
+<br>
 ᚻᛁ᛫​ᚹᛁᛚ‍ᛚ᛫​ᚾᚩᛏ‍ᛏ᛫​ᛋᛁ᛫​ᛗᛁ᛫​ᛥᚩᛈ‍ᛈᛁᛝ᛫​ᚻᛠᚱ   
+<br>
 ᛏᚢ᛫​ᚹᚩᚳ‍ᚳ᛫​ᚻᛁᛉ‍ᛉ᛫​ᚹᚢᛞ‍ᛞᛉ᛫​ᚠᛁᛚ‍ᛚ᛫​ᚪᛈ‍ᛈ᛫​ᚹᛁᚦ‍ᚦ᛫​ᛋᚾᚩ‍ᚢ᛫​᛬   
+</p>
 
 My little horse must think it queer   
 To stop without a farmhouse near   

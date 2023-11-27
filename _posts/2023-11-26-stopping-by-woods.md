@@ -14,12 +14,7 @@ hidden: true
 
 <h4 lang="en-Runr" style="font-family:BabelStoneRunic;">ᛒᚪᛡ᛫​ᚱᚩᛒᛒᛟᚱᛏ᛫​ᚠᚱᚩᛥ</h4>
 
-Whose woods these are I think I know.   
-His house is in the village though;   
-He will not see me stopping here   
-To watch his woods fill up with snow.   
-
-<div lang="en-Runr" style="line-height:35px;font-size:15;font-family:BabelStoneRunic;">
+<div lang="en-Runr" style="line-height:35px;font-size:14;font-family:BabelStoneRunic;">
 ᚻ‍ᚹᚢᛉ᛫​ᚹᚢᛞ‍ᛞᛉ᛫​ᚦᛁᛉ᛫​ᚪ‍ᚱ᛫​ᚪ‍ᛡ᛫​ᚦᛁᛝᛣ᛫​ᚪ‍ᛡ᛫​ᚾᚩ‍ᚢ᛫​᛬   
 <br>
 ᚻᛁᛉ‍ᛉ᛫​ᚻᚣᛋ᛫​ᛁᛉ‍ᛉ᛫​ᛁᚾ‍ᚾ᛫​ᚦᛟ᛫​ᚠ‍ᚠᛁᛚ‍ᛚᛟᚷ᛫​ᚦᚩ‍ᚢ᛫​᛫   
@@ -34,9 +29,36 @@ To watch his woods fill up with snow.
 <br>
 ᛒᛁᛏᚹᛁᚾ᛫​ᚦᛟ᛫​ᚹᚢᛞ‍ᛞᛉ᛫​ᚫᚾᛞ᛫​ᚠᚱᚩ‍ᚢᛉᚾ᛫​ᛚᛖ‍ᛡᛣ   
 <br>
-ᚦᛟ᛫​ᛞᚪ‍ᚱᛣᛟᛋᛏ᛫​ᛁᚠ‍ᚠᚾᛁᛝ᛫​ᛟᚠ‍ᚠ᛫​ᚦᛟ᛫​ᛄᛠᚱ᛫​᛬​   
+ᚦᛟ᛫​ᛞᚪ‍ᚱᛣᛟᛋᛏ᛫​ᛁᚠ‍ᚠᚾᛁᛝ᛫ᛟᚠ‍ᚠ᛫​ᚦᛟ᛫​ᛄᛠᚱ᛫​᛬​   
 <hr>
+ᚻᛁ᛫​ᚸᛁᚠ‍ᚠᛉ᛫​ᚻᛁᛉ‍ᛉ᛫​ᚻᚪ‍ᚱᚾᛟᛋ᛫​ᛒᛖᛚᛉ᛫​ᛟ᛫​ᛋᚳᛖ‍ᛡᛣ
+<br>
+ᛏᚢ᛫​ᚫᛋᛣ᛫​ᛁᚠᚠ᛫​ᚦᛖ‍ᚱ᛫​ᛁᛉ‍ᛉ᛫​ᛋᚪᛗ‍ᛗ᛫​ᛗᛁᛋ‍ᛋᛏᛖ‍ᛡᛣ᛫​᛬​
+<br>
+ᚦᛁ᛫​ᚩ‍ᚢᚾᛚᛁ᛫​ᚪᚦᚦᛟᚱ᛫​ᛋᚣᚾᛞᛉ᛫​ᚦᛟ᛫​ᛋᚹᛁᛈ
+<br>
+ᛟᚠ‍ᚠ᛫​ᛁᛉᛁ᛫​ᚹᛁᚾ‍ᚾᛞ᛫​ᚫᚾᛞ᛫​ᛞᚣᚾᛁ᛫​ᚠᛚᛖ‍ᛡᛣ᛫​᛬​
+<hr>
+ᚦᛟ᛫​ᚹᚢᛞ‍ᛞᛉ᛫​ᚪ‍ᚱ᛫​ᛚᚪᚠ‍ᚠᛚᛁ᛫​᛫​ᛞᚪ‍ᚱᛣ᛫​ᚫᚾᛞ᛫​ᛞᛁᛈ᛫​᛫​
+<br>
+ᛒᚪᛏ‍ᛏ᛫​ᚪ‍ᛡ᛫​ᚻᚫᚠ‍ᚠ᛫​ᛈᚱᚩᛗ‍ᛗᛁᛋ‍ᛋᛉ᛫​ᛏᚢ᛫​ᛣᛁᛈ᛫​᛫​
+<br>
+ᚫᚾᛞ᛫​ᛗᚪ‍ᛡᛚᛉ᛫​ᛏᚢ᛫​ᚸᚩ‍ᚢ᛫​ᛒᛁᚠᚩ‍ᚱ᛫​ᚪ‍ᛡ᛫​ᛋᛚᛁᛈ᛫​᛫​
+<br>
+ᚫᚾᛞ᛫​ᛗᚪ‍ᛡᛚᛉ᛫​ᛏᚢ᛫​ᚸᚩ‍ᚢ᛫​ᛒᛁᚠᚩ‍ᚱ᛫​ᚪ‍ᛡ᛫​ᛋᛚᛁᛈ᛫​᛬​
 </div>
+
+<hr><hr>
+
+<h2 lang="en-Latn">Stopping by Woods on a Snowy Evening</h2>
+
+<h4 lang="en-Latn">by Robert Frost</h4>
+
+<div lang="en-Latn">
+Whose woods these are I think I know.   
+His house is in the village though;   
+He will not see me stopping here   
+To watch his woods fill up with snow. 
 
 My little horse must think it queer   
 To stop without a farmhouse near   
@@ -52,3 +74,4 @@ The woods are lovely, dark and deep,
 But I have promises to keep,   
 And miles to go before I sleep,   
 And miles to go before I sleep.
+</div>

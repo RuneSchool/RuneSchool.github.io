@@ -19,7 +19,7 @@ His house is in the village though;
 He will not see me stopping here   
 To watch his woods fill up with snow.   
 
-<p lang="en-Runr" style="font-family:BabelStoneRunic;">
+<div lang="en-Runr" style="font-size:16;font-family:BabelStoneRunic;">
 ᚻ‍ᚹᚢᛉ᛫​ᚹᚢᛞ‍ᛞᛉ᛫​ᚦᛁᛉ᛫​ᚪ‍ᚱ᛫​ᚪ‍ᛡ᛫​ᚦᛁᛝᛣ᛫​ᚪ‍ᛡ᛫​ᚾᚩ‍ᚢ᛫​᛬   
 <br>
 ᚻᛁᛉ‍ᛉ᛫​ᚻᚣᛋ᛫​ᛁᛉ‍ᛉ᛫​ᛁᚾ‍ᚾ᛫​ᚦᛟ᛫​ᚠ‍ᚠᛁᛚ‍ᛚᛟᚷ᛫​ᚦᚩ‍ᚢ᛫​᛫   
@@ -27,7 +27,7 @@ To watch his woods fill up with snow.
 ᚻᛁ᛫​ᚹᛁᛚ‍ᛚ᛫​ᚾᚩᛏ‍ᛏ᛫​ᛋᛁ᛫​ᛗᛁ᛫​ᛥᚩᛈ‍ᛈᛁᛝ᛫​ᚻᛠᚱ   
 <br>
 ᛏᚢ᛫​ᚹᚩᚳ‍ᚳ᛫​ᚻᛁᛉ‍ᛉ᛫​ᚹᚢᛞ‍ᛞᛉ᛫​ᚠᛁᛚ‍ᛚ᛫​ᚪᛈ‍ᛈ᛫​ᚹᛁᚦ‍ᚦ᛫​ᛋᚾᚩ‍ᚢ᛫​᛬   
-</p>
+</div>
 
 My little horse must think it queer   
 To stop without a farmhouse near   

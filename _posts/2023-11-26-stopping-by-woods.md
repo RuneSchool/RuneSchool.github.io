@@ -10,9 +10,9 @@ description: "Stopping by Woods on a Snowy Evening by Robert Frost in Modern Eng
 hidden: true
 ---
 
-<h2 lang="en-Runr" style="font-family:BabelStoneRunic;">ᛋᛏᚩᛈᛈᛁᛝ᛫​ᛒᚪᛡ᛫​ᚹᚢᛞ‍ᛞᛉ᛫​ᚩᚾᚾ᛫​ᛟ᛫​ᛋᚾᚩ‍ᚢᛁ᛫​ᛁᚠ‍ᚠᚾᛁᛝ</h2>
+<h2 lang="en-Runr" style="font-family:BabelStoneRunic;">ᛋᛏᚩᛈᛈᛁᛝ᛫​ᛒᚪ‍ᛡ᛫​ᚹᚢᛞ‍ᛞᛉ᛫​ᚩᚾ‍ᚾ᛫​ᛟ᛫​ᛋᚾᚩ‍ᚢᛁ᛫​ᛁᚠ‍ᚠᚾᛁᛝ</h2>
 
-<h4 lang="en-Runr" style="font-family:BabelStoneRunic;">ᛒᚪᛡ᛫​ᚱᚩᛒᛒᛟᚱᛏ᛫​ᚠᚱᚩᛥ</h4>
+<h4 lang="en-Runr" style="font-family:BabelStoneRunic;">ᛒᚪ‍ᛡ᛫​ᚱᚩᛒ‍ᛒᛟᚱᛏ᛫​ᚠᚱᚩᛥ</h4>
 
 <div lang="en-Runr" style="line-height:35px;font-size:14px;font-family:BabelStoneRunic;">
 ᚻ‍ᚹᚢᛉ᛫​ᚹᚢᛞ‍ᛞᛉ᛫​ᚦᛁᛉ᛫​ᚪ‍ᚱ᛫​ᚪ‍ᛡ᛫​ᚦᛁᛝᛣ᛫​ᚪ‍ᛡ᛫​ᚾᚩ‍ᚢ᛫​᛬   
@@ -54,7 +54,7 @@ hidden: true
 
 <h4 lang="en-Latn">by Robert Frost</h4>
 
-<div lang="en-Latn">
+<div lang="en-Latn" style="line-height:35px;">
 Whose woods these are I think I know.  <br> 
 His house is in the village though;   <br>
 He will not see me stopping here   <br>

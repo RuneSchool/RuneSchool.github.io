@@ -121,7 +121,7 @@ There are 33 regular base runes:
 
 ᚠᚢᚦᚩᚱᚳᚷᚹᚻᚾᛁᛄᛇᛈᛉᛋᛏᛒᛖᛗᛚᛝᛟᛞᚪᚫᛠᚣᛣᚸᛢᛥᛡ
 
-There are 16 consonants that could productively be doubled (useful after ["checked" vowels](https://en.wikipedia.org/wiki/Checked_and_free_vowels)):
+There are 16 consonants in English that could productively be doubled (useful after ["checked" vowels](https://en.wikipedia.org/wiki/Checked_and_free_vowels)):
 
 ᛈᛒᛏᛞᛣᚸᚳᚷᛗᚾᚦᚠᛋᛉᛚᚱ
 
@@ -141,7 +141,9 @@ To be equally fair, we should consider that Latin has Uppercase and Lowercase le
 
 ## Minimal Runic Alphabet
 
-What is the least amount of runes that we can use and still make Modern English Futhorc work? We can get rid of most bindrunes and everything can still be understood. We can also get rid of some of the runes that are just shortcuts.
+What is the least amount of runes that we can use and still make Modern English Futhorc work? You may want to use a minimal alphabet like this when writing more elementary texts or texts that require absolute clarity like road signs.
+
+We can get rid of most bindrunes and everything can still be understood. We can also get rid of some of the runes that are just shortcuts.
 
 With only **33** runes, Modern English Futhorc is still fully usable.
 
@@ -156,4 +158,4 @@ Why add the double ᛋ in this minimal runic alphabet? Mainly becuase it is usef
 ᛗᛁᛋ‍ᛋᚳᛁᚠᚠ 👈 using bindrunes
 </pre>
 
-The Latin English alphabet is 26 letters. 33 is only 7 more than that. And what do we get for it? An alphabet that is native to the English language, able to account for a multitude of accents across the world, and eminently more understandable than Latin spelling.
+The lowercase Latin English alphabet is 26 letters. 33 is only 7 more than that. And what do we get for it? An alphabet that is native to the English language, able to account for a multitude of accents across the world, and eminently more understandable than Latin spelling.

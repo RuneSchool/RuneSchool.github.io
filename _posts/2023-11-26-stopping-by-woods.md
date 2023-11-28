@@ -1,6 +1,6 @@
 ---
 title: "Stopping by Woods on a Snowy Evening"
-subtitle: "by Robert Frost"
+author: "Robert Frost"
 layout: post
 date: 2023-11-26
 tag:
@@ -45,7 +45,7 @@ hidden: false
 <br>
 ᚫᚾᛞ᛫​ᛗᚪ‍ᛡᛚᛉ᛫​ᛏᚢ᛫​ᚸᚩ‍ᚢ᛫​ᛒᛁᚠᚩ‍ᚱ᛫​ᚪ‍ᛡ᛫​ᛋᛚᛁᛈ᛫​᛫​
 <br>
-ᚫᚾᛞ᛫​ᛗᚪ‍ᛡᛚᛉ᛫​ᛏᚢ᛫​ᚸᚩ‍ᚢ᛫​ᛒᛁᚠᚩ‍ᚱ᛫​ᚪ‍ᛡ᛫​ᛋᛚᛁᛈ᛫​᛬​
+ᚫᚾᛞ᛫​ᛗᚪ‍ᛡᛚᛉ᛫​ᛏᚢ᛫​ᚸᚩ‍ᚢ᛫​ᛒᛁᚠᚩ‍ᚱ᛫​ᚪ‍ᛡ᛫​ᛋᛚᛁᛈ​᛬​
 </div>
 
 <hr>

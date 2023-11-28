@@ -137,6 +137,8 @@ This brings us to a total of **56** runes that a reader would want to be able to
 
 Many of those bindrunes are so clearly just 1+1 that they don't constitute a truly "new" rune. However, I want to be fair and consider them a separate rune in this case.
 
+To be equally fair, we should consider that Latin has Uppercase and Lowercase letters. So we can compare our maximal 56 to Latin's maximal 52.
+
 ## Minimal Runic Alphabet
 
 What is the least amount of runes that we can use and still make Modern English Futhorc work? We can get rid of most bindrunes and everything can still be understood. We can also get rid of some of the runes that are just shortcuts.

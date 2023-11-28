@@ -15,7 +15,7 @@ hidden: false
 <h4 lang="en-Runr" style="font-family:BabelStoneRunic;">ᛒᚪ‍ᛡ᛫ᛖᛗᛟᛚᛁ᛫​ᛞᛁᛤᛁᚾ‍ᚾᛋᛟᚾ</h4>
 
 <div lang="en-Runr" style="line-height:35px;font-size:14px;font-family:BabelStoneRunic;">
-'ᚻᚩ‍ᚢᛈ'​ᛁᛉ‍ᛉ᛫​ᚦᛟ᛫​ᚦᛁᛝ᛫​ᚹᛁᚦ‍ᚦ᛫​ᚠᛖᚦᛟᚱᛉ—​<br>
+᛫᛬ᚻᚩ‍ᚢᛈ᛬᛫​ᛁᛉ‍ᛉ᛫​ᚦᛟ᛫​ᚦᛁᛝ᛫​ᚹᛁᚦ‍ᚦ᛫​ᚠᛖᚦᛟᚱᛉ—​<br>
 ᚦᚫᛏ᛫​ᛈᛟᚱᚳᛉ᛫​ᛁᚾ‍ᚾ᛫​ᚦᛟ᛫​ᛋᚩ‍ᚢᛚ—​<br>
 ᚫᚾᛞ᛫​ᛋᛁᛝᛉ᛫​ᚦᛟ᛫​ᛏᛄᚢᚾ᛫​ᚹᛁᚦ‍ᚦᚣᛏ᛫​ᚦᛟ᛫​ᚹᛟᚱᛞᛉ—​<br>
 ᚫᚾᛞ᛫​ᚾᛖᚠ‍ᚠᛟᚱ᛫​ᛥᚩᛈ‍ᛈᛋ—​ᚫᛏ᛫​ᚩᛚ—​

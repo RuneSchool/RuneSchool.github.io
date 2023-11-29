@@ -132,7 +132,12 @@ And there are 7 potential vowel bindrunes:
 This brings us to a total of **56** runes that a reader would want to be able to recognize on a given basis:
 
 <pre style="font-size:16px;font-family:BabelStoneRunic;">
+regular                         vowels         doubles 
 ᚠᚢᚦᚩᚱᚳᚷᚹᚻᚾᛁᛄᛇᛈᛉᛋᛏᛒᛖᛗᛚᛝᛟᛞᚪᚫᛠᚣᛣᚸᛢᛥᛡ᛫​᛫​ᚪ‍ᛡᚩ‍ᛡ​ᛖ‍ᛡᚩ‍ᚢ​ᚪ‍ᚱ​ᚩ‍ᚱᛖ‍ᚱ᛫​᛫​​ᛤᛈ‍ᛈᛒ‍ᛒᛏ‍ᛏᛞ‍ᛞᚸ‍ᚸᚳ‍ᚳᚷ‍ᚷᛗ‍ᛗᚾ‍ᚾᚦ‍ᚦᚠ‍ᚠᛋ‍ᛋᛉ‍ᛉᛚ‍ᛚᚱ‍ᚱ
+</pre>
+
+<pre style="font-size:16px;font-family:BabelStoneRunic;">
+ᚠᚠ‍ᚠᚢᚦᚦ‍ᚦᚩᚩ‍ᛡᚩ‍ᚱᚩ‍ᚢᚱᚱ‍ᚱᚳᚳ‍ᚳᚷᚷ‍ᚷᚹᚻᚾᚾ‍ᚾᛁᛄᛇᛈᛈ‍ᛈᛉᛉ‍ᛉᛋᛋ‍ᛋᛏᛏ‍ᛏᛒᛒ‍ᛒᛖᛖ‍ᛡᛖ‍ᚱᛗᛗ‍ᛗᛚᛚ‍ᛚᛝᛟᛞᛞ‍ᛞᚪᚪ‍ᛡᚪ‍ᚱᚫᛠᚣᛣ​ᛤᚸᚸ‍ᚸᛢᛥᛡ
 </pre>
 
 Many of those bindrunes are so clearly just 1+1 that they don't constitute a truly "new" rune. However, I want to be fair and consider them a separate rune in this case.

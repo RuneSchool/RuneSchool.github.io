@@ -35,7 +35,7 @@ hidden: false
 <br>
 ᛏᚢ᛫​ᚫᛋᛣ᛫​ᛁᚠᚠ᛫​ᚦᛖ‍ᚱ᛫​ᛁᛉ‍ᛉ᛫​ᛋᚪᛗ‍ᛗ᛫​ᛗᛁᛋ‍ᛋᛏ<span style="color:purple">ᛖ‍ᛡ</span>ᛣ​᛬​
 <br>
-ᚦᛁ᛫​ᚩ‍ᚢᚾᛚᛁ᛫​ᚪᚦᚦᛟᚱ᛫​ᛋᚣᚾᛞᛉ᛫​ᚦᛟ᛫​ᛋᚹ<span style="color:blue">ᛁᛈ
+ᚦᛁ᛫​ᚩ‍ᚢᚾᛚᛁ᛫​ᚪᚦᚦᛟᚱ᛫​ᛋᚣᚾᛞᛉ᛫​ᚦᛟ᛫​ᛋᚹ<span style="color:blue">ᛁ</span>ᛈ
 <br>
 ᛟᚠ‍ᚠ᛫​ᛁᛉᛁ᛫​ᚹᛁᚾ‍ᚾᛞ᛫​ᚫᚾᛞ᛫​ᛞᚣᚾᛁ᛫​ᚠᛚ<span style="color:purple">ᛖ‍ᛡ</span>ᛣ᛬​
 <br><br>

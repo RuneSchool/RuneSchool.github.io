@@ -15,37 +15,37 @@ hidden: false
 <h4 lang="en-Runr" style="font-family:BabelStoneRunic;">ᛒᚪ‍ᛡ᛫​ᚱᚩᛒ‍ᛒᛟᚱᛏ᛫​ᚠᚱᚩᛥ</h4>
 
 <div lang="en-Runr" style="line-height:35px;font-size:14px;font-family:BabelStoneRunic;">
-ᚻ‍ᚹᚢᛉ᛫​ᚹᚢᛞ‍ᛞᛉ᛫​ᚦᛁᛉ᛫​ᚪ‍ᚱ᛫​ᚪ‍ᛡ᛫​ᚦᛁᛝᛣ᛫​ᚪ‍ᛡ᛫​ᚾ<span color="green">ᚩ‍ᚢ</span>​᛬   
+ᚻ‍ᚹᚢᛉ᛫​ᚹᚢᛞ‍ᛞᛉ᛫​ᚦᛁᛉ᛫​ᚪ‍ᚱ᛫​ᚪ‍ᛡ᛫​ᚦᛁᛝᛣ᛫​ᚪ‍ᛡ᛫​ᚾ<span style="color:green">ᚩ‍ᚢ</span>​᛬   
 <br>
-ᚻᛁᛉ‍ᛉ᛫​ᚻᚣᛋ᛫​ᛁᛉ‍ᛉ᛫​ᛁᚾ‍ᚾ᛫​ᚦᛟ᛫​ᚠ‍ᚠᛁᛚ‍ᛚᛟᚷ᛫​ᚦ<span color="green">ᚩ‍ᚢ</span>᛫​᛫   
+ᚻᛁᛉ‍ᛉ᛫​ᚻᚣᛋ᛫​ᛁᛉ‍ᛉ᛫​ᛁᚾ‍ᚾ᛫​ᚦᛟ᛫​ᚠ‍ᚠᛁᛚ‍ᛚᛟᚷ᛫​ᚦ<span style="color:green">ᚩ‍ᚢ</span>᛫​᛫   
 <br>
-ᚻᛁ᛫​ᚹᛁᛚ‍ᛚ᛫​ᚾᚩᛏ‍ᛏ᛫​ᛋᛁ᛫​ᛗᛁ᛫​ᛥᚩᛈ‍ᛈᛁᛝ᛫​ᚻ<span color="red">ᛠᚱ</span>   
+ᚻᛁ᛫​ᚹᛁᛚ‍ᛚ᛫​ᚾᚩᛏ‍ᛏ᛫​ᛋᛁ᛫​ᛗᛁ᛫​ᛥᚩᛈ‍ᛈᛁᛝ᛫​ᚻ<span style="color:red">ᛠᚱ</span>   
 <br>
-ᛏᚢ᛫​ᚹᚩᚳ‍ᚳ᛫​ᚻᛁᛉ‍ᛉ᛫​ᚹᚢᛞ‍ᛞᛉ᛫​ᚠᛁᛚ‍ᛚ᛫​ᚪᛈ‍ᛈ᛫​ᚹᛁᚦ‍ᚦ᛫​ᛋᚾ<span color="green">ᚩ‍ᚢ</span>​᛬   
+ᛏᚢ᛫​ᚹᚩᚳ‍ᚳ᛫​ᚻᛁᛉ‍ᛉ᛫​ᚹᚢᛞ‍ᛞᛉ᛫​ᚠᛁᛚ‍ᛚ᛫​ᚪᛈ‍ᛈ᛫​ᚹᛁᚦ‍ᚦ᛫​ᛋᚾ<span style="color:green">ᚩ‍ᚢ</span>​᛬   
 <br><br>
-ᛗᚪ‍ᛡ᛫​ᛚᛁᛏ‍ᛏᛚ᛫​ᚻᚩ‍ᚱᛋ᛫​ᛗᚪᛋ‍ᛋᛏ᛫​ᚦᛁᛝᛣ᛫​ᛁᛏ‍ᛏ᛫​ᛢ<span color="red">ᛠᚱ</span>   
+ᛗᚪ‍ᛡ᛫​ᛚᛁᛏ‍ᛏᛚ᛫​ᚻᚩ‍ᚱᛋ᛫​ᛗᚪᛋ‍ᛋᛏ᛫​ᚦᛁᛝᛣ᛫​ᛁᛏ‍ᛏ᛫​ᛢ<span style="color:red">ᛠᚱ</span>   
 <br>
-ᛏᚢ᛫​ᛥᚩᛈ‍ᛈ᛫​ᚹᛁᚦ‍ᚦᚣᛏ᛫​ᛟ᛫​ᚠᚪ‍ᚱᛗᚻᚣᛋ᛫​ᚾ<span color="red">ᛠᚱ</span>   
+ᛏᚢ᛫​ᛥᚩᛈ‍ᛈ᛫​ᚹᛁᚦ‍ᚦᚣᛏ᛫​ᛟ᛫​ᚠᚪ‍ᚱᛗᚻᚣᛋ᛫​ᚾ<span style="color:red">ᛠᚱ</span>   
 <br>
-ᛒᛁᛏᚹᛁᚾ᛫​ᚦᛟ᛫​ᚹᚢᛞ‍ᛞᛉ᛫​ᚫᚾᛞ᛫​ᚠᚱᚩ‍ᚢᛉᚾ᛫​ᛚ<span color="purple">ᛖ‍ᛡ</span>ᛣ   
+ᛒᛁᛏᚹᛁᚾ᛫​ᚦᛟ᛫​ᚹᚢᛞ‍ᛞᛉ᛫​ᚫᚾᛞ᛫​ᚠᚱᚩ‍ᚢᛉᚾ᛫​ᛚ<span style="color:purple">ᛖ‍ᛡ</span>ᛣ   
 <br>
-ᚦᛟ᛫​ᛞᚪ‍ᚱᛣᛟᛋᛏ᛫​ᛁᚠ‍ᚠᚾᛁᛝ᛫ᛟᚠ‍ᚠ᛫​ᚦᛟ᛫​ᛄ<span color="red">ᛠᚱ</span>​᛬​   
+ᚦᛟ᛫​ᛞᚪ‍ᚱᛣᛟᛋᛏ᛫​ᛁᚠ‍ᚠᚾᛁᛝ᛫ᛟᚠ‍ᚠ᛫​ᚦᛟ᛫​ᛄ<span style="color:red">ᛠᚱ</span>​᛬​   
 <br><br>
-ᚻᛁ᛫​ᚸᛁᚠ‍ᚠᛉ᛫​ᚻᛁᛉ‍ᛉ᛫​ᚻᚪ‍ᚱᚾᛟᛋ᛫​ᛒᛖᛚᛉ᛫​ᛟ᛫​ᛋᚳ<span color="purple">ᛖ‍ᛡ</span>ᛣ
+ᚻᛁ᛫​ᚸᛁᚠ‍ᚠᛉ᛫​ᚻᛁᛉ‍ᛉ᛫​ᚻᚪ‍ᚱᚾᛟᛋ᛫​ᛒᛖᛚᛉ᛫​ᛟ᛫​ᛋᚳ<span style="color:purple">ᛖ‍ᛡ</span>ᛣ
 <br>
-ᛏᚢ᛫​ᚫᛋᛣ᛫​ᛁᚠᚠ᛫​ᚦᛖ‍ᚱ᛫​ᛁᛉ‍ᛉ᛫​ᛋᚪᛗ‍ᛗ᛫​ᛗᛁᛋ‍ᛋᛏ<span color="purple">ᛖ‍ᛡ</span>ᛣ​᛬​
+ᛏᚢ᛫​ᚫᛋᛣ᛫​ᛁᚠᚠ᛫​ᚦᛖ‍ᚱ᛫​ᛁᛉ‍ᛉ᛫​ᛋᚪᛗ‍ᛗ᛫​ᛗᛁᛋ‍ᛋᛏ<span style="color:purple">ᛖ‍ᛡ</span>ᛣ​᛬​
 <br>
-ᚦᛁ᛫​ᚩ‍ᚢᚾᛚᛁ᛫​ᚪᚦᚦᛟᚱ᛫​ᛋᚣᚾᛞᛉ᛫​ᚦᛟ᛫​ᛋᚹ<span color="blue">ᛁᛈ
+ᚦᛁ᛫​ᚩ‍ᚢᚾᛚᛁ᛫​ᚪᚦᚦᛟᚱ᛫​ᛋᚣᚾᛞᛉ᛫​ᚦᛟ᛫​ᛋᚹ<span style="color:blue">ᛁᛈ
 <br>
-ᛟᚠ‍ᚠ᛫​ᛁᛉᛁ᛫​ᚹᛁᚾ‍ᚾᛞ᛫​ᚫᚾᛞ᛫​ᛞᚣᚾᛁ᛫​ᚠᛚ<span color="purple">ᛖ‍ᛡ</span>ᛣ᛬​
+ᛟᚠ‍ᚠ᛫​ᛁᛉᛁ᛫​ᚹᛁᚾ‍ᚾᛞ᛫​ᚫᚾᛞ᛫​ᛞᚣᚾᛁ᛫​ᚠᛚ<span style="color:purple">ᛖ‍ᛡ</span>ᛣ᛬​
 <br><br>
-ᚦᛟ᛫​ᚹᚢᛞ‍ᛞᛉ᛫​ᚪ‍ᚱ᛫​ᛚᚪᚠ‍ᚠᛚᛁ᛫​᛫​ᛞᚪ‍ᚱᛣ᛫​ᚫᚾᛞ᛫​ᛞ<span color="blue">ᛁ</span>ᛈ᛫​᛫​
+ᚦᛟ᛫​ᚹᚢᛞ‍ᛞᛉ᛫​ᚪ‍ᚱ᛫​ᛚᚪᚠ‍ᚠᛚᛁ᛫​᛫​ᛞᚪ‍ᚱᛣ᛫​ᚫᚾᛞ᛫​ᛞ<span style="color:blue">ᛁ</span>ᛈ᛫​᛫​
 <br>
-ᛒᚪᛏ‍ᛏ᛫​ᚪ‍ᛡ᛫​ᚻᚫᚠ‍ᚠ᛫​ᛈᚱᚩᛗ‍ᛗᛁᛋ‍ᛋᛉ᛫​ᛏᚢ᛫​ᛣ<span color="blue">ᛁ</span>ᛈ᛫​᛫​
+ᛒᚪᛏ‍ᛏ᛫​ᚪ‍ᛡ᛫​ᚻᚫᚠ‍ᚠ᛫​ᛈᚱᚩᛗ‍ᛗᛁᛋ‍ᛋᛉ᛫​ᛏᚢ᛫​ᛣ<span style="color:blue">ᛁ</span>ᛈ᛫​᛫​
 <br>
-ᚫᚾᛞ᛫​ᛗᚪ‍ᛡᛚᛉ᛫​ᛏᚢ᛫​ᚸᚩ‍ᚢ᛫​ᛒᛁᚠᚩ‍ᚱ᛫​ᚪ‍ᛡ᛫​ᛋᛚ<span color="blue">ᛁ</span>ᛈ᛫​᛫​
+ᚫᚾᛞ᛫​ᛗᚪ‍ᛡᛚᛉ᛫​ᛏᚢ᛫​ᚸᚩ‍ᚢ᛫​ᛒᛁᚠᚩ‍ᚱ᛫​ᚪ‍ᛡ᛫​ᛋᛚ<span style="color:blue">ᛁ</span>ᛈ᛫​᛫​
 <br>
-ᚫᚾᛞ᛫​ᛗᚪ‍ᛡᛚᛉ᛫​ᛏᚢ᛫​ᚸᚩ‍ᚢ᛫​ᛒᛁᚠᚩ‍ᚱ᛫​ᚪ‍ᛡ᛫​ᛋᛚ<span color="blue">ᛁ</span>ᛈ​᛬​
+ᚫᚾᛞ᛫​ᛗᚪ‍ᛡᛚᛉ᛫​ᛏᚢ᛫​ᚸᚩ‍ᚢ᛫​ᛒᛁᚠᚩ‍ᚱ᛫​ᚪ‍ᛡ᛫​ᛋᛚ<span style="color:blue">ᛁ</span>ᛈ​᛬​
 </div>
 
 <hr>

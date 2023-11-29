@@ -15,20 +15,20 @@ hidden: false
 <h4 lang="en-Runr" style="font-family:BabelStoneRunic;">ᛒᚪ‍ᛡ᛫ᛖᛗᛟᛚᛁ᛫​ᛞᛁᛤᛁᚾ‍ᚾᛋᛟᚾ</h4>
 
 <div lang="en-Runr" style="line-height:35px;font-size:14px;font-family:BabelStoneRunic;">
-᛫᛬ᚻᚩ‍ᚢᛈ᛬᛫​ᛁᛉ‍ᛉ᛫​ᚦᛟ᛫​ᚦᛁᛝ᛫​ᚹᛁᚦ‍ᚦ᛫​ᚠᛖᚦ<span color="green">ᛟᚱ</span>ᛉ᛫᛫​<br>
-ᚦᚫᛏ᛫​ᛈᛟᚱᚳᛉ᛫​ᛁᚾ‍ᚾ᛫​ᚦᛟ᛫​ᛋ<span color="red">ᚩ</span>ᚢᛚ᛫᛫​<br>
-ᚫᚾᛞ᛫​ᛋᛁᛝᛉ᛫​ᚦᛟ᛫​ᛏᛄᚢᚾ᛫​ᚹᛁᚦ‍ᚦᚣᛏ᛫​ᚦᛟ᛫​ᚹ<span color="green">ᛟᚱ</span>ᛞᛉ᛫᛫​<br>
-ᚫᚾᛞ᛫​ᚾᛖᚠ‍ᚠᛟᚱ᛫​ᛥᚩᛈ‍ᛈᛋ᛫᛫​ᚫᛏ᛫​<span color="red">ᚩ</span>ᛚ᛫᛫​
+᛫᛬ᚻᚩ‍ᚢᛈ᛬᛫​ᛁᛉ‍ᛉ᛫​ᚦᛟ᛫​ᚦᛁᛝ᛫​ᚹᛁᚦ‍ᚦ᛫​ᚠᛖᚦ<span style="color:green">ᛟᚱ</span>ᛉ᛫᛫​<br>
+ᚦᚫᛏ᛫​ᛈᛟᚱᚳᛉ᛫​ᛁᚾ‍ᚾ᛫​ᚦᛟ᛫​ᛋ<span style="color:red">ᚩ</span>ᚢᛚ᛫᛫​<br>
+ᚫᚾᛞ᛫​ᛋᛁᛝᛉ᛫​ᚦᛟ᛫​ᛏᛄᚢᚾ᛫​ᚹᛁᚦ‍ᚦᚣᛏ᛫​ᚦᛟ᛫​ᚹ<span style="color:green">ᛟᚱ</span>ᛞᛉ᛫᛫​<br>
+ᚫᚾᛞ᛫​ᚾᛖᚠ‍ᚠᛟᚱ᛫​ᛥᚩᛈ‍ᛈᛋ᛫᛫​ᚫᛏ᛫​<span style="color:red">ᚩ</span>ᛚ᛫᛫​
 <br><br>
-ᚫᚾᛞ᛫​ᛋᚹᛁᛏᛟᛋᛏ᛫᛫​ᛁᚾ‍ᚾ᛫​ᚦᛟ᛫​ᚸᛖ‍ᛡᛚ᛫᛫​ᛁᛉ‍ᛉ᛫​ᚻ<span color="green">ᛟᚱ</span>ᛞ᛫᛫​<br>
-ᚫᚾᛞ᛫​ᛋᚩ‍ᚱ᛫​ᛗᚪᛋ‍ᛋᛏ᛫​ᛒᛁ᛫​ᚦᛟ᛫​ᛥ<span color="purple">ᚩ‍ᚱ</span>ᛗ᛫᛫​<br>
-ᚦᚫᛏ᛫​ᛣᚢᛞ‍ᛞ᛫​ᛟᛒᚫᛋᚳ᛫​ᚦᛟ᛫​ᛚᛁᛏ‍ᛏᛚ᛫​ᛒ<span color="green">ᛟᚱ</span>ᛞ<br>
-ᚦᚫᛏ᛫​ᛣᛖᛈᛏ᛫​ᛋᚩ‍ᚢ᛫​ᛗᛖᚾᛁ᛫​ᚹ<span color="purple">ᚩ‍ᚱ</span>ᛗ᛫᛫​
+ᚫᚾᛞ᛫​ᛋᚹᛁᛏᛟᛋᛏ᛫᛫​ᛁᚾ‍ᚾ᛫​ᚦᛟ᛫​ᚸᛖ‍ᛡᛚ᛫᛫​ᛁᛉ‍ᛉ᛫​ᚻ<span style="color:green">ᛟᚱ</span>ᛞ᛫᛫​<br>
+ᚫᚾᛞ᛫​ᛋᚩ‍ᚱ᛫​ᛗᚪᛋ‍ᛋᛏ᛫​ᛒᛁ᛫​ᚦᛟ᛫​ᛥ<span style="color:purple">ᚩ‍ᚱ</span>ᛗ᛫᛫​<br>
+ᚦᚫᛏ᛫​ᛣᚢᛞ‍ᛞ᛫​ᛟᛒᚫᛋᚳ᛫​ᚦᛟ᛫​ᛚᛁᛏ‍ᛏᛚ᛫​ᛒ<span style="color:green">ᛟᚱ</span>ᛞ<br>
+ᚦᚫᛏ᛫​ᛣᛖᛈᛏ᛫​ᛋᚩ‍ᚢ᛫​ᛗᛖᚾᛁ᛫​ᚹ<span style="color:purple">ᚩ‍ᚱ</span>ᛗ᛫᛫​
 <br><br>
 ᚪ‍ᛡᚠ‍ᚠ᛫​ᚻᛟᚱᛞ᛫​ᛁᛏ‍ᛏ᛫​ᛁᚾ‍ᚾ᛫​ᚦᛟ᛫​ᚳᛁᛚ‍ᛚᛟᛋᛏ᛫​ᛚᚫᚾᛞ᛫᛫​<br>
-ᚫᚾᛞ᛫​ᚩᚾ‍ᚾ᛫​ᚦᛟ᛫​ᛥᚱᛖ‍ᛡᚾᚷᛟᛋᛏ᛫​ᛋ<span color="blue">ᛁ</span>᛫᛫​<br>
-ᛄᛖᛏ᛫᛫​ᚾᛖᚠ‍ᚠᛟᚱ᛫᛫​ᛁᚾ‍ᚾ᛫ᛁᛤᛥᚱᛖᛗ<span color="green">ᛟ</span>ᛏ<span color="blue">ᛁ</span>᛫​<br>
-ᛁᛏ‍ᛏ᛫​ᚫᛋᛣᛏ᛫​ᛟ᛫​ᚳᚱᚪᛗ‍ᛗ᛫᛫​<span color="green">​ᛟ</span>ᚠ‍ᚠ᛫​ᛗ<span color="blue">ᛁ</span>᛬​
+ᚫᚾᛞ᛫​ᚩᚾ‍ᚾ᛫​ᚦᛟ᛫​ᛥᚱᛖ‍ᛡᚾᚷᛟᛋᛏ᛫​ᛋ<span style="color:blue">ᛁ</span>᛫᛫​<br>
+ᛄᛖᛏ᛫᛫​ᚾᛖᚠ‍ᚠᛟᚱ᛫᛫​ᛁᚾ‍ᚾ᛫ᛁᛤᛥᚱᛖᛗ<span style="color:green">ᛟ</span>ᛏ<span style="color:blue">ᛁ</span>᛫​<br>
+ᛁᛏ‍ᛏ᛫​ᚫᛋᛣᛏ᛫​ᛟ᛫​ᚳᚱᚪᛗ‍ᛗ᛫᛫​<span style="color:green">​ᛟ</span>ᚠ‍ᚠ᛫​ᛗ<span style="color:blue">ᛁ</span>᛬​
 </div>
 
 <hr>

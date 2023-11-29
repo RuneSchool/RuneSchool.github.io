@@ -35,17 +35,17 @@ hidden: false
 <br>
 ᛏᚢ᛫​ᚫᛋᛣ᛫​ᛁᚠᚠ᛫​ᚦᛖ‍ᚱ᛫​ᛁᛉ‍ᛉ᛫​ᛋᚪᛗ‍ᛗ᛫​ᛗᛁᛋ‍ᛋᛏ<span style="color:purple">ᛖ‍ᛡ</span>ᛣ​᛬​
 <br>
-ᚦᛁ᛫​ᚩ‍ᚢᚾᛚᛁ᛫​ᚪᚦᚦᛟᚱ᛫​ᛋᚣᚾᛞᛉ᛫​ᚦᛟ᛫​ᛋᚹ<span style="color:blue">ᛁ</span>ᛈ
+ᚦᛁ᛫​ᚩ‍ᚢᚾᛚᛁ᛫​ᚪᚦᚦᛟᚱ᛫​ᛋᚣᚾᛞᛉ᛫​ᚦᛟ᛫​ᛋᚹ<span style="color:SlateBlue">ᛁ</span>ᛈ
 <br>
 ᛟᚠ‍ᚠ᛫​ᛁᛉᛁ᛫​ᚹᛁᚾ‍ᚾᛞ᛫​ᚫᚾᛞ᛫​ᛞᚣᚾᛁ᛫​ᚠᛚ<span style="color:purple">ᛖ‍ᛡ</span>ᛣ᛬​
 <br><br>
-ᚦᛟ᛫​ᚹᚢᛞ‍ᛞᛉ᛫​ᚪ‍ᚱ᛫​ᛚᚪᚠ‍ᚠᛚᛁ᛫​᛫​ᛞᚪ‍ᚱᛣ᛫​ᚫᚾᛞ᛫​ᛞ<span style="color:blue">ᛁ</span>ᛈ᛫​᛫​
+ᚦᛟ᛫​ᚹᚢᛞ‍ᛞᛉ᛫​ᚪ‍ᚱ᛫​ᛚᚪᚠ‍ᚠᛚᛁ᛫​᛫​ᛞᚪ‍ᚱᛣ᛫​ᚫᚾᛞ᛫​ᛞ<span style="color:SlateBlue">ᛁ</span>ᛈ᛫​᛫​
 <br>
-ᛒᚪᛏ‍ᛏ᛫​ᚪ‍ᛡ᛫​ᚻᚫᚠ‍ᚠ᛫​ᛈᚱᚩᛗ‍ᛗᛁᛋ‍ᛋᛉ᛫​ᛏᚢ᛫​ᛣ<span style="color:blue">ᛁ</span>ᛈ᛫​᛫​
+ᛒᚪᛏ‍ᛏ᛫​ᚪ‍ᛡ᛫​ᚻᚫᚠ‍ᚠ᛫​ᛈᚱᚩᛗ‍ᛗᛁᛋ‍ᛋᛉ᛫​ᛏᚢ᛫​ᛣ<span style="color:SlateBlue">ᛁ</span>ᛈ᛫​᛫​
 <br>
-ᚫᚾᛞ᛫​ᛗᚪ‍ᛡᛚᛉ᛫​ᛏᚢ᛫​ᚸᚩ‍ᚢ᛫​ᛒᛁᚠᚩ‍ᚱ᛫​ᚪ‍ᛡ᛫​ᛋᛚ<span style="color:blue">ᛁ</span>ᛈ᛫​᛫​
+ᚫᚾᛞ᛫​ᛗᚪ‍ᛡᛚᛉ᛫​ᛏᚢ᛫​ᚸᚩ‍ᚢ᛫​ᛒᛁᚠᚩ‍ᚱ᛫​ᚪ‍ᛡ᛫​ᛋᛚ<span style="color:SlateBlue">ᛁ</span>ᛈ᛫​᛫​
 <br>
-ᚫᚾᛞ᛫​ᛗᚪ‍ᛡᛚᛉ᛫​ᛏᚢ᛫​ᚸᚩ‍ᚢ᛫​ᛒᛁᚠᚩ‍ᚱ᛫​ᚪ‍ᛡ᛫​ᛋᛚ<span style="color:blue">ᛁ</span>ᛈ​᛬​
+ᚫᚾᛞ᛫​ᛗᚪ‍ᛡᛚᛉ᛫​ᛏᚢ᛫​ᚸᚩ‍ᚢ᛫​ᛒᛁᚠᚩ‍ᚱ᛫​ᚪ‍ᛡ᛫​ᛋᛚ<span style="color:SlateBlue">ᛁ</span>ᛈ​᛬​
 </div>
 
 <hr>

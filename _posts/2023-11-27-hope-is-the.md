@@ -26,9 +26,9 @@ hidden: false
 ᚦᚫᛏ᛫​ᛣᛖᛈᛏ᛫​ᛋᚩ‍ᚢ᛫​ᛗᛖᚾᛁ᛫​ᚹ<span style="color:purple">ᚩ‍ᚱ</span>ᛗ᛫᛫​
 <br><br>
 ᚪ‍ᛡᚠ‍ᚠ᛫​ᚻᛟᚱᛞ᛫​ᛁᛏ‍ᛏ᛫​ᛁᚾ‍ᚾ᛫​ᚦᛟ᛫​ᚳᛁᛚ‍ᛚᛟᛋᛏ᛫​ᛚᚫᚾᛞ᛫᛫​<br>
-ᚫᚾᛞ᛫​ᚩᚾ‍ᚾ᛫​ᚦᛟ᛫​ᛥᚱᛖ‍ᛡᚾᚷᛟᛋᛏ᛫​ᛋ<span style="color:blue">ᛁ</span>᛫᛫​<br>
-ᛄᛖᛏ᛫᛫​ᚾᛖᚠ‍ᚠᛟᚱ᛫᛫​ᛁᚾ‍ᚾ᛫ᛁᛤᛥᚱᛖᛗ<span style="color:green">ᛟ</span>ᛏ<span style="color:blue">ᛁ</span>᛫​<br>
-ᛁᛏ‍ᛏ᛫​ᚫᛋᛣᛏ᛫​ᛟ᛫​ᚳᚱᚪᛗ‍ᛗ᛫᛫​<span style="color:green">​ᛟ</span>ᚠ‍ᚠ᛫​ᛗ<span style="color:blue">ᛁ</span>᛬​
+ᚫᚾᛞ᛫​ᚩᚾ‍ᚾ᛫​ᚦᛟ᛫​ᛥᚱᛖ‍ᛡᚾᚷᛟᛋᛏ᛫​ᛋ<span style="color:SlateBlue">ᛁ</span>᛫᛫​<br>
+ᛄᛖᛏ᛫᛫​ᚾᛖᚠ‍ᚠᛟᚱ᛫᛫​ᛁᚾ‍ᚾ᛫ᛁᛤᛥᚱᛖᛗ<span style="color:green">ᛟ</span>ᛏ<span style="color:SlateBlue">ᛁ</span>᛫​<br>
+ᛁᛏ‍ᛏ᛫​ᚫᛋᛣᛏ᛫​ᛟ᛫​ᚳᚱᚪᛗ‍ᛗ᛫᛫​<span style="color:green">​ᛟ</span>ᚠ‍ᚠ᛫​ᛗ<span style="color:SlateBlue">ᛁ</span>᛬​
 </div>
 
 <hr>

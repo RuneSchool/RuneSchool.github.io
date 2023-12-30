@@ -1,11 +1,9 @@
 ---
 title: "Runic Military Alphabet"
 layout: post
-date: 2024-1-1
-tag:
-- modern
+date: 2023-12-30
 category: blog
-description: "Names for Anglo-Saxon runes in situations that require extreme clarity"
+description: Names for Anglo-Saxon runes in situations that require extreme clarity
 hidden: true
 ---
 

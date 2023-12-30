@@ -3,8 +3,9 @@ title: "Runic Military Alphabet"
 layout: post
 date: 2024-1-1
 tag:
-- modern runes
+- modern
 category: blog
+description: "Names for Anglo-Saxon runes in situations that require extreme clarity"
 hidden: true
 ---
 

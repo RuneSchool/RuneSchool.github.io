@@ -7,38 +7,11 @@ description: Names for Anglo-Saxon runes in situations that require extreme clar
 hidden: true
 ---
 
-| Letter | 1957-Present | Morse Code | 1913       | 1927       | 1938       | World War II  |
-|--------|--------------|------------|------------|------------|------------|---------------|
-| A      | Alfa (or Alpha) | . _        | Able       | Affirmative| Affirm      | Affirm (Able) |
-| B      | Bravo        | _ . . .     | Boy        | Baker      | Baker      | Baker         |
-| C      | Charlie      | _ . _ .     | Cast       | Cast       | Cast       | Charlie       |
-| D      | Delta        | _ . .       | Dog        | Dog        | Dog        | Dog           |
-| E      | Echo         | .           | Easy       | Easy       | Easy       | Easy          |
-| F      | Foxtrot      | . . _ .     | Fox        | Fox        | Fox        | Fox           |
-| G      | Golf         | _ _ .       | George     | George     | George     | George        |
-| H      | Hotel        | . . . .     | Have       | Hypo       | Hypo       | How           |
-| I      | India        | . .         | Item       | Interrogatory| Int       | Int (Item)    |
-| J      | Juliett      | . _ _ _     | Jig        | Jig        | Jig        | Jig           |
-| K      | Kilo         | _ . _       | King       | King       | King       | King          |
-| L      | Lima         | . _ . .     | Love       | Love       | Love       | Love          |
-| M      | Mike         | _ _         | Mike       | Mike       | Mike       | Mike          |
-| N      | November     | _ .         | Nan        | Negative   | Negat      | Negat (Nan)   |
-| O      | Oscar        | _ _ _       | Oboe       | Option     | Option     | Option (Oboe) |
-| P      | Papa         | . _ _ .     | Pup        | Preparatory | Prep      | Prep (Peter)  |
-| Q      | Quebec       | _ _ . _     | Quack      | Quack      | Queen     | Queen         |
-| R      | Romeo        | . _ .       | Rush       | Roger      | Roger     | Roger         |
-| S      | Sierra       | . . .       | Sail       | Sail       | Sail      | Sugar         |
-| T      | Tango        | _           | Tare       | Tare       | Tare      | Tare          |
-| U      | Uniform      | . . _       | Unit       | Unit       | Unit      | Uncle         |
-| V      | Victor       | . . . _     | Vice       | Vice       | Victor    | Victor        |
-| W      | Whiskey      | . _ _       | Watch      | William    | William   | William       |
-| X      | X-ray        | _ . . _     | X-ray      | X-ray      | X-ray     | X-ray         |
-| Y      | Yankee       | _ . _ _     | Yoke       | Yoke       | Yoke      | Yoke          |
-| Z      | Zulu         | _ _ . .     | Zed        | Zed        | Zed       | Zebra         |
+The following is a table of the current US Military Alphabet. After `Z` I have added the Anglo-Saxon Futhorc runes and some ideas for what could be their name in the Military Alphabet.
 
+Note that this "military" alphabet name does not require a violent context. These are just names that are useful over a hard-to-hear communication channel; for situations when you need extra clarity and precision. Instead of saying "D as in Debbie, C as in Cat", you can just say "Delta, Charlie".
 
-
-| Letter | Traditional Name | 1957-Present    |
+| Letter | Traditional Name | Military Name (1957-Present)    |
 |--------|------------------|------------------|
 | A      | Ay               | Alfa (or Alpha)  |
 | B      | Bee              | Bravo            |
@@ -97,4 +70,6 @@ hidden: true
 | ᛣ      |   Calc           |                  |
 | ᚸ      |   Gar            |                  |
 | ᛡ      |   Eeyore         | oy vey / hoi polloi |
+
+If you have suggestions, please join the [Rune School Discord server](https://discord.gg/BThW4fxAwN) and let us know!
 

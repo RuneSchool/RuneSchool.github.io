@@ -3,7 +3,7 @@ title: "Runic Military Alphabet"
 layout: post
 date: 2024-1-1
 tag:
-- 
+- modern runes
 category: blog
 hidden: true
 ---
@@ -78,14 +78,14 @@ hidden: true
 | ᚻ      |   Hail           |                  |
 | ᚾ      |  Need            |                  |
 | ᛁ      |   Ees            |                  |
-| ᛄ      |                  |                  |
+| ᛄ      |  Yer            |  Yellow            |
 | ᛇ      |                  |                  |
 | ᛈ      |  Peorth           |                  |
-| ᛉ      |  Elk-Sedge        |                  |
-| ᛋ      |                  |                  |
+| ᛉ      |  Elk-Sedge        | Zigzag           |
+| ᛋ      |  Seal            | Sunspot          |
 | ᛏ      |  Tear            | Tic-Tac              |
 | ᛒ      |                  |                  |
-| ᛖ      |                  |                  |
+| ᛖ      |  Eoh             |                  |
 | ᛗ      |  Man             |                  |
 | ᛚ      |   Lagu            |                  |
 | ᛝ      |                  |                  |
@@ -97,5 +97,5 @@ hidden: true
 | ᚣ      |   Hour           | Outloud          |
 | ᛣ      |   Calc           |                  |
 | ᚸ      |   Gar            |                  |
-| ᛡ      |                  |                  |
+| ᛡ      |   Eeyore         | oy vey / hoi polloi |
 

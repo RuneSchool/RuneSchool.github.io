@@ -1,7 +1,7 @@
 ---
 title: "Lessons from Hangul"
 layout: post
-date: 2023-10-17
+date: 2023-12-31
 tag:
 - shavian
 - hangul

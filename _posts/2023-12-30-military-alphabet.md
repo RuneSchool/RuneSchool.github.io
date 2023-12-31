@@ -39,37 +39,37 @@ Note that this "military" alphabet name does not require a violent context. Thes
 | X      | Ex               | X-ray            |
 | Y      | Why              | Yankee           |
 | Z      | Zee              | Zulu             |
-| ᚠ      | Feoh             | Phantom ᚠᚫᚾᛏᛗ           |
-| ᚢ      |  Ur              | Uber ᚢᛒᛟᚱ         |
-| ᚦ      |  Thorn           | Thankful ᚦᚫᛝᛣᚠᛟᛚ                |
-| ᚩ      |   Os             | Awestruck ᚩᛋᛏᚱᚪᛣᛣ            |
-| ᚱ      |   Rad            | Roadrage ᚱᚩᚢᛞᚱᛖᛡᚷ       |
-| ᚳ      |   Chen           | Chickpea ᚳᛁᛣᛣᛈᛁ        |
-| ᚷ      |                  |                  |
-| ᚹ      |   Win            |                  |
-| ᚻ      |   Hail           | Halo ᚻᛖᛡᛚᚩᚢ      |
-| ᚾ      |  Need            |                  |
-| ᛁ      |   Ees            |                  |
-| ᛄ      |  Yer            |  Yackety-yak ᛄᚫᛣᛟᛏᛁ-ᛄᚫᛣ         |
-| ᛇ      |                  | Houston ᛇᚢᛋᛏᚾ         |
-| ᛈ      |  Peorth           |                  |
-| ᛉ      |  Elk-Sedge        | Zigzag ᛉᛁᚸᚸᛉᚫᚸ       |
-| ᛋ      |  Seal            | Sunspot ᛋᚪᚾᚾᛋᛈᚩᛏᛏ         |
-| ᛏ      |  Tear            | Tic-Tac ᛏᛁᛣᛣ-ᛏᚫᛣ             |
-| ᛒ      |                  |                  |
-| ᛖ      |  Eoh             |                  |
-| ᛗ      |  Man             |                  |
-| ᛚ      |   Lagu            |                  |
-| ᛝ      |                  |                  |
-| ᛟ      |   Ethel           | Arena ᛟᚱᛁᚾᛟ          |
-| ᛞ      |  Dag            |  Daddy-o ᛞᚫᛞᛇ          |
-| ᚪ      |   Ahk            |                  |
-| ᚫ      |   Ash            |                  |
-| ᛠ      |   Ear            | Eardrum ᛠᚱᛞᚱᚪᛗᛗ         |
-| ᚣ      |   Hour           | Out loud ᚣᛏ ᛚᚣᛞ         |
-| ᛣ      |   Calc           |                  |
-| ᚸ      |   Gar            |                  |
-| ᛡ      |   Eeyore         | oy vey / hoi polloi ᚩᛡᚠᛖᛡ |
+| ᚠ      | Feoh ᚠᛖᛡᚩᚢ            | Phantom ᚠᚫᚾᛏᛗ           |
+| ᚢ      |  Ur ᚢᚱ             | Uber ᚢᛒᛟᚱ         |
+| ᚦ      |  Thorn ᚦᚩᚱᚾ          | Thunder ᚦᚪᚾᚾᛞᛟᚱ                |
+| ᚩ      |   Aus ᚩᛋ           | Oracle ᚩᚱᛟᛣᛚ            |
+| ᚱ      |   Ride ᚱᚪᛡᛞ          | Road rage ᚱᚩᚢᛞ ᚱᛖᛡᚷ       |
+| ᚳ      |   Chen ᚳᛖᚾ        | Cha cha ᚳᚪ ᚳᚪ       |
+| ᚷ      |   Gift           |  Javelin  ᚷᚫᚠᛚᛁᚾᚾ               |
+| ᚹ      |   Win ᚹᛁᚾᚾ        | Wig wam ᚹᛁᚸᚸ ᚹᚪᛗ               |
+| ᚻ      |   Hail ᚻᛖᛡᛚ      | Halo ᚻᛖᛡᛚᚩᚢ      |
+| ᚾ      |  Need ᚾᛁᛞ        | Nation ᚾᛖᛡᛋᚳᚾ                 |
+| ᛁ      |   Ees ᛁᛋ          | Easy ᛁᛉᛁ                 |
+| ᛄ      |  Yer ᛄᛖᚱ          |  Yackety-yak ᛄᚫᛣᛟᛏᛁ-ᛄᚫᛣ         |
+| ᛇ      |  Ioh   ᛁᚩᚢ         | Houston / Eon ᛇᚢᛋᛏᚾ / ᛇᚾ        |
+| ᛈ      |  Peorth           | Pepper ᛈᛖᛈᛟᚱ                  |
+| ᛉ      |  Elk-Sedge ᛖᛚᛣ ᛋᛖᚷ       | Zig zag ᛉᛁᚸᚸ ᛉᚫᚸ       |
+| ᛋ      |  Seal ᛋᛁᛚ           | Sun spot ᛋᚪᚾᚾ ᛋᛈᚩᛏᛏ         |
+| ᛏ      |  Tear ᛏᛠᚱ        | Tic-Tac ᛏᛁᛣᛣ-ᛏᚫᛣ             |
+| ᛒ      |  birch ᛒᛟᚱᚳ        | Babble ᛒᚫᛒᛚ                 |
+| ᛖ      |  Eh  ᛖ           | Epic / Emma ᛖᛈᛁᛣᛣ / ᛖᛗᛟ             |
+| ᛗ      |  Man ᛗᚫᚾ            | Mammal ᛗᚫᛗᛚ                  |
+| ᛚ      |   Lake ᛚᛖᛡᛣ           | Landlock / Liverpool ᛚᚫᚾᛞᛚᚩᛣᛣ / ᛚᛁᚠᚠᛟᚱᛈᚢᛚ      |
+| ᛝ      |   Ing ᛁᛝ               | Ingmar  ᛁᛝᛗᚪᚱ                |
+| ᛟ      |   Ethel ᛖᚦᛟᛚ          | Arena ᛟᚱᛁᚾᛟ          |
+| ᛞ      |  Day  ᛞᛖᛡ          |  Daddy-o ᛞᚫᛞᛇ          |
+| ᚪ      |   Ahk ᚪᛣ           | Archon ᚪᚱᛣᚩᚾᚾ                 |
+| ᚫ      |   Ash ᚫᛋᚳ           | Apple ᚫᛈᛚ                 |
+| ᛠ      |   Ear ᛠᚱ           | Ear drum ᛠᚱ ᛞᚱᚪᛗᛗ         |
+| ᚣ      |   Hour ᚣᚱ          | Out loud ᚣᛏ ᛚᚣᛞ         |
+| ᛣ      |   Calc  ᛣᚫᛚᛣ         | Cactus ᛣᚫᛣᛏᛟᛋ                |
+| ᚸ      |   Gar ᚸᚪᚱ           | Ghost ᚸᚩᚢᛋᛏ                 |
+| ᛡ      |   Eeyore ᛁᛡᚩᚱ        | hoi polloi ᚻᚩᛡ ᛈᛟᛚᚩᛡ|
 
 If you have suggestions, please join the [Rune School Discord server](https://discord.gg/BThW4fxAwN) and let us know!
 

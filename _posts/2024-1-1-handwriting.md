@@ -34,8 +34,6 @@ There's a few things to note in this simple test.
 
 Let's think about the place of handwriting in Chinese society. Other than their own names, most adults in China do not write Chinese characters on a day-to-day basis. It's true that in school, the Chinese write characters by hand. But this is mostly for memorization purposes. Today, most people just type Chinese characters one way or another.
 
-In the world of 2024, technology has enabled us to speak across vast distances. With the technology behind phone calls and voice messages, language has returned to being primarily spoken and secondarily written.
-
 | Importance | 1800 | 1900 | 2000 | 2100 | 
 | ---- | --- | --- | --- | --- |
 | 1st | Face to Face | Handwriting  | Typing       | Face to Face |
@@ -53,11 +51,11 @@ But what if the power goes out? What if you want to unplug? If you wanted to red
 
 Perhaps in the 2100's, people will embrace actually writing by hand and seek a solution more like Shavian for that purpose. Or perhaps the advanced technology will continue to make handwriting mostly irrelevant. It's easy for me to imagine a future in which technology enables us to mostly forget about the written word. As scary as it sounds, one can almost survive this way today.
 
-Books -> Podcasts and videos
-Letters -> Voice messages
-Searching for information -> Conversational AI assistant
+* Books -> Podcasts and videos
+* Letters -> Voice messages
+* Searching for information -> Conversational AI assistant
 
-The written word could essentially become a machine-only language.
+The written word could essentially become a machine-only tool with an elite group of people that are literate just for the purposes of maintaining the machines.
 
 As of today, handwriting remains of very little relevance to me. Runes may strike a nice middle ground between being just laborious enough to be special, and not quite laborious enough to be painful. 
 

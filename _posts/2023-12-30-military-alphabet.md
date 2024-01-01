@@ -42,14 +42,14 @@ Note that this "military" alphabet name does not require a violent context. Thes
 | ᚠ      | Feoh             |  ᚠᛖᛡᚩᚢ         | Phantom           |   ᚠᚫᚾᛏᛗ             |
 | ᚢ      |  Ur              |  ᚢᚱ       | Uber          |  ᚢᛒᛟᚱ              |
 | ᚦ      |  Thorn           |  ᚦᚩᚱᚾ        | Thunder                 |  ᚦᚪᚾᚾᛞᛟᚱ               |
-| ᚩ      |   Aus            |  ᚩᛋ        | Oracle           |   ᚩᚱᛟᛣᛚ          |
+| ᚩ      |   Os            |  ᚩᛋ        | Oracle           |   ᚩᚱᛟᛣᛚ          |
 | ᚱ      |   Ride           | ᚱᚪᛡᛞ       | Road rage        |  ᚱᚩᚢᛞ ᚱᛖᛡᚷ             |
 | ᚳ      |   Chen         |   ᚳᛖᚾ      | Cha cha        |  ᚳᚪ ᚳᚪ            |
 | ᚷ      |   Gift           |            | Javelin                | ᚷᚫᚠᛚᛁᚾ             |
 | ᚹ      |   Win         |  ᚹᛁᚾᚾ       | Wig wam                |  ᚹᛁᚸᚸ ᚹᚪᛗ             |
 | ᚻ      |   Hail       |  ᚻᛖᛡᛚ        | Halo       |  ᚻᛖᛡᛚᚩᚢ           |
 | ᚾ      |  Need         | ᚾᛁᛞ        | Nation                  |  ᚾᛖᛡᛋᚳᚾ          |
-| ᛁ      |   Ees           | ᛁᛋ        | Easy                 | v               |
+| ᛁ      |   Ees           | ᛁᛋ        | Easy                 | ᛁᛉᛁ               |
 | ᛄ      |  Yer           |  ᛄᛖᚱ       | Yackety-yak          |  ᛄᚫᛣᛟᛏᛁ-ᛄᚫᛣ              |
 | ᛇ      |  Ioh            | ᛁᚩᚢ         | Houston / Eon         |   ᛇᚢᛋᛏᚾ / ᛇᚾ             |
 | ᛈ      |  Peorth           |            | Pepper                   | ᛈᛖᛈᛟᚱ              |

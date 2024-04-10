@@ -8,6 +8,7 @@ tag:
 - cyrillic
 - chinese
 - hangeul
+- v1
 category: blog
 description: "A comparison of single-height vs variable-height scripts or alphabets and how this matters to Modern English Furthorc runes"
 hidden: false

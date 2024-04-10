@@ -4,6 +4,7 @@ layout: post
 date: 2023-11-1
 tag:
 - phonemes
+- v1
 category: blog
 description: The Frequency of Runes in Modern English Futhorc
 hidden: false

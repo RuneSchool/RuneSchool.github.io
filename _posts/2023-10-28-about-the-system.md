@@ -4,6 +4,7 @@ layout: post
 date: 2023-10-28
 tag:
 - phonology
+- v1
 category: blog
 description: An unofficial attempt to explain the reasoning behind the choices made in Rune Revival's Modern English Futhorc system
 hidden: false

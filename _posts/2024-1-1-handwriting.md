@@ -8,6 +8,7 @@ tag:
 - future
 - chinese
 - shavian
+- v1
 description: Is it annoying to write runes by hand?
 hidden: false
 ---

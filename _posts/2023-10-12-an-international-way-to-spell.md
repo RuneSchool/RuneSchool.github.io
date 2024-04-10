@@ -7,6 +7,7 @@ tag:
 - standardization
 - international
 - spelling
+- v1
 category: blog
 description: "A guide for how to write English with Anglo-Saxon runes in the most International way, creating a kind of mid-atlantic accent in writing."
 hidden: false

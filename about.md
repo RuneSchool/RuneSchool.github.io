@@ -12,10 +12,11 @@ If you've ever wanted to learn how to read and write English with the Anglo-Saxo
 
 <h2>Links</h2>
 
-- [Rune Revival](https://www.youtube.com/@LearnRunes)'s Youtube channel
 - My [FuturePast.Runes](https://www.instagram.com/futurepast.runes/) Instagram
-- [Keyman](https://keyman.com/) app and the [keyboard](https://keyman.com/keyboards/runeboard) that Rune Revival made
 - The [Rune School Discord server](https://discord.gg/BThW4fxAwN) for practicing runes
+
+- [Rune Revival](https://www.youtube.com/@LearnRunes)'s Youtube channel
+- [Keyman](https://keyman.com/) app and the [keyboard](https://keyman.com/keyboards/runeboard) that Rune Revival made
 
 <h2>My other language related websites</h2>
 

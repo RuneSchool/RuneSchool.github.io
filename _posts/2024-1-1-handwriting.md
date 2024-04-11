@@ -1,5 +1,5 @@
 ---
-title: "Handwriting Runes"
+title: "Handwriting Runes (v1)"
 layout: post
 date: 2024-1-1
 category: blog

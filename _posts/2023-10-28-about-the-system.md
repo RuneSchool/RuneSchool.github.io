@@ -1,5 +1,5 @@
 ---
-title: "About the system"
+title: "About the system (v1)"
 layout: post
 date: 2023-10-28
 tag:

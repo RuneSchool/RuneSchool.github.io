@@ -1,5 +1,5 @@
 ---
-title: "Rune Frequency"
+title: "Rune Frequency (v1)"
 layout: post
 date: 2023-11-1
 tag:

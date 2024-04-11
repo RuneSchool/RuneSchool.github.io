@@ -1,5 +1,5 @@
 ---
-title: "New Mid-Atlantic: An International Way to Spell"
+title: "New Mid-Atlantic: An International Way to Spell (v1)"
 layout: post
 date: 2023-10-12
 tag:

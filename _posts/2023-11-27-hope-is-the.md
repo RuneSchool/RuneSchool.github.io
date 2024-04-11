@@ -1,5 +1,5 @@
 ---
-title: "Hope is the Thing with Feathers"
+title: "Hope is the Thing with Feathers (v1)"
 author: "Emily Dickinson"
 layout: post
 date: 2023-11-27

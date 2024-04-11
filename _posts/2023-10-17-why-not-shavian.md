@@ -13,7 +13,7 @@ hidden: true
 
 Shavian is a good writing system (great, in fact). I read and write it comfortably. But it has inconsistencies. 
 
-These inconsistencies may be something that only I personally find annoying, but nonetheless, they highlight the fact that these things are ultimately arbitrary and the result of the creator’s simple opinion or even mistake.
+These inconsistencies may be something that only I personally find annoying, but nonetheless, they highlight the fact that these things are ultimately arbitrary and the result of the creator’s opinion or oversight.
 
 ## Voiced and Unvoiced Dilemma
 

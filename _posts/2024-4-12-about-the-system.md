@@ -19,7 +19,9 @@ First, we map runes to ranges of pronunciations.
 
 ![IPA vowels map](/assets/images/runeSchool2IPAmap.png)
 
-Then we apply lexical set ranges on top of that map. 
+Since the whole chart is covered, this gives us our base vowels. Next we apply 
+
+lexical set ranges on top of that map. 
 
 ![Lexical Sets chart](/assets/images/RuneSchoolLexicalSets.png)
 
@@ -99,16 +101,13 @@ Only use ᛟ when there is no other option, because swapping a vowel rune entire
 | Latin | Normal | Worse | Better |
 | --- | --- | --- | --- |
 | for | ᚠᚩᚱ | ᚠᛟᚱ | ᚠᚱ |
-| chroma | ᚳᚱᚢᚹᛗᚫᛏᛁᛣ | ᚳᚱᚢᚹᛗᛟ | ᚳᚱᚢᚹᛗᚫ |
 
 More often than not, if a diphthong is being reduced, you can just remove the glide.
 
 | Latin | Normal | Worse | Better |
 | --- | --- | --- | --- |
-| to | ᛏᚣᚹ | ᛏᛟ | ᛏᚣ |
 | today | ᛏᚣᚹᛞᛖᛄ | ᛏᛟᛞᛖᛄ | ᛏᚣᛞᛖᛄ |
 | fellow | ᚠᛖᛚᚢᚹ | ᚠᛖᛚᛟ | ᚠᛖᛚᚢ |
-| the | ᚦᛁᛄ | ᚦᛟ | ᚦᛁ |
 
 Cases where you will probably want to use: ᛟ (schwa)
 
@@ -130,15 +129,15 @@ We use the rune ᛡ for the happY vowel /i/
 
 | Latin | Readlex (Shavian) | Readlex (IPA) | Rune School |
 | --- | --- | --- | --- |
-| parted | 𐑐𐑸𐑑𐑩𐑛  | ᛈᚪᚱᛏᛟᛞ or ᛈᚪᚱᛏᛁᛞ
-| partied | 𐑐𐑸𐑑𐑦𐑛 | ᛈᚪᚱᛏᛡᛞ
-| roses | 𐑮𐑴𐑟𐑩𐑟  | ᚱᚢᚹᛉᛟᛉ or ᚱᚢᚹᛉᛁᛉ
-| Rosie’s | ·𐑮𐑴𐑟𐑦𐑟 | ᚱᚢᚹᛉᛡᛉ
-| trusty | 𐑑𐑮𐑳𐑕𐑑𐑦  | ᛏᚱᚢᛋᛏᛡ
-| trustee | 𐑑𐑮𐑳𐑕𐑑𐑰 | ᛏᚱᚢᛋᛏᛇ
-| candid | 𐑑𐑮𐑳𐑕𐑑𐑰 | ᛣᚫᚾᛞᛁᛞ
-| candied | 𐑑𐑮𐑳𐑕𐑑𐑰 | ᛣᚫᚾᛞᛡᛞ
-| candide | 𐑑𐑮𐑳𐑕𐑑𐑰 | ᛣᚫᚾᛞᛇᛞ
+| parted | 𐑐𐑸𐑑𐑩𐑛  | ᛈᚪᚱᛏᛟᛞ or ᛈᚪᚱᛏᛁᛞ |
+| partied | 𐑐𐑸𐑑𐑦𐑛 | ᛈᚪᚱᛏᛡᛞ |
+| roses | 𐑮𐑴𐑟𐑩𐑟  | ᚱᚢᚹᛉᛟᛉ or ᚱᚢᚹᛉᛁᛉ |
+| Rosie’s | ·𐑮𐑴𐑟𐑦𐑟 | ᚱᚢᚹᛉᛡᛉ |
+| trusty | 𐑑𐑮𐑳𐑕𐑑𐑦  | ᛏᚱᚢᛋᛏᛡ |
+| trustee | 𐑑𐑮𐑳𐑕𐑑𐑰 | ᛏᚱᚢᛋᛏᛇ |
+| candid | 𐑑𐑮𐑳𐑕𐑑𐑰 | ᛣᚫᚾᛞᛁᛞ |
+| candied | 𐑑𐑮𐑳𐑕𐑑𐑰 | ᛣᚫᚾᛞᛡᛞ |
+| candide | 𐑑𐑮𐑳𐑕𐑑𐑰 | ᛣᚫᚾᛞᛇᛞ |
 
 ### Allophonic /u/
 
@@ -148,6 +147,17 @@ Use ᚣᚹ. Eg. "actual" is ᚫᛣᚳᚣᚹᛚ. The w+L together add an inherent
 
 Write just ᚱ, ᛚ, ᛗ, or ᚾ where you see 𐑼 or 𐑩𐑤, 𐑩𐑯, or 𐑩𐑥.
 
-In most places you see 𐑼 or 𐑩𐑤, it is because there is a glide right before it. We write the glides, so we don't need to explicitly include the schwas.
+In most places you see **𐑼** or **𐑩𐑤**, it is because there is a glide right before it. We write the glides, so we don't need to explicitly include the schwas.
 
-In many (not all) places where you see 𐑩𐑯 or 𐑩𐑥, you can just right the ᛗ or ᚾ directly without the schwa needed.
+In many (not all) places where you see **𐑩𐑯** or **𐑩𐑥**, you can just right the ᛗ or ᚾ directly without the schwa needed.
+
+### Shortcut words
+
+| Latin | Shavian | Runes | 
+| --- | --- | --- |
+| the | 𐑞 | ᚦ |
+| to | 𐑑 | ᛏ |
+| and | 𐑯 | ᚾ |
+| for | 𐑓 | ᚠᚱ |
+| of | 𐑝 | ᚠ |
+

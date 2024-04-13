@@ -88,15 +88,23 @@ Based on the [toolkit](#toolkit) above, we choose our lexical sets that we want 
 
 ## Vowel reduction
 
-Only use ᛟ when there is no other option.
+The range of pronunciation for all vowel runes has a bit that reaches into the center where ᛟ lives.
 
-> [So the standard transcription of the reduced vowel contrast is justified, but the widespread use of [ə] to transcribe word-internal reduced vowels is misleading — mid reduced vowels are generally only found in stem-final position.](https://www.jstor.org/stable/44526449)
+So in many cases when a vowel is being "reduced", it may just be sliding closer to the center part of its range of possible pronunciations.
+
+Only use ᛟ when there is no other option, because swapping a vowel rune entirely may hinder recognizablity of words.
+
+| Latin | Normal | Badly Reduced | Better |
+| --- | --- | --- | --- |
+| for | ᚠᚩᚱ | ᚠᛟᚱ | ᚠᚱ |
 
 More often than not, if a diphthong is being reduced, you can just remove the glide.
 
-Eg. ᚠᛖᛚᚢᚹ -> ᚠᛖᛚᚢ, ᛏᚣᚹ -> ᛏᚣ, ᚦᛁᛄ -> ᚦᛁ
-
-Do not immedietely jump to using a ᛟ
+| Latin | Normal | Badly Reduced | Better |
+| --- | --- | --- | --- |
+| to | ᛏᚣᚹ | ᛏᛟ | ᛏᚣ |
+| fellow | ᚠᛖᛚᚢᚹ | ᚠᛖᛚᛟ | ᚠᛖᛚᚢ |
+| the | ᚦᛁᛄ | ᚦᛟ | ᚦᛁ |
 
 ## Shavian Readlex
 

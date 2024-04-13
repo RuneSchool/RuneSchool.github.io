@@ -19,9 +19,7 @@ First, we map runes to ranges of pronunciations.
 
 ![IPA vowels map](/assets/images/runeSchool2IPAmap.png)
 
-Since the whole chart is covered, this gives us our base vowels. Next we apply 
-
-lexical set ranges on top of that map. 
+Since the whole chart is covered, this gives us our base vowels. Next we apply consistent patterns onto them to create our lexical sets.
 
 ![Lexical Sets chart](/assets/images/RuneSchoolLexicalSets.png)
 
@@ -90,38 +88,11 @@ Based on the [toolkit](#toolkit) above, we choose our lexical sets that we want 
 
 *Note*: You are free to not use this spelling standard or to modify it according to your needs. Please do visit the [Rune School Discord server](https://discord.gg/BThW4fxAwN) if you have questions or suggestions.
 
-## Vowel reduction
-
-The range of pronunciation for all vowel runes has a bit that reaches into the center where ᛟ lives.
-
-So in many cases when a vowel is being "reduced", it may just be sliding closer to the center part of its range of possible pronunciations because of a change in rhythm (prosody) of speech.
-
-Only use ᛟ when there is no other option, because swapping a vowel rune entirely may hinder recognizablity of words. And consider word derivations and shortenings.
-
-| Latin | Normal | Worse | Better |
-| --- | --- | --- | --- |
-| for | ᚠᚩᚱ | ᚠᛟᚱ | ᚠᚱ |
-
-More often than not, if a diphthong is being reduced, you can just remove the glide.
-
-| Latin | Normal | Worse | Better |
-| --- | --- | --- | --- |
-| today | ᛏᚣᚹᛞᛖᛄ | ᛏᛟᛞᛖᛄ | ᛏᚣᛞᛖᛄ |
-| fellow | ᚠᛖᛚᚢᚹ | ᚠᛖᛚᛟ | ᚠᛖᛚᚢ |
-
-Cases where you will probably want to use: ᛟ (schwa)
-
--ed
--es
--er
--or
-a-
-
 ## Shavian Readlex
 
 When in doubt, follow the [ReadLex](https://readlex.pythonanywhere.com/spellingprinciples/).
 
-Where we divurge is in the following
+Where we divurge is in the following:
 
 ### happY vowel
 
@@ -161,3 +132,27 @@ In many (not all) places where you see **𐑩𐑯** or **𐑩𐑥**, you can jus
 | for | 𐑓 | ᚠᚱ |
 | of | 𐑝 | ᚠ |
 
+### Vowel reduction
+
+The range of pronunciation for all vowel runes has a bit that reaches into the center where ᛟ lives.
+
+So in many cases when a vowel is being "reduced", it may just be sliding closer to the center part of its range of possible pronunciations because of a change in rhythm (prosody) of speech.
+
+The ReadLex swaps a vowel to schwa very often, but we would just temper that habit a bit.
+
+Only use ᛟ when there is no other option, because swapping a vowel rune entirely may hurt recognizablity of some words. Consider the importance of maintaining visual similarity between word derivations and shortenings.
+
+More often than not, if a diphthong is being reduced, you can just remove the glide.
+
+| Latin | Normal | Worse | Better |
+| --- | --- | --- | --- |
+| today | ᛏᚣᚹᛞᛖᛄ | ᛏᛟᛞᛖᛄ | ᛏᚣᛞᛖᛄ |
+| fellow | ᚠᛖᛚᚢᚹ | ᚠᛖᛚᛟ | ᚠᛖᛚᚢ |
+
+Cases where you will probably want to use: ᛟ (schwa)
+
+-ed
+-es
+-er
+-or
+a-

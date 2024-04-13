@@ -25,7 +25,7 @@ Since the whole chart is covered, this gives us our base vowels. Next we apply c
 
 Notice all of the empty spots on the chart. Some of the empty spots don't have a current, existing English phoneme, but they may in the future. Some of the empty spots are possible alternative spellings for slightly different phoneme variations. Think of the toolkit as a playground. Within the confines of these patterns, you can have fun.
 
-For example, you may wish to use ᛟᚹ for your GOAT set, or you may wish to use ᛖᛄᚱ (FACE+R) for your SQUARE set. Go ahead and fill in the blanks to see what you can come up with!
+For example, you may wish to use ᛟᚹ for your GOAT set, use ᛖᛄᚱ (FACE+R) for your SQUARE set, or even move your NURSE set down to ᚢᚢᚱ. Go ahead and fill in the blanks.
 
 The [spelling standard](#spelling-standard) that we use at Rune School is designed to be as globally neutral as possible. Think of it as the way you may want to spell if you had a newspaper that reached the whole world.
 
@@ -96,13 +96,13 @@ Where we divurge is in the following:
 
 ### happY vowel
 
-We use the rune ᛡ for the happY vowel /i/
+We use the rune ᛡ for the happY vowel. And for the weak vowel in "roses", we allow for KIT instead of commA.
 
 | Latin | Readlex (Shavian) | Rune School |
 | --- | --- | --- | --- |
-| parted | 𐑐𐑸𐑑𐑩𐑛  | ᛈᚪᚱᛏᛟᛞ or ᛈᚪᚱᛏᛁᛞ |
+| parted | 𐑐𐑸𐑑𐑩𐑛  | ᛈᚪᚱᛏᛁᛞ |
 | partied | 𐑐𐑸𐑑𐑦𐑛 | ᛈᚪᚱᛏᛡᛞ |
-| roses | 𐑮𐑴𐑟𐑩𐑟  | ᚱᚢᚹᛉᛟᛉ or ᚱᚢᚹᛉᛁᛉ |
+| roses | 𐑮𐑴𐑟𐑩𐑟  | ᚱᚢᚹᛉᛁᛉ |
 | Rosie’s | ·𐑮𐑴𐑟𐑦𐑟 | ᚱᚢᚹᛉᛡᛉ |
 | trusty | 𐑑𐑮𐑳𐑕𐑑𐑦  | ᛏᚱᚢᛋᛏᛡ |
 | trustee | 𐑑𐑮𐑳𐑕𐑑𐑰 | ᛏᚱᚢᛋᛏᛇ |
@@ -149,10 +149,8 @@ More often than not, if a diphthong is being reduced, you can just remove the gl
 | today | ᛏᚣᚹᛞᛖᛄ | ᛏᛟᛞᛖᛄ | ᛏᚣᛞᛖᛄ |
 | fellow | ᚠᛖᛚᚢᚹ | ᚠᛖᛚᛟ | ᚠᛖᛚᚢ |
 
-Cases where you will probably want to use: ᛟ (schwa)
+Cases where you will definitely want to use: ᛟ (schwa)
 
--ed
--es
 -er
 -or
 a-

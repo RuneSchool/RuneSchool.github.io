@@ -70,7 +70,7 @@ Here is a list of runes so that you can see how this system has kept them the sa
 | ᛥ    | Stone |            | /st/                   | <span style="color:green"> /st/ </span> |
 | ![Catrinity font V](/assets/images/Catrinity-V.png) | Double-Feoh   |                   |                       | <span style="color:red"> /v/ </span> |
 
-The only real changes to address are Double-Feoh, [ᚣ](version-2/#ᚣ-for-foot), ᛠ, ᛉ, [ᛡ](version-2/#ᛡ-for-happy-vowel), and ᚷ.
+The only real changes to address are Double-Feoh, [ᚣ](/version-2/#ᚣ-for-foot), ᛠ, ᛉ, [ᛡ](/version-2/#ᛡ-for-happy-vowel), and ᚷ.
 
 | Rune | Reasoning |
 | --- | --- | --- |
@@ -86,25 +86,37 @@ Based on the [toolkit](#toolkit) above, we choose our lexical sets that we want 
 
 ![Spelling Standard Lexical Sets](/assets/images/RuneSchoolLexicalSets-Simplified.png)
 
+*Note*: You are free to not use this spelling standard or to modify it according to your needs. Please do visit the [Rune School Discord server](https://discord.gg/BThW4fxAwN) if you have questions or suggestions.
+
 ## Vowel reduction
 
 The range of pronunciation for all vowel runes has a bit that reaches into the center where ᛟ lives.
 
-So in many cases when a vowel is being "reduced", it may just be sliding closer to the center part of its range of possible pronunciations.
+So in many cases when a vowel is being "reduced", it may just be sliding closer to the center part of its range of possible pronunciations because of a change in rhythm (prosody) of speech.
 
-Only use ᛟ when there is no other option, because swapping a vowel rune entirely may hinder recognizablity of words.
+Only use ᛟ when there is no other option, because swapping a vowel rune entirely may hinder recognizablity of words. And consider word derivations and shortenings.
 
-| Latin | Normal | Badly Reduced | Better |
+| Latin | Normal | Worse | Better |
 | --- | --- | --- | --- |
 | for | ᚠᚩᚱ | ᚠᛟᚱ | ᚠᚱ |
+| chroma | ᚳᚱᚢᚹᛗᚫᛏᛁᛣ | ᚳᚱᚢᚹᛗᛟ | ᚳᚱᚢᚹᛗᚫ |
 
 More often than not, if a diphthong is being reduced, you can just remove the glide.
 
-| Latin | Normal | Badly Reduced | Better |
+| Latin | Normal | Worse | Better |
 | --- | --- | --- | --- |
 | to | ᛏᚣᚹ | ᛏᛟ | ᛏᚣ |
+| today | ᛏᚣᚹᛞᛖᛄ | ᛏᛟᛞᛖᛄ | ᛏᚣᛞᛖᛄ |
 | fellow | ᚠᛖᛚᚢᚹ | ᚠᛖᛚᛟ | ᚠᛖᛚᚢ |
 | the | ᚦᛁᛄ | ᚦᛟ | ᚦᛁ |
+
+Cases where you will probably want to use: ᛟ (schwa)
+
+-ed
+-es
+-er
+-or
+a-
 
 ## Shavian Readlex
 
@@ -112,21 +124,30 @@ When in doubt, follow the [ReadLex](https://readlex.pythonanywhere.com/spellingp
 
 Where we divurge is in the following
 
-### Allophonic /i/ is ·𐑦
+### happY vowel
 
-We use the rune ᛡ for the happY vowel
-
-### Allophonic /u/ is ·𐑫
-
-Use ᚣᚹ. Eg. "actual" is ᚫᛣᚳᚣᚹᛚ. The w+L together add an inherent schwa.
-
-If reduction happens as in "today", the glide is dropped. Eg. ᛏᚣᚹᛞᛖᛄ -> ᛏᚣᛞᛖᛄ
+We use the rune ᛡ for the happY vowel /i/
 
 | Latin | Readlex (Shavian) | Readlex (IPA) | Rune School |
 | --- | --- | --- | --- |
-| trusty | 𐑑𐑮𐑳𐑕𐑑𐑦 | 
-| actual | 
-| roses | 
+| parted | 𐑐𐑸𐑑𐑩𐑛  | ᛈᚪᚱᛏᛟᛞ or ᛈᚪᚱᛏᛁᛞ
+| partied | 𐑐𐑸𐑑𐑦𐑛 | ᛈᚪᚱᛏᛡᛞ
+| roses | 𐑮𐑴𐑟𐑩𐑟  | ᚱᚢᚹᛉᛟᛉ or ᚱᚢᚹᛉᛁᛉ
+| Rosie’s | ·𐑮𐑴𐑟𐑦𐑟 | ᚱᚢᚹᛉᛡᛉ
+| trusty | 𐑑𐑮𐑳𐑕𐑑𐑦  | ᛏᚱᚢᛋᛏᛡ
+| trustee | 𐑑𐑮𐑳𐑕𐑑𐑰 | ᛏᚱᚢᛋᛏᛇ
+| candid | 𐑑𐑮𐑳𐑕𐑑𐑰 | ᛣᚫᚾᛞᛁᛞ
+| candied | 𐑑𐑮𐑳𐑕𐑑𐑰 | ᛣᚫᚾᛞᛡᛞ
+| candide | 𐑑𐑮𐑳𐑕𐑑𐑰 | ᛣᚫᚾᛞᛇᛞ
 
+### Allophonic /u/
 
-![](/assets/images/RuneSchoolLexicalSets-Simplified.png)
+Use ᚣᚹ. Eg. "actual" is ᚫᛣᚳᚣᚹᛚ. The w+L together add an inherent schwa.
+
+### Syllabic consonants
+
+Write just ᚱ, ᛚ, ᛗ, or ᚾ where you see 𐑼 or 𐑩𐑤, 𐑩𐑯, or 𐑩𐑥.
+
+In most places you see 𐑼 or 𐑩𐑤, it is because there is a glide right before it. We write the glides, so we don't need to explicitly include the schwas.
+
+In many (not all) places where you see 𐑩𐑯 or 𐑩𐑥, you can just right the ᛗ or ᚾ directly without the schwa needed.

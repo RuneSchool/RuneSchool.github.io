@@ -10,7 +10,7 @@ tag:
 - v1
 category: blog
 description: "A guide for how to write English with Anglo-Saxon runes in the most International way, creating a kind of mid-atlantic accent in writing."
-hidden: false
+hidden: true
 ---
 
 If you are writing Runic English for an international audience, you may want to spell in a manner that is equally easily understood by all English accents. Imagine you are writing a news article or a future best-selling book, for example. The chances are high that you don't want to rewrite the whole text in 4 different editions for 4 different accents. You will likely want the content to feel equally comfortable for all audiences.

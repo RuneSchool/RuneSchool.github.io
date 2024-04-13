@@ -7,7 +7,7 @@ tag:
 - v1
 category: blog
 description: The Frequency of Runes in Modern English Futhorc
-hidden: false
+hidden: true
 ---
 
 [Carnegie Mellon University did a study](https://thelanguagenerds.com/2019/most-common-sounds-in-spoken-english/) of the frequency of sounds in [American](https://en.wikipedia.org/wiki/General_American_English) English. The list they came up with is the following:

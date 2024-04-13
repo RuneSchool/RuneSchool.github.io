@@ -11,7 +11,7 @@ tag:
 - v1
 category: blog
 description: "A comparison of single-height vs variable-height scripts or alphabets and how this matters to Modern English Furthorc runes"
-hidden: false
+hidden: true
 ---
 
 One of the first things that people will notice about runes is that they are all the same height.

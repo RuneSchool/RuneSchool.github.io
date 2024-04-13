@@ -63,7 +63,7 @@ Here is a list of runes so that you can see how this system has kept them the sa
 | ᚪ    | āc | /a(ː)/           | /ɑ(ː)/                   | <span style="color:green"> /ɑ(ː)/ </span> |
 | ᚫ    | æsc | /a(ː)/           | /æ(ː)/                   | <span style="color:green"> /æ(ː)/ </span> |
 | ᛠ    | ēar |                   | /æ(ː)ɑ/                | <span style="color:red"> NEAR </span> |
-| ᚣ    | ȳr |                   | /y(ː)/                   | <span style="color:red"> MOUTH </span> |
+| ᚣ    | ȳr |                   | /y(ː)/                   | <span style="color:orange"> FOOT / GOOSE </span> |
 | ᛣ    | Calc |                   | /k/                     | <span style="color:green"> /k/ </span> |
 | ᚸ    | Gar |                   | /g/                     | <span style="color:green"> /g/ </span> |
 | ᛢ    | cweorð |           | /k/                   | <span style="color:orange"> /kw/ </span> |
@@ -77,7 +77,7 @@ The only real changes to address are Double-Feoh, [ᚣ](version-2/#ᚣ-for-foot)
 | ᛉ | Old English didn't have a known sound for ᛉ despite keeping it in their rune rows. Some think that it made the sound of /ks/ like the latin "x", but it is unsure. Going back to the Elder Futhark, this had a /z/ sound, so we just keep that sound. |
 | ᚷ | The original sound of ᚷ was /j/, but when French began to influence English after the Norman invasion (~1100), /j/ started to become /dʒ/ in English, [just like in French](https://en.wikipedia.org/wiki/Phonological_history_of_French#To_Early_Old_French[when?]) (Think of how the word Jehovah or Jesus changed in pronunciation over time). So also taking into account that ᛄ is already /j/, we can reduce historical ᚷᚷ to just ᚷ for /dʒ/. |
 | ᛠ | [In Old English, the word "ear" was pronounced like /ˈæ͜ɑː.re/](https://en.wiktionary.org/wiki/eare#Old_English), which would have used this rune. Over time, this word "ear" began to sound like /ɪə/. This is partially documented in the Great Vowel Shift where words with "ea" eventually began to sound like words with "ee". There are some people today who [pronounce NEAR like /ɛə̯/](https://ecampusontario.pressbooks.pub/lexicalsets/chapter/19-near-lexical-set/#mergers) which also shows a bit of a remnant that still pronounces "ear" closer to how it used to be said. So we can assign this rune to the NEAR lexical set, where the pronunciation has mostly shifted from /æːɑ/ to /iːə/.  |
-| Double-Feoh | 5 | Double-Feoh is applying the same idea behind ᚳ and ᛣ to ᚠ |
+| Double-Feoh | Double-Feoh is applying the same idea behind ᚳ and ᛣ to ᚠ |
 
 
 # Spelling Standard

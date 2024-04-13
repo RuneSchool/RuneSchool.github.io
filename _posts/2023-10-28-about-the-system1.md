@@ -7,7 +7,7 @@ tag:
 - v1
 category: blog
 description: An unofficial attempt to explain the reasoning behind the choices made in Rune Revival's Modern English Futhorc system
-hidden: false
+hidden: true
 ---
 
 This article is my attempt at explaining the reasoning behind the choices made in [Rune Revival](https://www.youtube.com/@LearnRunes/)'s runic system taught in this course. It is unofficial and based on my own collection of information.

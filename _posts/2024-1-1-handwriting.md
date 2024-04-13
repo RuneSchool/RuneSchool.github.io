@@ -10,7 +10,7 @@ tag:
 - shavian
 - v1
 description: Is it annoying to write runes by hand?
-hidden: false
+hidden: true
 ---
 
 When learning runes, you will eventually venture into the world of handwriting. And one of the things you may notice is that it is a bit harder than handwriting latin letters. It's definitely more laborious than writing Shavian letters which are just one stroke per letter!

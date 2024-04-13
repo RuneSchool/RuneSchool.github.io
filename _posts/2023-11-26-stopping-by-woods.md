@@ -8,7 +8,7 @@ tag:
 - v1
 category: blog
 description: "Stopping by Woods on a Snowy Evening by Robert Frost in Modern English Futhorc"
-hidden: false
+hidden: true
 ---
 
 <h2 lang="en-Runr" style="font-family:BabelStoneRunic;">ᛋᛏᚩᛈᛈᛁᛝ᛫​ᛒᚪ‍ᛡ᛫​ᚹᚢᛞ‍ᛞᛉ᛫​ᚩᚾ‍ᚾ᛫​ᛟ᛫​ᛋᚾᚩ‍ᚢᛁ᛫​ᛁᚠ‍ᚠᚾᛁᛝ</h2>

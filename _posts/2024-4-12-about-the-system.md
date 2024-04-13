@@ -149,8 +149,28 @@ More often than not, if a diphthong is being reduced, you can just remove the gl
 | today | ᛏᚣᚹᛞᛖᛄ | ᛏᛟᛞᛖᛄ | ᛏᚣᛞᛖᛄ |
 | fellow | ᚠᛖᛚᚢᚹ | ᚠᛖᛚᛟ | ᚠᛖᛚᚢ |
 
+A good example of diphthong reduction is with pronoun contractions:
+
+| Latin | Futhorc |
+| --- | --- |
+|I | ᚪᛄ |
+|I'll | ᚪᚪᛚ |
+|I'm | ᚪᛄᛗ |
+|You | ᛄᚣᚹ |
+|You’ll | ᛄᚣᚣᛚ |
+|Your / You’re | ᛄᚣᚣᚱ |
+|They  | ᚦᛖᛄ |
+|They’ll  | ᚦᛖᛖᛚ |
+|Their / They’re  | ᚦᛖᛖᚱ |
+|He  | ᚻᛁᛄ |
+|He’ll   | ᚻᛁᛁᛚ |
+| He’s   | ᚻᛁᛄᛉ |
+|She   | ᛋᚳᛁᛄ |
+|She’ll     | ᛋᚳᛁᛁᛚ |
+| She’s   | ᛋᚳᛁᛄᛉ |
+
 Cases where you will definitely want to use: ᛟ (schwa)
 
--er
--or
-a-
+* -er
+* -or
+* a-

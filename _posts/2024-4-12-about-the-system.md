@@ -127,7 +127,7 @@ Where we divurge is in the following
 
 We use the rune ᛡ for the happY vowel /i/
 
-| Latin | Readlex (Shavian) | Readlex (IPA) | Rune School |
+| Latin | Readlex (Shavian) | Rune School |
 | --- | --- | --- | --- |
 | parted | 𐑐𐑸𐑑𐑩𐑛  | ᛈᚪᚱᛏᛟᛞ or ᛈᚪᚱᛏᛁᛞ |
 | partied | 𐑐𐑸𐑑𐑦𐑛 | ᛈᚪᚱᛏᛡᛞ |
@@ -147,7 +147,7 @@ Use ᚣᚹ. Eg. "actual" is ᚫᛣᚳᚣᚹᛚ. The w+L together add an inherent
 
 Write just ᚱ, ᛚ, ᛗ, or ᚾ where you see 𐑼 or 𐑩𐑤, 𐑩𐑯, or 𐑩𐑥.
 
-In most places you see **𐑼** or **𐑩𐑤**, it is because there is a glide right before it. We write the glides, so we don't need to explicitly include the schwas.
+In most places you see **𐑼** or **𐑩𐑤**, it is because there is a glide right before it. We write the glides, so we don't need to explicitly include the schwas. Only write ᛟᚱ if it represents the suffix -er, or similar.
 
 In many (not all) places where you see **𐑩𐑯** or **𐑩𐑥**, you can just right the ᛗ or ᚾ directly without the schwa needed.
 

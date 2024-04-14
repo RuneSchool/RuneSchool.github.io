@@ -6,7 +6,7 @@ tag:
 - phonology
 category: blog
 description: The reasoning behind the choices made in Rune School's Modern English Futhorc system
-hidden: false
+hidden: true
 ---
 
 This post is all about the runes themselves and how we can understand them today.

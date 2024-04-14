@@ -83,7 +83,7 @@ What about "analysis" (ənáləsɪs) vs "unorthodox" (ənóːθədɔks). Two o
 2. Spell "analysis" with a more etymological ᚫᚾ at the beginning. Remember ᚫ has a toe that touches closer to the center of the IPA vowel chart too! And keep in mind that "analysis" has the prefix "ana-" like in the word "anagram".
 
 ᚢᚾᚫᛚᚣᛋᛁᛋ
-ᚫᚾᚪᛚᚣᛋᛁᛋ
+ᚫᚾᚫᛚᚣᛋᛁᛋ
 ᚢᚾᛟᚱᚦᚢᛞᚩᛣᛋ
 
 What about "away" and "oasis"? If not using the shortcut ᛟ, to distinguish between "away" and "oasis", you would use a bindrune of ᚢᚹ in "oasis" and use ᚢᚹ unbinded for "away". Similarly, "Halloween" could be spelled with the "ow" as either binded or unbinded ᚢᚹ depending on pronunciation.
@@ -126,14 +126,13 @@ So in many cases when a vowel is being "reduced", it may just be sliding closer 
 
 The ReadLex swaps a vowel to schwa very often, but we would just temper that habit a bit.
 
-Only use ᛟ when there is no other option, because swapping a vowel rune entirely may hurt recognizablity of some words. Consider the importance of maintaining visual similarity between word derivations and shortenings.
+Only use ᚢ when there is no other option, because swapping a vowel rune entirely may hurt recognizablity of some words. Consider the importance of maintaining visual similarity between word derivations and shortenings.
 
 More often than not, if a diphthong is being reduced, you can just remove the glide.
 
 | Latin | Normal | Worse | Better |
 | --- | --- | --- | --- |
-| today | ᛏᚣᚹᛞᛖᛄ | ᛏᛟᛞᛖᛄ | ᛏᚣᛞᛖᛄ |
-| fellow | ᚠᛖᛚᚢᚹ | ᚠᛖᛚᛟ | ᚠᛖᛚᚢ |
+| today | ᛏᚣᚹᛞᛖᛄ | ᛏᚢᛞᛖᛄ | ᛏᚣᛞᛖᛄ |
+| pika | ᛈᛇᛣᚪᚳᚣᚹ | ᛈᛇᛣᚢ | ᛈᛇᛣᚪ |
 
-
-
+Overall, users are encouraged to write however they feel most comfortable. If that means you put schwa's all over the place, go for it! 

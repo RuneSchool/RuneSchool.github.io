@@ -25,21 +25,25 @@ Below is the fully condensed and simplfied system.
 
 ![Bobo Lexical Sets Simplified](/assets/images/BoboLexicalSetsSimplified.png)
 
-## About STRUT and commA
+# About some choices
+
+## ᚢ for STRUT and commA
 
 A big part of the Bobo System is that it combines STRUT and commA into the single rune ᚢ. This is following Geoff Lindsey's lead, but it's also following the lead of Kingsley Read, the designer of the Shavian script. In his next script after Shavian (Quickscript), he too combined "up" and "**a**go" into a single letter.
 
-I want a spelling system that makes users feel extremely confident in how they use it. That confidence severely declines when we introduce a distinction between STRUT and commA.
+**I want a spelling system that makes users feel extremely confident in how they use it. That confidence severely declines when we introduce a distinction between STRUT and commA.**
 
 Note that Dr Lindsey does distinguish between a stressed commA and an unstressed commA, but in Quickscript there is no difference.
 
-## Stress
+### Stress?
 
-When we read "lover" (ᛚᚢᚠᚢᚱ), how do we know which syllable is stressed? Well, just like with Latin English today, there are some rules for determining stress. It's just not baked into the alphabet itself like it is with Shavian (sort of).
+In systems that distinguish commA from STRUT, this distinction is often a cheat code for showing where the stress is in a word.
 
-For example, in most cases, a dipthong takes the stress over a STRUT. Eg. a*way*, a*go*.
+In the Bobo System, when we read "lover" (ᛚᚢᚠᚢᚱ), how do we know which syllable is stressed? Well, just like with Latin English today, there are some rules for determining stress. It's just not baked into the alphabet itself like it is with Shavian (sort of).
 
-## About GOAT
+For example, in most cases, a diphthong takes the stress over a STRUT. Eg. a*way*, a*go*.
+
+## ᚢᚹ or ᛟ for GOAT
 
 This phoneme is spelled as ᚢᚹ (STRUT or commA + /w/), with ᛟ as the shortcut rune.
 
@@ -51,17 +55,17 @@ In the Anglo-Saxon Futhorc, the sound for this ᛟ rune was closer to /ø/ or /�
 
 Some accents even have more of a FOOT sound for the nucleus in their sliding GOAT phoneme (/ʊw/). This also words as ᚢᚹ because ᚢ is cousins with the FOOT rune ᚣ. They look alike!
 
-## About NURSE
+## ᚢᚢᚱ for NURSE
 
 The spelling for the NURSE phoneme is ᚢᚢᚱ. It's no secret that many accents pronounce NURSE with a STRUT+R phoneme. However, there are even some accents that pronounce the STRUT phoneme itself with a /ɜ/ (the traditional NURSE vowel). 
 
 If we think of vowel doubling as having a centering effect, then ᚢᚢ would just bring STRUT closer to /ɜ/ no matter what.
 
-## Spelling Guidelines
+# Spelling Guidelines
 
 Overall, this system is designed to be as intuitive as possible.
 
-### commA or KIT
+## commA or KIT
 
 Use the ᚣ rune when in doubt.
 
@@ -82,17 +86,50 @@ What about "analysis" (ənáləsɪs) vs "unorthodox" (ənóːθədɔks). Two o
 ᚫᚾᚪᛚᚣᛋᛁᛋ
 ᚢᚾᛟᚱᚦᚢᛞᚩᛣᛋ
 
-### lettER or hUrry
+## lettER or hUrry
 
 A separate phoneme for "fur" is really quite rare in the English world. However, we have saved a place for it in the Bobo System as ᚢᚱ or ᚣᚱ, just in case people want to use it.
 
 A bindrune for ᚢᚱ can be used for "lettER" (/ər/) while being unbinded for "hurry" (/ʌr/?) 
 
-### KIT or FLEECE
+## KIT or FLEECE
 
 Use the happY rune ᛡ when in doubt.
 
+## Syllabic consonants
 
+Write just ᚱ, ᛚ, ᛗ, or ᚾ where you see 𐑼 or 𐑩𐑤, 𐑩𐑯, or 𐑩𐑥.
+
+In most places you see **𐑼** or **𐑩𐑤**, it is because there is a glide right before it. We write the glides, so we don't need to explicitly include the schwas. Only write ᛟᚱ if it represents the suffix -er, or similar.
+
+In many (not all) places where you see **𐑩𐑯** or **𐑩𐑥**, you can just right the ᛗ or ᚾ directly without the schwa needed.
+
+### Shortcut words
+
+| Latin | Shavian | Runes | 
+| --- | --- | --- |
+| the | 𐑞 | ᚦ |
+| to | 𐑑 | ᛏ |
+| and | 𐑯 | ᚾ |
+| for | 𐑓 | ᚠᚱ |
+| of | 𐑝 | ᚠ |
+
+### Vowel reduction
+
+The range of pronunciation for all vowel runes has a bit that reaches into the center where ᛟ lives.
+
+So in many cases when a vowel is being "reduced", it may just be sliding closer to the center part of its range of possible pronunciations because of a change in rhythm (prosody) of speech.
+
+The ReadLex swaps a vowel to schwa very often, but we would just temper that habit a bit.
+
+Only use ᛟ when there is no other option, because swapping a vowel rune entirely may hurt recognizablity of some words. Consider the importance of maintaining visual similarity between word derivations and shortenings.
+
+More often than not, if a diphthong is being reduced, you can just remove the glide.
+
+| Latin | Normal | Worse | Better |
+| --- | --- | --- | --- |
+| today | ᛏᚣᚹᛞᛖᛄ | ᛏᛟᛞᛖᛄ | ᛏᚣᛞᛖᛄ |
+| fellow | ᚠᛖᛚᚢᚹ | ᚠᛖᛚᛟ | ᚠᛖᛚᚢ |
 
 
 

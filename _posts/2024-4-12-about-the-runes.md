@@ -9,7 +9,7 @@ description: The reasoning behind the choices made in Rune School's Modern Engli
 hidden: false
 ---
 
-The [newly revamped](/version-2/) Rune School offers both a [spelling standard](#spelling-standard) and a [toolkit](#toolkit) for *making* spelling standards.
+<!--The [newly revamped](/version-2/) Rune School offers both a [spelling standard](#spelling-standard) and a [toolkit](#toolkit) for *making* spelling standards.
 
 # Toolkit
 
@@ -27,7 +27,7 @@ Notice all of the empty spots on the chart. Some of the empty spots don't have a
 
 For example, you may wish to use ᛟᚹ for your GOAT set, use ᛖᛄᚱ (FACE+R) for your SQUARE set, or even move your NURSE set down to ᚢᚢᚱ. Go ahead and fill in the blanks.
 
-The [spelling standard](#spelling-standard) that we use at Rune School is designed to be as globally neutral as possible. Think of it as the way you may want to spell if you had a newspaper that reached the whole world.
+The [spelling standard](#spelling-standard) that we use at Rune School is designed to be as globally neutral as possible. Think of it as the way you may want to spell if you had a newspaper that reached the whole world.-->
 
 ## Assigning sounds to Runes
 
@@ -70,17 +70,20 @@ Here is a list of runes so that you can see how this system has kept them the sa
 | ᛥ    | Stone |            | /st/                   | <span style="color:green"> /st/ </span> |
 | ![Catrinity font V](/assets/images/Catrinity-V.png) | Double-Feoh   |                   |                       | <span style="color:red"> /v/ </span> |
 
-The only real changes to address are Double-Feoh, [ᚣ](/version-2/#ᚣ-for-foot), ᛠ, ᛉ, [ᛡ](/version-2/#ᛡ-for-happy-vowel), and ᚷ.
+The only real changes to address are Double-Feoh, ᚣ, ᛠ, ᛉ, ᛡ, and ᚷ.
 
 | Rune | Reasoning |
 | --- | --- | --- |
 | ᛉ | Old English didn't have a known sound for ᛉ despite keeping it in their rune rows. Some think that it made the sound of /ks/ like the latin "x", but it is unsure. Going back to the Elder Futhark, this had a /z/ sound, so we just keep that sound. |
 | ᚷ | The original sound of ᚷ was /j/, but when French began to influence English after the Norman invasion (~1100), /j/ started to become /dʒ/ in English, [just like in French](https://en.wikipedia.org/wiki/Phonological_history_of_French#To_Early_Old_French[when?]) (Think of how the word Jehovah or Jesus changed in pronunciation over time). So also taking into account that ᛄ is already /j/, we can reduce historical ᚷᚷ to just ᚷ for /dʒ/. |
 | ᛠ | [In Old English, the word "ear" was pronounced like /ˈæ͜ɑː.re/](https://en.wiktionary.org/wiki/eare#Old_English), which would have used this rune. Over time, this word "ear" began to sound like /ɪə/. This is partially documented in the Great Vowel Shift where words with "ea" eventually began to sound like words with "ee". There are some people today who [pronounce NEAR like /ɛə̯/](https://ecampusontario.pressbooks.pub/lexicalsets/chapter/19-near-lexical-set/#mergers) which also shows a bit of a remnant that still pronounces "ear" closer to how it used to be said. So we can assign this rune to the NEAR lexical set, where the pronunciation has mostly shifted from /æːɑ/ to /iːə/.  |
+| ᚣ |   |
+| ᛡ |   | 
+| ᚢ |   |
 | Double-Feoh | Double-Feoh is applying the same idea behind ᚳ and ᛣ to ᚠ |
 
 
-# Spelling Standard
+<!--# Spelling Standard
 
 Based on the [toolkit](#toolkit) above, we choose our lexical sets that we want to exist in our spelling standard. Then we simplify it all by removing the empty sets. After removing empty sets, we remove unnecessary rune doubling and add in any shortcut runes.
 
@@ -138,9 +141,9 @@ The range of pronunciation for all vowel runes has a bit that reaches into the c
 
 So in many cases when a vowel is being "reduced", it may just be sliding closer to the center part of its range of possible pronunciations because of a change in rhythm (prosody) of speech.
 
-<!-- The ReadLex swaps a vowel to schwa very often, but we would just temper that habit a bit.
+The ReadLex swaps a vowel to schwa very often, but we would just temper that habit a bit.
 
-Only use ᛟ when there is no other option, because swapping a vowel rune entirely may hurt recognizablity of some words. Consider the importance of maintaining visual similarity between word derivations and shortenings.-->
+Only use ᛟ when there is no other option, because swapping a vowel rune entirely may hurt recognizablity of some words. Consider the importance of maintaining visual similarity between word derivations and shortenings.
 
 More often than not, if a diphthong is being reduced, you can just remove the glide.
 
@@ -148,3 +151,5 @@ More often than not, if a diphthong is being reduced, you can just remove the gl
 | --- | --- | --- | --- |
 | today | ᛏᚣᚹᛞᛖᛄ | ᛏᛟᛞᛖᛄ | ᛏᚣᛞᛖᛄ |
 | fellow | ᚠᛖᛚᚢᚹ | ᚠᛖᛚᛟ | ᚠᛖᛚᚢ |
+
+-->

@@ -47,13 +47,11 @@ For example, in most cases, a diphthong takes the stress over a STRUT. Eg. a*way
 
 This phoneme is spelled as ᚢᚹ (STRUT or commA + /w/), with ᛟ as the shortcut rune.
 
-If not using the shortcut ᛟ, to distinguish between "away" and "oasis", you would use a bindrune of ᚢᚹ in "oasis" and use ᚢᚹ unbinded for "away". Similarly, "Halloween" could be spelled with the "ow" as either binded or unbinded ᚢᚹ depending on pronunciation.
-
 Historically, at least in the Elder Futhark, ᛟ had a clear /o:/ sound. When GOAT is monophthongized, it tends to be very close to that sound. So in that sense, this rune would be sort of coming home to its roots.
 
 In the Anglo-Saxon Futhorc, the sound for this ᛟ rune was closer to /ø/ or /œ/. We see that the South African accent uses this sound for a monophthong GOAT. This /ø~œ/ is also a valid nucleus for a sliding GOAT, meaning it could be /œw/. 
 
-Some accents even have more of a FOOT sound for the nucleus in their sliding GOAT phoneme (/ʊw/). This also words as ᚢᚹ because ᚢ is cousins with the FOOT rune ᚣ. They look alike!
+Some accents even have more of a FOOT sound for the nucleus in their sliding GOAT phoneme (/ʊw/). This also works as ᚢᚹ because ᚢ is cousins with the FOOT rune ᚣ. They look alike!
 
 ## ᚢᚢᚱ for NURSE
 
@@ -63,7 +61,7 @@ If we think of vowel doubling as having a centering effect, then ᚢᚢ would ju
 
 # Spelling Guidelines
 
-Overall, this system is designed to be as intuitive as possible.
+Overall, this system is designed to be as intuitive as possible. As mentioned above, confidence with the user is paramount. A user should be able to spell confidently without consulting a dictionary.
 
 ## commA or KIT
 
@@ -77,6 +75,8 @@ Refer again to the IPA map:
 
 In our system, the FOOT rune ᚣ is not only a middle ground between ᚢ and ᛁ, but the rune itself visually looks like an ᛁ inside of a ᚢ. For this reason, it could be best to spell these sounds with FOOT ᚣ. So if there is a sound that could be either commA or KIT, go with 
 
+## commA or STRUT
+
 What about "analysis" (ənáləsɪs) vs "unorthodox" (ənóːθədɔks). Two options present themselves. 
 
 1. Use bindrunes to show ᚢᚾ as the single self-contained prefix "un-".
@@ -85,6 +85,8 @@ What about "analysis" (ənáləsɪs) vs "unorthodox" (ənóːθədɔks). Two o
 ᚢᚾᚫᛚᚣᛋᛁᛋ
 ᚫᚾᚪᛚᚣᛋᛁᛋ
 ᚢᚾᛟᚱᚦᚢᛞᚩᛣᛋ
+
+What about "away" and "oasis"? If not using the shortcut ᛟ, to distinguish between "away" and "oasis", you would use a bindrune of ᚢᚹ in "oasis" and use ᚢᚹ unbinded for "away". Similarly, "Halloween" could be spelled with the "ow" as either binded or unbinded ᚢᚹ depending on pronunciation.
 
 ## lettER or hUrry
 
@@ -96,7 +98,9 @@ A bindrune for ᚢᚱ can be used for "lettER" (/ər/) while being unbinded for 
 
 Use the happY rune ᛡ when in doubt.
 
-## Syllabic consonants
+## Compared to the Shavian ReadLex
+
+### Syllabic consonants
 
 Write just ᚱ, ᛚ, ᛗ, or ᚾ where you see 𐑼 or 𐑩𐑤, 𐑩𐑯, or 𐑩𐑥.
 

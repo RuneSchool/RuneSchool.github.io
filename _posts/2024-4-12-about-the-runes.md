@@ -9,6 +9,74 @@ description: The reasoning behind the choices made in Rune School's Modern Engli
 hidden: false
 ---
 
+This post is all about the runes themselves and how we can understand them today.
+
+Firstly, let's get a good look at them with some cool ASCII arrangements.
+
+### Extra runes separate
+
+```
+ᚠᚢᚦᚩᚱᚳᚷᚹᚻᚾ
+ᛁᛄᛇᛈᛉᛋᛏᛒᛖᛗ
+ᛚᛝᛞᛟᚪᚫᚣᛠᛣᚸ
+
+ᛡᛢᛥ
+```
+
+```
+ᚠᚢᚦᚩᚱᚳᚷᚹᚻᚾᛁᛄᛇᛈᛉᛋᛏᛒᛖᛗᛚᛝᛞᛟᚪᚫᚣᛠᛣᚸ
+          ᛡ   ᛥ           ᛢ 
+```
+
+```
+                  ᚠ                      
+   ᛢ       ᚸ             ᚢ               
+       ᛣ                    ᚦ            
+    ᛠ                          ᚩ         
+   ᚣ                             ᚱ       
+  ᚫ                               ᚳ      
+ ᚪ                                 ᚷ     
+ᛟ                                   ᚹ    
+ᛞ                                   ᚻ    
+ ᛝ                                  ᚾ     
+   ᛚ                               ᛁ       
+   ᛗ                             ᛄ     ᛡ  
+     ᛖ                         ᛇ         
+       ᛒ                     ᛈ           
+           ᛏ             ᛉ               
+                  ᛋ                      
+            ᛥ                            
+```
+
+### All runes together
+
+```
+ᚠᚢᚦᚩᚱᚳᚷᚹ
+ᚻᚾᛁᛄᛇᛈᛉᛋ
+ᛏᛒᛖᛗᛚᛝᛞᛟ
+ᚪᚫᚣᛡᛠᛢᛣᛥ
+ᚸ
+```
+
+```
+                ᛥ   ᚠ                  
+           ᛣ             ᚢ             
+       ᛢ                     ᚦ         
+    ᛠ                           ᚩ      
+   ᛡ                             ᚱ     
+  ᚣ                               ᚳ    
+ ᚫ                                 ᚷ   
+ᚪ                                   ᚹ  
+ᛟ                 ᚸ                 ᚻ  
+ ᛞ                                 ᚾ   
+  ᛝ                               ᛁ    
+   ᛚ                             ᛄ     
+    ᛗ                           ᛇ      
+       ᛖ                     ᛈ         
+           ᛒ             ᛉ             
+                ᛏ   ᛋ                  
+```
+
 <!--The [newly revamped](/version-2/) Rune School offers both a [spelling standard](#spelling-standard) and a [toolkit](#toolkit) for *making* spelling standards.
 
 # Toolkit
@@ -29,7 +97,7 @@ For example, you may wish to use ᛟᚹ for your GOAT set, use ᛖᛄᚱ (FACE+R
 
 The [spelling standard](#spelling-standard) that we use at Rune School is designed to be as globally neutral as possible. Think of it as the way you may want to spell if you had a newspaper that reached the whole world.-->
 
-## Assigning sounds to Runes
+# Assigning sounds to Runes
 
 Here is a list of runes so that you can see how this system has kept them the same or changed them. The text is green if it is the same, orange if it slightly different, and red if it is a fairly large difference.
 

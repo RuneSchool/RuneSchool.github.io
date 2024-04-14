@@ -1,5 +1,5 @@
 ---
-title: "Spelling System: Guidelines"
+title: "Spelling System, Part 3: Guidelines"
 layout: post
 date: 2024-4-13
 tag:

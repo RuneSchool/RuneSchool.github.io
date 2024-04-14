@@ -1,5 +1,5 @@
 ---
-title: "Spelling System: IPA and Lexical Sets"
+title: "Spelling System, Part 2: IPA and Lexical Sets"
 layout: post
 date: 2024-4-12
 tag:

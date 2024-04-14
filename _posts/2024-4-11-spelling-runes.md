@@ -1,5 +1,5 @@
 ---
-title: "Spelling System: The Runes"
+title: "Spelling System, Part 1: The Runes"
 layout: post
 date: 2024-4-11
 tag:

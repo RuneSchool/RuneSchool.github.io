@@ -100,9 +100,9 @@ We use the rune ᛡ for the happY vowel. And for the weak vowel in "roses", we a
 
 | Latin | Readlex (Shavian) | Rune School |
 | --- | --- | --- | --- |
-| parted | 𐑐𐑸𐑑𐑩𐑛  | ᛈᚪᚱᛏᛁᛞ |
+| parted | 𐑐𐑸𐑑𐑩𐑛  | ᛈᚪᚱᛏᛁᛞ or ᛈᚪᚱᛏᛟᛞ |
 | partied | 𐑐𐑸𐑑𐑦𐑛 | ᛈᚪᚱᛏᛡᛞ |
-| roses | 𐑮𐑴𐑟𐑩𐑟  | ᚱᚢᚹᛉᛁᛉ |
+| roses | 𐑮𐑴𐑟𐑩𐑟  | ᚱᚢᚹᛉᛁᛉ or ᚱᚢᚹᛉᛟᛉ |
 | Rosie’s | ·𐑮𐑴𐑟𐑦𐑟 | ᚱᚢᚹᛉᛡᛉ |
 | trusty | 𐑑𐑮𐑳𐑕𐑑𐑦  | ᛏᚱᚢᛋᛏᛡ |
 | trustee | 𐑑𐑮𐑳𐑕𐑑𐑰 | ᛏᚱᚢᛋᛏᛇ |
@@ -138,9 +138,9 @@ The range of pronunciation for all vowel runes has a bit that reaches into the c
 
 So in many cases when a vowel is being "reduced", it may just be sliding closer to the center part of its range of possible pronunciations because of a change in rhythm (prosody) of speech.
 
-The ReadLex swaps a vowel to schwa very often, but we would just temper that habit a bit.
+<!-- The ReadLex swaps a vowel to schwa very often, but we would just temper that habit a bit.
 
-Only use ᛟ when there is no other option, because swapping a vowel rune entirely may hurt recognizablity of some words. Consider the importance of maintaining visual similarity between word derivations and shortenings.
+Only use ᛟ when there is no other option, because swapping a vowel rune entirely may hurt recognizablity of some words. Consider the importance of maintaining visual similarity between word derivations and shortenings.-->
 
 More often than not, if a diphthong is being reduced, you can just remove the glide.
 
@@ -148,29 +148,3 @@ More often than not, if a diphthong is being reduced, you can just remove the gl
 | --- | --- | --- | --- |
 | today | ᛏᚣᚹᛞᛖᛄ | ᛏᛟᛞᛖᛄ | ᛏᚣᛞᛖᛄ |
 | fellow | ᚠᛖᛚᚢᚹ | ᚠᛖᛚᛟ | ᚠᛖᛚᚢ |
-
-A good example of diphthong reduction is with pronoun contractions:
-
-| Latin | Futhorc |
-| --- | --- |
-|I | ᚪᛄ |
-|I'll | ᚪᚪᛚ |
-|I'm | ᚪᛄᛗ |
-|You | ᛄᚣᚹ |
-|You’ll | ᛄᚣᚣᛚ |
-|Your / You’re | ᛄᚣᚣᚱ |
-|They  | ᚦᛖᛄ |
-|They’ll  | ᚦᛖᛖᛚ |
-|Their / They’re  | ᚦᛖᛖᚱ |
-|He  | ᚻᛁᛄ |
-|He’ll   | ᚻᛁᛁᛚ |
-| He’s   | ᚻᛁᛄᛉ |
-|She   | ᛋᚳᛁᛄ |
-|She’ll     | ᛋᚳᛁᛁᛚ |
-| She’s   | ᛋᚳᛁᛄᛉ |
-
-Cases where you will definitely want to use: ᛟ (schwa)
-
-* -er
-* -or
-* a-

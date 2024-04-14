@@ -1,5 +1,5 @@
 ---
-title: "About the system"
+title: "About the runes"
 layout: post
 date: 2024-4-12
 tag:

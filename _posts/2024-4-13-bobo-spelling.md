@@ -83,7 +83,7 @@ All runes together:
                 ᛏ   ᛋ                  
 ```
 
-## Assigning sounds
+## -- Assigning sounds
 
 Here is a list of runes so that you can see how this system has kept them the same or changed them. The text is green if it is the same, orange if it slightly different, and red if it is a fairly large difference.
 
@@ -126,19 +126,19 @@ Here is a list of runes so that you can see how this system has kept them the sa
 
 The only real changes to address are Double-Feoh, ᚣ, ᛠ, ᛉ, ᛡ, and ᚷ.
 
-### ᛉ 
+### --- ᛉ 
 
 Old English didn't have a known sound for ᛉ despite keeping it in their rune rows. Some think that it made the sound of /ks/ like the latin "x", but it is unsure. Going back to the Elder Futhark, this had a /z/ sound, so we just keep that sound.
 
-### ᚷ 
+### --- ᚷ 
 
 The original sound of ᚷ was /j/, but when French began to influence English after the Norman invasion (~1100), /j/ started to become /dʒ/ in English, [just like in French](https://en.wikipedia.org/wiki/Phonological_history_of_French#To_Early_Old_French[when?]) (Think of how the word Jehovah or Jesus changed in pronunciation over time). So also taking into account that ᛄ is already /j/, we can reduce historical ᚷᚷ to just ᚷ for /dʒ/.
 
-### ᛠ 
+### --- ᛠ 
 
 [In Old English, the word "ear" was pronounced like /ˈæ͜ɑː.re/](https://en.wiktionary.org/wiki/eare#Old_English), which would have used this rune. Over time, this word "ear" began to sound like /ɪə/. This is partially documented in the Great Vowel Shift where words with "ea" eventually began to sound like words with "ee". There are some people today who [pronounce NEAR like /ɛə̯/](https://ecampusontario.pressbooks.pub/lexicalsets/chapter/19-near-lexical-set/#mergers) which also shows a bit of a remnant that still pronounces "ear" closer to how it used to be said. So we can assign this rune to the NEAR lexical set, where the pronunciation has mostly shifted from /æːɑ/ to /iːə/.  
 
-### ᚣ
+### --- ᚣ
 
 This rune visually looks like ᛁ inside of ᚢ and would thus be appropriate for any of the sounds between /i/ and /u/ on the IPA sound chart.
 
@@ -164,7 +164,7 @@ Another option entirely would be to use ᚣ as a rune that represents /ju:/ like
 
 Option 4 is the best because of the STRUT-FOOT (hull-pull) merger and the FOOT-GOOSE merger. *Visually* STRUT and FOOT look similar and *also* FOOT and GOOSE look similar. So FOOT is the meeting point of the two. Also, STRUT is a more open sound than FOOT on the IPA vowel chart and ᚢ looks more visually open than ᚣ.
 
-### ᛡ 
+### --- ᛡ 
 
 "[happY can be associated with either fleece, kit, or face, with vowel qualities in the range of /i ~ ɪ ~ e ~ ɛ/](https://ecampusontario.pressbooks.pub/lexicalsets/chapter/25-happy-lexical-set/)". KIT, FLEECE, and happY are not three distinct sounds. Rather, happY could be either KIT or FLEECE. If anyone has used Shavian before, you know the pain of not having a letter just for this happY phoneme.
 
@@ -201,11 +201,11 @@ The /i/-ish sound is perfect for the happY vowel. And moving ᛄ to the FACE, PR
 
 Ultimately, if a user ᛄ and ᛡ and uses just one for both happY and /j/, it's not the end of the world. But offering this distinction should aid in clarity.
 
-### ᚢ 
+### --- ᚢ 
 
 STRUT originally came from the "short u" sound. Because of this, it's appropriate to think that if runes had continued in use, people would have eventually started to pronounce ᚢ as a STRUT. 
 
-### Double-Feoh
+### --- Double-Feoh
 
 Double-Feoh is applying the same idea behind ᚳ and ᛣ to ᚠ.
 
@@ -229,13 +229,13 @@ Below is the fully condensed and simplfied system.
 
 # About some choices
 
-## ᚢ for STRUT and commA
+## -- ᚢ for STRUT and commA
 
 A big part of the Bobo System is that it combines STRUT and commA into the single rune ᚢ. This is following Geoff Lindsey's lead, but it's also following the lead of Kingsley Read, the designer of the Shavian script. In his next script after Shavian (Quickscript), he too combined "up" and "**a**go" into a single letter.
 
 **I want a spelling system that makes users feel extremely confident in how they use it. That confidence severely declines when we introduce a distinction between STRUT and commA.**
 
-### Stress?
+### --- Stress?
 
 Note that Dr Lindsey does distinguish between a stressed commA and an unstressed commA, but in Quickscript there is no difference.
 
@@ -245,7 +245,7 @@ In the Bobo System, when we read "lover" (ᛚᚢᚠᚢᚱ), how do we know which
 
 For example, in most cases, a diphthong takes the stress over a STRUT. Eg. a*way*, a*go*.
 
-## ᚢᚹ or ᛟ for GOAT
+## -- ᚢᚹ or ᛟ for GOAT
 
 This phoneme is spelled as ᚢᚹ (STRUT or commA + /w/). There are 3 major ways to handle the GOAT diphthong. Start with a THOUGHT/LOT vowel, start with a STRUT vowel, start with a commA vowel. Since we combined STRUT and commA into one rune ᚢ, this just won the day.
 
@@ -256,7 +256,7 @@ Some accents even start the GOAT diphthong with a FOOT sound (/ʊw/). This also 
 In the Anglo-Saxon Futhorc, the sound for this ᛟ rune was closer to /ø/ or /œ/. It is true that these sounds are used for NURSE in some English accents. So it would make sense to have ᛟ for a shortcut rune for the NURSE vowel too. However, we also see that the South African accent uses /œ/ for a monophthong GOAT. This /ø~œ/ range is also a valid starting point for a GOAT diphthong, as in /œw/.
 
 
-## ᚢᚢᚱ for NURSE
+## -- ᚢᚢᚱ for NURSE
 
 The spelling for the NURSE phoneme is ᚢᚢᚱ. It's no secret that many accents pronounce NURSE with a STRUT+R phoneme. However, there are even some accents that pronounce the STRUT phoneme itself with a /ɜ/ (the traditional NURSE vowel). 
 
@@ -273,7 +273,7 @@ However, we encourage users to reference the [Shavian ReadLex](https://readlex.p
 | Modern IPA | Shavian | Runes |
 | --- | --- | --- | 
 | ə́ | 𐑳 | ᚢ | 
-| ə́w | 𐑴 | ᚢᚹ |
+| ə́w | 𐑴 | ᚢᚹ or ᛟ |
 | ə | 𐑩 or 𐑼 | ᚢ or ᚢᚱ |
 | ə́w | 𐑦 | ᛁ |
 | ə́w | 𐑰 | ᛁᛄ or ᛇ |
@@ -294,7 +294,7 @@ However, we encourage users to reference the [Shavian ReadLex](https://readlex.p
 | ə́w | 𐑻 | ᚢᚢᚱ |
 | ə́w | 𐑿 | ᛄᚣᚹ |
 
-## commA or KIT
+## -- commA or KIT
 
 Use the ᚣ rune when in doubt.
 
@@ -311,7 +311,7 @@ In our system, the FOOT rune ᚣ is not only a middle ground between ᚢ and ᛁ
 | parted | 𐑐𐑸𐑑𐑩𐑛  | ᛈᚪᚱᛏᛁᛞ or ᛈᚪᚱᛏᚢᛞ? Try ᛈᚪᚱᛏᚣᛞ |
 | roses | 𐑮𐑴𐑟𐑩𐑟  | ᚱᚢᚹᛉᛁᛉ or ᚱᚢᚹᛉᚢᛉ? Try ᚱᚢᚹᛉᚣᛉ |
 
-## commA or STRUT
+## -- commA or STRUT
 
 What about "analysis" (ənáləsɪs) vs "unorthodox" (ənóːθədɔks). Two options present themselves. 
 
@@ -324,17 +324,17 @@ What about "analysis" (ənáləsɪs) vs "unorthodox" (ənóːθədɔks). Two o
 
 What about "away" and "oasis"? If not using the shortcut ᛟ, to distinguish between "away" and "oasis", you would use a bindrune of ᚢᚹ in "oasis" and use ᚢᚹ unbinded for "away". Similarly, "Halloween" could be spelled with the "ow" as either binded or unbinded ᚢᚹ depending on pronunciation.
 
-## lettER or hUrry
+## -- lettER or hUrry
 
 A separate phoneme for "fur" is really quite rare in the English world. However, we have saved a place for it in the Bobo System as ᚢᚱ or ᚣᚱ, just in case people want to use it.
 
 A bindrune for ᚢᚱ can be used for "lettER" (/ər/) while being unbinded for "hurry" (/ʌr/?) 
 
-## KIT or FLEECE
+## -- KIT or FLEECE
 
 Use the happY rune ᛡ when in doubt.
 
-## Syllabic consonants
+## -- Syllabic consonants
 
 Write just ᚱ, ᛚ, ᛗ, or ᚾ where you see 𐑼 or 𐑩𐑤, 𐑩𐑯, or 𐑩𐑥.
 
@@ -342,7 +342,7 @@ In most places you see **𐑼** or **𐑩𐑤**, it is because there is a glide 
 
 In many (not all) places where you see **𐑩𐑯** or **𐑩𐑥**, you can just right the ᛗ or ᚾ directly without the schwa needed.
 
-## Shortcut words
+## -- Shortcut words
 
 | Latin | Shavian | Runes | 
 | --- | --- | --- |
@@ -352,7 +352,7 @@ In many (not all) places where you see **𐑩𐑯** or **𐑩𐑥**, you can jus
 | for | 𐑓 | ᚠᚱ |
 | of | 𐑝 | ᚠ |
 
-## Etymology Spelling?
+## -- Etymology Spelling?
 
 We recomend a sound-based spelling system because that is the more practical and efficient system. George Bernard Shaw, when he advocated for Shavian, believed in ignoring everything about etymology in such a script because all etymology does is obscure the efficiency of the tool that is the written language. We agree with that sentiment. The number one concern with spelling should be conveying your message simply, clearly, and with as little effort as possible.
 

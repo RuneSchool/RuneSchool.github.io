@@ -29,6 +29,8 @@ Below is the fully condensed and simplfied system.
 
 A big part of the Bobo System is that it combines STRUT and commA into the single rune ᚢ. This is following Geoff Lindsey's lead, but it's also following the lead of Kingsley Read, the designer of the Shavian script. In his next script after Shavian (Quickscript), he too combined "up" and "**a**go" into a single letter.
 
+I want a spelling system that makes users feel extremely confident in how they use it. That confidence severely declines when we introduce a distinction between STRUT and commA.
+
 Note that Dr Lindsey does distinguish between a stressed commA and an unstressed commA, but in Quickscript there is no difference.
 
 ## Stress

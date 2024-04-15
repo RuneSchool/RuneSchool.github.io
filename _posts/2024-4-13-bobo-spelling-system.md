@@ -11,14 +11,11 @@ hidden: false
 
 The Bobo Spelling System is inspired by [Quickscript](https://en.wikipedia.org/wiki/Quikscript), [Rune Revival](https://runerevival.online), [Stella](https://rentry.co/merunes), [Lexical Sets for Actors](https://ecampusontario.pressbooks.pub/lexicalsets/chapter/introduction-2/), and [Dr Geoff Lindsey](https://www.youtube.com/@DrGeoffLindsey).
 
-
-# System
-
 This system is an alternative to the [Rune School Spelling System](/rune-school-spelling-system/), and slightly more experimental. 
 
-The Bobo System is named after a dog called "Bubba" AKA "Bobo".
+The Bobo System is named after a dog called "Bubba" AKA "Bobo". The name "Bubba" can be understood as "buh-buh". And when the name is changed to "Bobo", it is just understood as "buhw-buhw".
 
-The name "Bubba" can be understood as "buh-buh". And when the name is changed to "Bobo", it is just understood as "buhw-buhw".
+# System
 
 Our starting point is still the [runes and their sounds](/runes-and-sounds/) and [Dr. Lindsey's IPA symbols](/version-2/#lindsey-vowels).
 

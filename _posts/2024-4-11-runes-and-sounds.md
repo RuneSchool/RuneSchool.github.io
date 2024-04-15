@@ -9,6 +9,8 @@ description: An explanation of the Runes and Sounds in Modern English Futhorc
 hidden: false
 ---
 
+The goal for this analysis and further spelling systems is to be true and authentic to the Anglo-Saxon Futhorc. We do not add in foreign runes or wildly change rune sounds.
+
 # The Runes
 
 Before we can design a spelling system, we need to understand what we're working with.

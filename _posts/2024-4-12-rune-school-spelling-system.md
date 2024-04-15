@@ -11,11 +11,6 @@ hidden: false
 
 The Rune School Spelling System is inspired by [Shavian](https://shavian.info), [Rune Revival](https://runerevival.online), [Stella](https://rentry.co/merunes), [Lexical Sets for Actors](https://ecampusontario.pressbooks.pub/lexicalsets/chapter/introduction-2/), and [Dr Geoff Lindsey](https://www.youtube.com/@DrGeoffLindsey).
 
-# Goals
-
-* True and authentic to the Anglo-Saxon Futhorc. Do not add in foreign runes or wildly change rune sounds
-* Capable of representing all meaningfully distinct phonemes 
-
 # System
 
 Based on the data from the [runes and their sounds](/runes-and-sounds/) and the info from [Dr. Lindsey's IPA symbols](/version-2/#lindsey-vowels), we can create a spelling system.

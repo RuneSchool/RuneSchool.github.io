@@ -15,9 +15,7 @@ Overall, this system is designed to be as intuitive as possible. A user should b
 
 However, we encourage users to reference the [Shavian ReadLex](https://readlex.pythonanywhere.com/), [Cube Dictionary](http://cubedictionary.org/), or [QuickScript dictionary](https://github.com/akovaski/QS-Dict) and base their spellings off of those if they want a better foundation or jumpstart.
 
-Keep in mind that this system is still phonemic and not phonetic. We just use the IPA to help people understand. Think of the following table as a rosetta stone.
-
-(Ignoring the consonants)
+When using the dictionaries above, the below key should be helpful for you.
 
 | Traditional IPA | Modern IPA | Shavian | Runes |
 | --- | --- | --- | --- | 
@@ -48,14 +46,11 @@ Keep in mind that this system is still phonemic and not phonetic. We just use th
 | ɜː | ə́ːr | 𐑻 | ᚢᚢᚱ |
 | juː | jʉ́w | 𐑿 | ᛄᚣᚹ |
 
-
-ɪ́j z ɪ l ɪj
-
 ## commA or KIT
 
 Use the ᚣ rune when in doubt.
 
-Many words like anal**y**sis voy**a**ge, invis**i**ble are quite tricky to spell. Do you write them with a KIT, commA, or even a FOOT?
+Many words like anal**y**sis, voy**a**ge, and invis**i**ble are quite tricky to spell. Do you write them with a KIT, commA, or even a FOOT?
 
 Refer again to the IPA map:
 
@@ -64,9 +59,9 @@ Refer again to the IPA map:
 In our system, the FOOT rune ᚣ is not only a middle ground between ᚢ and ᛁ, but the rune itself visually looks like an ᛁ inside of a ᚢ. For this reason, it could be best to spell these sounds with FOOT ᚣ. So if there is a sound that could be either commA or KIT, go with ᚣ.
 
 | Latin | Readlex (Shavian) | Rune School |
-| %% | %% | %% | %% |
-| parted | 𐑐𐑸𐑑𐑩𐑛  | ᛈᚪᚱᛏᛁᛞ or ᛈᚪᚱᛏᚢᛞ? Try ᛈᚪᚱᛏᚣᛞ |
-| roses | 𐑮𐑴𐑟𐑩𐑟  | ᚱᚢᚹᛉᛁᛉ or ᚱᚢᚹᛉᚢᛉ? Try ᚱᚢᚹᛉᚣᛉ |
+| --- | --- | --- | --- |
+| parted | 𐑐𐑸𐑑𐑩𐑛  | ᛈᚪᚱᛏᛁᛞ or ᛈᚪᚱᛏᚢᛞ? Try ᛈᚪᚱᛏᚣᛞ! |
+| roses | 𐑮𐑴𐑟𐑩𐑟  | ᚱᚢᚹᛉᛁᛉ or ᚱᚢᚹᛉᚢᛉ? Try ᚱᛟᛉᚣᛉ! |
 
 ## commA or STRUT
 
@@ -127,3 +122,20 @@ More often than not, if a diphthong is being reduced, you can just remove the gl
 | pika | ᛈᛇᛣᚪᚳᚣᚹ | ᛈᛇᛣᚢ | ᛈᛇᛣᚪ |
 
 Overall, users are encouraged to write however they feel most comfortable. If that means you put schwas all over the place, go for it! 
+
+## Bindrunes
+
+It is suggested to use bindrunes for the following letter combinations:
+
+* lettER: ᚢᚱ 
+* START: ᚪᚱ
+* NORTH: ᚩᚱ
+* SQUARE: ᛖᛖᚱ
+* NURSE: ᚢᚢᚱ
+* FACE: ᛖᛄ
+* PRICE: ᚪᛄ
+* CHOICE: ᚩᛄ
+* GOOSE: ᚣᚹ
+* MOUTH: ᚪᚹ
+* GOAT: ᚢᚹ (if not using ᛟ)
+* /v/: ᚠᚠ

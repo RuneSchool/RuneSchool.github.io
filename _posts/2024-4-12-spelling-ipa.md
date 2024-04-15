@@ -76,7 +76,7 @@ In the Anglo-Saxon Futhorc, the sound for this ᛟ rune was closer to /ø/ or /�
 
 The spelling for the NURSE phoneme is ᚢᚢᚱ. It's no secret that many accents pronounce NURSE with a STRUT+R phoneme. However, there are even some accents that pronounce the STRUT phoneme itself with a /ɜ/ (the traditional NURSE vowel). 
 
-If we think of vowel doubling as having a centering effect, then ᚢᚢ would just bring STRUT closer to /ɜ/ no matter what.
+If we think of vowel doubling as having a centering effect, then ᚢᚢ would bring STRUT closer to /ɜ/.
 
-If a user spells NURSE with just ᚢᚱ, it's also not the end of the world. They're basically then combining lettER (unstressed) and NURSE (stressed). However for clarity, we will spell them differently.
+If a user spells NURSE with just ᚢᚱ, it's okay! That means that they have "lettER" and "NURSE" merged. The spelling system is designed so that phonemes that are close together are also *visually* alike! However for clarity, we will spell them differently.
 

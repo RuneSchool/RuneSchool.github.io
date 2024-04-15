@@ -117,7 +117,7 @@ Here is a list of runes so that you can see how this system has kept them the sa
 | ᛗ    | Mann | /m/               | /m/                   | <span style="color:green"> /m/ |
 | ᛚ    | lagu | /l/               | /l/                   | <span style="color:green"> /l/  |
 | ᛝ    | ing | /ŋ/               | /ŋ~ŋg/                   | <span style="color:green"> /ŋ~ŋg/  |
-| ᛟ    | oedil (ēðel) | /o(ː)/           | /eː~ø(ː)/               | <span style="color:green"> /ø~œ~ɜ~ɐ~ə~ɵ~ɘ/ commA~lettER~NURSE </span> |
+| ᛟ    | oedil (ēðel) | /o(ː)/           | /eː~ø(ː)/               | <span style="color:green"> /ø~œ/ GOAT or NURSE </span> |
 | ᛞ    | dæg | /ð/               | /d/                   | <span style="color:green"> /d/ </span> |
 | ᚪ    | āc | /a(ː)/           | /ɑ(ː)/                   | <span style="color:green"> /ɑ(ː)/ </span> |
 | ᚫ    | æsc | /a(ː)/           | /æ(ː)/                   | <span style="color:green"> /æ(ː)/ </span> |

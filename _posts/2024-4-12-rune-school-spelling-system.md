@@ -9,7 +9,7 @@ description: An explanation of the Rune School spelling system for Modern Englis
 hidden: false
 ---
 
-The Rune School Spelling System is inspired by [Shavian](https://shavian.info), [Rune Revival](https://runerevival.online), [Stella](https://rentry.co/merunes), [Lexical Sets for Actors](https://ecampusontario.pressbooks.pub/lexicalsets/chapter/introduction-2/), and [Dr Geoff Lindsey](https://www.youtube.com/@DrGeoffLindsey).
+The Rune School Spelling System is inspired by [Shavian](https://shavian.info), [Rune Revival](https://runerevival.online), [Lexical Sets for Actors](https://ecampusontario.pressbooks.pub/lexicalsets/chapter/introduction-2/), and [Dr Geoff Lindsey](https://www.youtube.com/@DrGeoffLindsey).
 
 # System
 

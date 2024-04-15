@@ -9,11 +9,7 @@ description: An explanation of the Rune School spelling system for Modern Englis
 hidden: false
 ---
 
-Based on the data from the [runes and their sounds](/runes-and-sounds/), we can create a spelling system.
-
-Using [Dr. Lindsey's IPA symbols](/version-2/#lindsey-vowels), we can assign lexical sets for each vowel.
-
-A big part of this spelling system is that it combines STRUT and commA into a single rune (more on that below).
+Based on the data from the [runes and their sounds](/runes-and-sounds/) and the info from [Dr. Lindsey's IPA symbols](/version-2/#lindsey-vowels), we can create a spelling system.
 
 ![Rune School Lexical Sets](/assets/images/RuneSchoolLexicalSets.png)
 
@@ -23,9 +19,21 @@ Below is the fully condensed and simplfied system.
 
 ![Rune School Lexical Sets Simplified](/assets/images/RuneSchoolLexicalSets-Simplified.png)
 
+You can see that in this system, we 
+
 # Choices
 
+## ᛟ for commA
+
+You can see on the IPA vowel chart that ᛟ was traditionally more fronted than a commA sound typically is.
+
+![IPA vowel map](/assets/images/runeSchool2IPAmapNoSchwa.png)
+
+We have pushed the acceptable range of this rune into ᚢ's territory and ᚢ has retreated towards the back.
+
 ## ᛟᛟᚱ for NURSE
+
+It just so happens that the original sound of ᛟ is still used for the NURSE vowel in some accents.
 
 Previously, the system used ᛟᚱ for both lettER and NURSE. As an American, I am totally fine with this. But I know that many English speakers have a strong distinction between these two phonemes. 
 

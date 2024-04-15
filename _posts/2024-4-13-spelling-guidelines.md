@@ -6,7 +6,7 @@ tag:
 - spelling system
 category: blog
 description: An explanation of the Rune School spelling system for Modern English Futhorc
-hidden: false
+hidden: true
 ---
 
 # Spelling Guidelines

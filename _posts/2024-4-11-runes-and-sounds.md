@@ -1,5 +1,5 @@
 ---
-title: "Spelling System, Part 1: The Runes"
+title: "The Runes and their sounds"
 layout: post
 date: 2024-4-11
 tag:
@@ -18,7 +18,7 @@ The Rune School Spelling System is inspired by [Shavian](https://shavian.info), 
 
 # The Runes
 
-Before we can begin talking about a spelling system, we need to understand what we're working with.
+Before we can design a spelling system, we need to understand what we're working with.
 
 Let's get a good look at them with some cool ASCII arrangements.
 
@@ -217,3 +217,23 @@ Double-Feoh is applying the same idea behind ᚳ and ᛣ to ᚠ.
 ᚳ could previously be two sounds "ch" or "k". Its doubled cousin ᛣ takes one of those sounds "k".
 
 Similarly ᚠ can be two sounds "f" or "v". Its doubled cousin will take one of those sounds "v".
+
+# Phonetic or Phonemic?
+
+The runes can't just be assigned to very specific IPA symbols. That would mean that we are mandating that everyone pronounce a rune in exactly the same way. There needs to be some flexibility in order for the runes to be useful. Because of that, we need to map out a range of valid pronunciations for each rune.
+
+A phonemic script ensures that no matter how an accent shifts sounds around, the words will still be understandable around the world.
+
+The consonants are pretty straightforward. There is little variation within those. So we will focus on the vowels.
+
+## IPA vowel chart
+
+The IPA vowel chart gives us a lay of the land in terms of where phonetic sounds live. We can use this as a map of sounds to mark out locations of phonemes.
+
+Using the above table, we can assign the vowel runes to these rough territories.
+
+![IPA vowel map](/assets/images/runeSchool2IPAmapNoSchwa.png)
+
+Each circle is saying "your pronunciation of this rune is somewhere in here".
+
+From here, we can make adjustments to the territorial boundaries in order to develop spelling *systems*.

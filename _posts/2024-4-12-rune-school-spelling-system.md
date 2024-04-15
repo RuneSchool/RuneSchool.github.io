@@ -1,116 +1,29 @@
 ---
-title: "Rune School Spelling Updates"
+title: "The Rune School Spelling System"
 layout: post
-date: 2024-4-6
-category: blog
+date: 2024-4-12
 tag:
-- update
-description: Updates to the spelling system
+- spelling system
+category: blog
+description: An explanation of the Rune School spelling system for Modern English Futhorc
 hidden: false
 ---
 
-Rune School is [branching](https://en.wikipedia.org/wiki/Branching_%28version_control%29) off from the (excellent) [Rune Revival](https://runerevival.online/) spelling system and updating it based on their own experience and learnings.
+Based on the data from the [runes and their sounds](/runes-and-sounds/), we can create a spelling system.
 
-# Why
+Using [Dr. Lindsey's IPA symbols](/version-2/#lindsey-vowels), we can assign lexical sets for each vowel.
 
-A couple of things inspired this:
+A big part of this spelling system is that it combines STRUT and commA into a single rune (more on that below).
 
-1. A reddit comment about how doubled vowels are attested in the futhorc corpus
+![Rune School Lexical Sets](/assets/images/RuneSchoolLexicalSets.png)
 
-2. A user complaint about the word unknown in runes: ᚪᚾᚾᚾᚩᚢᚾ
+In parenthesis you can see the "shortcut" runes. 
 
-I had been playing around with my own changes to the spelling system for a long time, but I wasn't ready to show anything yet.
+Below is the fully condensed and simplfied system.
 
-The goals of the spelling changes are twofold.
+![Rune School Lexical Sets Simplified](/assets/images/RuneSchoolLexicalSets-Simplified.png)
 
-1. Align vowels to better match the organization [explained by Dr Geoff Lindsey](https://www.youtube.com/watch?v=gtnlGH055TA)
-
-2. Drastically reduce the amount of doubling of runes
-
-So much is owed to [Rune Revival](https://runerevival.online/) and it is not this author's desire to break away and never return. That is why I consider these changes a "branch". The changes are really not so significant and it is my desire to continue working together and maybe [merge](https://en.wikipedia.org/wiki/Merge_%28version_control%29) together again in the future.
-
-<!--
-# Before and After
-
-Here are some before and after texts to give the reader a taste of the changes.
-
-```
-Latin:
-A wonderful fact to reflect upon, that every human creature is constituted to be that profound secret and mystery to every other.
-Runes BEFORE:
-ᛟ᛫​ᚹᚪᚾ‍ᚾᛞᛟᚱᚠᛟᛚ᛫​ᚠᚫᛣᛏ᛫​ᛏᚢ᛫​ᚱᛁᚠᚠᛚᛖᛣᛏ᛫​ᛟᛈᚩᚾ‍ᚾ᛫᛫​ᚦᚫᛏ᛫​ᛖᚠᚱᛁ᛫​ᛇᚢᛗᛟᚾ᛫​ᚳᚱᛁᚳᛟᚱ᛫​ᛁᛉ‍ᛉ᛫​ᛣᚩᚾ‍ᚾᛋᛏᛁᛏᛏᛄᚢᛏᛟᛞ᛫​ᛏᚢ᛫​ᛒᛁ᛫​ᚦᚫᛏ᛫​ᛈᚱᛟᚠᚣᚾᛞ᛫​ᛋᛁᛣᚱᛟᛏ᛫​ᚫᚾᛞ᛫​ᛗᛁᛥᛟᚱᛁ᛫​ᛏᚢ᛫​ᛖᚠᚱᛁ᛫​ᚪᚦᚦᛟᚱ᛬
-Runes NOW:
-ᚢ᛫​ᚹᚢᚾᛞᚢᚱᚠᛚ᛫​ᚠᚫᛣᛏ᛫​ᛏᚣ᛫​ᚱᛁᚠᛚᛖᛣᛏ᛫ᚢᛈᚩᚾ᛫᛫​ᚦᚫᛏ᛫​ᛖᚠᚱᛡ᛫​ᛇᚣᚹᛗᚢᚾ᛫​ᚳᚱᛇᚳᚢᚱ᛫​ᛁᛉ᛫​ᛣᚩᚾᛋᛏᛁᛏᛄᚣᚹᛏᚣᛞ᛫​ᛏᚣ᛫​ᛒ​ᛇ᛫​ᚦᚫᛏ᛫​ᛈᚱᚢᚠᚪᚹᚾᛞ᛫​ᛋᛇᛣᚱᚣᛏ᛫​ᚫᚾᛞ᛫​ᛗᛁᛥᚢᚱᛡ᛫​ᛏᚣ᛫​ᛖᚠᚱᛡ᛫​ᚢᚦᚢᚱ᛬
-
-Latin:
-You know you're in love when you can't fall asleep because reality is finally better than your dreams.
-Runes BEFORE:
-ᛄᚢ᛫​ᚾᚩᚢ᛫​ᛄᚢᛌᛟᚱ᛫​ᛁᚾ‍ᚾ᛫​ᛚᚪᚠ‍ᚠ᛫​ᚹᛖᚾ᛫​ᛄᚢ᛫​ᛣᚫᚾ‍ᛏ᛫​ᚠᚩᛚ᛫​ᛟᛋᛚᛁᛈ᛫​ᛒᛁᛤᚩᛉ‍ᛉ᛫​ᚱᛁᚫᛚᛁᛏᛏᛁ᛫​ᛁᛉ‍ᛉ᛫​ᚠᚪᛡᚾᛟᛚᛁ᛫​ᛒᛖᛏᛟᚱ᛫​ᚦᚫᚾ᛫​ᛄᚩ‍ᚱ᛫​ᛞᚱᛁᛗᛉ᛬​
-Runes NOW:
-ᛄᚣᚹ᛫​ᚾᛟ᛫​ᛄᚣᚹᚱ᛫​ᛁᚾ᛫​ᛚᚢᚠ‍ᚠ᛫​ᚹᛖᚾ᛫​ᛄᚣᚹ᛫​ᛣᚫᚾ‍ᛏ᛫​ᚠᚩᚩᛚ᛫​ᚢᛋᛚᛇᛈ᛫​ᛒᛁᛣᚢᛉ᛫​ᚱᛡᚫᛚᛁᛏᛡ᛫​ᛁᛉ᛫​ᚠᚪᛄᚾᚢᛚᛡ᛫​ᛒᛖᛏᚢᚱ᛫​ᚦᚫᚾ᛫​ᛄᚣᚱ᛫​ᛞᚱᛇᛗᛉ᛬​
-```
--->
-
-## Lindsey Vowels
-
-What I call the "Lindsey Vowels" are below:
-
-![](/assets/images/LindseyVowels.png)
-
-You can see a similar chart in Labov's Atlas of North American English. Dr Geoff Lindsey did not invent this organization of vowels.
-
-You can see that the overall grouping of vowels is "lax checked" or short (red), "linking r" or lengthened vowels (yellow), and closing diphthong (sea green).
-
-Based on his chart, I have created my own chart to suit our needs a bit better.
-
-![](/assets/images/RuneSchoolVowelChart.png)
-
-You can see that I have tried to show a bit more cleanly not just the groupings of vowels, but also the relationships *across* groupings. This allows us to use the same runes across the groupings in predictable ways that will feel intuitive to the user.
-
-We can get more mileage from fewer letters by using this system. It'll also feel like less work by having predictable patterns across and within categories.
-
-<!--If we follow some basic principles, we can construct a chart like the following:
-
-![](/assets/images/RuneSchoolLexicalSets.png)
-
-I will speak more about the doubled vowels later on.
-
-The above are the intuitive spellings for these phonemes (lexical sets). See the consistent themes?
-
-Now to simplify this system further, we can remove vowel doubling where it is not necessary and use different runes instead of some doubled vowels.
-
-![](/assets/images/RuneSchoolLexicalSets-Reduced.png)
-
-These runes are not just for fun. They can help us bind together English accents. For example, there is a wide range of pronunciations for some of these phonemes. Because of that, it can be useful to have a unique rune that doesn't hint at how something is "supposed to be pronounced".
-
-Here is a much simpler list with only the most popular lexical sets:
-
-![](/assets/images/RuneSchoolLexicalSets-Simplified.png)-->
-
-## Remove consonant doubling
-
-Consonant doubling wasn't working. English has short vowels far more frequently than lengthened vowels and thus the doubled consonants were too frequent.
-
-On top of that, there were so many consonants that potentially needed to be doubled (16), it was very inefficient.
-
-Overall, the consonant doubling system was a holdover from previous latin spelling conventions and just didn't make sense for our needs.
-
-## Introduce vowel doubling
-
-Vowel doubling is done to indicate a lengthened vowel, which is fairly rare in English. 
-
-| Latin | Runes BEFORE | Runes NOW |
-| --- | --- | --- |
-| LOT | ᛚᚪᛏ 🇺🇸 / ᛚᚩᛏᛏ 🇬🇧  | ᛚᚪᛏ 🇺🇸 / ᛚᚩᛏ 🇬🇧 |
-| THOUGHT | ᚦᚩᛏ | ᚦᚩᚩᛏ |
-| SQUARE | ᛋᛣᚹᛖᚱ | ᛋᛣᚹᛖᛖᚱ |
-| NURSE | ᚾᛟᚱᛋ | ᚾᚢᚢᚱᛋ |
-
-Vowel doubling is about as equally attested in Runes as consonant doubling.
-
-See further posts for how these changes can be manifested.
-
-<!--
+# Choices
 
 ## ᛟᛟᚱ for NURSE
 
@@ -241,5 +154,3 @@ The /i/-ish sound is perfect for the happY vowel. And moving ᛄ to the FACE, PR
 | Candide (2) | ᛣᚫᚾᛞᛁᛞ      | ᛣᚫᚾᛞᛇᛞ   |
 
 Ultimately, if a user confuses these two runes and uses just one for happY and /j/, it's not the end of the world. But offering this distinction should aid in clarity.
-
--->

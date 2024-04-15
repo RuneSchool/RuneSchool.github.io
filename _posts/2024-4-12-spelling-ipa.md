@@ -53,13 +53,15 @@ A big part of the Rune School System is that it combines STRUT and commA into th
 
 ### What about stress?
 
-Note that Dr Lindsey does distinguish between a stressed commA and an unstressed commA, but in Quickscript there is no difference.
+Dr Lindsey does distinguish between a stressed commA and an unstressed commA, but in Quickscript there is no difference.
 
-In systems that distinguish commA from STRUT, this distinction is often a cheat code for showing where the stress is in a word (strut is stressed while commA is not)
+In systems that distinguish commA (ə) from STRUT (ʌ), this distinction is often a cheat code for showing where the stress is in a word (strut is stressed while commA is not)
 
-In the Rune School System, when we read "lover" (ᛚᚢᚠᚢᚱ), how do we know which syllable is stressed? Well, just like with Latin English today, there are some rules for determining stress. It's just not baked into the alphabet itself like it (sort of) is with Shavian.
+In the Rune School System, when we read "lover" (ᛚᚢᚠᚢᚱ), how do we know which syllable is stressed? Well, just like with Latin English today, there are some rules for determining stress. It's just not baked into the alphabet itself like it (inconsistently) is with Shavian. 
 
-For example, in most cases, a diphthong takes the stress over a STRUT. Eg. a*way*, a*go*.
+The STRUT phoneme contains both /ʌ/ and /ə/ as valid pronunciations. What this means is that, since ᚢ is STRUT, ᚢ can sound like either of those depending on the context. When it's stressed it may sound more like /ʌ/ and when it's unstressed it may sound more like /ə/. Therefore ᛚᚢᚠᚢᚱ can be pronounced as /lʌv.ər/.
+
+English stress timing and stress rules is an intricate thing, but there are predictable behaviors that can be learned. For example, in most cases, a diphthong takes the stress over a STRUT. Eg. a*way*, a*go*.
 
 ## ᚢᚹ or ᛟ for GOAT
 

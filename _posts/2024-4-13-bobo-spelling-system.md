@@ -9,7 +9,7 @@ description: An explanation of the Bobo spelling system for Modern English Futho
 hidden: false
 ---
 
-The Bobo Spelling System is inspired by [Quickscript](https://en.wikipedia.org/wiki/Quikscript), [Rune Revival](https://runerevival.online), [Stella](https://rentry.co/merunes), [Lexical Sets for Actors](https://ecampusontario.pressbooks.pub/lexicalsets/chapter/introduction-2/), and [Dr Geoff Lindsey](https://www.youtube.com/@DrGeoffLindsey).
+The Bobo Spelling System is inspired by [Quickscript](https://en.wikipedia.org/wiki/Quikscript), [Deseret](https://en.wikipedia.org/wiki/Deseret_alphabet), [Rune Revival](https://runerevival.online), [Stella](https://rentry.co/merunes), [Lexical Sets for Actors](https://ecampusontario.pressbooks.pub/lexicalsets/chapter/introduction-2/), and [Dr Geoff Lindsey](https://www.youtube.com/@DrGeoffLindsey).
 
 This system is an alternative to the [Rune School Spelling System](/rune-school-spelling-system/), and slightly more experimental. 
 
@@ -39,7 +39,7 @@ Shavian:
 Rune School:
 ᚢᚾᛞᛟᚱ᛫​ᚦ᛫​ᚢᚾᚩᚱᚦᛟᛞᚩᛣᛋ᛫​ᛈᛟᚹᛋᛏ᛫​ᛁᛉ᛫​ᛟᚾ᛫​ᛟᚾᚫᛚᛟᛋᛁᛋ
 Bobo:
-ᚢᚾᛞᛟᚱ᛫​ᚦ᛫​ᚢᚾᚩᚱᚦᚣᛞᚩᛣᛋ᛫​ᛈᛟᛋᛏ᛫​ᛁᛉ᛫​ᚫᚾ᛫ᚣᚾᚫᛚᚣᛋᛁᛋ
+ᚢᚾᛞᚢᚱ᛫​ᚦ᛫​ᚢᚾᚩᚱᚦᚣᛞᚩᛣᛋ᛫​ᛈᛟᛋᛏ᛫​ᛁᛉ᛫​ᚫᚾ᛫ᚣᚾᚫᛚᚣᛋᛁᛋ
 ```
 
 # About some choices
@@ -188,7 +188,10 @@ We recomend a sound-based spelling system because that is the more practical and
 
 *However*, the system does allow for a more etymology-based spelling if you take into account the fact that each vowel rune has one toe that dips into the center of the vowel chart.
 
+
 ![IPA vowel map](/assets/images/runeSchool2IPAmapNoSchwa.png)
+
+Because we have merged commA *into* STRUT, you may not want to put ᚢ all over the place as you do in the Rune School system. If this is the case, then you can spell words according to their Strong Form pronunciation and leave the vowel weakening to the knowledge of the reader.
 
 So for example if you want to spell a word or name that has "-son" at the end of it, a sound-based spelling would be "-ᛋᚢᚾ", while a more etymology-based spelling would be "-ᛋᚩᚾ". In the etymology-based spelling there, it's just understood that the ᚩ is reduced towards the center based on [stress timing](https://en.wikipedia.org/wiki/Isochrony#Stress_timing). If users wish to keep stress timing in mind, they may end up using the commA/STRUT rune less and less.
 

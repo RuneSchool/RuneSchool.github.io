@@ -13,9 +13,12 @@ The Rune School Spelling System is inspired by [Shavian](https://shavian.info), 
 
 # Goals
 
-Be true and authentic to the Anglo-Saxon Futhorc. Do not add in foreign runes or wildly change rune sounds.
+* True and authentic to the Anglo-Saxon Futhorc. Do not add in foreign runes or wildly change rune sounds
+* Capable of representing all meaningfully distinct phonemes 
 
 # The Runes
+
+Before we can begin talking about a spelling system, we need to understand what we're working with.
 
 Let's get a good look at them with some cool ASCII arrangements.
 
@@ -85,6 +88,8 @@ All runes together:
 
 ## Assigning sounds
 
+In order to use these runes, we needs to take their original sounds and apply them to sounds that exist in modern English.
+
 Here is a list of runes so that you can see how this system has kept them the same or changed them. The text is green if it is the same, orange if it slightly different, and red if it is a fairly large difference.
 
 | Rune | Name | Elder Futhark IPA | Old English IPA | Modern English Futhorc pronunciation |
@@ -124,7 +129,7 @@ Here is a list of runes so that you can see how this system has kept them the sa
 | ᛥ    | Stone |            | /st/                   | <span style="color:green"> /st/ </span> |
 | ![Catrinity font V](/assets/images/Catrinity-V.png) | Double-Feoh   |                   |                       | <span style="color:red"> /v/ </span> |
 
-The only real changes to address are Double-Feoh, ᚣ, ᛠ, ᛉ, ᛡ, and ᚷ.
+The only real changes to address are Double-Feoh, ᚢ, ᚣ, ᛠ, ᛉ, ᛡ, and ᚷ.
 
 ### ᛉ 
 
@@ -209,3 +214,6 @@ STRUT originally came from the "short u" sound. Because of this, it's appropriat
 
 Double-Feoh is applying the same idea behind ᚳ and ᛣ to ᚠ.
 
+ᚳ could previously be two sounds "ch" or "k". Its doubled cousin ᛣ takes one of those sounds "k".
+
+Similarly ᚠ can be two sounds "f" or "v". Its doubled cousin will take one of those sounds "v".

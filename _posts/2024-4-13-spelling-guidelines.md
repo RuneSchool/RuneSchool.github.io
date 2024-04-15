@@ -11,33 +11,45 @@ hidden: false
 
 # Spelling Guidelines
 
-Overall, this system is designed to be as intuitive as possible. As mentioned above, confidence with the user is paramount. A user should be able to spell confidently without consulting a dictionary.
+Overall, this system is designed to be as intuitive as possible. A user should be able to spell confidently without consulting a dictionary.
 
-However, we encourage users to reference the [Shavian ReadLex](https://readlex.pythonanywhere.com/), [Cube Dictionary](http://cubedictionary.org/), or [QuickScript dictionary](https://github.com/akovaski/QS-Dict) and base their spellings off of those.
+However, we encourage users to reference the [Shavian ReadLex](https://readlex.pythonanywhere.com/), [Cube Dictionary](http://cubedictionary.org/), or [QuickScript dictionary](https://github.com/akovaski/QS-Dict) and base their spellings off of those if they want a better foundation or jumpstart.
 
-| Modern IPA | Shavian | Runes |
-| --- | --- | --- | 
-| ə́ | 𐑳 | ᚢ | 
-| ə́w | 𐑴 | ᚢᚹ or ᛟ |
-| ə | 𐑩 or 𐑼 | ᚢ or ᚢᚱ |
-| ə́w | 𐑦 | ᛁ |
-| ə́w | 𐑰 | ᛁᛄ or ᛇ |
-| ə́w | 𐑧 | ᛖ |
-| ə́w | 𐑱 | ᛖᛄ |
-| ə́w | 𐑨 | ᚫ |
-| ə́w | 𐑲 | ᚪᛄ |
-| ə́w | 𐑭 | ᚪ |
-| ə́w | 𐑸 | ᚪᚱ |
-| ə́w | 𐑪 | ᚩ |
-| ə́w | 𐑷 | ᚩᚩ |
-| ə́w | 𐑹 | ᚩᚱ |
-| ə́w | 𐑫 | ᚣ |
-| ə́w | 𐑵 | ᚣᚹ |
-| ə́w | 𐑬 | ᚪᚹ |
-| ə́w | 𐑶 | ᚩᛄ |
-| ə́w | 𐑺 | ᛖᛖᚱ |
-| ə́w | 𐑻 | ᚢᚢᚱ |
-| ə́w | 𐑿 | ᛄᚣᚹ |
+Keep in mind that this system is still phonemic and not phonetic. We just use the IPA to help people understand. Think of the following table as a rosetta stone.
+
+(Ignoring the consonants)
+
+| Traditional IPA | Modern IPA | Shavian | Runes |
+| --- | --- | --- | --- | 
+| ʌ | ə́ | 𐑳 | ᚢ | 
+| əʊ | əw | 𐑴 | ᚢᚹ or ᛟ |
+| ə | ə | 𐑩 | ᚢ |
+| ər | ər | 𐑼 | ᚢᚱ |
+| ɪ | ɪ | 𐑦 | ᛁ |
+| ɪə | ɪ́ː | 𐑾 | ᛁᛁ or ᛠ |
+| ɪər | ɪ́ːr | 𐑾 | ᛁᛁᚱ or ᛠᚱ|
+| i | ɪj | 𐑦 | ᛡ |
+| iː | ɪj | 𐑰 | ᛁᛄ or ᛇ |
+| e | ɛ | 𐑧 | ᛖ |
+| eɪ | ɛj | 𐑱 | ᛖᛄ |
+| æ | a | 𐑨 | ᚫ |
+| aɪ | ɑj | 𐑲 | ᚪᛄ |
+| ɑː | ɑː | 𐑭 | ᚪ |
+| ɑːr | ɑːr | 𐑸 | ᚪᚱ |
+| ɒ | ɔ́ | 𐑪 | ᚩ |
+| ɔː | óː | 𐑷 | ᚩᚩ |
+| ɔːr | óːr | 𐑹 | ᚩᚱ |
+| ʊ | ʉ́ | 𐑫 | ᚣ |
+| uː | ʉ́w | 𐑵 | ᚣᚹ |
+| aʊ | áw | 𐑬 | ᚪᚹ |
+| ɔɪ | ój | 𐑶 | ᚩᛄ |
+| er | ɛ́r | 𐑺 | ᛖᚱ |
+| eə | ɛ́ːr | 𐑺 | ᛖᛖᚱ |
+| ɜː | ə́ːr | 𐑻 | ᚢᚢᚱ |
+| juː | jʉ́w | 𐑿 | ᛄᚣᚹ |
+
+
+ɪ́j z ɪ l ɪj
 
 ## commA or KIT
 
@@ -71,7 +83,7 @@ What about "away" and "oasis"? If not using the shortcut ᛟ, to distinguish bet
 
 ## lettER or hUrry
 
-A separate phoneme for "fur" is really quite rare in the English world. However, we have saved a place for it in the Bobo System as ᚢᚱ or ᚣᚱ, just in case people want to use it.
+A separate phoneme for "fur" is really quite rare in the English world. However, we have saved a place for it in the Rune School System as ᚢᚱ or ᚣᚱ, just in case people want to use it.
 
 A bindrune for ᚢᚱ can be used for "lettER" (/ər/) while being unbinded for "hurry" (/ʌr/?) 
 

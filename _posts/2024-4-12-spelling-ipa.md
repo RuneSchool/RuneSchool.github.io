@@ -9,39 +9,55 @@ description: An explanation of the Rune School spelling system for Modern Englis
 hidden: false
 ---
 
+# Phonetic or Phonemic?
+
+We want this writing system to be phonemic, similar to Shavian or Quickscript. This means that it doesn't assign specific IPA symbols to each rune. Rather, it assigns a range of possible pronunciations to each rune.
+
+That is why you learn runes based on example words in this course. For example, however you say "dress", you will represent that sound with the rune ᛖ.
+
+A phonemic script ensures that no matter how an accent shifts sounds around, the words will still be understandable around the world.
+
+Now that we have reasonable phonetic *sound* assignments for the runes, we need to apply these runes to *phonemes*. 
+
+Phonemes are typically quite clear and obvious with consonants. So we will spend most of our time on vowels.
+
 # IPA vowel map
 
-Now that we have reasonable sound assignments for the runes, next is to get an understanding of how the vowel runes in particular relate to one another.
+The IPA vowel map gives us a lay of the land in terms of where phonetic sounds live. We can use this map of sounds to mark out locations of phonemes.
+
+The most common English accents in the world tend to have phonemes in these locations:
 
 ![IPA vowel map](/assets/images/runeSchool2IPAmapNoSchwa.png)
 
+Notice that each vowel rune has a wide area marked out on the map. Each circle is saying "your pronunciation of this rune is somewhere in here".
+
 Using this chart and [Dr. Lindsey's IPA symbols](/version-2/#lindsey-vowels), we can assign lexical sets for each vowel.
 
-And here is our lexical sets. A big part of this spelling system is that it combines STRUT and commA into a single rune.
+A big part of this spelling system is that it combines STRUT and commA into a single rune (more on that below).
 
-![Bobo Lexical Sets](/assets/images/BoboLexicalSets.png)
+![Rune School Lexical Sets](/assets/images/BoboLexicalSets.png)
 
 In parenthesis you can see the "shortcut" runes. 
 
 Below is the fully condensed and simplfied system.
 
-![Bobo Lexical Sets Simplified](/assets/images/BoboLexicalSetsSimplified.png)
+![Rune School Lexical Sets Simplified](/assets/images/BoboLexicalSetsSimplified.png)
 
 # About some choices
 
 ## ᚢ for STRUT and commA
 
-A big part of the Bobo System is that it combines STRUT and commA into the single rune ᚢ. This is following Geoff Lindsey's lead, but it's also following the lead of Kingsley Read, the designer of the Shavian script. In his next script after Shavian (Quickscript), he too combined "up" and "**a**go" into a single letter.
+A big part of the Rune School System is that it combines STRUT and commA into the single rune ᚢ. This is following Geoff Lindsey's lead, but it's also following the lead of Kingsley Read, the designer of the Shavian script. In his next script after Shavian (Quickscript), he too combined "up" and "**a**go" into a single letter.
 
 **I want a spelling system that makes users feel extremely confident in how they use it. That confidence severely declines when we introduce a distinction between STRUT and commA.**
 
-### Stress?
+### What about stress?
 
 Note that Dr Lindsey does distinguish between a stressed commA and an unstressed commA, but in Quickscript there is no difference.
 
 In systems that distinguish commA from STRUT, this distinction is often a cheat code for showing where the stress is in a word (strut is stressed while commA is not)
 
-In the Bobo System, when we read "lover" (ᛚᚢᚠᚢᚱ), how do we know which syllable is stressed? Well, just like with Latin English today, there are some rules for determining stress. It's just not baked into the alphabet itself like it (sort of) is with Shavian.
+In the Rune School System, when we read "lover" (ᛚᚢᚠᚢᚱ), how do we know which syllable is stressed? Well, just like with Latin English today, there are some rules for determining stress. It's just not baked into the alphabet itself like it (sort of) is with Shavian.
 
 For example, in most cases, a diphthong takes the stress over a STRUT. Eg. a*way*, a*go*.
 

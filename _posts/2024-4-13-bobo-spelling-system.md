@@ -29,13 +29,32 @@ Below is the fully condensed and simplfied system.
 
 ![Bobo Lexical Sets Simplified](/assets/images/BoboLexicalSetsSimplified.png)
 
+Comparison with the Rune School system:
+
+```
+Latin:
+under the unorthodox post is an analysis
+Shavian:
+𐑳𐑯𐑛𐑼 𐑞 𐑳𐑯𐑹𐑔𐑩𐑛𐑪𐑒𐑕 𐑐𐑴𐑕𐑑 𐑦𐑟 𐑩𐑯 𐑩𐑯𐑨𐑤𐑩𐑕𐑦𐑕
+Rune School:
+ᚢᚾᛞᛟᚱ᛫​ᚦ᛫​ᚢᚾᚩᚱᚦᛟᛞᚩᛣᛋ᛫​ᛈᛟᚹᛋᛏ᛫​ᛁᛉ᛫​ᛟᚾ᛫​ᛟᚾᚫᛚᛟᛋᛁᛋ
+Bobo:
+ᚢᚾᛞᛟᚱ᛫​ᚦ᛫​ᚢᚾᚩᚱᚦᚣᛞᚩᛣᛋ᛫​ᛈᛟᛋᛏ᛫​ᛁᛉ᛫​ᚫᚾ᛫ᚣᚾᚫᛚᚣᛋᛁᛋ
+```
+
 # About some choices
 
 ## ᚢ for STRUT and commA
 
 A big part of the Bobo System is that it combines STRUT and commA into the single rune ᚢ. This is following Geoff Lindsey's lead, but it's also following the lead of Kingsley Read, the designer of the Shavian script. In his next script after Shavian (Quickscript), he too combined "up" and "**a**go" into a single letter.
 
-**I want a spelling system that makes users feel extremely confident in how they use it. That confidence severely declines when we introduce a distinction between STRUT and commA.**
+What we have done in terms of the IPA vowel chart is we have removed ᛟ entirely and expanded ᛖ's and ᚢ's territories inward to take up that extra space.  
+
+![IPA vowel map](/assets/images/runeSchool2IPAmapNoSchwa.png)
+
+Now we still use the ᛟ rune, but we just don't give it a full place on the IPA vowel chart. More on that below.
+
+**I want a spelling system that makes users feel extremely confident in how they use it. That confidence declines when we introduce a distinction between STRUT and commA.**
 
 ### What about stress?
 
@@ -105,7 +124,7 @@ When using the dictionaries above, the below key should be helpful for you.
 | ɜː | ə́ːr | 𐑻 | ᚢᚢᚱ |
 | juː | jʉ́w | 𐑿 | ᛄᚣᚹ |
 
-## commA or KIT
+## Weak Vowel Merger: commA or KIT
 
 Use the ᚣ rune when in doubt.
 

@@ -6,7 +6,7 @@ tag:
 - spelling system
 category: blog
 description: An explanation of the Bobo spelling system for Modern English Futhorc
-hidden: true
+hidden: false
 ---
 
 This system is an alternative to the [Rune School Spelling System](/rune-school-spelling-system/), and slightly more experimental. 

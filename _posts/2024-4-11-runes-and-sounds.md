@@ -5,7 +5,7 @@ date: 2024-4-11
 tag:
 - spelling system
 category: blog
-description: An explanation of the Rune School spelling system for Modern English Futhorc
+description: An explanation of the Runes and Sounds in Modern English Futhorc
 hidden: false
 ---
 

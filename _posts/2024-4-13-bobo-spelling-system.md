@@ -9,6 +9,11 @@ description: An explanation of the Bobo spelling system for Modern English Futho
 hidden: false
 ---
 
+The Bobo Spelling System is inspired by [Quickscript](https://en.wikipedia.org/wiki/Quikscript), [Rune Revival](https://runerevival.online), [Stella](https://rentry.co/merunes), [Lexical Sets for Actors](https://ecampusontario.pressbooks.pub/lexicalsets/chapter/introduction-2/), and [Dr Geoff Lindsey](https://www.youtube.com/@DrGeoffLindsey).
+
+
+# System
+
 This system is an alternative to the [Rune School Spelling System](/rune-school-spelling-system/), and slightly more experimental. 
 
 The Bobo System is named after a dog called "Bubba" AKA "Bobo".
@@ -19,19 +24,19 @@ Our starting point is still the [runes and their sounds](/runes-and-sounds/) and
 
 A big part of this spelling system is that it combines STRUT and commA into a single rune (more on that below).
 
-![Rune School Lexical Sets](/assets/images/BoboLexicalSets.png)
+![Bobo Lexical Sets](/assets/images/BoboLexicalSets.png)
 
 In parenthesis you can see the "shortcut" runes. 
 
 Below is the fully condensed and simplfied system.
 
-![Rune School Lexical Sets Simplified](/assets/images/BoboLexicalSetsSimplified.png)
+![Bobo Lexical Sets Simplified](/assets/images/BoboLexicalSetsSimplified.png)
 
 # About some choices
 
 ## ᚢ for STRUT and commA
 
-A big part of the Rune School System is that it combines STRUT and commA into the single rune ᚢ. This is following Geoff Lindsey's lead, but it's also following the lead of Kingsley Read, the designer of the Shavian script. In his next script after Shavian (Quickscript), he too combined "up" and "**a**go" into a single letter.
+A big part of the Bobo System is that it combines STRUT and commA into the single rune ᚢ. This is following Geoff Lindsey's lead, but it's also following the lead of Kingsley Read, the designer of the Shavian script. In his next script after Shavian (Quickscript), he too combined "up" and "**a**go" into a single letter.
 
 **I want a spelling system that makes users feel extremely confident in how they use it. That confidence severely declines when we introduce a distinction between STRUT and commA.**
 
@@ -41,7 +46,7 @@ Dr Lindsey does distinguish between a stressed commA and an unstressed commA, bu
 
 In systems that distinguish commA (ə) from STRUT (ʌ), this distinction is often a cheat code for showing where the stress is in a word (strut is stressed while commA is not)
 
-In the Rune School System, when we read "lover" (ᛚᚢᚠᚢᚱ), how do we know which syllable is stressed? Well, just like with Latin English today, there are some rules for determining stress. It's just not baked into the alphabet itself like it (inconsistently) is with Shavian. 
+In the Bobo System, when we read "lover" (ᛚᚢᚠᚢᚱ), how do we know which syllable is stressed? Well, just like with Latin English today, there are some rules for determining stress. It's just not baked into the alphabet itself like it (inconsistently) is with Shavian. 
 
 The STRUT phoneme contains both /ʌ/ and /ə/ as valid pronunciations. What this means is that, since ᚢ is STRUT, ᚢ can sound like either of those depending on the context. When it's stressed it may sound more like /ʌ/ and when it's unstressed it may sound more like /ə/. Therefore ᛚᚢᚠᚢᚱ can be pronounced as /lʌv.ər/.
 
@@ -115,7 +120,7 @@ Refer again to the IPA map:
 
 In our system, the FOOT rune ᚣ is not only a middle ground between ᚢ and ᛁ, but the rune itself visually looks like an ᛁ inside of a ᚢ. For this reason, it could be best to spell these sounds with FOOT ᚣ. So if there is a sound that could be either commA or KIT, go with ᚣ.
 
-| Latin | Readlex (Shavian) | Rune School |
+| Latin | Readlex (Shavian) | Bobo |
 | --- | --- | --- | --- |
 | parted | 𐑐𐑸𐑑𐑩𐑛  | ᛈᚪᚱᛏᛁᛞ or ᛈᚪᚱᛏᚢᛞ? Try ᛈᚪᚱᛏᚣᛞ! |
 | roses | 𐑮𐑴𐑟𐑩𐑟  | ᚱᚢᚹᛉᛁᛉ or ᚱᚢᚹᛉᚢᛉ? Try ᚱᛟᛉᚣᛉ! |
@@ -135,7 +140,7 @@ What about "away" and "oasis"? If not using the shortcut ᛟ, to distinguish bet
 
 ## lettER or hUrry
 
-A separate phoneme for "fur" is really quite rare in the English world. However, we have saved a place for it in the Rune School System as ᚢᚱ or ᚣᚱ, just in case people want to use it.
+A separate phoneme for "fur" is really quite rare in the English world. However, we have saved a place for it in the Bobo System as ᚢᚱ or ᚣᚱ, just in case people want to use it.
 
 A bindrune for ᚢᚱ can be used for "lettER" (/ər/) while being unbinded for "hurry" (/ʌr/?) 
 
@@ -246,7 +251,7 @@ Refer again to the IPA map:
 
 In our system, the FOOT rune ᚣ is not only a middle ground between ᚢ and ᛁ, but the rune itself visually looks like an ᛁ inside of a ᚢ. For this reason, it could be best to spell these sounds with FOOT ᚣ. So if there is a sound that could be either commA or KIT, go with ᚣ.
 
-| Latin | Readlex (Shavian) | Rune School |
+| Latin | Readlex (Shavian) | Bobo |
 | --- | --- | --- | --- |
 | parted | 𐑐𐑸𐑑𐑩𐑛  | ᛈᚪᚱᛏᛁᛞ or ᛈᚪᚱᛏᚢᛞ? Try ᛈᚪᚱᛏᚣᛞ! |
 | roses | 𐑮𐑴𐑟𐑩𐑟  | ᚱᚢᚹᛉᛁᛉ or ᚱᚢᚹᛉᚢᛉ? Try ᚱᛟᛉᚣᛉ! |
@@ -266,7 +271,7 @@ What about "away" and "oasis"? If not using the shortcut ᛟ, to distinguish bet
 
 ## lettER or hUrry
 
-A separate phoneme for "fur" is really quite rare in the English world. However, we have saved a place for it in the Rune School System as ᚢᚱ or ᚣᚱ, just in case people want to use it.
+A separate phoneme for "fur" is really quite rare in the English world. However, we have saved a place for it in the Bobo System as ᚢᚱ or ᚣᚱ, just in case people want to use it.
 
 A bindrune for ᚢᚱ can be used for "lettER" (/ər/) while being unbinded for "hurry" (/ʌr/?) 
 

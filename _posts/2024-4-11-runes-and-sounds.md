@@ -9,13 +9,6 @@ description: An explanation of the Runes and Sounds in Modern English Futhorc
 hidden: false
 ---
 
-The Rune School Spelling System is inspired by [Shavian](https://shavian.info), [Quickscript](https://en.wikipedia.org/wiki/Quikscript), [Rune Revival](https://runerevival.online), [Stella](https://rentry.co/merunes), [Lexical Sets for Actors](https://ecampusontario.pressbooks.pub/lexicalsets/chapter/introduction-2/), and [Dr Geoff Lindsey](https://www.youtube.com/@DrGeoffLindsey).
-
-# Goals
-
-* True and authentic to the Anglo-Saxon Futhorc. Do not add in foreign runes or wildly change rune sounds
-* Capable of representing all meaningfully distinct phonemes 
-
 # The Runes
 
 Before we can design a spelling system, we need to understand what we're working with.

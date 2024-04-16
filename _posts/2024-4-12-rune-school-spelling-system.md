@@ -27,7 +27,7 @@ Below is the fully condensed and simplfied system.
 
 The Rune School Spelling System is pretty much a point for point recreation of the [Shavian ReadLex Spelling Standard](https://readlex.pythonanywhere.com/spellingprinciples/).
 
-The idea is that you can use the ReadLex dictionary and swap things out for runes.
+The idea is that you can use the ReadLex dictionary and swap Shavian out for runes.
 
 See a mapping of the vowels below:
 
@@ -59,6 +59,8 @@ See a mapping of the vowels below:
 | ʊ | ʉ́ | 𐑫 | ᚣ |
 | uː | ʉ́w | 𐑵 | ᚣᚹ |
 | juː | jʉ́w | 𐑿 | ᛄᚣᚹ |
+
+Why is this better than the ReadLex? It has improvements like a happY vowel, it is historically rooted and thus not arbitrary, and it more transparently shows the relationships between phonemes with consistent use of combinatorial patterns.
 
 <!-- 
 | Lexical Set | Rune | Stress |

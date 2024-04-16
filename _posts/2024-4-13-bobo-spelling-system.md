@@ -6,7 +6,7 @@ tag:
 - spelling system
 category: blog
 description: An explanation of the Bobo spelling system for Modern English Futhorc
-hidden: false
+hidden: true
 ---
 
 The Bobo Spelling System is inspired by [Quickscript](https://en.wikipedia.org/wiki/Quikscript), [Deseret](https://en.wikipedia.org/wiki/Deseret_alphabet), [Rune Revival](https://runerevival.online), [Stella](https://rentry.co/merunes), [Lexical Sets for Actors](https://ecampusontario.pressbooks.pub/lexicalsets/chapter/introduction-2/), and [Dr Geoff Lindsey](https://www.youtube.com/@DrGeoffLindsey).
@@ -14,6 +14,59 @@ The Bobo Spelling System is inspired by [Quickscript](https://en.wikipedia.org/w
 This system is an alternative to the [Rune School Spelling System](/rune-school-spelling-system/), and slightly more experimental. 
 
 The Bobo System is named after a dog called "Bubba" AKA "Bobo". The name "Bubba" can be understood as "buh-buh". And when the name is changed to "Bobo", it is just understood as "buhw-buhw".
+
+The system is designed more around spelling pronunciations:
+
+> Spelling Pronunciations of comma: African and Caribbean Englishes tend to be syllable-timed, (as opposed to stress-timed, as other Englishes are) and so they are more likely to have less contrast between stressed and unstressed syllables, and there is much less vowel reduction. As a result, comma tends to be treated as full vowel, whose pronunciation is based primarily around its spelling.
+
+> For Example:
+
+> with ‹a› spelling:    comma [ˈkɒma], around [aˈɹaʊ̯nd]
+
+> with ‹e› spelling:    latest [ˈleɪ̯tɛst], open [ˈopɛn]
+
+> with ‹u› spelling:    support [ˈsupot], popular [ˈpɒpjula]
+
+> with ‹o› spelling:    continue [ˈkontinju], official [oˈfiʃal]
+
+
+
+
+schwa + w = away, aware, await, awake, towards, Hawaii, awards, towards, Lech Wałęsa [ˈlɛx vəˈwɛnsə], getaway, kilowatt, Galloway, microwave, Holloway, beware, takeaway, runaway, faraway, aqua, Iowa, Ottawa*, Chichewa, Managua, Aiwa, Chautauqua, Tewa, Massapequa, siliqua, interlingua, Sliwa, Griqua, QwaQwa
+
+goat + vowel = oasis, poetic, koala, Joanna, Croatia
+
+
+
+
+with ᛟᚹ GOAT 
+photo ᚠᛟᚹᛏᛟᚹ
+photograph ᚠᛟᚹᛏᛟᚸᚱᚫᚠ
+photography  ᚠᛟᛏᚩᚸᚱᛟᚠᛡ
+obscene ᛟᛒᛋᛇᚾ
+obscene ᚩᛒᛋᛇᚾ
+
+with ᚢᚹ GOAT 
+photo ᚠᚢᚹᛏᚢᚹ
+photograph ᚠᚢᚹᛏᛟᚸᚱᚫᚠ
+photography  ᚠᛟᛏᚩᚸᚱᛟᚠᛡ
+obscene ᛟᛒᛋᛇᚾ
+obscene ᚩᛒᛋᛇᚾ
+
+with ᚩᚹ GOAT 
+photo ᚠᚩᚹᛏᚩᚹ
+photograph ᚠᚩᚹᛏᛟᚸᚱᚫᚠ
+photography  ᚠᛟᛏᚩᚸᚱᛟᚠᛡ
+obscene ᛟᛒᛋᛇᚾ
+obscene ᚩᛒᛋᛇᚾ
+
+with ᛟ GOAT 
+photo ᚠᛟᛏᛟ
+photograph ᚠᛟᛏᚢᚸᚱᚫᚠ
+photography  ᚠᚢᛏᚩᚸᚱᚢᚠᛡ
+obscene ᚢᛒᛋᛇᚾ
+obscene ᚩᛒᛋᛇᚾ
+
 
 # System
 

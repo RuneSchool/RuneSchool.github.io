@@ -11,6 +11,8 @@ hidden: false
 
 The Rune School Spelling System is inspired by [Shavian](https://shavian.info), [Rune Revival](https://runerevival.online), [Lexical Sets for Actors](https://ecampusontario.pressbooks.pub/lexicalsets/chapter/introduction-2/), and [Dr Geoff Lindsey](https://www.youtube.com/@DrGeoffLindsey).
 
+You can think of it as a more transparent Shavian with a few improvements.
+
 # System
 
 Based on the data from the [runes and their sounds](/runes-and-sounds/) and the info from [Dr. Lindsey's IPA symbols](/version-2/#lindsey-vowels), we can create a spelling system.
@@ -78,11 +80,11 @@ You can see on the IPA vowel chart that ᛟ was traditionally more fronted than 
 
 ![IPA vowel map](/assets/images/runeSchool2IPAmapNoSchwa.png)
 
-We have pushed the acceptable range of this rune into ᚢ's territory and ᚢ has retreated towards the back.
+The original sound of ᛟ is still used for the NURSE vowel in some accents. NURSE is often very closely related to lettER, which is also closely related to commA. So whatever rune we use for NURSE should also be used for commA.
+
+Because of this, we have pushed the acceptable range of this rune into ᚢ's territory and ᚢ has retreated towards the back.
 
 ## ᛟᛟᚱ for NURSE
-
-It just so happens that the original sound of ᛟ is still used for the NURSE vowel in some accents.
 
 Previously, the system used ᛟᚱ for both lettER and NURSE. As an American, I am totally fine with this. But I know that many English speakers have a strong distinction between these two phonemes. 
 
@@ -177,7 +179,9 @@ Users may represent FLEECE as either ᛁᛄ or ᛇ.
 
 ## ᛡ for happY vowel
 
-"[happY can be associated with either fleece, kit, or face, with vowel qualities in the range of /i ~ ɪ ~ e ~ ɛ/](https://ecampusontario.pressbooks.pub/lexicalsets/chapter/25-happy-lexical-set/)". KIT, FLEECE, and happY are not three distinct sounds. Rather, happY could be either KIT or FLEECE. If anyone has used Shavian before, you know the pain of not having a letter just for this happY phoneme.
+> [happY can be associated with either fleece, kit, or face, with vowel qualities in the range of /i ~ ɪ ~ e ~ ɛ/](https://ecampusontario.pressbooks.pub/lexicalsets/chapter/25-happy-lexical-set/)"
+
+The sound in happY could be either KIT or FLEECE, or something different all together. If anyone has used Shavian before, you know the pain of not having a letter just for this happY phoneme.
 
 Previously, the ᛁ rune represented both KIT and FLEECE and therefore if it was on the end of a word, it could be whatever you wanted it to be. The one issue that would occur from this is the famous confusion of "candied" and "candide".
 
@@ -185,7 +189,7 @@ Now, we have different runes for both KIT and FLEECE. So the happY vowel is now 
 
 ᛄ and ᛡ are famously controversial. Many believe that they are two different styles for the same rune. But the fact is that multiple manuscripts contain both of these runes and they even have different names. That would not be the case if they were just stylistic variants of the same rune.
 
-ᛡ was called "Īor", meaning "eel". ᛄ was called "Gēr", meaning "year". 
+ᛡ was called "Īor", probably meaning "eel". ᛄ was called "Gēr", meaning "year". 
 
 If we take each of these runes sounds as being the first phoneme of their names, then ᛡ has an /i/-ish sound and ᛄ has a /j/-ish sound.
 
@@ -211,3 +215,18 @@ The /i/-ish sound is perfect for the happY vowel. And moving ᛄ to the FACE, PR
 | Candide (2) | ᛣᚫᚾᛞᛁᛞ      | ᛣᚫᚾᛞᛇᛞ   |
 
 Ultimately, if a user confuses these two runes and uses just one for happY and /j/, it's not the end of the world. But offering this distinction should aid in clarity.
+
+## ᚪ as a shortcut for ᚫᚫ
+
+Traditionally, you will often see things like /æɪ/ in that old dictionaries for the pronunciation of PRICE. This is because historically TRAP has always been thought of as a short PALM. Think of how a boston person says “spa”. They say it with a long TRAP sound. Think of how Irish people say START. They say it very obviously like ᛋᛏᚫᚫᚱᛏ (a long TRAP sound).
+
+And then we consider the internal logic of the doubled runes. Doubled vowels bring the sound a bit closer to the center of the IPA chart. Doubling ash brings it more in the middle where SPA is.
+
+Also consider the variability of words in the BATH lexical set. Some go to TRAP and some go to PALM. This is to say that some say the words with a long TRAP sound (PALM) and some with a regular TRAP sound.
+
+And consider the design of the look of the runes. It makes sense that ᚫ and ᚩ are the primary ones. Both fully realized runes. Then ak develops as a sort of in between rune ᚪ.
+
+And finally, consider that this is better for crosswords and other word games. More utility with less letters (if you exclude shortcut runes).
+
+In a hundred years if there is a meaningful split within PALM or TRAP, that will be workable with this system. I doubt that such a thing would occur within 500 years at least, but if it happens, we would just say “ᚪ rune grew up and earned its own row in the table!”
+

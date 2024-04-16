@@ -153,7 +153,7 @@ For more info on FOOT ᚣ, see below.
 
 Because FORCE is very much related to NORTH, it makes sense that the nucleus of FORCE (GOAT) would also be related to the nucleus of NORTH (THOUGHT).
 
-THOUGHT (ᚩᚱ) is to NORTH (ᚩᚩᚱ) as GOAT (ᚩᚹ) is to FORCE (ᚩᚹᚱ)
+THOUGHT (ᚩᚩ) is to NORTH (ᚩᚩᚱ) as GOAT (ᚩᚹ) is to FORCE (ᚩᚹᚱ)
 
 Since we merge NORTH and FORCE in most English accents, we should have the two nucleuses the same.
 

@@ -11,9 +11,19 @@ hidden: true
 
 The Bobo Spelling System is inspired by [Quickscript](https://en.wikipedia.org/wiki/Quikscript), [Deseret](https://en.wikipedia.org/wiki/Deseret_alphabet), [Rune Revival](https://runerevival.online), [Stella](https://rentry.co/merunes), [Lexical Sets for Actors](https://ecampusontario.pressbooks.pub/lexicalsets/chapter/introduction-2/), and [Dr Geoff Lindsey](https://www.youtube.com/@DrGeoffLindsey).
 
-This system is an alternative to the [Rune School Spelling System](/rune-school-spelling-system/), and slightly more experimental. 
+This system is an alternative to the [Rune School Spelling System](/rune-school-spelling-system/), and very much more experimental. 
 
 The Bobo System is named after a dog called "Bubba" AKA "Bobo". The name "Bubba" can be understood as "buh-buh". And when the name is changed to "Bobo", it is just understood as "buhw-buhw".
+
+This system is designed with the idea of getting rid of the schwa all together. Or rather, every major rune vowel has a foot into the center in this system.
+
+photo ᚠᚢᚹᛏᚢᚹ or ᚠᛟᛏᛟ
+photograph ᚠᚢᚹᛏᚢᚸᚱᚫᚠ or ᚠᛟᛏᚩᚸᚱᚫᚠ
+photography  ᚠᚢᛏᚩᚸᚱᛟᚠᛡ or ᚠᛟᛏᚩᚸᚱᛟᚠᛡ
+obscene ᛟᛒᛋᛇᚾ
+obscene ᚩᛒᛋᛇᚾ
+
+
 
 The system is designed more around spelling pronunciations:
 
@@ -32,7 +42,7 @@ The system is designed more around spelling pronunciations:
 
 
 
-schwa + w = away, aware, await, awake, towards, Hawaii, awards, towards, Lech Wałęsa [ˈlɛx vəˈwɛnsə], getaway, kilowatt, Galloway, microwave, Holloway, beware, takeaway, runaway, faraway, aqua, Iowa, Ottawa*, Chichewa, Managua, Aiwa, Chautauqua, Tewa, Massapequa, siliqua, interlingua, Sliwa, Griqua, QwaQwa
+schwa + w = away, aware, await, awake, Hawaii, awards, Lech Wałęsa [ˈlɛx vəˈwɛnsə], getaway, kilowatt, Galloway, microwave, Holloway, beware,  Iowa, Ottawa*, Chichewa, Managua, Aiwa, 
 
 goat + vowel = oasis, poetic, koala, Joanna, Croatia
 
@@ -121,16 +131,65 @@ The STRUT phoneme contains both /ʌ/ and /ə/ as valid pronunciations. What this
 
 English stress timing and stress rules is an intricate thing, but there are predictable behaviors that can be learned. For example, in most cases, a diphthong takes the stress over a STRUT. Eg. a*way*, a*go*.
 
+| Lexical Set | Rune | Stress |
+| --- | --- | --- |
+| happY | ᚫ | unstressed |
+| KIT | ᛁ | stressed or unstressed | 
+| FLEECE | ᚫ | stressed |
+| NEAR | ᚫ | mostly stressed |
+
+
+| commA / STRUT | ᚫ | stressed or unstressed |
+| lettER | ᚫ | unstressed |
+| STRUT | ᚫ | stressed |
+| NURSE | ᚫ | stressed |
+| GOAT | ᚫ | mostly stressed |
+
+| DRESS | ᛖ | stressed or unstressed |
+| FACE | ᚫ | mostly stressed |
+| SQUARE | ᚫ | mostly stressed |
+
+
+| TRAP | ᚫ | stressed or unstressed |
+| PALM | ᚫ | stressed |
+| START | ᚫ | stressed or unstressed |
+| PRICE | ᚫ | mostly stressed |
+| MOUTH | ᚫ | mostly stressed |
+
+| FOOT | ᚫ | stressed or unstressed |
+| GOOSE | ᚫ | stressed or unstressed |
+
+| LOT | ᚩ | stressed |
+| THOUGHT | ᚫ | stressed |
+| NORTH / FORCE | ᚫ | stressed or unstressed |
+| CHOICE | ᚫ | mostly stressed |
+
+
+| CURE | ᚫ | stressed or unstressed |
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## ᚢᚹ or ᛟ for GOAT
 
-This phoneme is spelled as ᚢᚹ (STRUT or commA + /w/). There are 3 major ways to handle the GOAT diphthong. Start with a THOUGHT/LOT vowel, start with a STRUT vowel, start with a commA vowel. Since we combined STRUT and commA into one rune ᚢ, this just won the day.
+This phoneme is spelled as ᚢᚹ (STRUT or commA + /w/). GOAT can either be stressed or unstressed. So the rune for its nucleus should also allow for being stressed or unstressed. That rune is commA/STRUT for us ᚢ.
+
+There are 3 major ways to handle the GOAT diphthong. Start with a THOUGHT/LOT vowel, start with a STRUT vowel, start with a commA vowel. Since we combined STRUT and commA into one rune ᚢ, this just won the day.
 
 Some accents even start the GOAT diphthong with a FOOT sound (/ʊw/). This also works as ᚢᚹ because ᚢ is cousins with the FOOT rune ᚣ. They look alike!
 
 ᛟ is the shortcut rune GOAT. Historically, at least in the Elder Futhark, ᛟ had a clear /o:/ sound. When GOAT is monophthongized, it tends to be very close to that sound. So in that sense, this rune would be sort of coming home to its roots.
 
 In the Anglo-Saxon Futhorc, the sound for this ᛟ rune was closer to /ø/ or /œ/. It is true that these sounds are used for NURSE in some English accents. So it would make sense to have ᛟ for a shortcut rune for the NURSE vowel too. However, we also see that the South African accent uses /œ/ for a monophthong GOAT. This /ø~œ/ range is also a valid starting point for a GOAT diphthong, as in /œw/.
-
 
 ## ᚢᚢᚱ for NURSE
 

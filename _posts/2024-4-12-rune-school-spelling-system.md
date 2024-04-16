@@ -54,6 +54,33 @@ Below is the fully condensed and simplfied system.
 | uː | ʉ́w | 𐑵 | ᚣᚹ |
 | juː | jʉ́w | 𐑿 | ᛄᚣᚹ |
 
+| Type | Lexical Set | Rune | Stress |
+| --- | --- | --- | --- |
+| weak | happY | ᚫ | unstressed |
+| Lax Checked | KIT | ᛁ | stressed or unstressed | 
+| Diphthong | FLEECE | ᛁ | stressed |
+| Linking-R | NEAR | ᛁᛁ | mostly stressed |
+| weak | ᛟ | unstressed |
+| weak | lettER | ᛟᚱ | unstressed |
+| Lax Checked | STRUT | ᚢ | stressed |
+| Linking-R | NURSE | ᛟᛟᚱ | stressed |
+| Diphthong | GOAT | ᚢ | mostly stressed |
+| Lax Checked | DRESS | ᛖ | stressed or unstressed |
+| Diphthong | FACE | ᛖ | mostly stressed |
+| Linking-R | SQUARE | ᛖᛖ | mostly stressed |
+| Lax Checked | TRAP | ᚫ | stressed or unstressed |
+| Linking-R | PALM | ᚫᚫ | stressed |
+| Linking-R | START | ᚫᚫ | stressed or unstressed |
+| Diphthong | PRICE | ᚫ | mostly stressed |
+| Diphthong | MOUTH | ᚫ | mostly stressed |
+| Lax Checked | FOOT | ᚣᚹ | stressed or unstressed |
+| Linking-R | CURE | ᚣ | stressed or unstressed |
+| Diphthong | GOOSE | ᚣᚹ | stressed or unstressed |
+| Lax Checked | LOT | ᚩ | stressed |
+| Linking-R | THOUGHT | ᚩᚩ | stressed |
+| Linking-R | NORTH / FORCE | ᚩ | stressed or unstressed |
+| Diphthong | CHOICE | ᚩ | mostly stressed |
+
 
 <!-- 
 | juː | jʉ́w | 𐑿 | ᛄᚣᚹ |

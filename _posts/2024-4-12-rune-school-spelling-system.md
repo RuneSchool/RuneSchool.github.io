@@ -26,9 +26,10 @@ Below is the fully condensed and simplfied system.
 | Traditional IPA | Modern IPA | Shavian | Runes |
 | --- | --- | --- | --- | 
 | ʌ | ə́ | 𐑳 | ᚢ | 
-| əʊ | əw | 𐑴 | ᚢᚹ |
 | ə | ə | 𐑩 | ᛟ |
+| əʊ | əw | 𐑴 | ᛟᚹ |
 | ər | ər | 𐑼 | ᛟᚱ |
+| ɜː | ə́ːr | 𐑻 | ᛟᛟᚱ |
 | ɪ | ɪ | 𐑦 | ᛁ |
 | ɪə | ɪ́ː | 𐑾 | ᛁᛁ or ᛠ |
 | ɪər | ɪ́ːr | 𐑾 | ᛁᛁᚱ or ᛠᚱ|
@@ -36,20 +37,23 @@ Below is the fully condensed and simplfied system.
 | iː | ɪj | 𐑰 | ᛁᛄ or ᛇ |
 | e | ɛ | 𐑧 | ᛖ |
 | eɪ | ɛj | 𐑱 | ᛖᛄ |
+| er | ɛ́r | 𐑺 | ᛖᚱ |
+| eə | ɛ́ːr | 𐑺 | ᛖᛖᚱ |
 | æ | a | 𐑨 | ᚫ |
-| aɪ | ɑj | 𐑲 | ᚪᛄ |
-| ɑː | ɑː | 𐑭 | ᚪ |
+| aɪ | ɑj | 𐑲 | ᚫᛄ |
+| aʊ | áw | 𐑬 | ᚫᚹ |
+| ɑː | ɑː | 𐑭 | ᚫᚫ or ᚪ |
 | ɑːr | ɑːr | 𐑸 | ᚪᚱ |
 | ɒ | ɔ́ | 𐑪 | ᚩ |
+| ɔɪ | ój | 𐑶 | ᚩᛄ |
 | ɔː | óː | 𐑷 | ᚩᚩ |
 | ɔːr | óːr | 𐑹 | ᚩᚱ |
 | ʊ | ʉ́ | 𐑫 | ᚣ |
 | uː | ʉ́w | 𐑵 | ᚣᚹ |
-| aʊ | áw | 𐑬 | ᚪᚹ |
-| ɔɪ | ój | 𐑶 | ᚩᛄ |
-| er | ɛ́r | 𐑺 | ᛖᚱ |
-| eə | ɛ́ːr | 𐑺 | ᛖᛖᚱ |
-| ɜː | ə́ːr | 𐑻 | ᛟᛟᚱ |
+| juː | jʉ́w | 𐑿 | ᛄᚣᚹ |
+
+
+<!-- 
 | juː | jʉ́w | 𐑿 | ᛄᚣᚹ |
 
 | Strong Latin | Weak Latin | Strong Rune | Weak Rune |
@@ -64,7 +68,7 @@ Below is the fully condensed and simplfied system.
 | aɪ | ə | ᛖ | ᛟ |
 | əʊ | ə | ᚫ | ᛟ |
 | aʊ | ə | ᚪ | ᛟ |
-
+-->
 
 # Choices
 

@@ -108,6 +108,36 @@ Why is this better than the ReadLex? It has improvements like a happY vowel, it 
 | aʊ | ə | ᚪ | ᛟ |
 -->
 
+# Differences from ReadLex
+
+## happY vowel
+
+Use the happY rune ᛡ where Shavian would have a trailing 𐑦.
+
+## Syllabic consonants
+
+Often times, you can write just ᚱ, ᛚ, ᛗ, or ᚾ where you see 𐑼 or 𐑩𐑤, 𐑩𐑯, or 𐑩𐑥.
+
+In most places you see **𐑼** or **𐑩𐑤**, it is because there is a glide right before it. We write the glides, so we don't need to explicitly include the schwas. Only write ᛟᚱ if it represents the suffix -er, or similar.
+
+In many (not all) places where you see **𐑩𐑯** or **𐑩𐑥**, you can just right the ᛗ or ᚾ directly without the schwa needed.
+
+When in doubt, consider the derivatives. 
+
+For example, consider "Terrible". Can it be spelled ᛏᛖᚱᛟᛒᛚ without a schwa before the L? If we can spell the derivative "Terribly" by just adding the -y on the end, then yes! ᛏᛖᚱᛟᛒᛚᛡ (it works!)
+
+Another example, consider "Imagine". Can it be spelled ᛁᛗᚫᚷᚾ without a schwa before the N? If we can spell the derivative "Imagination" by just adding the -ation on the end, then yes! ᛁᛗᚫᚷᚾᛖᛄᛋᚳᚾ. It fails because the syllable boundaries break. It needs to be ᛁᛗᚫᚷᛟᚾᛖᛄᛋᚳᚾ for it to sound right, and thus the base word should to be ᛁᛗᚫᚷᛟᚾ.
+
+## Shortcut words
+
+| Latin | Shavian | Runes | 
+| --- | --- | --- |
+| the | 𐑞 | ᚦ |
+| to | 𐑑 | ᛏ |
+| and | 𐑯 | ᚾ |
+| for | 𐑓 | ᚠᚱ |
+| of | 𐑝 | ᚠ |
+
 # Choices
 
 ## ᛟ for commA

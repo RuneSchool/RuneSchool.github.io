@@ -17,6 +17,8 @@ The Bobo System is named after a dog called "Bubba" AKA "Bobo". The name "Bubba"
 
 This system is designed with the idea of getting rid of the schwa all together. Or rather, every major rune vowel has a foot into the center in this system. Based on historic spelling, we use the most appropriate rune.
 
+Eg. "human" is ᛇᚣᚹᛗᚫᚾ (humanity). "chroma" is ᛣᚩᛗᚫ (chromatic).
+
 photo ᚠᚩᚹᛏᚩᚹ or ᚠᛟᛏᛟ
 photograph ᚠᚩᚹᛏᚩᚸᚱᚫᚠ or ᚠᛟᛏᚩᚸᚱᚫᚠ
 photography  ᚠᚩᛏᚩᚸᚱᛟᚠᛡ or ᚠᚩᛏᚩᚸᚱᛟᚠᛡ
@@ -269,7 +271,7 @@ It is suggested to use bindrunes for the following letter combinations:
 
 * lettER: ᚢᚱ 
 * NURSE: ᚢᚢᚱ
-* GOAT: ᚢᚹ (if not using ᛟ)
+* GOAT: ᚩᚹ (if not using ᛟ)
 * GOOSE: ᚣᚹ
 * START: ᚪᚱ
 * PRICE: ᚪᛄ

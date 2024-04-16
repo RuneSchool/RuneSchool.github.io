@@ -159,7 +159,9 @@ Since we merge NORTH and FORCE in most English accents, we should have the two n
 
 There are a number of accents that make GOAT a monophthong like /o:/ as well. In which case having the visual similarity of ᚩᚩ and ᚩᚹ is good. There is also the historic relationship of GOAT ᚩᚹ being the strong form of LOT ᚩ. 
 
-If you have a more british accent with a clear ᛟᚹ type of pronunciation of GOAT, you can think of GOAT/HOLY being ᛟᚹ and GOAL/WHOLLY being ᚩᚹ. In which case we are just merging HOLY into WHOLLY. While Dr Lindsey makes many [great points about words like "halloween" and "Iowa" being ᛟᚹ](https://www.englishspeechservices.com/blog/the-spooky-ambiguity-of-halloween/), a choice needs to be made on how to represent this phoneme. For time being, we are just teaching that ᚩᚹ and ᛟᚹ are cousins, but ᛟᚹ doesn't come around very often.
+If you have a more british accent with a clear ᛟᚹ type of pronunciation of GOAT, you can think of GOAT/HOLY being ᛟᚹ and GOAL/WHOLLY being ᚩᚹ. In which case we are just merging HOLY into WHOLLY. 
+
+While Dr Lindsey makes many [great points about words like "halloween" and "Iowa" being ᛟᚹ](https://www.englishspeechservices.com/blog/the-spooky-ambiguity-of-halloween/), he also brings up a number of points of ambiguity such as "away" vs "oasis". We can't show stress very effectively with runes and a choice needs to be made on how to represent this phoneme. For the time being, we are just teaching that ᚩᚹ and ᛟᚹ are cousins, but ᛟᚹ doesn't come around very often.
 
 <!--
 ## ᚢᚹ for GOAT

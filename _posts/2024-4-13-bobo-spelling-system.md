@@ -15,12 +15,11 @@ This system is an alternative to the [Rune School Spelling System](/rune-school-
 
 The Bobo System is named after a dog called "Bubba" AKA "Bobo". The name "Bubba" can be understood as "buh-buh". And when the name is changed to "Bobo", it is just understood as "buhw-buhw".
 
-This system is designed with the idea of getting rid of the schwa all together. Or rather, every major rune vowel has a foot into the center in this system.
+This system is designed with the idea of getting rid of the schwa all together. Or rather, every major rune vowel has a foot into the center in this system. Based on historic spelling, we use the most appropriate rune.
 
-photo ᚠᚢᚹᛏᚢᚹ or ᚠᛟᛏᛟ
-photograph ᚠᚢᚹᛏᚢᚸᚱᚫᚠ or ᚠᛟᛏᚩᚸᚱᚫᚠ
-photography  ᚠᚢᛏᚩᚸᚱᛟᚠᛡ or ᚠᛟᛏᚩᚸᚱᛟᚠᛡ
-obscene ᛟᛒᛋᛇᚾ
+photo ᚠᚩᚹᛏᚩᚹ or ᚠᛟᛏᛟ
+photograph ᚠᚩᚹᛏᚩᚸᚱᚫᚠ or ᚠᛟᛏᚩᚸᚱᚫᚠ
+photography  ᚠᚩᛏᚩᚸᚱᛟᚠᛡ or ᚠᚩᛏᚩᚸᚱᛟᚠᛡ
 obscene ᚩᛒᛋᛇᚾ
 
 
@@ -45,37 +44,6 @@ The system is designed more around spelling pronunciations:
 schwa + w = away, aware, await, awake, Hawaii, awards, Lech Wałęsa [ˈlɛx vəˈwɛnsə], getaway, kilowatt, Galloway, microwave, Holloway, beware,  Iowa, Ottawa*, Chichewa, Managua, Aiwa, 
 
 goat + vowel = oasis, poetic, koala, Joanna, Croatia
-
-
-
-
-with ᛟᚹ GOAT 
-photo ᚠᛟᚹᛏᛟᚹ
-photograph ᚠᛟᚹᛏᛟᚸᚱᚫᚠ
-photography  ᚠᛟᛏᚩᚸᚱᛟᚠᛡ
-obscene ᛟᛒᛋᛇᚾ
-obscene ᚩᛒᛋᛇᚾ
-
-with ᚢᚹ GOAT 
-photo ᚠᚢᚹᛏᚢᚹ
-photograph ᚠᚢᚹᛏᛟᚸᚱᚫᚠ
-photography  ᚠᛟᛏᚩᚸᚱᛟᚠᛡ
-obscene ᛟᛒᛋᛇᚾ
-obscene ᚩᛒᛋᛇᚾ
-
-with ᚩᚹ GOAT 
-photo ᚠᚩᚹᛏᚩᚹ
-photograph ᚠᚩᚹᛏᛟᚸᚱᚫᚠ
-photography  ᚠᛟᛏᚩᚸᚱᛟᚠᛡ
-obscene ᛟᛒᛋᛇᚾ
-obscene ᚩᛒᛋᛇᚾ
-
-with ᛟ GOAT 
-photo ᚠᛟᛏᛟ
-photograph ᚠᛟᛏᚢᚸᚱᚫᚠ
-photography  ᚠᚢᛏᚩᚸᚱᚢᚠᛡ
-obscene ᚢᛒᛋᛇᚾ
-obscene ᚩᛒᛋᛇᚾ
 
 
 # System
@@ -133,50 +101,29 @@ English stress timing and stress rules is an intricate thing, but there are pred
 
 | Lexical Set | Rune | Stress |
 | --- | --- | --- |
-| happY | ᚫ | unstressed |
+| happY | ᛡ | unstressed |
 | KIT | ᛁ | stressed or unstressed | 
-| FLEECE | ᚫ | stressed |
-| NEAR | ᚫ | mostly stressed |
-
-
-| commA / STRUT | ᚫ | stressed or unstressed |
-| lettER | ᚫ | unstressed |
-| STRUT | ᚫ | stressed |
-| NURSE | ᚫ | stressed |
-| GOAT | ᚫ | mostly stressed |
-
+| FLEECE | ᛁᛄ | stressed |
+| NEAR | ᛁᛁ | mostly stressed |
+| commA / STRUT | ᚢ | stressed or unstressed |
+| lettER | ᚢᚱ | unstressed |
+| NURSE | ᚢᚢᚱ | stressed |
+| GOAT | ᚢᚹ | mostly stressed |
 | DRESS | ᛖ | stressed or unstressed |
-| FACE | ᚫ | mostly stressed |
-| SQUARE | ᚫ | mostly stressed |
-
-
+| FACE | ᛖᛄ | mostly stressed |
+| SQUARE | ᛖᛖᚱ | mostly stressed |
 | TRAP | ᚫ | stressed or unstressed |
-| PALM | ᚫ | stressed |
-| START | ᚫ | stressed or unstressed |
-| PRICE | ᚫ | mostly stressed |
-| MOUTH | ᚫ | mostly stressed |
-
-| FOOT | ᚫ | stressed or unstressed |
-| GOOSE | ᚫ | stressed or unstressed |
-
+| PALM | ᚫᚫ | stressed |
+| START | ᚫᚫᚱ | stressed or unstressed |
+| PRICE | ᚫᛄ | mostly stressed |
+| MOUTH | ᚫᚹ | mostly stressed |
+| FOOT | ᚣ | stressed or unstressed |
+| CURE | ᚣᚣᚱ | stressed or unstressed |
+| GOOSE | ᚣᚹ | stressed or unstressed |
 | LOT | ᚩ | stressed |
-| THOUGHT | ᚫ | stressed |
-| NORTH / FORCE | ᚫ | stressed or unstressed |
-| CHOICE | ᚫ | mostly stressed |
-
-
-| CURE | ᚫ | stressed or unstressed |
-
-
-
-
-
-
-
-
-
-
-
+| THOUGHT | ᚩᚩ | stressed |
+| NORTH / FORCE | ᚩᚱ | stressed or unstressed |
+| CHOICE | ᚩᛄ | mostly stressed |
 
 
 ## ᚢᚹ or ᛟ for GOAT

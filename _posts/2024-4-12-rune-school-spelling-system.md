@@ -25,14 +25,19 @@ Below is the fully condensed and simplfied system.
 
 ![Rune School Lexical Sets Simplified](/assets/images/RuneSchoolLexicalSets-Simplified.png)
 
+The Rune School Spelling System is pretty much a point for point recreation of the [Shavian ReadLex Spelling Standard](https://readlex.pythonanywhere.com/spellingprinciples/).
+
+The idea is that you can use the ReadLex dictionary and swap things out for runes.
+
+See a mapping of the vowels below:
+
 | Traditional IPA | Modern IPA | Shavian | Runes |
 | --- | --- | --- | --- | 
 | ʌ | ə́ | 𐑳 | ᚢ | 
 | ə | ə | 𐑩 | ᛟ |
-| əʊ | əw | 𐑴 | ᛟᚹ |
 | ər | ər | 𐑼 | ᛟᚱ |
 | ɜː | ə́ːr | 𐑻 | ᛟᛟᚱ |
-| ɪ | ɪ | 𐑦 | ᛁ |
+| ɪ~i | ɪ | 𐑦 | ᛁ or ᛡ |
 | ɪə | ɪ́ː | 𐑾 | ᛁᛁ or ᛠ |
 | ɪər | ɪ́ːr | 𐑾 | ᛁᛁᚱ or ᛠᚱ|
 | i | ɪj | 𐑦 | ᛡ |
@@ -45,44 +50,46 @@ Below is the fully condensed and simplfied system.
 | aɪ | ɑj | 𐑲 | ᚫᛄ |
 | aʊ | áw | 𐑬 | ᚫᚹ |
 | ɑː | ɑː | 𐑭 | ᚫᚫ or ᚪ |
-| ɑːr | ɑːr | 𐑸 | ᚪᚱ |
+| ɑːr | ɑːr | 𐑸 | ᚫᚫᚱ or ᚪᚱ |
 | ɒ | ɔ́ | 𐑪 | ᚩ |
 | ɔɪ | ój | 𐑶 | ᚩᛄ |
 | ɔː | óː | 𐑷 | ᚩᚩ |
 | ɔːr | óːr | 𐑹 | ᚩᚱ |
+| əʊ | əw | 𐑴 | ᚩᚹ |
 | ʊ | ʉ́ | 𐑫 | ᚣ |
 | uː | ʉ́w | 𐑵 | ᚣᚹ |
 | juː | jʉ́w | 𐑿 | ᛄᚣᚹ |
 
-| Type | Lexical Set | Rune | Stress |
-| --- | --- | --- | --- |
-| weak | happY | ᚫ | unstressed |
-| Lax Checked | KIT | ᛁ | stressed or unstressed | 
-| Diphthong | FLEECE | ᛁ | stressed |
-| Linking-R | NEAR | ᛁᛁ | mostly stressed |
-| weak | ᛟ | unstressed |
-| weak | lettER | ᛟᚱ | unstressed |
-| Lax Checked | STRUT | ᚢ | stressed |
-| Linking-R | NURSE | ᛟᛟᚱ | stressed |
-| Diphthong | GOAT | ᚢ | mostly stressed |
-| Lax Checked | DRESS | ᛖ | stressed or unstressed |
-| Diphthong | FACE | ᛖ | mostly stressed |
-| Linking-R | SQUARE | ᛖᛖ | mostly stressed |
-| Lax Checked | TRAP | ᚫ | stressed or unstressed |
-| Linking-R | PALM | ᚫᚫ | stressed |
-| Linking-R | START | ᚫᚫ | stressed or unstressed |
-| Diphthong | PRICE | ᚫ | mostly stressed |
-| Diphthong | MOUTH | ᚫ | mostly stressed |
-| Lax Checked | FOOT | ᚣᚹ | stressed or unstressed |
-| Linking-R | CURE | ᚣ | stressed or unstressed |
-| Diphthong | GOOSE | ᚣᚹ | stressed or unstressed |
-| Lax Checked | LOT | ᚩ | stressed |
-| Linking-R | THOUGHT | ᚩᚩ | stressed |
-| Linking-R | NORTH / FORCE | ᚩ | stressed or unstressed |
-| Diphthong | CHOICE | ᚩ | mostly stressed |
-
-
 <!-- 
+| Lexical Set | Rune | Stress |
+| --- | --- | --- |
+| happY | ᛡ | unstressed |
+| KIT | ᛁ | stressed or unstressed | 
+| FLEECE | ᛁᛄ | stressed |
+| NEAR | ᛁᛁ | mostly stressed |
+| commA | ᛟ | unstressed |
+| lettER | ᛟᚱ | unstressed |
+| NURSE | ᛟᛟᚱ | stressed |
+| GOAT | ᛟᚹ | mostly stressed |
+| STRUT | ᚢ | stressed |
+| DRESS | ᛖ | stressed or unstressed |
+| FACE | ᛖᛄ | mostly stressed |
+| SQUARE | ᛖᛖᚱ | mostly stressed |
+| TRAP | ᚫ | stressed or unstressed |
+| PALM | ᚫᚫ | stressed |
+| START | ᚫᚫᚱ | stressed or unstressed |
+| PRICE | ᚫᛄ | mostly stressed |
+| MOUTH | ᚫᚹ | mostly stressed |
+| FOOT | ᚣ | stressed or unstressed |
+| CURE | ᚣᚣᚱ | stressed or unstressed |
+| GOOSE | ᚣᚹ | stressed or unstressed |
+| LOT | ᚩ | stressed |
+| THOUGHT | ᚩᚩ | stressed |
+| NORTH / FORCE | ᚩᚱ | stressed or unstressed |
+| CHOICE | ᚩᛄ | mostly stressed |
+
+
+
 | juː | jʉ́w | 𐑿 | ᛄᚣᚹ |
 
 | Strong Latin | Weak Latin | Strong Rune | Weak Rune |
@@ -140,6 +147,19 @@ Examples:
 
 For more info on FOOT ᚣ, see below.
 
+## ᚩᚹ for GOAT
+
+Because FORCE is very much related to NORTH, it makes sense that the nucleus of FORCE (GOAT) would also be related to the nucleus of NORTH (THOUGHT).
+
+THOUGHT (ᚩᚱ) is to NORTH (ᚩᚩᚱ) as GOAT (ᚩᚹ) is to FORCE (ᚩᚹᚱ)
+
+Since we merge NORTH and FORCE in most English accents, we should have the two nucleuses the same.
+
+There are a number of accents that make GOAT a monophthong like /o:/ as well. In which case having the visual similarity of ᚩᚩ and ᚩᚹ is good. There is also the historic relationship of GOAT ᚩᚹ being the strong form of LOT ᚩ. 
+
+If you have a more british accent with a clear ᛟᚹ type of pronunciation of GOAT, you can think of GOAT/HOLY being ᛟᚹ and GOAL/WHOLLY being ᚩᚹ. In which case we are just merging HOLY into WHOLLY. While Dr Lindsey makes many [great points about words like "halloween" and "Iowa" being ᛟᚹ](https://www.englishspeechservices.com/blog/the-spooky-ambiguity-of-halloween/), a choice needs to be made on how to represent this phoneme. For time being, we are just teaching that ᚩᚹ and ᛟᚹ are cousins, but ᛟᚹ doesn't come around very often.
+
+<!--
 ## ᚢᚹ for GOAT
 
 ethel used to be related to /o:/ in elder futhark, and GOAT is monophthongized to /o:/ so therefore using it for this GOAT set brings it back home.
@@ -165,6 +185,7 @@ The hull-hole merger feels right at home with this orthography as well.
 ᚩᚹ will remain a valid orthography for the GOAL lexical set; for when people want to be exact. People may choose to write names with this phoneme, for example. But for the most part, we will recommend that GOAL is subsumed into the GOAT set with ᚢᚹ.
 
 ᚢ also just so happens to not have a lot going on in this system, so this makes the rune a bit more commonplace.
+ -->
 
 ## ᚣ for FOOT
 

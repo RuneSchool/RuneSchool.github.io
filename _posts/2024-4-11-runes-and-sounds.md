@@ -231,4 +231,4 @@ Using the above table, we can assign the vowel runes to these rough territories.
 
 Each circle is saying "your pronunciation of this rune is somewhere in here".
 
-From here, we can make adjustments to the territorial boundaries in order to develop spelling *systems*.
+From here, we can make adjustments to the territorial boundaries in order to develop spelling *systems*. A map of where each vowel rune lives on the IPA vowel chart is not enough to help people use the runes to spell. Users need to understand guidelines for how to treat various lexical sets of words. 

@@ -22,8 +22,8 @@ If you've ever wanted to learn how to read and write English with the Anglo-Saxo
 <h2>Friends</h2>
 
 - [Rune Revival](https://www.youtube.com/@LearnRunes)
-- [Lexical Sets for Actors](https://ecampusontario.pressbooks.pub/lexicalsets/chapter/introduction-2/), and 
-- [Dr Geoff Lindsey](https://www.youtube.com/@DrGeoffLindsey).
+- [Lexical Sets for Actors](https://ecampusontario.pressbooks.pub/lexicalsets/chapter/introduction-2/)
+- [Dr Geoff Lindsey](https://www.youtube.com/@DrGeoffLindsey)
 - [Stella's Runes](https://rentry.co/merunes)
 - [Shavian.Info](https://shavian.info)
 - [Quickscript](https://en.wikipedia.org/wiki/Quikscript)

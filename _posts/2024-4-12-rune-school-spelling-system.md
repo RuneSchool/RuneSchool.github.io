@@ -324,3 +324,11 @@ If you don't have the NURSE merger and instead pronounce "fur", "fir", and "fern
 ## Don't have NORTH-FORCE merger
 
 If you don't have the NORTH-FORCE merger, you can spell NORTH words with ᚩᚱ and FORCE words with ᚩᚹᚱ. If there are no potential homophones that need distinguishing, it is recommended to stick with ᚩᚱ.
+
+## Merge lettER and NURSE
+
+NURSE ᛟᛟᚱ is stressed where lettER ᛟᚱ is not.
+
+## Merge commA and STRUT
+
+STRUT ᚢ is stressed where commA ᛟ is not.

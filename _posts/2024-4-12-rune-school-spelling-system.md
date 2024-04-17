@@ -11,7 +11,12 @@ hidden: false
 
 The Rune School Spelling System is inspired by [Shavian](https://shavian.info), [Rune Revival](https://runerevival.online), [Lexical Sets for Actors](https://ecampusontario.pressbooks.pub/lexicalsets/chapter/introduction-2/), and [Dr Geoff Lindsey](https://www.youtube.com/@DrGeoffLindsey).
 
-You can think of it as a more transparent Shavian with a few improvements.
+You can think of it as a runic Shavian with a few improvements like:
+
+* letter design is historically rooted
+* flexibility to seamlessly add or subtract phonemes
+* transparently shows the relationships between phonemes with consistent use of combinatorial patterns
+* a letter for the happY vowel
 
 # System
 
@@ -59,8 +64,6 @@ See a mapping of the vowels below:
 | ʊ | ʉ́ | 𐑫 | ᚣ |
 | uː | ʉ́w | 𐑵 | ᚣᚹ |
 | juː | jʉ́w | 𐑿 | ᛄᚣᚹ |
-
-Why is this better than the ReadLex? It has improvements like a happY vowel, it is historically rooted and thus not arbitrary, and it more transparently shows the relationships between phonemes with consistent use of combinatorial patterns.
 
 <!-- 
 | Lexical Set | Rune | Stress |

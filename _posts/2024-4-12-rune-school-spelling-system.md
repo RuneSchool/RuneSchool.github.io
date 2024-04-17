@@ -319,5 +319,4 @@ If you don't have the FACE merger and instead have two distinct lexical sets of 
 
 ## Don't have NURSE merger
 
-If you don't have the NURSE merger and instead pronounce "fur", "fir", and "fern" distinctly, I recommend spelling each with ᚢᚱ (or ᚣᚱ), ᛁᚱ, and ᛖᚱ respectively.
-
+If you don't have the NURSE merger and instead pronounce "fur", "fir", and "fern" distinctly, I recommend spelling each with ᚢᚱ, ᛁᚱ, and ᛖᚱ respectively.

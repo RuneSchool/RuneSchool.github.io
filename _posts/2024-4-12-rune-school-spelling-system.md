@@ -317,4 +317,7 @@ In a hundred years if there is a meaningful split within PALM or TRAP, that will
 
 If you don't have the FACE merger and instead have two distinct lexical sets of PANE and PAIN, I would suggest that you use a bindrune of ᛖ‍ᛄ for the PANE set to indicate that it is a closer monophthong and an unbound combination of ᛖᛄ for PAIN to indicate that it is the full diphthong.
 
+## Don't have NURSE merger
+
+If you don't have the NURSE merger and instead pronounce "fur", "fir", and "fern" distinctly, I recommend spelling each with ᚢᚱ (or ᚣᚱ), ᛁᚱ, and ᛖᚱ respectively.
 

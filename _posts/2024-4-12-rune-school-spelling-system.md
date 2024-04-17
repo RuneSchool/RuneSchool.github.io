@@ -14,7 +14,7 @@ The Rune School Spelling System is inspired by [Shavian](https://shavian.info), 
 You can think of it as a runic Shavian with a few improvements like:
 
 * letter design is historically rooted
-* flexibility to seamlessly add or subtract phonemes
+* flexibility to seamlessly add or subtract phonemes as the user wishes
 * transparently shows the relationships between phonemes with consistent use of combinatorial patterns
 * a letter for the happY vowel
 
@@ -165,20 +165,18 @@ Think of it this way:
 
 ## ᚢ for STRUT
 
-While foreigners may pronounce STRUT with a PALM phoneme, the PALM phoneme has no historical connection to the STRUT phoneme at all. Because of this English natives would never connect PALM to STRUT in their minds. A spelling system should cater to what native speakers find natural, not foreign learners.
-
 STRUT originally came from the "short u" sound. Because of this, it's appropriate to think that if runes had continued in use, people would have eventually started to pronounce ᚢ as a STRUT.
 
 Examples:
 
-| Latin | Runes BEFORE | Runes NOW |
-| --- | --- | --- |
-| putt | ᛈᚪᛏᛏ | ᛈᚢᛏ |
-| put | ᛈᚢᛏᛏ  | ᛈᚣᛏ  |
-| pool | ᛈᚢᛚ | ᛈᚣᚹᛚ |
-| pull | ᛈᚢᛚᛚ | ᛈᚣᛚ |
-| boom | ᛒᚢᛗ | ᛒᚣᚹᛗ |
-| bum | ᛒᚪᛗᛗ | ᛒᚢᛗ |
+| Latin | Runes  |
+| --- | --- |
+| putt | ᛈᚢᛏ |
+| put |  ᛈᚣᛏ  |
+| pool | ᛈᚣᚹᛚ |
+| pull |  ᛈᚣᛚ |
+| boom |ᛒᚣᚹᛗ |
+| bum | ᛒᚢᛗ |
 
 For more info on FOOT ᚣ, see below.
 
@@ -254,11 +252,11 @@ Option 4 is the best because of the STRUT-FOOT (hull-pull) merger and the FOOT-G
 
 Previously, ᛇ was used for "rad*io*" and "g*eo*graphy" as well as the consonant sound in "lo*ch*". We are keeping the consonant sound the same. However, the vowel sound for this rune was more likely [ji(ː)] or [i(ː)j]. We are representing the FLEECE phoneme as /ij/ and as such, this is the perfect shortcut rune for that sound.
 
-| Latin | Runes BEFORE | Runes NOW |
-| --- | --- | --- |
-| radio | ᚱᛖᛡᛞᛇ | ᚱᛖᛄᛞᛡᚩᚹ |
-| geography | ᚷᛇᚸᚱᛟᚠᛁ | ᚷᛡᚩᚸᚱᛟᚠᛡ |
-| fleece | ᚠᛚᛁᛋ | ᚠᛚᛇᛋ |
+| Latin | Runes  |
+| --- |  --- |
+| radio | ᚱᛖᛄᛞᛡᚩᚹ |
+| geography |  ᚷᛡᚩᚸᚱᛟᚠᛡ |
+| fleece | ᚠᛚᛇᛋ |
 
 Users may represent FLEECE as either ᛁᛄ or ᛇ.
 
@@ -266,11 +264,7 @@ Users may represent FLEECE as either ᛁᛄ or ᛇ.
 
 > [happY can be associated with either fleece, kit, or face, with vowel qualities in the range of /i ~ ɪ ~ e ~ ɛ/](https://ecampusontario.pressbooks.pub/lexicalsets/chapter/25-happy-lexical-set/)"
 
-The sound in happY could be either KIT or FLEECE, or something different all together. If anyone has used Shavian before, you know the pain of not having a letter just for this happY phoneme.
-
-Previously, the ᛁ rune represented both KIT and FLEECE and therefore if it was on the end of a word, it could be whatever you wanted it to be. The one issue that would occur from this is the famous confusion of "candied" and "candide".
-
-Now, we have different runes for both KIT and FLEECE. So the happY vowel is now represented with ᛡ. 
+The sound in happY could be either KIT or FLEECE, or something different all together. If anyone has used Shavian before, you know the pain of not having a letter just for this happY phoneme. So the happY vowel is now represented with ᛡ. 
 
 ᛄ and ᛡ are famously controversial. Many believe that they are two different styles for the same rune. But the fact is that multiple manuscripts contain both of these runes and they even have different names. So at least one person out there thought the difference was significant enough to warrant two different runes with their own stanzas. That is good enough for me to respect.
 
@@ -280,28 +274,28 @@ If we take each of these runes sounds as being the first phoneme of their names,
 
 The /i/-ish sound is perfect for the happY vowel. And moving ᛄ to the FACE, PRICE, and CHOICE phonemes will make it consistent with the usage of ᚹ in this same regard.
 
-| Latin       | Runes BEFORE | Runes NOW |
-| ----------- | ------------ | --------- |
-| Kale        | ᛣᛖᛡᛚ         | ᛣᛖᛄᛚ      |
-| Kyle        | ᛣᚪᛡᛚ         | ᛣᚫᛄᛚ      |
-| Coil        | ᛣᚩᛡᛚ         | ᛣᚩᛄᛚ      |
-| Geography   | ᚷᛇᚸᚱᛟᚠᛁ     | ᚷᛡᚩᚸᚱᛟᚠᛡ  |
-| Radio       | ᚱᛖᛡᛞᛇ      | ᚱᛖᛄᛞᛡᚩᚹ   |
-| Kitty       | ᛣᛁᛏᛁ         | ᛣᛁᛏᛡ      |
-| Create      | ᚳᚱᛁᛖᛡᛏ       | ᚳᚱᛡᛖᛄᛏ    |
-| Easily (1)  | ᛁᛉᛁᛚᛚᛁ        | ᛁᛄᛉᛁᛚᛡ     |
-| Easily (2)  | ᛁᛉᛁᛚᛚᛁ       | ᛇᛉᛁᛚᛡ    |
-| Yield (1)   | ᛄᛁᛚᛞ        | ᛄᛁᛄᛚᛞ     |
-| Yield (2)   | ᛄᛁᛚᛞ         | ᛄᛇᛚᛞ      |
-| Reality   | ᚱᛁᚫᛚᛁᛏᛏᛁ         | ᚱᛡᚫᛚᛁᛏᛡ      |
-| Candied     | ᛣᚫᚾᛞᛁᛞ       | ᛣᚫᚾᛞᛡᛞ    |
-| Candidly    | ᛣᚫᚾᛞᛁᛞᛞᛚᛁ     | ᛣᚫᚾᛞᛁᛞᛚᛡ  |
-| Candide (1) | ᛣᚫᚾᛞᛁᛞ       | ᛣᚫᚾᛞᛁᛄᛞ    |
-| Candide (2) | ᛣᚫᚾᛞᛁᛞ      | ᛣᚫᚾᛞᛇᛞ   |
+| Latin       | Runes  |
+| ----------- |  --------- |
+| Kale        |  ᛣᛖᛄᛚ      |
+| Kyle        |  ᛣᚫᛄᛚ      |
+| Coil        |  ᛣᚩᛄᛚ      |
+| Geography   |  ᚷᛡᚩᚸᚱᛟᚠᛡ  |
+| Radio       |  ᚱᛖᛄᛞᛡᚩᚹ   |
+| Kitty       |  ᛣᛁᛏᛡ      |
+| Create      |  ᚳᚱᛡᛖᛄᛏ    |
+| Easily (1)  |  ᛁᛄᛉᛁᛚᛡ     |
+| Easily (2)  | ᛇᛉᛁᛚᛡ    |
+| Yield (1)   |  ᛄᛁᛄᛚᛞ     |
+| Yield (2)   |  ᛄᛇᛚᛞ      |
+| Reality   |  ᚱᛡᚫᛚᛁᛏᛡ      |
+| Candied     | ᛣᚫᚾᛞᛡᛞ    |
+| Candidly    |  ᛣᚫᚾᛞᛁᛞᛚᛡ  |
+| Candide (1) |  ᛣᚫᚾᛞᛁᛄᛞ    |
+| Candide (2) |  ᛣᚫᚾᛞᛇᛞ   |
 
 Ultimately, if a user confuses these two runes and uses just one for happY and /j/, it's not the end of the world. But offering this distinction should aid in clarity.
 
-It can also be noted that if bindrunes become widely available, bindrunes of ᛖᛡ ᚫᛡ ᚩᛡ could be used which would distinguish diphthongs from the happY vowel.
+It can also be noted that if bindrunes become widely available, bindrunes of ᛖᛡ ᚫᛡ ᚩᛡ could be used which would distinguish diphthongs from the happY vowel, if someone should want to only use ᛡ and not ᛄ.
 
 ## ᚪ as a shortcut for ᚫᚫ
 

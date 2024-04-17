@@ -311,3 +311,10 @@ And finally, consider that this is better for crosswords and other word games. M
 
 In a hundred years if there is a meaningful split within PALM or TRAP, that will be workable with this system. I doubt that such a thing would occur within 500 years at least, but if it happens, we would just say “ᚪ rune grew up and earned its own row in the table!”
 
+# What about my accent?
+
+## Don't have the FACE merger
+
+If you don't have the FACE merger and instead have two distinct lexical sets of PANE and PAIN, I would suggest that you use a bindrune of ᛖ‍ᛄ for the PANE set to indicate that it is a closer monophthong and an unbound combination of ᛖᛄ for PAIN to indicate that it is the full diphthong.
+
+

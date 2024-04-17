@@ -2,21 +2,21 @@
 title: "Hope is the Thing with Feathers"
 author: "Emily Dickinson"
 layout: post
-date: 2024-4-10
+date: 2024-4-13
 tag:
 - poetry
 category: blog
 description: "Hope is the Thing with Feathers by Emily Dickinson in Modern English Futhorc"
-hidden: true
+hidden: false
 ---
 
 <h2 lang="en-Runr" style="font-family:BabelStoneRunic;">ᚻᚩ‍ᚹᛈ᛫​ᛁᛉ᛫​ᚦᛟ᛫​ᚦᛁᛝ᛫​ᚹᛁᚦ᛫​ᚠᛖᚦᛟᚱᛉ</h2>
 
-<h4 lang="en-Runr" style="font-family:BabelStoneRunic;">ᛒᚪᛄ᛫ᛖᛗᛟᛚᛡ᛫​ᛞᛁᛣᛁᚾ‍ᛋᛟᚾ</h4>
+<h4 lang="en-Runr" style="font-family:BabelStoneRunic;">ᛒ​ᚫᛄ᛫ᛖᛗᛟᛚᛡ᛫​ᛞᛁᛣᛁᚾ‍ᛋᛟᚾ</h4>
 
 <div lang="en-Runr" style="line-height:35px;font-size:14px;font-family:BabelStoneRunic;">
 ᛫᛬ᚻᚩ‍ᚹᛈ᛬᛫​ᛁᛉ᛫​ᚦᛟ᛫​ᚦᛁᛝ᛫​ᚹᛁᚦ᛫​ᚠᛖᚦ<span style="color:green">ᛟᚱᛉ</span>᛫᛫​<br>
-ᚦᚫᛏ᛫​ᛈᛟᚱᚳᛉ᛫​ᛁᚾ᛫​ᚦᛟ᛫​ᛋ<span style="color:red">ᚩ</span>ᚹ<span style="color:red">ᛚ</span>᛫᛫​<br>
+ᚦᚫᛏ᛫​ᛈᛟᚱᚳᛟᛉ᛫​ᛁᚾ᛫​ᚦᛟ᛫​ᛋ<span style="color:red">ᚩ</span>ᚹ<span style="color:red">ᛚ</span>᛫᛫​<br>
 ᚫᚾᛞ᛫​ᛋᛁᛝᛉ᛫​ᚦᛟ᛫​ᛏᛄᚣᚾ᛫​ᚹᛁᚦᚪᚹᛏ᛫​ᚦᛟ᛫​ᚹᛟ<span style="color:green">ᛟᚱ</span>ᛞ<span style="color:green">ᛉ</span>᛫᛫​<br>
 ᚫᚾᛞ᛫​ᚾᛖᚠ‍ᚠᛟᚱ᛫​ᛥᚩᛈᛋ᛫᛫​ᚫᛏ᛫ᚩ​<span style="color:red">ᚩᛚ</span>᛫᛫​
 <br><br>
@@ -25,9 +25,9 @@ hidden: true
 ᚦᚫᛏ᛫​ᛣᚣᛞ᛫​ᛟᛒᚫᛋᚳ᛫​ᚦᛟ᛫​ᛚᛁᛏᛚ᛫​ᛒ<span style="color:green">ᛟᛟᚱᛞ</span><br>
 ᚦᚫᛏ᛫​ᛣᛖᛈᛏ᛫​ᛋᚩ‍ᚹ᛫​ᛗᛖᚾᛡ᛫​ᚹ<span style="color:purple">ᚩ‍ᚱᛗ</span>᛫᛫​
 <br><br>
-ᚪ‍ᛄᚠ‍ᚠ᛫​ᚻᛟᛟᚱᛞ᛫​ᛁᛏ᛫​ᛁᚾ᛫​ᚦᛟ᛫​ᚳᛁᛚᛟᛋᛏ᛫​ᛚᚫᚾᛞ᛫᛫​<br>
+​ᚫᛄᚠ‍ᚠ᛫​ᚻᛟᛟᚱᛞ᛫​ᛁᛏ᛫​ᛁᚾ᛫​ᚦᛟ᛫​ᚳᛁᛚᛟᛋᛏ᛫​ᛚᚫᚾᛞ᛫᛫​<br>
 ᚫᚾᛞ᛫​ᚩᚾ᛫​ᚦᛟ᛫​ᛥᚱᛖ‍ᛄᚾᚷᛟᛋᛏ᛫​ᛋ<span style="color:SlateBlue">ᛇ</span>᛫᛫​<br>
-ᛄᛖᛏ᛫᛫​ᚾᛖᚠ‍ᚠᛟᚱ᛫᛫​ᛁᚾ᛫ᛁᛣᛥᚱᛖᛗ<span style="color:green">ᛟ</span>ᛏ<span style="color:SlateBlue">ᛇ</span>᛫​<br>
+ᛄᛖᛏ᛫᛫​ᚾᛖᚠ‍ᚠᛟᚱ᛫᛫​ᛁᚾ᛫ᛁᛣᛥᚱᛖᛗ<span style="color:green">ᛟ</span>ᛏ<span style="color:#5a84cd">ᛡ</span>᛫​<br>
 ᛁᛏ᛫​ᚫᛋᛣᛏ᛫​ᛟ᛫​ᚳᚱᚢᛗ᛫᛫​<span style="color:green">​ᛟ</span>ᚠ‍ᚠ᛫​ᛗ<span style="color:SlateBlue">ᛇ</span>᛬​
 </div>
 

@@ -98,9 +98,9 @@ Why is this better than the ReadLex? It has improvements like a happY vowel, it 
 | --- | --- | --- | --- |
 | eɪ | æ | ᛖᛄ | ᚫ |
 | i: | e | ᛁᛄ | ᛖ |
-| aɪ | ɪ | ᚪᛄ | ᛁ |
+| aɪ | ɪ | ᚫᛄ | ᛁ |
 | əʊ | ɒ | ᚢᚹ | ᚩ |
-| aʊ | ʌ | ᚪᚹ | ᚢ |
+| aʊ | ʌ | ᚫᚹ | ᚢ |
 | eɪ | ə | ᚢ | ᛟ |
 | i: | ə | ᛁ | ᛟ |
 | aɪ | ə | ᛖ | ᛟ |
@@ -126,7 +126,7 @@ When in doubt, consider the derivatives.
 
 For example, consider "Terrible". Can it be spelled ᛏᛖᚱᛟᛒᛚ without a schwa before the L? If we can spell the derivative "Terribly" by just adding the -y on the end, then yes! ᛏᛖᚱᛟᛒᛚᛡ (it works!)
 
-Another example, consider "Imagine". Can it be spelled ᛁᛗᚫᚷᚾ without a schwa before the N? If we can spell the derivative "Imagination" by just adding the -ation on the end, then yes! ᛁᛗᚫᚷᚾᛖᛄᛋᚳᚾ. It fails because the syllable boundaries break. It needs to be ᛁᛗᚫᚷᛟᚾᛖᛄᛋᚳᚾ for it to sound right, and thus the base word should to be ᛁᛗᚫᚷᛟᚾ.
+Another example, consider "Imagine". Can it be spelled ᛁᛗᚫᚷᚾ without a schwa before the N? If we can spell the derivative "Imagination" by just adding the -ation on the end, then yes! ᛁᛗᚫᚷᚾᛖᛄᛋᚳᚾ. It fails because the syllable boundaries break. It needs to be ᛁᛗᚫᚷᛟᚾᛖᛄᛋᚳᚾ for it to sound right, and thus the base word should be ᛁᛗᚫᚷᛟᚾ.
 
 ## Shortcut words
 
@@ -269,7 +269,7 @@ Previously, the ᛁ rune represented both KIT and FLEECE and therefore if it was
 
 Now, we have different runes for both KIT and FLEECE. So the happY vowel is now represented with ᛡ. 
 
-ᛄ and ᛡ are famously controversial. Many believe that they are two different styles for the same rune. But the fact is that multiple manuscripts contain both of these runes and they even have different names. That would not be the case if they were just stylistic variants of the same rune.
+ᛄ and ᛡ are famously controversial. Many believe that they are two different styles for the same rune. But the fact is that multiple manuscripts contain both of these runes and they even have different names. So at least one person out there thought the difference was significant enough to warrant two different runes with their own stanzas. That is good enough for me to respect.
 
 ᛡ was called "Īor", probably meaning "eel". ᛄ was called "Gēr", meaning "year". 
 
@@ -280,7 +280,7 @@ The /i/-ish sound is perfect for the happY vowel. And moving ᛄ to the FACE, PR
 | Latin       | Runes BEFORE | Runes NOW |
 | ----------- | ------------ | --------- |
 | Kale        | ᛣᛖᛡᛚ         | ᛣᛖᛄᛚ      |
-| Kyle        | ᛣᚪᛡᛚ         | ᛣᚪᛄᛚ      |
+| Kyle        | ᛣᚪᛡᛚ         | ᛣᚫᛄᛚ      |
 | Coil        | ᛣᚩᛡᛚ         | ᛣᚩᛄᛚ      |
 | Geography   | ᚷᛇᚸᚱᛟᚠᛁ     | ᚷᛡᚩᚸᚱᛟᚠᛡ  |
 | Radio       | ᚱᛖᛡᛞᛇ      | ᚱᛖᛄᛞᛡᚩᚹ   |
@@ -297,6 +297,8 @@ The /i/-ish sound is perfect for the happY vowel. And moving ᛄ to the FACE, PR
 | Candide (2) | ᛣᚫᚾᛞᛁᛞ      | ᛣᚫᚾᛞᛇᛞ   |
 
 Ultimately, if a user confuses these two runes and uses just one for happY and /j/, it's not the end of the world. But offering this distinction should aid in clarity.
+
+It can also be noted that if bindrunes become widely available, bindrunes of ᛖᛡ ᚫᛡ ᚩᛡ could be used which would distinguish diphthongs from the happY vowel.
 
 ## ᚪ as a shortcut for ᚫᚫ
 

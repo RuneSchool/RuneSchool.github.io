@@ -3,7 +3,7 @@ title: "About the runes"
 layout: post
 date: 2024-4-12
 tag:
-- phonology
+- runes
 category: blog
 description: The reasoning behind the choices made in Rune School's Modern English Futhorc system
 hidden: true

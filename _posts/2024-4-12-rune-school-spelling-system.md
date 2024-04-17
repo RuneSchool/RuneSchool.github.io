@@ -320,3 +320,7 @@ If you don't have the FACE merger and instead have two distinct lexical sets of 
 ## Don't have NURSE merger
 
 If you don't have the NURSE merger and instead pronounce "fur", "fir", and "fern" distinctly, I recommend spelling each with ᚢᚱ, ᛁᚱ, and ᛖᚱ respectively.
+
+## Don't have NORTH-FORCE merger
+
+If you don't have the NORTH-FORCE merger, you can spell NORTH words with ᚩᚱ and FORCE words with ᚩᚹᚱ. If there are no potential homophones that need distinguishing, it is recommended to stick with ᚩᚱ.

@@ -11,6 +11,8 @@ hidden: true
 
 This post is all about the runes themselves and how we can understand them today.
 
+We are using the [Anglo-Saxon Futhorc](https://en.wikipedia.org/wiki/Anglo-Saxon_runes) only. And the idea is to use all of the runes, not just a subset that we deem acceptable.
+
 Firstly, let's get a good look at them with some cool ASCII arrangements.
 
 ### Extra runes separate

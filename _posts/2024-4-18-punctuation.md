@@ -17,7 +17,7 @@ Punctuation is a notoriously puzzling mystery in the world of runes. We essentia
 16ED	᛭	RUNIC CROSS PUNCTUATION
 ```
 
-So working within these bounds, what can we do?
+So working within these bounds, what can we do? *Jump to the [summary](#summary) to see what I propose.*
 
 # Less is more
 

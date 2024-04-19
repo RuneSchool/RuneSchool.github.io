@@ -55,7 +55,7 @@ Now McCarthy also uses commas. A comma is really just a smaller pause. So to rep
 
 ## Capitals
 
-What stood out to me above however was McCarthy's use of capitals. He specifically called out the use of capitals when discussing punctuation. I wouldn't normally connect those two concepts, so I asked [Meta.ai](https://www.meta.ai/) to explain how he uses capital letters
+What stood out to me above however was McCarthy's use of capitals. I wouldn't normally connect the concepts of capitals and punctuation, so I asked [Meta.ai](https://www.meta.ai/) to explain how he uses them
 
 ---
 * No quotation marks: McCarthy often omits quotation marks to indicate dialogue, instead using a space or a line break to separate spoken words from the rest of the text.

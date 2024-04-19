@@ -63,6 +63,7 @@ What stood out to me above however was McCarthy's use of capitals. He specifical
 * Lowercase beginnings: McCarthy frequently starts sentences, including the first sentence of a chapter or section, with a lowercase letter.
 * Emphasis through case: He occasionally uses all lowercase or all uppercase letters to convey emphasis or distinction, such as in the title of his novel "no country for old men".
 * Consistency: Despite these unconventional practices, McCarthy's use of capital letters is consistent throughout his works, contributing to a distinctive and recognizable writing style.
+
 ---
 
 What this tells me is that McCarthy uses capitals as a way to signify that some words are special. What that means may depend on the context. But I guess he isn't using them just as sentence starters only, for example.
@@ -84,6 +85,7 @@ Now what about question marks and exclamation points? Does McCarthy really avoid
 * No exclamation marks: He rarely, if ever, uses exclamation marks, which adds to the overall tone of restraint and understatement in his writing.
 * Periods instead of question marks: When a sentence is structured as a question, McCarthy often uses a period instead of a question mark, which can make the sentence feel more like a statement or a declaration.
 * Emphasis through sentence structure: McCarthy achieves emphasis through the structure of his sentences, using short, direct sentences to convey a sense of urgency or importance, rather than relying on exclamation marks.
+
 ---
 
 In cases where we absolutely need a question mark, we could use 3 space dots, like an ellipsis. But as mentioned above, how often is this even necessary? Most questions involve question words and phrasing, for example.

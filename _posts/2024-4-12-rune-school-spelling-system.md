@@ -42,28 +42,28 @@ See a mapping of the vowels below:
 | ə | ə | 𐑩 | ᛟ |
 | ər | ər | 𐑼 | ᛟᚱ |
 | ɜː | ə́ːr | 𐑻 | ᛟᛟᚱ |
-| ɪ~i | ɪ | 𐑦 | ᛁ or ᛡ |
+| ɪ | ɪ | 𐑦 | ᛁ |
 | ɪə | ɪ́ː | 𐑾 | ᛁᛁ or ᛠ |
 | ɪər | ɪ́ːr | 𐑾 | ᛁᛁᚱ or ᛠᚱ|
-| i | ɪj | 𐑦 | ᛡ |
-| iː | ɪj | 𐑰 | ᛁᛄ or ᛇ |
+| i | ɪj | 𐑦 | ᛄ |
+| iː | ɪj | 𐑰 | ᛁᛡ or ᛇ |
 | e | ɛ | 𐑧 | ᛖ |
-| eɪ | ɛj | 𐑱 | ᛖᛄ |
+| eɪ | ɛj | 𐑱 | ᛖᛡ |
 | er | ɛ́r | 𐑺 | ᛖᚱ |
 | eə | ɛ́ːr | 𐑺 | ᛖᛖᚱ |
 | æ | a | 𐑨 | ᚫ |
-| aɪ | ɑj | 𐑲 | ᚫᛄ |
+| aɪ | ɑj | 𐑲 | ᚫᛡ |
 | aʊ | áw | 𐑬 | ᚫᚹ |
 | ɑː | ɑː | 𐑭 | ᚫᚫ or ᚪ |
 | ɑːr | ɑːr | 𐑸 | ᚫᚫᚱ or ᚪᚱ |
 | ɒ | ɔ́ | 𐑪 | ᚩ |
-| ɔɪ | ój | 𐑶 | ᚩᛄ |
+| ɔɪ | ój | 𐑶 | ᚩᛡ |
 | ɔː | óː | 𐑷 | ᚩᚩ |
 | ɔːr | óːr | 𐑹 | ᚩᚱ |
 | əʊ | əw | 𐑴 | ᚩᚹ |
 | ʊ | ʉ́ | 𐑫 | ᚣ |
 | uː | ʉ́w | 𐑵 | ᚣᚹ |
-| juː | jʉ́w | 𐑿 | ᛄᚣᚹ |
+| juː | jʉ́w | 𐑿 | ᛡᚣᚹ |
 
 <!-- 
 | Lexical Set | Rune | Stress |
@@ -115,7 +115,7 @@ See a mapping of the vowels below:
 
 ## happY vowel
 
-Use the happY rune ᛡ where Shavian would have a trailing 𐑦.
+Use the happY rune ᛄ where Shavian would have a trailing 𐑦.
 
 ## Syllabic consonants
 
@@ -127,7 +127,7 @@ In many (not all) places where you see **𐑩𐑯** or **𐑩𐑥**, you can jus
 
 When in doubt, consider the derivatives. 
 
-For example, consider "Terrible". Can it be spelled ᛏᛖᚱᛟᛒᛚ without a schwa before the L? If we can spell the derivative "Terribly" by just adding the -y on the end, then yes! ᛏᛖᚱᛟᛒᛚᛡ (it works!)
+For example, consider "Terrible". Can it be spelled ᛏᛖᚱᛟᛒᛚ without a schwa before the L? If we can spell the derivative "Terribly" by just adding the -y on the end, then yes! ᛏᛖᚱᛟᛒᛚᛄ (it works!)
 
 Another example, consider "Imagine". Can it be spelled ᛁᛗᚫᚷᚾ without a schwa before the N? If we can spell the derivative "Imagination" by just adding the -ation on the end, then yes! ᛁᛗᚫᚷᚾᛖᛄᛋᚳᚾ. It fails because the syllable boundaries break. It needs to be ᛁᛗᚫᚷᛟᚾᛖᛄᛋᚳᚾ for it to sound right, and thus the base word should be ᛁᛗᚫᚷᛟᚾ.
 
@@ -254,48 +254,50 @@ Previously, ᛇ was used for "rad*io*" and "g*eo*graphy" as well as the consonan
 
 | Latin | Runes  |
 | --- |  --- |
-| radio | ᚱᛖᛄᛞᛡᚩᚹ |
-| geography |  ᚷᛡᚩᚸᚱᛟᚠᛡ |
+| radio | ᚱᛖᛄᛞᛄᚩᚹ |
+| geography |  ᚷᛄᚩᚸᚱᛟᚠᛄ |
 | fleece | ᚠᛚᛇᛋ |
 
 Users may represent FLEECE as either ᛁᛄ or ᛇ.
 
-## ᛡ for happY vowel
+## ᛄ for happY vowel
 
-> [happY can be associated with either fleece, kit, or face, with vowel qualities in the range of /i ~ ɪ ~ e ~ ɛ/](https://ecampusontario.pressbooks.pub/lexicalsets/chapter/25-happy-lexical-set/)"
+"[happY can be associated with either fleece, kit, or face, with vowel qualities in the range of /i ~ ɪ ~ e ~ ɛ/](https://ecampusontario.pressbooks.pub/lexicalsets/chapter/25-happy-lexical-set/)". KIT, FLEECE, and happY are not three distinct sounds. Rather, happY could be either KIT or FLEECE. If anyone has used Shavian before, you know the pain of not having a letter just for this happY phoneme.
 
-The sound in happY could be either KIT or FLEECE, or something different all together. If anyone has used Shavian before, you know the pain of not having a letter just for this happY phoneme. So the happY vowel is now represented with ᛡ. 
+Previously, the ᛁ rune represented both KIT and FLEECE and therefore if it was on the end of a word, it could be whatever you wanted it to be. The one issue that would occur from this is the famous confusion of "candied" and "candide".
 
-ᛄ and ᛡ are famously controversial. Many believe that they are two different styles for the same rune. But the fact is that multiple manuscripts contain both of these runes and they even have different names. So at least one person out there thought the difference was significant enough to warrant two different runes with their own stanzas. That is good enough for me to respect.
+Now, we have different runes for both KIT and FLEECE. So the happY vowel is now represented with ᛄ. 
 
-ᛡ was called "Īor", probably meaning "eel". ᛄ was called "Gēr", meaning "year". 
+ᛄ and ᛡ are famously controversial. Many believe that they are two different styles for the same rune. But the fact is that multiple manuscripts contain both of these runes and they even have different names. That would not be the case if they were just stylistic variants of the same rune.
 
-If we take each of these runes sounds as being the first phoneme of their names, then ᛡ has an /i/-ish sound and ᛄ has a /j/-ish sound.
+ᛡ was called "Īor", (probably) meaning "eel". ᛄ was called "Gēr", meaning "year". 
 
-The /i/-ish sound is perfect for the happY vowel. And moving ᛄ to the FACE, PRICE, and CHOICE phonemes will make it consistent with the usage of ᚹ in this same regard.
+Realistically, both of these runes could be a /j/ sound. But it's postulated that ᛡ specifically had a /jo/ sound. Therefore, it seems more appropriate for making diphthongs like /ej/, /aj/, /oj/, etc. 
 
-| Latin       | Runes  |
-| ----------- |  --------- |
-| Kale        |  ᛣᛖᛄᛚ      |
-| Kyle        |  ᛣᚫᛄᛚ      |
-| Coil        |  ᛣᚩᛄᛚ      |
-| Geography   |  ᚷᛡᚩᚸᚱᛟᚠᛡ  |
-| Radio       |  ᚱᛖᛄᛞᛡᚩᚹ   |
-| Kitty       |  ᛣᛁᛏᛡ      |
-| Create      |  ᚳᚱᛡᛖᛄᛏ    |
-| Easily (1)  |  ᛁᛄᛉᛁᛚᛡ     |
-| Easily (2)  | ᛇᛉᛁᛚᛡ    |
-| Yield (1)   |  ᛄᛁᛄᛚᛞ     |
-| Yield (2)   |  ᛄᛇᛚᛞ      |
-| Reality   |  ᚱᛡᚫᛚᛁᛏᛡ      |
-| Candied     | ᛣᚫᚾᛞᛡᛞ    |
-| Candidly    |  ᛣᚫᚾᛞᛁᛞᛚᛡ  |
-| Candide (1) |  ᛣᚫᚾᛞᛁᛄᛞ    |
+So what do we do with ᛄ? Well, just like the use of the letter "y" in latin English, it can have a use as the happY phoneme.
+
+| Latin       |  Runes |
+| -------- |  ------ |
+| Kale        |  ᛣᛖᛡᛚ      |
+| Kyle        |  ᛣᚪᛡᛚ      |
+| Coil        |  ᛣᚩᛡᛚ      |
+| Geography   |  ᚷᛄᚩᚸᚱᛟᚠᛄ  |
+| Radio       | ᚱᛖᛡᛞᛄᚩᚹ   |
+| Kitty       |  ᛣᛁᛏᛄ      |
+| Create      | ᚳᚱᛄᛖᛡᛏ    |
+| Easily (1)  |  ᛁᛡᛉᛁᛚᛄ     |
+| Easily (2)  |  ᛇᛉᛁᛚᛄ    |
+| Yield (1)   | ᛡᛁᛡᛚᛞ     |
+| Yield (2)   |  ᛡᛇᛚᛞ      |
+| Reality   |  ᚱᛄᚫᛚᛁᛏᛄ      |
+| Candied     |  ᛣᚫᚾᛞᛄᛞ    |
+| Candidly    |  ᛣᚫᚾᛞᛁᛞᛚᛄ  |
+| Candide (1) |  ᛣᚫᚾᛞᛁᛡᛞ    |
 | Candide (2) |  ᛣᚫᚾᛞᛇᛞ   |
 
-Ultimately, if a user confuses these two runes and uses just one for happY and /j/, it's not the end of the world. But offering this distinction should aid in clarity.
+Ultimately, if a user uses just one rune for both happY and /j/, it's not the end of the world. But offering this distinction should aid in clarity.
 
-It can also be noted that if bindrunes become widely available, bindrunes of ᛖᛡ ᚫᛡ ᚩᛡ could be used which would distinguish diphthongs from the happY vowel, if someone should want to only use ᛡ and not ᛄ.
+This solution also keeps ᛡ more common than ᛄ which is true to the Anglo-Saxon corpus as well.
 
 ## ᚪ as a shortcut for ᚫᚫ
 
@@ -327,8 +329,8 @@ If you don't have the NORTH-FORCE merger, you can spell NORTH words with ᚩᚱ 
 
 ## Merge lettER and NURSE
 
-NURSE ᛟᛟᚱ is stressed where lettER ᛟᚱ is not.
+Does lettER sound the same as NURSE to you? NURSE ᛟᛟᚱ is stressed where lettER ᛟᚱ is not.
 
 ## Merge commA and STRUT
 
-STRUT ᚢ is stressed where commA ᛟ is not.
+Does commA sound the same as STRUT to you? STRUT ᚢ is stressed where commA ᛟ is not.

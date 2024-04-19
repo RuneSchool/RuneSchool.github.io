@@ -100,8 +100,8 @@ Here is a list of runes so that you can see how this system has kept them the sa
 | ᚻ    | hægl | /h/               | /h/                   | <span style="color:green"> /h/ </span> |
 | ᚾ    | nēod | /n/               | /n/                   | <span style="color:green"> /n/ </span> |
 | ᛁ    | īs  | /i(ː)/           | /i(ː)/                   | <span style="color:orange"> /ɪ/ </span> |
-| ᛄ    | Gēr | /j/               | /j/                   | <span style="color:green"> /j/ </span> |
-| ᛡ    | Īor |                   | /jo/                   | <span style="color:orange"> /i/  </span> |
+| ᛄ    | Gēr | /j/               | /j/                   | <span style="color:orange"> /i/ </span> |
+| ᛡ    | Īor |                   | /jo/                   | <span style="color:green"> /j/  </span> |
 | ᛇ    | Ēoh / īw | /iː~ç/            | /iː~x~ç/               | <span style="color:green"> /iː~x~ç/ </span> |
 | ᛈ    | peorð | /p/               | /p/                   | <span style="color:green"> /p/ </span> |
 | ᛉ    | ilcs (eolh?) | /z/               |    /ks/?                   | <span style="color:orange"> /z/ </span> |
@@ -164,42 +164,44 @@ Another option entirely would be to use ᚣ as a rune that represents /ju:/ like
 
 Option 4 is the best because of the STRUT-FOOT (hull-pull) merger and the FOOT-GOOSE merger. *Visually* STRUT and FOOT look similar and *also* FOOT and GOOSE look similar. So FOOT is the meeting point of the two. Also, STRUT is a more open sound than FOOT on the IPA vowel chart and ᚢ looks more visually open than ᚣ.
 
-### ᛡ 
+### ᛄ 
 
 "[happY can be associated with either fleece, kit, or face, with vowel qualities in the range of /i ~ ɪ ~ e ~ ɛ/](https://ecampusontario.pressbooks.pub/lexicalsets/chapter/25-happy-lexical-set/)". KIT, FLEECE, and happY are not three distinct sounds. Rather, happY could be either KIT or FLEECE. If anyone has used Shavian before, you know the pain of not having a letter just for this happY phoneme.
 
 Previously, the ᛁ rune represented both KIT and FLEECE and therefore if it was on the end of a word, it could be whatever you wanted it to be. The one issue that would occur from this is the famous confusion of "candied" and "candide".
 
-Now, we have different runes for both KIT and FLEECE. So the happY vowel is now represented with ᛡ. 
+Now, we have different runes for both KIT and FLEECE. So the happY vowel is now represented with ᛄ. 
 
 ᛄ and ᛡ are famously controversial. Many believe that they are two different styles for the same rune. But the fact is that multiple manuscripts contain both of these runes and they even have different names. That would not be the case if they were just stylistic variants of the same rune.
 
-ᛡ was called "Īor", meaning "eel". ᛄ was called "Gēr", meaning "year". 
+ᛡ was called "Īor", (probably) meaning "eel". ᛄ was called "Gēr", meaning "year". 
 
-If we take each of these runes sounds as being the first phoneme of their names, then ᛡ has an /i/-ish sound and ᛄ has a /j/-ish sound.
+Realistically, both of these runes could be a /j/ sound. But it's postulated that ᛡ specifically had a /jo/ sound. Therefore, it seems more appropriate for making diphthongs like /ej/, /aj/, /oj/, etc. 
 
-The /i/-ish sound is perfect for the happY vowel. And moving ᛄ to the FACE, PRICE, and CHOICE phonemes will make it consistent with the usage of ᚹ in this same regard.
+So what do we do with ᛄ? Well, just like the use of the letter "y" in latin English, it can have a use as the happY phoneme.
 
 | Latin       |  Runes |
 | -------- |  ------ |
-| Kale        |  ᛣᛖᛄᛚ      |
-| Kyle        |  ᛣᚪᛄᛚ      |
-| Coil        |  ᛣᚩᛄᛚ      |
-| Geography   |  ᚷᛡᚩᚸᚱᛟᚠᛡ  |
-| Radio       | ᚱᛖᛄᛞᛡᚩᚹ   |
-| Kitty       |  ᛣᛁᛏᛡ      |
-| Create      | ᚳᚱᛡᛖᛄᛏ    |
-| Easily (1)  |  ᛁᛄᛉᛁᛚᛡ     |
-| Easily (2)  |  ᛇᛉᛁᛚᛡ    |
-| Yield (1)   | ᛄᛁᛄᛚᛞ     |
-| Yield (2)   |  ᛄᛇᛚᛞ      |
-| Reality   |  ᚱᛡᚫᛚᛁᛏᛡ      |
-| Candied     |  ᛣᚫᚾᛞᛡᛞ    |
-| Candidly    |  ᛣᚫᚾᛞᛁᛞᛚᛡ  |
-| Candide (1) |  ᛣᚫᚾᛞᛁᛄᛞ    |
+| Kale        |  ᛣᛖᛡᛚ      |
+| Kyle        |  ᛣᚪᛡᛚ      |
+| Coil        |  ᛣᚩᛡᛚ      |
+| Geography   |  ᚷᛄᚩᚸᚱᛟᚠᛄ  |
+| Radio       | ᚱᛖᛡᛞᛄᚩᚹ   |
+| Kitty       |  ᛣᛁᛏᛄ      |
+| Create      | ᚳᚱᛄᛖᛡᛏ    |
+| Easily (1)  |  ᛁᛡᛉᛁᛚᛄ     |
+| Easily (2)  |  ᛇᛉᛁᛚᛄ    |
+| Yield (1)   | ᛡᛁᛡᛚᛞ     |
+| Yield (2)   |  ᛡᛇᛚᛞ      |
+| Reality   |  ᚱᛄᚫᛚᛁᛏᛄ      |
+| Candied     |  ᛣᚫᚾᛞᛄᛞ    |
+| Candidly    |  ᛣᚫᚾᛞᛁᛞᛚᛄ  |
+| Candide (1) |  ᛣᚫᚾᛞᛁᛡᛞ    |
 | Candide (2) |  ᛣᚫᚾᛞᛇᛞ   |
 
-Ultimately, if a user ᛄ and ᛡ and uses just one for both happY and /j/, it's not the end of the world. But offering this distinction should aid in clarity.
+Ultimately, if a user uses just one rune for both happY and /j/, it's not the end of the world. But offering this distinction should aid in clarity.
+
+This solution also keeps ᛡ more common than ᛄ which is true to the Anglo-Saxon corpus as well.
 
 ### ᚢ 
 

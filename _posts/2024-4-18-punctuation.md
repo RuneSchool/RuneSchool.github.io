@@ -111,6 +111,6 @@ question ᛫᛫᛫
 exclamation ᛬᛬
 ```
 
-From this minimal basis, people could add things. But I think it's more important to agree on some very minimal basics.
+From here, people could add things. But I think it's important to agree on some very minimal basics.
 
 If it's good enough for Cormac, it's good enough for me.

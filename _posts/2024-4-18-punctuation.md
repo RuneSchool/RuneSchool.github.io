@@ -74,7 +74,7 @@ What this tells me is that McCarthy uses capitals as a way to signify that some 
 
 We can use the runic cross punctuation when we want to signify that some text is special in some way, basically in the way that we would use captial letters. We wouldn't use this to start all sentences, but maybe for names and certain terms (similar to the Shavian "namer dot" ·).
 
-Now this isn't to rule out that eventually we could have smaller case runes and larger case runes, similar to Cyrillic. But we certainly should count on such a thing in the near term.
+Now this isn't to rule out that eventually we could have smaller case runes and larger case runes, similar to Cyrillic. But we certainly shouldn't count on such a thing in the near term.
 
 ## Question and Exclamation
 

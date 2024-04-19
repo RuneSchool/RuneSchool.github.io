@@ -115,6 +115,6 @@ question ᛫᛫᛫
 exclamation ᛬᛬
 ```
 
-From here, people could add things. [Stella's system](https://rentry.co/merunes#punctuation) covers a lot of ground, for example. But I think it's important to agree on some very minimal basics first, and letting community usage determine the rest.
+From here, people could add things. [Stella's system](https://rentry.co/merunes#punctuation) covers a lot of ground, for example. But I think it's important to agree on some very minimal basics first, and let community usage determine the rest.
 
 If it's good enough for Cormac, it's good enough for me.

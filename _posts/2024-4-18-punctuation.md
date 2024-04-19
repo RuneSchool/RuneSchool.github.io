@@ -2,6 +2,8 @@
 title: "Cormac McCarthy and Runic Punctuation"
 layout: post
 date: 2024-4-16
+tag:
+- spelling system
 category: blog
 description: How much punctuation is truly necessary?
 hidden: false

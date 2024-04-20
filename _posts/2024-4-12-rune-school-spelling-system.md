@@ -18,6 +18,8 @@ You can think of it as a runic Shavian with a few improvements like:
 * transparently shows the relationships between phonemes with consistent use of combinatorial patterns
 * a letter for the happY vowel
 
+This document will explain the [system](#system), the logic of the [choices](#choices) made, and questions you may have about [your accent](#what-about-my-accent) in particular.
+
 # System
 
 Based on the data from the [runes and their sounds](/runes-and-sounds/) and the info from [Dr. Lindsey's IPA symbols](/version-2/#lindsey-vowels), we can create a spelling system.
@@ -26,7 +28,12 @@ Based on the data from the [runes and their sounds](/runes-and-sounds/) and the 
 
 In parenthesis you can see the "shortcut" runes. 
 
-Below is the fully condensed and simplfied system.
+We can condense and simplify the above chart by 
+
+- removing uncommon lexical set definitions
+- combining lexical sets that are commonly merged
+- removing unnecessary doubled letters like ᚩᚩᚱ and ᚣᚣᚱ
+- using shortcut runes
 
 ![Rune School Lexical Sets Simplified](/assets/images/RuneSchoolLexicalSets-Simplified.png)
 
@@ -49,7 +56,7 @@ See a mapping of the vowels below:
 | iː | ɪj | 𐑰 | ᛁᛡ or ᛇ |
 | e | ɛ | 𐑧 | ᛖ |
 | eɪ | ɛj | 𐑱 | ᛖᛡ |
-| er | ɛ́r | 𐑺 | ᛖᚱ |
+| er | ɛ́r | 𐑧𐑮 | ᛖᚱ |
 | eə | ɛ́ːr | 𐑺 | ᛖᛖᚱ |
 | æ | a | 𐑨 | ᚫ |
 | aɪ | ɑj | 𐑲 | ᚫᛡ |
@@ -64,6 +71,10 @@ See a mapping of the vowels below:
 | ʊ | ʉ́ | 𐑫 | ᚣ |
 | uː | ʉ́w | 𐑵 | ᚣᚹ |
 | juː | jʉ́w | 𐑿 | ᛡᚣᚹ |
+
+## Bindrunes
+
+While it's definitely possible to have bindrunes that have the same effect as the "compound" or "ligature" Shavian letters, we don't want to rely on them for the system to work. If we do, we would be totally dependent on just a few font options, which is not practical for real world use.
 
 <!-- 
 | Lexical Set | Rune | Stress |
@@ -111,17 +122,17 @@ See a mapping of the vowels below:
 | aʊ | ə | ᚪ | ᛟ |
 -->
 
-# Differences from ReadLex
+## Differences from ReadLex
 
-## happY vowel
+### happY vowel
 
 Use the happY rune ᛄ where Shavian would have a trailing 𐑦.
 
-## Syllabic consonants
+### Syllabic consonants
 
-Often times, you can write just ᚱ, ᛚ, ᛗ, or ᚾ where you see 𐑼 or 𐑩𐑤, 𐑩𐑯, or 𐑩𐑥.
+Often times, you can write just ᛚ, ᛗ, or ᚾ where you see 𐑩𐑤, 𐑩𐑯, or 𐑩𐑥.
 
-In most places you see **𐑼** or **𐑩𐑤**, it is because there is a glide right before it. We write the glides, so we don't need to explicitly include the schwas. Only write ᛟᚱ if it represents the suffix -er, or similar.
+In most places you see **𐑩𐑤**, it is because there is a glide right before it. We write the glides, so we don't need to explicitly include the schwas. Only write ᛟᚱ if it represents the suffix -er, or similar.
 
 In many (not all) places where you see **𐑩𐑯** or **𐑩𐑥**, you can just right the ᛗ or ᚾ directly without the schwa needed.
 
@@ -131,7 +142,7 @@ For example, consider "Terrible". Can it be spelled ᛏᛖᚱᛟᛒᛚ without a
 
 Another example, consider "Imagine". Can it be spelled ᛁᛗᚫᚷᚾ without a schwa before the N? If we can spell the derivative "Imagination" by just adding the -ation on the end, then yes! ᛁᛗᚫᚷᚾᛖᛄᛋᚳᚾ. It fails because the syllable boundaries break. It needs to be ᛁᛗᚫᚷᛟᚾᛖᛄᛋᚳᚾ for it to sound right, and thus the base word should be ᛁᛗᚫᚷᛟᚾ.
 
-## Shortcut words
+### Shortcut words
 
 | Latin | Shavian | Runes | 
 | --- | --- | --- |
@@ -314,6 +325,75 @@ And finally, consider that this is better for crosswords and other word games. M
 In a hundred years if there is a meaningful split within PALM or TRAP, that will be workable with this system. I doubt that such a thing would occur within 500 years at least, but if it happens, we would just say “ᚪ rune grew up and earned its own row in the table!”
 
 # What about my accent?
+
+## Non-rhotic
+
+Firstly, this system is designed to allow you to drop Rs if you wish to. For example, if you are speaking to a non-rhotic audience, you may wish to write more exactly in your accent.
+
+| Latin | standard | non-rhotic |
+| --- | --- | --- | 
+| Near | ᚾᛠᚱ | ᚾᛠ |
+| Square | ᛋᛣᚹᛖᛖᚱ | ᛋᛣᚹᛖᛖ |
+| Spar | ᛋᛈᚪᚱ | ᛋᛈᚪ |
+| North | ᚾᚩᚱᚦ | ᚾᚩᚦ |
+| Hire | ᚻᚫᛡᛟᚱ | ᚻᚫᛡᛟ |
+| Higher | ᚻᚫᛡᛟᚱ | ᚻᚫᛡᛟ |
+
+However, it is this author's understanding that many non-rhotic speakers consider "spar" to be a different phoneme from "spa" even if they sound the same when spoken. "Spar" has a potential linking-r while the other does not. In this sense, you may wish to continue writing the R.
+
+"Know your audience". This system is capable of being flexible depending on your needs. We would always recommend writing the Rs for an international audience, however.
+
+## rhotic
+
+Similar to the above, you may wish to remove some schwas ᛟ that are obvious to you.
+
+| Latin | standard | rhotic |
+| --- | --- | --- | 
+| Hire | ᚻᚫᛡᛟᚱ | ᚻᚫᛡᚱ |
+| Higher | ᚻᚫᛡᛟᚱ | ᚻᚫᛡᚱ |
+| Hour | ᚫᚹᛟᚱ | ᚫᚹᛟᚱ |
+| Fewer | ᚠᛡᚣᚹᛟᚱ | ᚠᛡᚣᚹᛟᚱ |
+| They're | ᚦᛖᛡᛟᚱ | ᚦᛖᛡᚱ |
+| Runner | ᚱᚢᚾᛟᚱ | ᚱᚢᚾᚱ |
+
+But you may wish to retain the schwa in cases where there is an obvious suffix like -er.
+
+| Latin | standard | rhotic |
+| --- | --- | --- | 
+| Runner | ᚱᚢᚾᛟᚱ | ᚱᚢᚾᚱ |
+| Higher | ᚻᚫᛡᛟᚱ | ᚻᚫᛡᛟᚱ |
+
+## Yods and Yod coalescence
+
+To understand what this is, let's look at some examples
+
+| Latin | No yod | Yod | Yod coalescence |
+| --- | --- | --- | 
+| Dune | ᛞᚣᚹᚾ | ᛞᛡᚣᚹᚾ | ᚷᚣᚹᚾ |
+| Tube | ᛏᚣᚹᛒ | ᛏᛡᚣᚹᛒ | ᚳᚣᚹᛒ |
+
+The ᛡ is either dropped or combines with the consonant before it to change the consonant sound.
+
+For communicating internationally, we are going to recommend the [Goldilocks principle](https://en.wikipedia.org/wiki/Goldilocks_principle) and take the middle path of the Yod if at all possible. However, there are some instances where Yod coalescence is very common. Quoting the Shavian ReadLex:
+
+> Yod-coalescence is generally accepted where it occurs in RP and GA, so ‘fortune’ is /fɔː(r)tʃuːn/ ᚠᚩᚱᛏᚣᚹᚾ not /fɔː(r)tjuːn/ ᚠᚩᚱᛏᛡᚣᚹᚾ. However, where GA pronounces a plain /uː/ with no ‘yod’, and RP has a ‘yod’, then for intelligibility the ‘yod’ is retained uncoalesced, so ‘aptitude’ is /æptɪtjuːd/ ᚫᛈᛏᛁᛏᛡᚣᚹᛞ, not /æptɪtʃuːd/ ᚫᛈᛏᛁᚳᚣᚹᛞ.
+
+As always, if you know your audience, write how you wish! Use your own judgement.
+
+## NEAR or SQUARE sounds different
+
+NEAR and SQUARE lexical sets are hard to pin down. You could pronounce either of them in one of these three boxes (red, purple, blue).
+
+![NEAR and SQUARE set possible locations](/assets/images/NEARandSQUARE.png)
+
+In this approach, we are going with the [Goldilocks principle](https://en.wikipedia.org/wiki/Goldilocks_principle). Not hot (red), not cold (blue), but just right (purple). 
+
+Consider:
+
+| Latin | Runes |
+| --- | --- | 
+| There / They're | ᚦᛖᛖᚱ / ᚦᛖᛡᛟᚱ |
+| keyring / hearing | ᛣᛇᚱᛁᛝ / ᚻᛠᚱᛁᛝ |
 
 ## Don't have the FACE merger
 

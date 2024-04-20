@@ -110,8 +110,8 @@ Does commA sound the same as STRUT to you? STRUT ᚢ is stressed where commA ᛟ
 
 The sound in the article a can be a wide range of things.
 
-a = /e:~ə~ɐ/
-an = /æn~ən/
+* a = /e:~ə~ɐ/
+* an = /æn~ən/
 
 The Shavian standard spelling has opted to go with the schwa for the default phoneme for this, which is ᛟ/ᛟᚾ in our case.
 
@@ -123,10 +123,12 @@ What we are dealing with is the reality that each phoneme has a nucleus which is
 
 The dark red is the "home" or nucleus of this sound (somewhere around ᚫ for us), and the lighter red is where it can float to in different situations. When it is stronger, it can go up to the top left like ᛖᛡ, and when it is weaker it can go to the right more like ᛟ.
 
-Essentially, this article can float around, but the nucleus lives in closer to ᚫ. So why not spell the article with ᚫ instead of ᛟ. 
+Essentially, this article can float around, but the nucleus lives closer to ᚫ. So why not spell the article with ᚫ instead of ᛟ. 
 
-If we got into the habit of saying ᚫ can sometimes sound like ᛖᛡ, then we would have to start spelling words like angel as ᚫᚾᚷᛟᛚ and angle as ᚫᚾᚸᛟᛚ. In this spelling system, it is best to have more clear boundaries for phonemes so that the user can confidently spell things.
+If we got into the habit of saying ᚫ can sometimes sound like ᛖᛡ, then we would have to start spelling words like angel as ᚫᚾᚷᛟᛚ and angle as ᚫᚾᚸᛟᛚ. And if we said that ᚫ can sometimes sound like ᛟ *in this one scenario*, then people would mistakenly spell words like "comma" like ᛣᚩᛗᚫ. In this spelling system, it is best to have more clear boundaries for phonemes so that the user can confidently spell things. If a sound goes from ᚫ to ᛖᛡ, we want to show that.
 
 So why is ᛟ better? It still floats around in sound, right? By using ᛟ/ᛟᚾ for all cases of this article, we relegate all of the ambiguity and sound shifting to just one letter ᛟ while keeping all other letters with clear boundaries.
 
-Also, just from a practical standpoint, ᛟ is the only valid phoneme that is in *both* "a" and "an".
+Also, just from an evidential standpoint, ᛟ is the only valid phoneme that is in *both* "a" and "an".
+
+However, if you want to write in a way that clearly shows the exact pronunciation of a speaker, then maybe you would change ᛟ to ᛖᛡ or ᚫᚾ.

@@ -343,11 +343,11 @@ However, it is this author's understanding that many non-rhotic speakers conside
 
 "Know your audience". This system is capable of being flexible depending on your needs. We would always recommend writing the Rs for an international audience, however.
 
-## rhotic
+## Rhotic
 
 Similar to the above, you may wish to remove some schwas ᛟ that are obvious to you.
 
-| Latin | standard | rhotic |
+| Latin | Standard | Rhotic |
 | --- | --- | --- | 
 | Hire | ᚻᚫᛡᛟᚱ | ᚻᚫᛡᚱ |
 | Higher | ᚻᚫᛡᛟᚱ | ᚻᚫᛡᚱ |
@@ -358,7 +358,7 @@ Similar to the above, you may wish to remove some schwas ᛟ that are obvious to
 
 But you may wish to retain the schwa in cases where there is an obvious suffix like -er.
 
-| Latin | standard | rhotic |
+| Latin | Standard | Rhotic |
 | --- | --- | --- | 
 | Runner | ᚱᚢᚾᛟᚱ | ᚱᚢᚾᛟᚱ |
 | Higher | ᚻᚫᛡᛟᚱ | ᚻᚫᛡᛟᚱ |
@@ -367,7 +367,7 @@ But you may wish to retain the schwa in cases where there is an obvious suffix l
 
 To understand what this is, let's look at some examples
 
-| Latin | No yod | Yod | Yod coalescence |
+| Latin | Yod dropping | Standard | Yod coalescence |
 | --- | --- | --- | 
 | Dune | ᛞᚣᚹᚾ | ᛞᛡᚣᚹᚾ | ᚷᚣᚹᚾ |
 | Tube | ᛏᚣᚹᛒ | ᛏᛡᚣᚹᛒ | ᚳᚣᚹᛒ |

@@ -6,7 +6,7 @@ tag:
 - spelling system
 category: blog
 description: Common questions about the Rune School spelling system
-hidden: true
+hidden: false
 ---
 
 This post is to answer some questions that you may have about the [Rune School spelling system](/rune-school-spelling-system/).

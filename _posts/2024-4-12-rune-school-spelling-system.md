@@ -31,8 +31,8 @@ In parenthesis you can see the "shortcut" runes.
 We can condense and simplify the above chart by 
 
 - removing uncommon lexical set definitions
-- combining lexical sets that are commonly merged
-- removing unnecessary doubled letters like ᚩᚩᚱ and ᚣᚣᚱ
+- combining lexical sets that are commonly merged (GOAT-GOAL, NORTH-FORCE)
+- removing unnecessary doubled letters like ᚩᚩᚱ and ᚣᚣᚱ (if there is nothing to the left, it can be pushed left)
 - using shortcut runes
 
 ![Rune School Lexical Sets Simplified](/assets/images/RuneSchoolLexicalSets-Simplified.png)

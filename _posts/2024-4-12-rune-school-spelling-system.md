@@ -360,7 +360,7 @@ But you may wish to retain the schwa in cases where there is an obvious suffix l
 
 | Latin | standard | rhotic |
 | --- | --- | --- | 
-| Runner | ᚱᚢᚾᛟᚱ | ᚱᚢᚾᚱ |
+| Runner | ᚱᚢᚾᛟᚱ | ᚱᚢᚾᛟᚱ |
 | Higher | ᚻᚫᛡᛟᚱ | ᚻᚫᛡᛟᚱ |
 
 ## Yods and Yod coalescence

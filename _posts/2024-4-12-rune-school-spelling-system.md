@@ -351,8 +351,8 @@ Similar to the above, you may wish to remove some schwas ᛟ that are obvious to
 | --- | --- | --- | 
 | Hire | ᚻᚫᛡᛟᚱ | ᚻᚫᛡᚱ |
 | Higher | ᚻᚫᛡᛟᚱ | ᚻᚫᛡᚱ |
-| Hour | ᚫᚹᛟᚱ | ᚫᚹᛟᚱ |
-| Fewer | ᚠᛡᚣᚹᛟᚱ | ᚠᛡᚣᚹᛟᚱ |
+| Hour | ᚫᚹᛟᚱ | ᚫᚹᚱ |
+| Fewer | ᚠᛡᚣᚹᛟᚱ | ᚠᛡᚣᚹᚱ |
 | They're | ᚦᛖᛡᛟᚱ | ᚦᛖᛡᚱ |
 | Runner | ᚱᚢᚾᛟᚱ | ᚱᚢᚾᚱ |
 

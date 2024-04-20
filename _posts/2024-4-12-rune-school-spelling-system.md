@@ -327,6 +327,10 @@ If you don't have the NURSE merger and instead pronounce "fur", "fir", and "fern
 
 If you don't have the NORTH-FORCE merger, you can spell NORTH words with ᚩᚱ and FORCE words with ᚩᚹᚱ. If there are no potential homophones that need distinguishing, it is recommended to stick with ᚩᚱ.
 
+## Chews sounds different than choose
+
+If "chews" sounds different than "choose", you can use ᛁᚹ for "chews" and ᚣᚹ for "choose".
+
 ## Merge lettER and NURSE
 
 Does lettER sound the same as NURSE to you? NURSE ᛟᛟᚱ is stressed where lettER ᛟᚱ is not.

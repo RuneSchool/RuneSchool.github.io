@@ -90,7 +90,7 @@ If you don't have the FACE merger and instead have two distinct lexical sets of 
 
 If you don't have the NURSE merger and instead pronounce "fur", "fir", and "fern" distinctly, I recommend spelling each with ᚢᚱ, ᛁᚱ, and ᛖᚱ respectively.
 
-| \*/ɛr/~/ər/ ᛟᛟᚱ | \*/eːr/ ᛖᚱ | /ɪr/ ᛁᚱ | /ʌr/ ᚢᚱ | IPA | Notes |
+| \*/ɛr/~/ər/ ᛟᚱ | \*/eːr/ ᛖᚱ | /ɪr/ ᛁᚱ | /ʌr/ ᚢᚱ | IPA | Notes |
 |-------------|---------|------|-------|-----|-------|
 | [Bern](https://en.wikipedia.org/wiki/Bern "Bern") | - | - | burn | ˈbɜː(r)n | |
 | [Bert](https://en.wikipedia.org/wiki/Bert_(name) "Bert (name)") | - | - | Burt | ˈbɜː(r)t | |
@@ -115,6 +115,8 @@ If you don't have the NURSE merger and instead pronounce "fur", "fir", and "fern
 | - | - | whirl | whorl | ˈwɜː(r)l | |
 | - | - | whirled | world | ˈwɜː(r)ld | With [_wine_–_whine_ merger](https://en.wikipedia.org/wiki/Wine%E2%80%93whine_merger "Wine–whine merger"). |
 
+https://en.wikipedia.org/wiki/English-language_vowel_changes_before_historic_/r/#Nurse_mergers
+
 
 ## Don't have NORTH-FORCE merger
 
@@ -124,9 +126,19 @@ If you don't have the NORTH-FORCE merger, you can spell NORTH words with ᚩᚱ 
 
 If "chews" sounds different than "choose", you can use ᛁᚹ for "chews" and ᚣᚹ for "choose".
 
+## hUrry sounds different than fUrry
+
+In this system, we have merged the historical ᛖᚱ and ᛁᚱ into ᚢᚱ for the NURSE phoneme. If you pronounce "hurry" like a true STRUT+R, you may write ᚢᚱ as a bindrune for NURSE and ᚢᚱ unbound for "hurry".
+
+I don't believe however that there are any homophones that can be distinguished by pronouncing "hurry" and "furry" differently, however. So please drop by the discord and let us know if you found some!
+
 ## Merge lettER and NURSE
 
-Does lettER sound the same as NURSE to you? NURSE ᛟᛟᚱ is stressed where lettER ᛟᚱ is not.
+Does lettER sound the same as NURSE to you? NURSE ᚢᚱ is stressed where lettER ᛟᚱ is not.
+
+Here are some words that use ᛟᚱ where it's not the final part of a word. This should give you an idea of what is ᛟᚱ and what is ᚢᚱ.
+
+**or**iginal, **ar**ound, **or**iginally, **ar**rested, **ar**rives, **ar**ray, **Ar**uba, **ar**ena, **ar**rangement, **ar**rival, **ar**isen, **ar**ranged, **ar**ight, **ar**ises, originality, **Ar**abian, **ar**omatherapy, c**or**onavirus, off**er**ing, m**ar**ine, p**ar**ental, lux**ur**y, Cam**er**on, prim**ar**y, t**er**rain, mem**or**ies, c**ar**eer, K**or**ea, Tàm**er**a, gall**er**y, deliv**er**y, summ**ar**y, sal**ar**y, conf**er**ence, manufact**ur**er, vict**or**y, cent**ur**y, op**er**a, v**ar**iety, sep**ar**ate, M**ar**iah, M**ar**ina, mot**or**ing, di**ar**y, temp**or**ary, ling**er**ie, P**er**u, groc**er**y, access**or**y, Gall**er**y, gen**er**ation, p**ar**ade
 
 ## Merge commA and STRUT
 

@@ -56,7 +56,7 @@ Note that this "military" alphabet name does not require a military context. The
 | ᛉ      |  Elk-Sedge        | ᛖᛚᛣ ᛋᛖᚷ       | Zig zag       |    ᛉᛁᚸᚸ ᛉᚫᚸ            |
 | ᛋ      |  Seal            |   ᛋᛇᛚ      | Sun spot          |  ᛋᚪᚾᚾ ᛋᛈᚩᛏᛏ            |
 | ᛏ      |  Tear         | ᛏᛠᚱ        | Tic-Tac              | ᛏᛁᛣᛣ-ᛏᚫᛣ             |
-| ᛒ      |  birch         | ᛒᛟᛟᚱᚳ        | Babble                 |   ᛒᚫᛒᛚ           |
+| ᛒ      |  birch         | ᛒᚢᚱᚳ        | Babble                 |   ᛒᚫᛒᛚ           |
 | ᛖ      |  Eh             |  ᛖᚻ       | Epic / Emma              | ᛖᛈᛁᛣᛣ / ᛖᛗᛟ             |
 | ᛗ      |  Man            | ᛗᚫᚾ        | Mammal                   | ᛗᚫᛗᛚ            |
 | ᛚ      |   Lake            |  ᛚᛖᛄᛣ       | Landlock / Liverpool       |   ᛚᚫᚾᛞᛚᚩᛣᛣ / ᛚᛁᚠᚠᛟᚱᛈᚢᛚ           |

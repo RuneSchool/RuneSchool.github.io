@@ -20,9 +20,9 @@ hidden: false
 ᚫᚾᛞ᛫​ᛋᛁᛝᛉ᛫​ᚦᛟ᛫​ᛏᛡᚣᚾ᛫​ᚹᛁᚦᚪᚹᛏ᛫​ᚦᛟ᛫​ᚹᛟ<span style="color:green">ᛟᚱ</span>ᛞ<span style="color:green">ᛉ</span>᛫᛫​<br>
 ᚫᚾᛞ᛫​ᚾᛖᚠ‍ᚠᛟᚱ᛫​ᛥᚩᛈᛋ᛫᛫​ᚫᛏ᛫ᚩ​<span style="color:red">ᚩᛚ</span>᛫᛫​
 <br><br>
-ᚫᚾᛞ᛫​ᛋᚹᛇᛏᛟᛋᛏ᛫᛫​ᛁᚾ᛫​ᚦᛟ᛫​ᚸᛖ‍ᛡᛚ᛫᛫​ᛁᛉ᛫​ᚻ<span style="color:green">ᛟᛟᚱᛞ</span>᛫᛫​<br>
+ᚫᚾᛞ᛫​ᛋᚹᛇᛏᛟᛋᛏ᛫᛫​ᛁᚾ᛫​ᚦᛟ᛫​ᚸᛖ‍ᛡᛚ᛫᛫​ᛁᛉ᛫​ᚻ<span style="color:green">ᚢᚱᛞ</span>᛫᛫​<br>
 ᚫᚾᛞ᛫​ᛋᚩ‍ᚱ᛫​ᛗᚢᛋᛏ᛫​ᛒᛇ᛫​ᚦᛟ᛫​ᛥ<span style="color:purple">ᚩ‍ᚱᛗ</span>᛫᛫​<br>
-ᚦᚫᛏ᛫​ᛣᚣᛞ᛫​ᛟᛒᚫᛋᚳ᛫​ᚦᛟ᛫​ᛚᛁᛏᛚ᛫​ᛒ<span style="color:green">ᛟᛟᚱᛞ</span><br>
+ᚦᚫᛏ᛫​ᛣᚣᛞ᛫​ᛟᛒᚫᛋᚳ᛫​ᚦᛟ᛫​ᛚᛁᛏᛚ᛫​ᛒ<span style="color:green">ᚢᚱᛞ</span><br>
 ᚦᚫᛏ᛫​ᛣᛖᛈᛏ᛫​ᛋᚩ‍ᚹ᛫​ᛗᛖᚾᛄ᛫​ᚹ<span style="color:purple">ᚩ‍ᚱᛗ</span>᛫᛫​
 <br><br>
 ​ᚫᛡᚠ‍ᚠ᛫​ᚻᛟᛟᚱᛞ᛫​ᛁᛏ᛫​ᛁᚾ᛫​ᚦᛟ᛫​ᚳᛁᛚᛟᛋᛏ᛫​ᛚᚫᚾᛞ᛫᛫​<br>

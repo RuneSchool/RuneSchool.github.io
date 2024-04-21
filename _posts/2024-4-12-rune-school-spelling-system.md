@@ -45,10 +45,10 @@ See a mapping of the vowels below:
 
 | Traditional IPA | Modern IPA | Shavian | Runes |
 | --- | --- | --- | --- | 
-| ʌ | ə́ | 𐑳 | ᚢ | 
 | ə | ə | 𐑩 | ᛟ |
 | ər | ər | 𐑼 | ᛟᚱ |
-| ɜː | ə́ːr | 𐑻 | ᛟᛟᚱ |
+| ʌ | ə́ | 𐑳 | ᚢ | 
+| ɜː | ə́ːr | 𐑻 | ᚢᚱ |
 | ɪ | ɪ | 𐑦 | ᛁ |
 | ɪə | ɪ́ː | 𐑾 | ᛁᛁ or ᛠ |
 | ɪər | ɪ́ːr | 𐑾 | ᛁᛁᚱ or ᛠᚱ|
@@ -154,26 +154,6 @@ Another example, consider "Imagine". Can it be spelled ᛁᛗᚫᚷᚾ without a
 
 # Choices
 
-## ᛟ for commA
-
-You can see on the IPA vowel chart that ᛟ was traditionally more fronted than a commA sound typically is.
-
-![IPA vowel map](/assets/images/runeSchool2IPAmapNoSchwa.png)
-
-The original sound of ᛟ is still used for the NURSE vowel in some accents. NURSE is often very closely related to lettER, which is also closely related to commA. So whatever rune we use for NURSE should also be used for commA.
-
-Because of this, we have pushed the acceptable range of this rune into ᚢ's territory and ᚢ has retreated towards the back.
-
-## ᛟᛟᚱ for NURSE
-
-Previously, the system used ᛟᚱ for both lettER and NURSE. As an American, I am totally fine with this. But I know that many English speakers have a strong distinction between these two phonemes. 
-
-Based on the principles shown at the top of this page, it only makes sense to allow for a doubled ᛟᛟ. This brings our system more aligned to the phonemic distinctions that Shavian allows.
-
-Think of it this way:
-
-> Merry ᛖᚱ is to SQUARE ᛖᛖᚱ as lettER ᛟᚱ is to NURSE ᛟᛟᚱ
-
 ## ᚢ for STRUT
 
 STRUT originally came from the "short u" sound. Because of this, it's appropriate to think that if runes had continued in use, people would have eventually started to pronounce ᚢ as a STRUT.
@@ -189,7 +169,19 @@ Examples:
 | boom |ᛒᚣᚹᛗ |
 | bum | ᛒᚢᛗ |
 
-For more info on FOOT ᚣ, see below.
+For more info on FOOT ᚣ, [see below](#ᚣ-for-foot).
+
+## ᛟ for commA
+
+You can see on the IPA vowel chart that ᛟ was traditionally more fronted than a commA sound typically is. 
+
+![IPA vowel map](/assets/images/runeSchool2IPAmapNoSchwa.png)
+
+But for the purposes of a functional system, we have pushed the acceptable range of ᛟ into ᚢ's territory so that they essentially overlap by a large portion in the middle.
+
+## ᚢᚱ for NURSE
+
+It's true that the original sound of ᛟ is used for the NURSE vowel in some English accents today. If we consider that, to a large degree, ᛟ and ᚢ are only distinguished by stress, then this still makes sense for us. ᛟ could still sound like the nucleus of NURSE, but just unstressed. This would be the sound in lettER for many accents.
 
 ## ᚩᚹ for GOAT
 

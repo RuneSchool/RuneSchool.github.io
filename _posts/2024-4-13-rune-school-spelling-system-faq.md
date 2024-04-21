@@ -1,7 +1,7 @@
 ---
 title: "The Rune School Spelling System FAQ"
 layout: post
-date: 2024-4-12
+date: 2024-4-13
 tag:
 - spelling system
 category: blog

@@ -90,6 +90,32 @@ If you don't have the FACE merger and instead have two distinct lexical sets of 
 
 If you don't have the NURSE merger and instead pronounce "fur", "fir", and "fern" distinctly, I recommend spelling each with ᚢᚱ, ᛁᚱ, and ᛖᚱ respectively.
 
+| \*/ɛr/~/ər/ ᛟᛟᚱ | \*/eːr/ ᛖᚱ | /ɪr/ ᛁᚱ | /ʌr/ ᚢᚱ | IPA | Notes |
+|-------------|---------|------|-------|-----|-------|
+| [Bern](https://en.wikipedia.org/wiki/Bern "Bern") | - | - | burn | ˈbɜː(r)n | |
+| [Bert](https://en.wikipedia.org/wiki/Bert_(name) "Bert (name)") | - | - | Burt | ˈbɜː(r)t | |
+| - | - | bird | burred | ˈbɜː(r)d | |
+| [Bertie](https://en.wikipedia.org/wiki/Bertie_(given_name) "Bertie (given name)") | - | birdie | - | ˈbɜː(r)ɾi | With [flapping](https://en.wikipedia.org/wiki/Flapping "Flapping"). |
+| berth | - | birth | - | ˈbɜː(r)θ | |
+| - | earn | - | urn | ˈɜː(r)n | |
+| [Ernest](https://en.wikipedia.org/wiki/Ernest "Ernest") | earnest | - | - | ˈɜː(r)nɪst | |
+| [Ferd](https://en.wikipedia.org/wiki/Ferd_(nickname) "Ferd (nickname)") | - | - | furred | ˈfɜː(r)d | |
+| herd | heard | - | [Hurd](https://en.wikipedia.org/wiki/Hurd "Hurd") | ˈhɜː(r)d | |
+| herl | - | - | hurl | ˈhɜː(r)l | |
+| - | [Hearst](https://en.wikipedia.org/wiki/Hearst_(disambiguation) "Hearst (disambiguation)") | - | hurst | ˈhɜː(r)st | |
+| - | - | fir | fur | ˈfɜː(r) | |
+| hertz; [Hertz](https://en.wikipedia.org/wiki/Hertz "Hertz") | - | - | hurts | ˈhɜː(r)ts | |
+| kerb | - | - | curb | ˈkɜː(r)b | |
+| mer- | - | myrrh | murr | ˈmɜː(r) | |
+| - | - | mirk | murk | ˈmɜː(r)k | |
+| per | - | - | purr | ˈpɜː(r) | |
+| [Perl](https://en.wikipedia.org/wiki/Perl "Perl") | pearl | - | - | ˈpɜː(r)l | |
+| tern | - | - | turn | ˈtɜː(r)n | |
+| were | - | whirr | - | ˈwɜː(r) | With [_wine_–_whine_ merger](https://en.wikipedia.org/wiki/Wine%E2%80%93whine_merger "Wine–whine merger"). |
+| - | - | whirl | whorl | ˈwɜː(r)l | |
+| - | - | whirled | world | ˈwɜː(r)ld | With [_wine_–_whine_ merger](https://en.wikipedia.org/wiki/Wine%E2%80%93whine_merger "Wine–whine merger"). |
+
+
 ## Don't have NORTH-FORCE merger
 
 If you don't have the NORTH-FORCE merger, you can spell NORTH words with ᚩᚱ and FORCE words with ᚩᚹᚱ. If there are no potential homophones that need distinguishing, it is recommended to stick with ᚩᚱ.

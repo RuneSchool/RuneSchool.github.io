@@ -26,7 +26,7 @@ In this runic writing system, we allow for bindrunes to show exactly this.
 | Latin | Standard without bindrunes | R dropping | Standard with bindrunes |
 | --- | --- | --- | --- | 
 | Square | ᛖᛖᚱ | ᛖᛖ | ![ᛖᚱ bindrune](/assets/images/er-bindrune.png) | 
-| NEAR | ᛠᚱ | ᛠ | ᛠᚱ |
+| NEAR | ᛠᚱ | ᛠ | ![IIᚱ bindrune](/assets/images/iir-bindrune.png) |
 | Spar | ᚪᚱ | ᚪ | ![ᚪᚱ bindrune](/assets/images/ar-bindrune.png) |
 | NORTH | ᚩᚱ | ᚩᚩ | ![ᚩᚱ bindrune](/assets/images/or-bindrune.png) |
 | lettER | ᛟᚱ | ᛟ | ![ᛟᚱ bindrune](/assets/images/uhr-bindrune.png) |

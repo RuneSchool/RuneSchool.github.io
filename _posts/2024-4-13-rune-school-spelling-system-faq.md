@@ -17,31 +17,36 @@ This post is to answer some questions that you may have about the [Rune School s
 
 Firstly, this system is designed to allow you to drop Rs if you wish to. For example, if you are speaking to a non-rhotic audience, you may wish to write more exactly in your accent.
 
-| Latin | standard | non-rhotic |
-| --- | --- | --- | 
-| Near | ᚾᛠᚱ | ᚾᛠ |
-| Square | ᛋᛣᚹᛖᛖᚱ | ᛋᛣᚹᛖᛖ |
-| Spar | ᛋᛈᚪᚱ | ᛋᛈᚪ |
-| North | ᚾᚩᚱᚦ | ᚾᚩᚦ |
-| Hire | ᚻᚫᛡᛟᚱ | ᚻᚫᛡᛟ |
-| Higher | ᚻᚫᛡᛟᚱ | ᚻᚫᛡᛟ |
+However, it is this author's understanding that many non-rhotic speakers consider "spar" to be a different phoneme from "spa" even if they sound the same when spoken. "Spar" has a potential linking-r while the other does not. 
 
-However, it is this author's understanding that many non-rhotic speakers consider "spar" to be a different phoneme from "spa" even if they sound the same when spoken. "Spar" has a potential linking-r while the other does not. In this sense, you may wish to continue writing the R.
+Provided that this is true, what the non-rhotic speaker may desire is just a better way to show that some phonemes have this linking-r potential while others do not.
 
-"Know your audience". This system is capable of being flexible depending on your needs. We would always recommend writing the Rs for an international audience, however.
+In this runic writing system, we allow for bindrunes to show exactly this.
+
+| Latin | Standard without bindrunes | R dropping | Standard with bindrunes |
+| --- | --- | --- | --- | 
+| Square | ᛖᛖᚱ | ᛖᛖ | ![ᛖᚱ bindrune](/assets/images/er-bindrune.png) | 
+| NEAR | ᛠᚱ | ᛠ | ᛠᚱ |
+| Spar | ᚪᚱ | ᚪ | ![ᚪᚱ bindrune](/assets/images/ar-bindrune.png) |
+| NORTH | ᚩᚱ | ᚩᚩ | ![ᚩᚱ bindrune](/assets/images/or-bindrune.png) |
+| lettER | ᛟᚱ | ᛟ | ![ᛟᚱ bindrune](/assets/images/uhr-bindrune.png) |
+| CURE | ᚣᚱ | ᚣᚣ | ![ᚣᚱ bindrune](/assets/images/uir-bindrune.png) |
+| NURSE | ᚢᚢᚱ | ᚢᚢ | ![ᚢᚱ bindrune](/assets/images/ur-bindrune.png) |
+
+"Know your audience". This system is capable of being flexible depending on your needs. Bindrunes are probably the ideal, but since they are not yet common, we would always recommend writing the Rs for an international audience.
 
 ## Rhotic
 
-Similar to the above, you may wish to remove some schwas ᛟ that are obvious to you.
+Similar to the above, you may wish to remove some schwas ᛟ that are obvious to you if you're writing to other rhotic speakers.
 
-| Latin | Standard | Rhotic |
+| Latin | Standard | Rhotic emphasis |
 | --- | --- | --- | 
 | Hire | ᚻᚫᛡᛟᚱ | ᚻᚫᛡᚱ |
 | Higher | ᚻᚫᛡᛟᚱ | ᚻᚫᛡᚱ |
+| Runner | ᚱᚢᚾᛟᚱ | ᚱᚢᚾᚱ |
 | Hour | ᚫᚹᛟᚱ | ᚫᚹᚱ |
 | Fewer | ᚠᛡᚣᚹᛟᚱ | ᚠᛡᚣᚹᚱ |
 | They're | ᚦᛖᛡᛟᚱ | ᚦᛖᛡᚱ |
-| Runner | ᚱᚢᚾᛟᚱ | ᚱᚢᚾᚱ |
 
 But you may wish to retain the schwa in cases where there is an obvious suffix like -er.
 
@@ -49,6 +54,8 @@ But you may wish to retain the schwa in cases where there is an obvious suffix l
 | --- | --- | --- | 
 | Runner | ᚱᚢᚾᛟᚱ | ᚱᚢᚾᛟᚱ |
 | Higher | ᚻᚫᛡᛟᚱ | ᚻᚫᛡᛟᚱ |
+
+As with the above [non-rhotic](#non-rhotic) advice, bindrunes would be preferable .
 
 ## Yods and Yod coalescence
 

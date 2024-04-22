@@ -48,6 +48,8 @@ Similar to the above, you may wish to remove some schwas ᛟ that are obvious to
 | Fewer | ᚠᛡᚣᚹᛟᚱ | ᚠᛡᚣᚹᚱ |
 | They're | ᚦᛖᛡᛟᚱ | ᚦᛖᛡᚱ |
 
+For the rhotic speaker, The schwa is automatically inserted between consonants (and semivowels ᚹ/ᛡ) and ᚱ.
+
 But you may wish to retain the schwa in cases where there is an obvious suffix like -er.
 
 | Latin | Standard | Rhotic |
@@ -55,7 +57,7 @@ But you may wish to retain the schwa in cases where there is an obvious suffix l
 | Runner | ᚱᚢᚾᛟᚱ | ᚱᚢᚾᛟᚱ |
 | Higher | ᚻᚫᛡᛟᚱ | ᚻᚫᛡᛟᚱ |
 
-As with the above [non-rhotic](#non-rhotic) advice, bindrunes would be preferable .
+As with the above [non-rhotic](#non-rhotic) advice, bindrunes would be preferable.
 
 ## Yods and Yod coalescence
 

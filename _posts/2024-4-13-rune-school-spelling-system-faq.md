@@ -99,6 +99,8 @@ If you don't have the FACE merger and instead have two distinct lexical sets of 
 
 If you don't have the NURSE merger and instead pronounce "fur", "fir", and "fern" distinctly, I recommend spelling each with ᚢᚱ, ᛁᚱ, and ᛖᚱ respectively.
 
+The [chart below](https://en.wikipedia.org/wiki/English-language_vowel_changes_before_historic_/r/#Nurse_mergers) includes some potential homophones with this NURSE set of words. There are not too many cases where anyone would be confused by merging all of them.
+
 | \*/ɛr/~/ər/ ᛟᚱ | \*/eːr/ ᛖᚱ | /ɪr/ ᛁᚱ | /ʌr/ ᚢᚱ | IPA | Notes |
 |-------------|---------|------|-------|-----|-------|
 | [Bern](https://en.wikipedia.org/wiki/Bern "Bern") | - | - | burn | ˈbɜː(r)n | |
@@ -124,9 +126,6 @@ If you don't have the NURSE merger and instead pronounce "fur", "fir", and "fern
 | - | - | whirl | whorl | ˈwɜː(r)l | |
 | - | - | whirled | world | ˈwɜː(r)ld | With [_wine_–_whine_ merger](https://en.wikipedia.org/wiki/Wine%E2%80%93whine_merger "Wine–whine merger"). |
 
-https://en.wikipedia.org/wiki/English-language_vowel_changes_before_historic_/r/#Nurse_mergers
-
-
 ## Don't have NORTH-FORCE merger
 
 If you don't have the NORTH-FORCE merger, you can spell NORTH words with ᚩᚱ and FORCE words with ᚩᚹᚱ. If there are no potential homophones that need distinguishing, it is recommended to stick with ᚩᚱ.
@@ -141,17 +140,37 @@ In this system, we have merged the historical ᛖᚱ and ᛁᚱ into ᚢᚱ for 
 
 I don't believe however that there are any homophones that can be distinguished by pronouncing "hurry" and "furry" differently, however. So please drop by the discord and let us know if you found some!
 
+## Merge commA and STRUT
+
+Does commA sound the same as STRUT to you? STRUT ᚢ is stressed where commA ᛟ is not.
+
 ## Merge lettER and NURSE
 
 Does lettER sound the same as NURSE to you? NURSE ᚢᚱ is stressed where lettER ᛟᚱ is not.
 
-Here are some words that use ᛟᚱ where it's not the final part of a word. This should give you an idea of what is ᛟᚱ and what is ᚢᚱ.
+Here are some words that use **ᛟᚱ** where it's not the final part of a word. This should give you an idea of what is ᛟᚱ and what is ᚢᚱ.
 
 **or**iginal, **ar**ound, **or**iginally, **ar**rested, **ar**rives, **ar**ray, **Ar**uba, **ar**ena, **ar**rangement, **ar**rival, **ar**isen, **ar**ranged, **ar**ight, **ar**ises, originality, **Ar**abian, **ar**omatherapy, c**or**onavirus, off**er**ing, m**ar**ine, p**ar**ental, lux**ur**y, Cam**er**on, prim**ar**y, t**er**rain, mem**or**ies, c**ar**eer, K**or**ea, Tàm**er**a, gall**er**y, deliv**er**y, summ**ar**y, sal**ar**y, conf**er**ence, manufact**ur**er, vict**or**y, cent**ur**y, op**er**a, v**ar**iety, sep**ar**ate, M**ar**iah, M**ar**ina, mot**or**ing, di**ar**y, temp**or**ary, ling**er**ie, P**er**u, groc**er**y, access**or**y, Gall**er**y, gen**er**ation, p**ar**ade
 
-## Merge commA and STRUT
+# I don't understand schwa
 
-Does commA sound the same as STRUT to you? STRUT ᚢ is stressed where commA ᛟ is not.
+![Vowel runes in IPA chart without Ethel](/assets/images/runeSchool-IPAmap-noSchwaInCenter.png)
+
+In the above (very chaotic) chart, the runes are placed where their "home" is. But each of these runes has the potential to stray from their home to various places.
+
+When each rune strays from its home towards the *center* (in other words when it *weakens*), it switches to ᛟ.
+
+![Vowel Runes in IPA chart with Ethel](../assets/images/runeSchool-IPAmap-SchwaInCenter2.png)
+
+Hypothetically, you could write in a way that doesn't use the schwa. It would be read as if English only had strong vowels. This could be helpful in situations that require more clear and enunciated sounds, like [choral singing](https://choralnet.org/archives/659186). 
+
+But generally speaking, in this runic system, we want to actually show when a sound changes from one phoneme to another. So because of that, when a vowel strays into the center (AKA weakens), we swap it for ᛟ.
+
+| Latin | Only Strong Vowels | Standard spelling |
+| --- | --- | --- |
+| moment | ᛗᚩᚹᛗᛖᚾᛏ | ᛗᚩᚹᛗᛟᚾᛏ |
+| a | ᛖᛡ | ᛟ |
+| incorruptible | ᛁᚾᛣᚩᚱᚢᛈᛏᛁᛒᚣᛚ | ᛁᚾᛣᛟᚱᚢᛈᛏᛟᛒᛚ |
 
 # The article A
 
@@ -164,18 +183,10 @@ The Shavian standard spelling has opted to go with the schwa for the default pho
 
 It's not a bad solution considering that it is the weak pronunciation of both forms of the article, and this article is in the weak form most often. But what about when this article is in the strong form? Should we spell it ᛖᛡ or ᚫᚾ?
 
-What we are dealing with is the reality that each phoneme has a nucleus which is its "home", but each phoneme can also stray from it's home. In this case, the article "a" in English is something like the below.
-
-![English article A phoneme](/assets/images/article-a.png)
-
-The dark red is the "home" or nucleus of this sound (somewhere around ᚫ for us), and the lighter red is where it can float to in different situations. When it is stronger, it can go up to the top left like ᛖᛡ, and when it is weaker it can go to the right more like ᛟ.
-
-Essentially, this article can float around, but the nucleus lives closer to ᚫ. So why not spell the article with ᚫ instead of ᛟ. 
-
 If we got into the habit of saying ᚫ can sometimes sound like ᛖᛡ, then we would have to start spelling words like angel as ᚫᚾᚷᛟᛚ and angle as ᚫᚾᚸᛟᛚ. And if we said that ᚫ can sometimes sound like ᛟ *in this one scenario*, then people would mistakenly spell words like "comma" like ᛣᚩᛗᚫ. In this spelling system, it is best to have more clear boundaries for phonemes so that the user can confidently spell things. If a sound goes from ᚫ to ᛖᛡ, we want to show that.
 
-So why is ᛟ better? It still floats around in sound, right? By using ᛟ/ᛟᚾ for all cases of this article, we relegate all of the ambiguity and sound shifting to just one letter ᛟ while keeping all other letters with clear boundaries.
-
-Also, just from an evidential standpoint, ᛟ is the only valid phoneme that is in *both* "a" and "an".
+So why is ᛟ better? Just from an evidential standpoint, ᛟ is the only valid phoneme that is in *both* "a" and "an".
 
 However, if you want to write in a way that clearly shows the exact pronunciation of a speaker, then maybe you would change ᛟ to ᛖᛡ or ᚫᚾ.
+
+

@@ -181,7 +181,9 @@ But for the purposes of a functional system, we have pushed the acceptable range
 
 ## ᚢᚱ for NURSE
 
-It's true that the original sound of ᛟ is used for the NURSE vowel in some English accents today. If we consider that, to a large degree, ᛟ and ᚢ are only distinguished by stress, then this still makes sense for us. ᛟ could still sound like the nucleus of NURSE, but just unstressed. This would be the sound in lettER for many accents.
+It's true that the original sound of ᛟ is used for the NURSE vowel in some English accents today. 
+
+If we consider that, to a large degree, ᛟ and ᚢ are only distinguished by stress, then this still makes sense for us. ᛟ could still sound like the nucleus of NURSE, but just unstressed. This would be the sound in lettER for many accents.
 
 ## ᚩᚹ for GOAT
 
@@ -265,7 +267,7 @@ Users may represent FLEECE as either ᛁᛄ or ᛇ.
 
 ## ᛄ for happY vowel
 
-"[happY can be associated with either fleece, kit, or face, with vowel qualities in the range of /i ~ ɪ ~ e ~ ɛ/](https://ecampusontario.pressbooks.pub/lexicalsets/chapter/25-happy-lexical-set/)". KIT, FLEECE, and happY are not three distinct sounds. Rather, happY could be either KIT or FLEECE. If anyone has used Shavian before, you know the pain of not having a letter just for this happY phoneme.
+"[happY can be associated with either fleece, kit, or face, with vowel qualities in the range of /i ~ ɪ ~ e ~ ɛ/](https://ecampusontario.pressbooks.pub/lexicalsets/chapter/25-happy-lexical-set/)". If anyone has used Shavian before, you know the pain of not having a letter just for this happY phoneme.
 
 Previously, the ᛁ rune represented both KIT and FLEECE and therefore if it was on the end of a word, it could be whatever you wanted it to be. The one issue that would occur from this is the famous confusion of "candied" and "candide".
 
@@ -282,7 +284,7 @@ So what do we do with ᛄ? Well, just like the use of the letter "y" in latin En
 | Latin       |  Runes |
 | -------- |  ------ |
 | Kale        |  ᛣᛖᛡᛚ      |
-| Kyle        |  ᛣᚪᛡᛚ      |
+| Kyle        |  ᛣᚫᛡᛚ      |
 | Coil        |  ᛣᚩᛡᛚ      |
 | Geography   |  ᚷᛄᚩᚸᚱᛟᚠᛄ  |
 | Radio       | ᚱᛖᛡᛞᛄᚩᚹ   |

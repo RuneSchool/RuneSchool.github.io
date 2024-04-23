@@ -93,7 +93,7 @@ Consider:
 
 ## Don't have the FACE merger
 
-If you don't have the FACE merger and instead have two distinct lexical sets of PANE and PAIN, I would suggest that you use a bindrune of ᛖ‍ᛄ for the PANE set to indicate that it is a closer monophthong and an unbound combination of ᛖᛄ for PAIN to indicate that it is the full diphthong.
+If you don't have the FACE merger and instead have two distinct lexical sets of PANE and PAIN, I would suggest that you use a bindrune of ᛖ‍ᛡ for the PANE set to indicate that it is a closer monophthong and an unbound combination of ᛖᛡ for PAIN to indicate that it is the full diphthong.
 
 ## Don't have NURSE merger
 
@@ -189,4 +189,69 @@ So why is ᛟ better? Just from an evidential standpoint, ᛟ is the only valid 
 
 However, if you want to write in a way that clearly shows the exact pronunciation of a speaker, then maybe you would change ᛟ to ᛖᛡ or ᚫᚾ.
 
+# commA or KIT
+
+The confusion between commA ᛟ and KIT ᛁ stems from something called the Weak Vowel Merger.
+
+The [following table](https://en.wikipedia.org/wiki/Phonological_history_of_English_close_front_vowels#Weak_vowel_merger) shows potential homophones that occur when you use commA ᛟ for everything:
+
+| [/ə/](https://en.wikipedia.org/wiki/Help:IPA/English) | [/ɪ/](https://en.wikipedia.org/wiki/Help:IPA/English) | IPA | Notes |
+|-------------------------------------------------------|-------------------------------------------------------|-----|-------|
+| Aaron | Erin | ˈɛrən | [With](https://en.wikipedia.org/wiki/Mary-marry-merry_merger) [Mary-marry-merry merger](https://en.wikipedia.org/wiki/Mary-marry-merry_merger). |
+| accede | exceed | əkˈsiːd | |
+| accept | except | əkˈsɛpt | |
+| addition | edition | əˈdɪʃən | |
+| [Aleutian](https://en.wikipedia.org/wiki/Aleutian_(disambiguation)) | elution | əˈl(j)uːʃən | |
+| allide | elide | əˈlaɪd | |
+| allied | elide | əˈlaɪd | |
+| allision | elision | əˈlɪʒən | |
+| allude | elude | əˈl(j)uːd | |
+| alluded | eluted | əˈl(j)uːɾəd | [With](https://en.wikipedia.org/wiki/Intervocalic_alveolar_flapping) [intervocalic alveolar flapping](https://en.wikipedia.org/wiki/Intervocalic_alveolar_flapping). |
+| allusion | illusion | əˈl(j)uːʒən | |
+| amend | emend | əˈmɛnd | |
+| apatite | appetite | ˈapətaɪt | |
+| arrays | erase | əˈreɪz | Some accents pronounce erase as /ɪˈreɪs/. |
+| barrel | beryl | ˈbɛrəl | [With](https://en.wikipedia.org/wiki/Marry-merry_merger) [marry-merry merger](https://en.wikipedia.org/wiki/Marry-merry_merger). |
+| battered | batted | ˈbætəd | [Non-rhotic](https://en.wikipedia.org/wiki/Rhotic_and_non-rhotic_accents) |
+| bazaar | bizarre | bəˈzɑːr | |
+| bettered | betted | ˈbɛtəd | [Non-rhotic](https://en.wikipedia.org/wiki/Rhotic_and_non-rhotic_accents) |
+| bleachers | bleaches | ˈbliːtʃəz | [Non-rhotic](https://en.wikipedia.org/wiki/Rhotic_and_non-rhotic_accents) |
+| bustard | busted | ˈbʌstəd | [Non-rhotic](https://en.wikipedia.org/wiki/Rhotic_and_non-rhotic_accents) |
+| butchers | butches | ˈbʊtʃəz | [Non-rhotic](https://en.wikipedia.org/wiki/Rhotic_and_non-rhotic_accents) |
+| buttered | butted | ˈbʌtəd | [Non-rhotic](https://en.wikipedia.org/wiki/Rhotic_and_non-rhotic_accents) |
+| carat | caret | ˈkærət | |
+| carrot | caret | ˈkærət | |
+| censors | senses | ˈsɛnsəz | [Non-rhotic](https://en.wikipedia.org/wiki/Rhotic_and_non-rhotic_accents) |
+| chartered | charted | ˈtʃɑːtəd | [Non-rhotic](https://en.wikipedia.org/wiki/Rhotic_and_non-rhotic_accents) |
+| chattered | chatted | ˈtʃætəd | [Non-rhotic](https://en.wikipedia.org/wiki/Rhotic_and_non-rhotic_accents) |
+| chiton | chitin | ˈkaɪtən | |
+| chromous | chromis | ˈkroʊməs | |
+| Devon | Devin | ˈdɛvən | |
+| ferrous | Ferris | ˈfɛrəs | |
+| foundered | founded | ˈfaʊndəd | [Non-rhotic](https://en.wikipedia.org/wiki/Rhotic_and_non-rhotic_accents) |
+| humo(u)red | humid | ˈhjuːməd | [Non-rhotic](https://en.wikipedia.org/wiki/Rhotic_and_non-rhotic_accents) |
+| installation | instillation | ˌɪnstəˈleɪʃən | |
+| Lennon | Lenin | ˈlɛnən | [[36]](https://en.wikipedia.org/wiki/Phonological_history_of_English_close_front_vowels#cite_note-afterRP-36) |
+| mandrel | mandrill | ˈmændrəl | |
+| mastered | masted | ˈmæstəd, ˈmɑːstəd | [Non-rhotic](https://en.wikipedia.org/wiki/Rhotic_and_non-rhotic_accents) |
+| mattered | matted | ˈmætəd | [Non-rhotic](https://en.wikipedia.org/wiki/Rhotic_and_non-rhotic_accents) |
+| mergers | merges | ˈmɜːdʒəz | [Non-rhotic](https://en.wikipedia.org/wiki/Rhotic_and_non-rhotic_accents) |
+| modern | modding | ˈmɒdən | Non-rhotic with G-dropping. |
+| officers | offices | ˈɒfəsəz | [Non-rhotic](https://en.wikipedia.org/wiki/Rhotic_and_non-rhotic_accents) |
+| omission | emission | əˈmɪʃən | |
+| parody | parity | ˈpærəɾi | [With](https://en.wikipedia.org/wiki/Intervocalic_alveolar_flapping) [intervocalic alveolar flapping](https://en.wikipedia.org/wiki/Intervocalic_alveolar_flapping). |
+| pattered | patted | ˈpætəd | [Non-rhotic](https://en.wikipedia.org/wiki/Rhotic_and_non-rhotic_accents) |
+| pattern | patting | ˈpætən | Non-rhotic with G-dropping. |
+| pigeon | pidgin | ˈpɪdʒən |
+
+There is a difference however between weak vowel mergers in final syllabes vs otherwise.
+
+For example, in the phrase "Rosa's roses", the Shavian ReadLex standard (the one that we follow) uses the commA letter ᛟ for both of the final vowels. But in the words "allude" and "elude", it uses ᛟ for the first and ᛁ for the second.
+
+| Latin | Readlex (Shavian) | Rune School Standard |
+| --- | --- | --- | 
+| Rosa's | 𐑐𐑸𐑑𐑩𐑛 | ᚱᚢᚹᛉᛟᛉ |
+| roses | 𐑮𐑴𐑟𐑩𐑟 | ᚱᚢᚹᛉᛟᛉ | 
+| bazaar | 𐑚𐑩𐑟𐑸 | ᛒᛟᛉᚪᚱ |
+| bizarre | 𐑚𐑦𐑟𐑸  |  ᛒᛁᛉᚪᚱ | 
 

@@ -255,3 +255,12 @@ For example, in the phrase "Rosa's roses", the Shavian ReadLex standard (the one
 | bazaar | 𐑚𐑩𐑟𐑸 | ᛒᛟᛉᚪᚱ |
 | bizarre | 𐑚𐑦𐑟𐑸  |  ᛒᛁᛉᚪᚱ | 
 
+# Why ᚫ for diphthongs instead of ᚪ
+
+There are 7 main vowel runes in the lexical sets chart
+
+![Rune School Lexical Sets](/assets/images/RuneSchoolLexicalSets.png)
+
+Each column is a pattern that is applied to the *main* vowel rune on the far left. We don't apply patterns onto a shortcut rune. 
+
+Each main vowel rune contains within it the potential for all of the phonemes in the rightward patterns. This means that ᚫ contains ᚫᚫ (ᚪ) within it. We wouldn't write ᚫᚫᚹ or ᚫᚫᛡ, so we also don't write ᚪᚹ or ᚪᛡ. However, if you do, I don't think anyone would be confused.

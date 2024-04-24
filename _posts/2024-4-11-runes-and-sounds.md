@@ -152,7 +152,7 @@ Similarly ᚠ can be two sounds "f" or "v". Its doubled cousin will take one of 
 
 # Phonetic or Phonemic?
 
-The runes can't just be assigned to very specific IPA symbols. That would mean that we are mandating that everyone pronounce a rune in exactly the same way. There needs to be some flexibility in order for the runes to be useful. Because of that, we need to map out a range of valid pronunciations for each rune.
+The runes can't just be assigned to very specific IPA symbols. That would mean that we are mandating that everyone pronounce a rune in exactly the same way. There needs to be some flexibility in order for the runes to be useful. Because of that, we need to map out a range of valid pronunciations for each rune. That range of pronunciations is called a phoneme.
 
 A phonemic script ensures that no matter how an accent shifts sounds around, the words will still be understandable around the world.
 
@@ -160,7 +160,7 @@ The consonants are pretty straightforward. There is little variation within thos
 
 ## IPA vowel chart
 
-The IPA vowel chart gives us a lay of the land in terms of where phonetic sounds live. We can use this as a map of sounds to mark out locations of phonemes.
+The IPA vowel chart gives us a lay of the land in terms of where phonetic sounds live. We can use this as a map of sounds to mark out locations of phonemes (ranges of valid pronunciations).
 
 Using the above table, we can assign the vowel runes to these rough territories.
 

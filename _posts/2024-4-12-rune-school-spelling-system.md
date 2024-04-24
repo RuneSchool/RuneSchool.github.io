@@ -24,9 +24,48 @@ This document will explain the [system](#system), the logic of the [choices](#ch
 
 Based on the data from the [runes and their sounds](/runes-and-sounds/) and the info from [Dr. Lindsey's IPA symbols](/version-2/#lindsey-vowels), we can create a spelling system.
 
+## Consonants
+
+The consonants are straight forward.
+
+| IPA | Shavian | Runes | Bindrune / Shortcut rune |
+| --- | --- | --- | --- |
+| p | 𐑐 | ᛈ |  |
+| b | 𐑚 | ᛒ |   |
+| t | 𐑑 | ᛏ |  |
+| d | 𐑛 | ᛞ |   |
+| k | 𐑒 | ᛣ |  |
+| kw | 𐑒𐑢 | ᛢ |  |
+| g | 𐑜 | ᚸ |   |
+| f | 𐑓 | ᚠ |  |
+| v | 𐑝 | ᚠ | ![ff bindrune](/assets/images/V-Arrow.png)  |
+| θ | 𐑔 | ᚦ |  |
+| ð | 𐑞 | ᚦ |  |
+| s | 𐑕 | ᛋ |  |
+| st | 𐑕𐑑 | ᛥ |  |
+| z | 𐑟 | ᛉ |  |
+| ʃ | 𐑖 | ᛋᚳ | ![sch bindrune](/assets/images/sch-bindrune.png) |
+| ʒ | 𐑠 | ᛉᚳ | ![zch bindrune](/assets/images/zch-bindrune.png) |
+| ʧ | 𐑗 | ᚳ |  |
+| ʤ | 𐑡 | ᚷ |  |
+| j | 𐑘 | ᛡ |  |
+| w | 𐑢 | ᚹ |  |
+| ŋ | 𐑙 | ᛝ |  |
+| h | 𐑣 | ᚻ |  |
+| l | 𐑤 | ᛚ |  |
+| r | 𐑮 | ᚱ |  |
+| m | 𐑥 | ᛗ |  |
+| n | 𐑯 | ᚾ |  |
+
+## Vowels
+
+Vowel phonemes are the things that tend to vary the most across accents, so they require a bit more work.
+
 ![Rune School Lexical Sets](/assets/images/RuneSchoolLexicalSets.png)
 
-In parenthesis you can see the "shortcut" runes. 
+There are 7 rows which we can consider the "main" vowel runes. Each column applies predictable patterns onto each of the main runes. It's doubled, then it's given a /j/ glide, then it's given a /w/ glide.
+
+There are many blank spaces in this chart. These blank spaces represent vowel phonemes that don't exist in modern English, but potentially could in the future, or perhaps did in the past.
 
 We can condense and simplify the above chart by 
 
@@ -41,38 +80,36 @@ The Rune School Spelling System is pretty much a point for point recreation of t
 
 The idea is that you can use the ReadLex dictionary and swap Shavian out for runes.
 
-See a mapping of the vowels below:
+| Traditional IPA | Modern IPA | Shavian | Runes | Bindrune / Shortcut rune |
+| --- | --- | --- | --- |  --- | 
+| ə | ə | 𐑩 | ᛟ |  |
+| ər | ər | 𐑼 | ᛟᚱ | ![uhr bindrune](/assets/images/uhr-bindrune.png) |
+| ʌ | ə́ | 𐑳 | ᚢ |   |
+| ɜː | ə́ːr | 𐑻 | ᚢᚱ | ![ur bindrune](/assets/images/ur-bindrune.png) |
+| ɪ | ɪ | 𐑦 | ᛁ |  |
+| ɪə | ɪ́ː | 𐑾 | ᛁᛁ | ᛠ |
+| ɪər | ɪ́ːr | 𐑾 | ᛁᛁᚱ | ᛠᚱ |
+| i | ɪj | 𐑦 | ᛄ |  |
+| iː | ɪj | 𐑰 | ᛁᛡ  | ᛇ |
+| e | ɛ | 𐑧 | ᛖ |  |
+| eɪ | ɛj | 𐑱 | ᛖᛡ | ![ej bindrune](/assets/images/ej-bindrune.png) |
+| er | ɛ́r | 𐑧𐑮 | ᛖᚱ |  |
+| eə | ɛ́ːr | 𐑺 | ᛖᛖᚱ | ![er bindrune](/assets/images/er-bindrune.png) |
+| æ | a | 𐑨 | ᚫ |  |
+| aɪ | ɑj | 𐑲 | ᚫᛡ | ![aj bindrune](/assets/images/aj-bindrune.png) |
+| aʊ | áw | 𐑬 | ᚫᚹ | ![aw bindrune](/assets/images/aw-bindrune.png) |
+| ɑː | ɑː | 𐑭 | ᚫᚫ  | ᚪ |
+| ɑːr | ɑːr | 𐑸 | ᚫᚫᚱ  | ᚪᚱ |
+| ɒ | ɔ́ | 𐑪 | ᚩ |  |
+| ɔɪ | ój | 𐑶 | ᚩᛡ | ![oj bindrune](/assets/images/oj-bindrune.png) |
+| ɔː | óː | 𐑷 | ᚩᚩ | ![oo bindrune](/assets/images/oo-bindrune.png) |
+| ɔːr | óːr | 𐑹 | ᚩᚱ | ![or bindrune](/assets/images/or-bindrune.png) |
+| əʊ | əw | 𐑴 | ᚩᚹ | ![ow bindrune](/assets/images/ow-bindrune.png) |
+| ʊ | ʉ́ | 𐑫 | ᚣ |  |
+| uː | ʉ́w | 𐑵 | ᚣᚹ | ![yw bindrune](/assets/images/yw-bindrune.png) |
+| juː | jʉ́w | 𐑿 | ᛡᚣᚹ |  |
 
-| Traditional IPA | Modern IPA | Shavian | Runes |
-| --- | --- | --- | --- | 
-| ə | ə | 𐑩 | ᛟ |
-| ər | ər | 𐑼 | ᛟᚱ |
-| ʌ | ə́ | 𐑳 | ᚢ | 
-| ɜː | ə́ːr | 𐑻 | ᚢᚱ |
-| ɪ | ɪ | 𐑦 | ᛁ |
-| ɪə | ɪ́ː | 𐑾 | ᛁᛁ or ᛠ |
-| ɪər | ɪ́ːr | 𐑾 | ᛁᛁᚱ or ᛠᚱ|
-| i | ɪj | 𐑦 | ᛄ |
-| iː | ɪj | 𐑰 | ᛁᛡ or ᛇ |
-| e | ɛ | 𐑧 | ᛖ |
-| eɪ | ɛj | 𐑱 | ᛖᛡ |
-| er | ɛ́r | 𐑧𐑮 | ᛖᚱ |
-| eə | ɛ́ːr | 𐑺 | ᛖᛖᚱ |
-| æ | a | 𐑨 | ᚫ |
-| aɪ | ɑj | 𐑲 | ᚫᛡ |
-| aʊ | áw | 𐑬 | ᚫᚹ |
-| ɑː | ɑː | 𐑭 | ᚫᚫ or ᚪ |
-| ɑːr | ɑːr | 𐑸 | ᚫᚫᚱ or ᚪᚱ |
-| ɒ | ɔ́ | 𐑪 | ᚩ |
-| ɔɪ | ój | 𐑶 | ᚩᛡ |
-| ɔː | óː | 𐑷 | ᚩᚩ |
-| ɔːr | óːr | 𐑹 | ᚩᚱ |
-| əʊ | əw | 𐑴 | ᚩᚹ |
-| ʊ | ʉ́ | 𐑫 | ᚣ |
-| uː | ʉ́w | 𐑵 | ᚣᚹ |
-| juː | jʉ́w | 𐑿 | ᛡᚣᚹ |
-
-## Bindrunes
+### Bindrunes
 
 While it's definitely possible to have bindrunes that have the same effect as the "compound" or "ligature" Shavian letters, we don't want to rely on them for the system to work. If we do, we would be totally dependent on just a few font options, which is not practical for real world use.
 

@@ -115,7 +115,7 @@ Is there a pause longer than a full stop? An ellipsis could possibly fit that. L
 What would be a vertical pair for this one? Probably a semicolon, which is described as stronger than a comma, but weaker than a full stop.
 
 ```
-⋮
+⁝
 ```
 
 # Summary
@@ -146,6 +146,6 @@ exclamation ᛬᛬
 question ᛫​? or ᛫​~
 interrobang ᛬​? or ᛬​~
 
-semicolon ⋮
+semicolon ⁝
 ellipsis ᛫᛫᛫
 ```

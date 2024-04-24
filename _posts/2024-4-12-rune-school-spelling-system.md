@@ -38,7 +38,7 @@ The consonants are straight forward.
 | kw | 𐑒𐑢 | ᛢ |  |
 | g | 𐑜 | ᚸ |   |
 | f | 𐑓 | ᚠ |  |
-| v | 𐑝 | ᚠ | ![ff bindrune](/assets/images/V-Arrow.png)  |
+| v | 𐑝 | ᚠ | ![ff bindrune](/assets/images/ff-bindrune.png)  |
 | θ | 𐑔 | ᚦ |  |
 | ð | 𐑞 | ᚦ |  |
 | s | 𐑕 | ᛋ |  |
@@ -188,7 +188,7 @@ Another example, consider "Imagine". Can it be spelled ᛁᛗᚫᚷᚾ without a
 | to | 𐑑 | ᛏ |
 | and | 𐑯 | ᚾ |
 | for | 𐑓 | ᚠᚱ |
-| of | 𐑝 | ᚠ | ![ff bindrune](/assets/images/V-Arrow.png) |
+| of | 𐑝 | ᚠ | ![ff bindrune](/assets/images/ff-bindrune.png) |
 
 # Choices
 

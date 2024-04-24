@@ -40,11 +40,13 @@ With this in mind, we can design some very basic principles with the material th
 Firstly, we have the space `᛫`. That's easy.
 
 > ᚦ᛫​ᛣᚫᛏ᛫​ᛁᚾ᛫​ᚦ᛫​ᚻᚫᛏ
+
 > The cat in the hat
 
 A period or full stop is the longest pause that we have in speech. Visually, this should be reflected as the largest gap between runes. For this reason, let's represent this as two of the space runes side by side `᛫᛫`.
 
 > ᚦ᛫​ᛣᚫᛏ᛫​ᚹᛖᚾᛏ᛫​ᚻᚩᚹᛞ᛫​᛫​ᚫᛡ᛫​ᛏᚣᚹ᛫​᛫​
+
 > The cat went home. I went too.
 
 
@@ -52,6 +54,7 @@ Now McCarthy also uses commas. A comma is really just a smaller pause. So to rep
 
 
 > ᚫᛡ᛫​ᛚᛖᚠᛏ᛬ᛒᚢᛏ᛫​ᚫᛡ᛫​ᛞᛁᛞᚾᛏ᛫​ᚹᚩᚾᛏ᛫​ᛏ᛫​᛫​
+
 > I left, but I didn't want to.
 
 
@@ -74,9 +77,11 @@ We can use the runic cross punctuation `᛭` when we want to signify that some t
 
 
 > ᚦᛖᚾ᛭​ᛁᛚᚪᚱᛄ᛫​ᚸᚱᛇᛏᛟᛞ᛫​ᛗᛇ᛫​᛫​
+
 > Then Ilari greeted me.
 
 > ᛡᚣᚹᛟᚱ᛫​ᚠᚱᚩᛗ᛭​ᚫᛡᛟᚹᛟ᛬​ᛒᚢᛏ᛫​ᚫᛡᛗ᛫​ᚠᚱᚩᛗ᛭​ᛗᛁᛋᚳᛁᚸᛟᚾ᛫​᛫​
+
 > You're from Iowa, but I'm from Michigan.
 
 Now this isn't to rule out that eventually we could have smaller case runes and larger case runes, similar to Cyrillic. But we certainly shouldn't count on such a thing in the near term.
@@ -98,11 +103,13 @@ Now what about question marks and exclamation points? Does McCarthy really avoid
 But as mentioned above, how often is this even necessary? Most questions involve question words and phrasing, for example.
 
 > ᛞᛁᛞ᛫​ᛡᚣᚹ᛫​ᚸᚩᚹ?᛫​​​ᚻᚫᚹ᛫​ᚹᚩᛉ᛫​ᛁᛏ​?᛫​
+
 > Did you go? How was it?
 
 If we absolutely need an exclamation mark, we could double up the comma. Or rather, double up the full stop, depending on how you look at it.
 
 > ᚫᛡ᛫​ᛚᚢᚠ᛫​ᚦᚫᛏ᛬​᛬​ᛣᚫᚾ᛫​ᚫᛡ᛫​ᚻᚫᚠ᛫​ᛋᚢᛗ​?᛫​ᚦᚫᛝᛣ᛫​ᛡᚣᚹ᛫​᛫​
+
 > I love that! Can I have some? Thank you.
 
 
@@ -113,6 +120,7 @@ Is there a pause longer than a full stop? An ellipsis … or em dash — could p
 What would be a vertical pair for this one `⁝`? Probably a semicolon, which is described as stronger than a comma, but weaker than a full stop.
 
 > ᛁᛏᛋ᛫​ᛋᚾᚩᚹᛁᛝ᛫​ᚫᛏ᛫​ᚦ᛫​ᛖᛖᚱᛈᚩᚱᛏ⁝​ᛣᚩᚾᛋᛟᛣᚹᛖᚾᛏᛚᛄ᛬​ᚩᚩᛚ᛫​ᚠᛚᚫᛡᛏᛋ᛫​ᚻᚫᚠ᛫​᛫​᛫​ᚫᛡ᛫​ᚹᚩᚹᚾᛏ᛫​ᛗᛖᛡᛣ᛫​ᛁᛏ᛫​ᚻᚩᚹᛗ᛫​᛫​
+
 > It's snowing at the airport; consequently, all flights have... I won't make it home.
 
 # Summary

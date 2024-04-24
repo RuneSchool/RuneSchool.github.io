@@ -97,25 +97,19 @@ Now what about question marks and exclamation points? Does McCarthy really avoid
 
 ---
 
-In cases where we absolutely need a question mark, we could use `᛫​?`. [Around the 700s](https://en.wikipedia.org/wiki/Question_mark), people used something more like `᛫~`,`᛫˜`, or `᛫᛫̃`, but that was replaced with the question mark that we see today by the 1600's.
+[Around the 700s](https://en.wikipedia.org/wiki/Question_mark), people used something like `᛫~`,`᛫˜`, or `᛫᛫̃`, but that was replaced with the question mark that we see today by the 1600's. So we could use `?᛫​` for a question. Basically the same as a full stop, but the first dot is replaced with a question.
 
 But as mentioned above, how often is this even necessary? Most questions involve question words and phrasing, for example.
 
 ```
-ᛞᛁᛞ᛫​ᛡᚣᚹ᛫​ᚸᚩᚹ᛫​?​​ᚻᚫᚹ᛫​ᚹᚩᛉ᛫​ᛁᛏ᛫​?​
-Did you go? How was it?
-
-ᛞᛁᛞ᛫​ᛡᚣᚹ᛫​ᚸᚩᚹ᛫˜​​ᚻᚫᚹ᛫​ᚹᚩᛉ᛫​ᛁᛏ᛫˜
+ᛞᛁᛞ᛫​ᛡᚣᚹ᛫​ᚸᚩᚹ?᛫​​​ᚻᚫᚹ᛫​ᚹᚩᛉ᛫​ᛁᛏ​?᛫​
 Did you go? How was it?
 ```
 
 If we absolutely need an exclamation mark, we could double up the comma. Or rather, double up the full stop, depending on how you look at it.
 
 ```
-ᚫᛡ᛫​ᛚᚢᚠ᛫​ᚦᚫᛏ᛬​᛬​ᛣᚫᚾ᛫​ᚫᛡ᛫​ᚻᚫᚠ᛫​ᛋᚢᛗ᛫​?​ᚦᚫᛝᛣ᛫​ᛡᚣᚹ᛫​᛫​
-I love that! Can I have some? Thank you.
-
-ᚫᛡ᛫​ᛚᚢᚠ᛫​ᚦᚫᛏ᛬​᛬​ᛣᚫᚾ᛫​ᚫᛡ᛫​ᚻᚫᚠ᛫​ᛋᚢᛗ᛫˜​ᚦᚫᛝᛣ᛫​ᛡᚣᚹ᛫​᛫​
+ᚫᛡ᛫​ᛚᚢᚠ᛫​ᚦᚫᛏ᛬​᛬​ᛣᚫᚾ᛫​ᚫᛡ᛫​ᚻᚫᚠ᛫​ᛋᚢᛗ​?᛫​ᚦᚫᛝᛣ᛫​ᛡᚣᚹ᛫​᛫​
 I love that! Can I have some? Thank you.
 ```
 
@@ -163,9 +157,9 @@ comma ᛬
 semicolon ⁝
 
 full stop ᛫᛫
-question ᛫​? or ᛫˜
+question ​?᛫
 exclamation ᛬᛬
-interrobang ᛬​? or ᛬​˜
+interrobang ​?᛬
 
 ellipsis ᛫᛫᛫
 ```

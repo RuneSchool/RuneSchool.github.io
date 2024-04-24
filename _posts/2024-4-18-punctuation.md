@@ -125,8 +125,8 @@ In sum, what I am suggesting as the very basics is the following:
 ```
 space ᛫
 capital space ᛭
-
 comma ᛬
+
 full stop ᛫᛫
 ```
 
@@ -139,13 +139,13 @@ Following the same logic as the above minimal suggestions however, here is an ex
 ```
 space ᛫
 capital space ᛭
-
 comma ᛬
+semicolon ⁝
+
 full stop ᛫᛫
 question ᛫​? or ᛫​~
 exclamation ᛬᛬
 interrobang ᛬​? or ᛬​~
 
-semicolon ⁝
 ellipsis ᛫᛫᛫
 ```

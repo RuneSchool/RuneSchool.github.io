@@ -263,4 +263,4 @@ There are 7 main vowel runes in the lexical sets chart
 
 Each column is a pattern that is applied to the *main* vowel rune on the far left. We don't apply patterns onto a shortcut rune. 
 
-Each main vowel rune contains within it the potential for all of the phonemes in the rightward patterns. This means that ᚫ contains ᚫᚫ (ᚪ) within it. We wouldn't write ᚫᚫᚹ or ᚫᚫᛡ, so we also don't write ᚪᚹ or ᚪᛡ. However, if you do, I don't think anyone would be confused.
+Each main vowel rune contains within it the potential for all of the phonemes in the rightward patterns. This means that ᚫ contains ᚫᚫ (ᚪ) within it. We don't write ᚫᚫᚹ or ᚫᚫᛡ, so we also don't write ᚪᚹ or ᚪᛡ. However, if you do, I don't think anyone would be confused.

@@ -106,7 +106,7 @@ If we absolutely need an exclamation mark, we could double up the comma. Or rath
 
 ## Ellipsis
 
-Is there a pause longer than a full stop? An ellipsis could possibly fit that. Logically, this could be three space dots.
+Is there a pause longer than a full stop? An ellipsis … or em dash — could possibly fit that. Logically, this could be three space dots.
 
 ```
 ᛫᛫᛫

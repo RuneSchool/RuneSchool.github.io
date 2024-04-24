@@ -90,16 +90,32 @@ Now what about question marks and exclamation points? Does McCarthy really avoid
 
 ---
 
-In cases where we absolutely need a question mark, we could use 3 space dots, like an ellipsis. But as mentioned above, how often is this even necessary? Most questions involve question words and phrasing, for example.
+In cases where we absolutely need a question mark, we could use `᛫​?`. [Around the 700s](https://en.wikipedia.org/wiki/Question_mark), people used something more like `᛫​~`, but that was replaced with the question mark that we see today by the 1600's.
+
+But as mentioned above, how often is this even necessary? Most questions involve question words and phrasing, for example.
 
 ```
-᛫᛫᛫
+᛫​? or ᛫​~
 ```
 
 If we absolutely need an exclamation mark, we could double up the comma. Or rather, double up the full stop, depending on how you look at it.
 
 ```
 ᛬᛬
+```
+
+## Ellipsis
+
+Is there a pause longer than a full stop? An ellipsis could possibly fit that. Logically, this could be three space dots.
+
+```
+᛫᛫᛫
+```
+
+What would be a vertical pair for this one? Probably a semicolon, which is described as stronger than a comma, but weaker than a full stop.
+
+```
+⋮
 ```
 
 # Summary
@@ -109,12 +125,27 @@ In sum, what I am suggesting as the very basics is the following:
 ```
 space ᛫
 capital space ᛭
+
 comma ᛬
 full stop ᛫᛫
-question ᛫᛫᛫
-exclamation ᛬᛬
 ```
 
-From here, people could add things. [Stella's system](https://rentry.co/merunes#punctuation) covers a lot of ground, for example. But I think it's important to agree on some very minimal basics first, and let community usage determine the rest.
+Cormac McCarthy could work with just that. I think it's important to agree on some very minimal basics first, and let community usage determine the rest.
 
-If it's good enough for Cormac, it's good enough for me.
+From here, people could add things. [Stella's system](https://rentry.co/merunes#punctuation) covers a lot of ground, for example. 
+
+Following the same logic as the above minimal suggestions however, here is an expanded set:
+
+```
+space ᛫
+capital space ᛭
+
+comma ᛬
+full stop ᛫᛫
+exclamation ᛬᛬
+question ᛫​? or ᛫​~
+interrobang ᛬​? or ᛬​~
+
+semicolon ⋮
+ellipsis ᛫᛫᛫
+```

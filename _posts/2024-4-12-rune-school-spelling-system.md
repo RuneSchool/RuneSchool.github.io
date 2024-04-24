@@ -50,6 +50,7 @@ The consonants are straight forward.
 | ʤ | 𐑡 | ᚷ |  |
 | j | 𐑘 | ᛡ |  |
 | w | 𐑢 | ᚹ |  |
+| ʍ | 𐑣𐑢 | ᚻᚹ | ![hw bindrune](/assets/images/hw-bindrune.png) |
 | ŋ | 𐑙 | ᛝ |  |
 | h | 𐑣 | ᚻ |  |
 | l | 𐑤 | ᛚ |  |
@@ -181,13 +182,13 @@ Another example, consider "Imagine". Can it be spelled ᛁᛗᚫᚷᚾ without a
 
 ### Shortcut words
 
-| Latin | Shavian | Runes | 
+| Latin | Shavian | Runes | Bindrune / Shortcut rune |
 | --- | --- | --- |
 | the | 𐑞 | ᚦ |
 | to | 𐑑 | ᛏ |
 | and | 𐑯 | ᚾ |
 | for | 𐑓 | ᚠᚱ |
-| of | 𐑝 | ᚠ |
+| of | 𐑝 | ᚠ | ![ff bindrune](/assets/images/V-Arrow.png) |
 
 # Choices
 

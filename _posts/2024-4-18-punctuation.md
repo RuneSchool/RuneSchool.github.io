@@ -142,8 +142,8 @@ capital space ᛭
 
 comma ᛬
 full stop ᛫᛫
-exclamation ᛬᛬
 question ᛫​? or ᛫​~
+exclamation ᛬᛬
 interrobang ᛬​? or ᛬​~
 
 semicolon ⁝

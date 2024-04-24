@@ -97,7 +97,7 @@ Now what about question marks and exclamation points? Does McCarthy really avoid
 
 ---
 
-[Around the 700s](https://en.wikipedia.org/wiki/Question_mark), people used something like `᛫~`,`᛫˜`, or `᛫᛫̃`, but that was replaced with the question mark that we see today by the 1600's. So we could use `?᛫​` for a question. Basically the same as a full stop, but the first dot is replaced with a question.
+[Around the 700s](https://en.wikipedia.org/wiki/Question_mark), people used something like `᛫~`,`᛫˜`, or `᛫̃`, but that was replaced with the question mark that we see today by the 1600's. So we could use `?᛫​` for a question. Basically the same as a full stop, but the first dot is replaced with a question.
 
 But as mentioned above, how often is this even necessary? Most questions involve question words and phrasing, for example.
 

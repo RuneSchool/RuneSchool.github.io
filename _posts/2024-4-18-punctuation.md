@@ -105,7 +105,7 @@ But as mentioned above, how often is this even necessary? Most questions involve
 ᛞᛁᛞ᛫​ᛡᚣᚹ᛫​ᚸᚩᚹ᛫​?​​ᚻᚫᚹ᛫​ᚹᚩᛉ᛫​ᛁᛏ᛫​?​
 Did you go? How was it?
 
-ᛞᛁᛞ᛫​ᛡᚣᚹ᛫​ᚸᚩᚹ᛫᛫̃​​ᚻᚫᚹ᛫​ᚹᚩᛉ᛫​ᛁᛏ᛫᛫̃​
+ᛞᛁᛞ᛫​ᛡᚣᚹ᛫​ᚸᚩᚹ᛫˜​​ᚻᚫᚹ᛫​ᚹᚩᛉ᛫​ᛁᛏ᛫˜
 Did you go? How was it?
 ```
 
@@ -115,7 +115,7 @@ If we absolutely need an exclamation mark, we could double up the comma. Or rath
 ᚫᛡ᛫​ᛚᚢᚠ᛫​ᚦᚫᛏ᛬​᛬​ᛣᚫᚾ᛫​ᚫᛡ᛫​ᚻᚫᚠ᛫​ᛋᚢᛗ᛫​?​ᚦᚫᛝᛣ᛫​ᛡᚣᚹ᛫​᛫​
 I love that! Can I have some? Thank you.
 
-ᚫᛡ᛫​ᛚᚢᚠ᛫​ᚦᚫᛏ᛬​᛬​ᛣᚫᚾ᛫​ᚫᛡ᛫​ᚻᚫᚠ᛫​ᛋᚢᛗ᛫᛫̃​ᚦᚫᛝᛣ᛫​ᛡᚣᚹ᛫​᛫​
+ᚫᛡ᛫​ᛚᚢᚠ᛫​ᚦᚫᛏ᛬​᛬​ᛣᚫᚾ᛫​ᚫᛡ᛫​ᚻᚫᚠ᛫​ᛋᚢᛗ᛫˜​ᚦᚫᛝᛣ᛫​ᛡᚣᚹ᛫​᛫​
 I love that! Can I have some? Thank you.
 ```
 
@@ -163,9 +163,9 @@ comma ᛬
 semicolon ⁝
 
 full stop ᛫᛫
-question ᛫​? or ᛫᛫̃
+question ᛫​? or ᛫˜
 exclamation ᛬᛬
-interrobang ᛬​? or ᛬​᛫̃
+interrobang ᛬​? or ᛬​˜
 
 ellipsis ᛫᛫᛫
 ```

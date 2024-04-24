@@ -31,7 +31,7 @@ In this runic writing system, we allow for bindrunes to show exactly this.
 | NORTH | ᚩᚱ | ᚩᚩ | ![ᚩᚱ bindrune](/assets/images/or-bindrune.png) |
 | lettER | ᛟᚱ | ᛟ | ![ᛟᚱ bindrune](/assets/images/uhr-bindrune.png) |
 | CURE | ᚣᚱ | ᚣᚣ | ![ᚣᚱ bindrune](/assets/images/uir-bindrune.png) |
-| NURSE | ᚢᚢᚱ | ᚢᚢ | ![ᚢᚱ bindrune](/assets/images/ur-bindrune.png) |
+| NURSE | ᚢᚱ | ᚢᚢ | ![ᚢᚱ bindrune](/assets/images/ur-bindrune.png) |
 
 "Know your audience". This system is capable of being flexible depending on your needs. Bindrunes are probably the ideal, but since they are not yet common, we would always recommend writing the Rs for an international audience.
 

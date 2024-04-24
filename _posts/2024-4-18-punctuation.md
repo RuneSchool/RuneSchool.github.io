@@ -39,24 +39,21 @@ With this in mind, we can design some very basic principles with the material th
 
 Firstly, we have the space `᛫`. That's easy.
 
-```
-ᚦ᛫​ᛣᚫᛏ᛫​ᛁᚾ᛫​ᚦ᛫​ᚻᚫᛏ
-The cat in the hat
-```
+> ᚦ᛫​ᛣᚫᛏ᛫​ᛁᚾ᛫​ᚦ᛫​ᚻᚫᛏ
+> The cat in the hat
 
 A period or full stop is the longest pause that we have in speech. Visually, this should be reflected as the largest gap between runes. For this reason, let's represent this as two of the space runes side by side `᛫᛫`.
 
-```
-ᚦ᛫​ᛣᚫᛏ᛫​ᚹᛖᚾᛏ᛫​ᚻᚩᚹᛞ᛫​᛫​ᚫᛡ᛫​ᛏᚣᚹ᛫​᛫​
-The cat went home. I went too.
-```
+> ᚦ᛫​ᛣᚫᛏ᛫​ᚹᛖᚾᛏ᛫​ᚻᚩᚹᛞ᛫​᛫​ᚫᛡ᛫​ᛏᚣᚹ᛫​᛫​
+> The cat went home. I went too.
+
 
 Now McCarthy also uses commas. A comma is really just a smaller pause. So to represent this, we can turn the double dot full stop vertical `᛬`. This way, it visually takes up a smaller gap between runes than the full stop, but it also shows something more significant than just a space.
 
-```
-ᚫᛡ᛫​ᛚᛖᚠᛏ᛬ᛒᚢᛏ᛫​ᚫᛡ᛫​ᛞᛁᛞᚾᛏ᛫​ᚹᚩᚾᛏ᛫​ᛏ᛫​᛫​
-I left, but I didn't want to.
-```
+
+> ᚫᛡ᛫​ᛚᛖᚠᛏ᛬ᛒᚢᛏ᛫​ᚫᛡ᛫​ᛞᛁᛞᚾᛏ᛫​ᚹᚩᚾᛏ᛫​ᛏ᛫​᛫​
+> I left, but I didn't want to.
+
 
 ## Capitals
 
@@ -75,13 +72,12 @@ What this tells me is that McCarthy uses capitals as a way to signify that some 
 
 We can use the runic cross punctuation `᛭` when we want to signify that some text is special in some way, basically in the way that we would use captial letters. We wouldn't use this to start all sentences, but maybe for names and certain terms (similar to the Shavian "namer dot" ·).
 
-```
-ᚦᛖᚾ᛭​ᛁᛚᚪᚱᛄ᛫​ᚸᚱᛇᛏᛟᛞ᛫​ᛗᛇ᛫​᛫​
-Then Ilari greeted me.
 
-ᛡᚣᚹᛟᚱ᛫​ᚠᚱᚩᛗ᛭​ᚫᛡᛟᚹᛟ᛬​ᛒᚢᛏ᛫​ᚫᛡᛗ᛫​ᚠᚱᚩᛗ᛭​ᛗᛁᛋᚳᛁᚸᛟᚾ᛫​᛫​
-You're from Iowa, but I'm from Michigan.
-```
+> ᚦᛖᚾ᛭​ᛁᛚᚪᚱᛄ᛫​ᚸᚱᛇᛏᛟᛞ᛫​ᛗᛇ᛫​᛫​
+> Then Ilari greeted me.
+
+> ᛡᚣᚹᛟᚱ᛫​ᚠᚱᚩᛗ᛭​ᚫᛡᛟᚹᛟ᛬​ᛒᚢᛏ᛫​ᚫᛡᛗ᛫​ᚠᚱᚩᛗ᛭​ᛗᛁᛋᚳᛁᚸᛟᚾ᛫​᛫​
+> You're from Iowa, but I'm from Michigan.
 
 Now this isn't to rule out that eventually we could have smaller case runes and larger case runes, similar to Cyrillic. But we certainly shouldn't count on such a thing in the near term.
 
@@ -101,36 +97,23 @@ Now what about question marks and exclamation points? Does McCarthy really avoid
 
 But as mentioned above, how often is this even necessary? Most questions involve question words and phrasing, for example.
 
-```
-ᛞᛁᛞ᛫​ᛡᚣᚹ᛫​ᚸᚩᚹ?᛫​​​ᚻᚫᚹ᛫​ᚹᚩᛉ᛫​ᛁᛏ​?᛫​
-Did you go? How was it?
-```
+> ᛞᛁᛞ᛫​ᛡᚣᚹ᛫​ᚸᚩᚹ?᛫​​​ᚻᚫᚹ᛫​ᚹᚩᛉ᛫​ᛁᛏ​?᛫​
+> Did you go? How was it?
 
 If we absolutely need an exclamation mark, we could double up the comma. Or rather, double up the full stop, depending on how you look at it.
 
-```
-ᚫᛡ᛫​ᛚᚢᚠ᛫​ᚦᚫᛏ᛬​᛬​ᛣᚫᚾ᛫​ᚫᛡ᛫​ᚻᚫᚠ᛫​ᛋᚢᛗ​?᛫​ᚦᚫᛝᛣ᛫​ᛡᚣᚹ᛫​᛫​
-I love that! Can I have some? Thank you.
-```
+> ᚫᛡ᛫​ᛚᚢᚠ᛫​ᚦᚫᛏ᛬​᛬​ᛣᚫᚾ᛫​ᚫᛡ᛫​ᚻᚫᚠ᛫​ᛋᚢᛗ​?᛫​ᚦᚫᛝᛣ᛫​ᛡᚣᚹ᛫​᛫​
+> I love that! Can I have some? Thank you.
+
 
 ## Ellipsis
 
-Is there a pause longer than a full stop? An ellipsis … or em dash — could possibly fit that. Logically, this could be three space dots.
+Is there a pause longer than a full stop? An ellipsis … or em dash — could possibly fit that. Logically, this could be three space dots `᛫᛫᛫`.
 
-```
-᛫᛫᛫
-```
+What would be a vertical pair for this one `⁝`? Probably a semicolon, which is described as stronger than a comma, but weaker than a full stop.
 
-What would be a vertical pair for this one? Probably a semicolon, which is described as stronger than a comma, but weaker than a full stop.
-
-```
-⁝
-```
-
-```
-ᛁᛏᛋ᛫​ᛋᚾᚩᚹᛁᛝ᛫​ᚫᛏ᛫​ᚦ᛫​ᛖᛖᚱᛈᚩᚱᛏ⁝​ᛣᚩᚾᛋᛟᛣᚹᛖᚾᛏᛚᛄ᛬​ᚩᚩᛚ᛫​ᚠᛚᚫᛡᛏᛋ᛫​ᚻᚫᚠ᛫​᛫​᛫​ᚫᛡ᛫​ᚹᚩᚹᚾᛏ᛫​ᛗᛖᛡᛣ᛫​ᛁᛏ᛫​ᚻᚩᚹᛗ᛫​᛫​
-It's snowing at the airport; consequently, all flights have... I won't make it home.
-```
+> ᛁᛏᛋ᛫​ᛋᚾᚩᚹᛁᛝ᛫​ᚫᛏ᛫​ᚦ᛫​ᛖᛖᚱᛈᚩᚱᛏ⁝​ᛣᚩᚾᛋᛟᛣᚹᛖᚾᛏᛚᛄ᛬​ᚩᚩᛚ᛫​ᚠᛚᚫᛡᛏᛋ᛫​ᚻᚫᚠ᛫​᛫​᛫​ᚫᛡ᛫​ᚹᚩᚹᚾᛏ᛫​ᛗᛖᛡᛣ᛫​ᛁᛏ᛫​ᚻᚩᚹᛗ᛫​᛫​
+> It's snowing at the airport; consequently, all flights have... I won't make it home.
 
 # Summary
 

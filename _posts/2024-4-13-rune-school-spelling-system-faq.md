@@ -91,6 +91,51 @@ Consider:
 | There / They're | ᚦᛖᛖᚱ / ᚦᛖᛡᛟᚱ |
 | keyring / hearing | ᛣᛇᚱᛁᛝ / ᚻᛠᚱᛁᛝ |
 
+## Merge Mary Merry and Marry
+
+If Mary, merry, and marry all sound the same to you, you could spell all of them with ᛖᚱ or the bindrune of ᛖᚱ ![er bindrune](/assets/images/er-bindrune.png).
+
+The standard spelling of this system however accounts for all three of these phonemes being distinct. It may benefit you to learn the distinctions nonetheless.
+
+The [following table](https://en.wikipedia.org/wiki/English-language_vowel_changes_before_historic_/r/#Mary%E2%80%93marry%E2%80%93merry_merger) shows all of the potential homophones that can be distinguished by spelling these three phonemes differently.
+
+| /ær/ ᚫᚱ | /ɛər/ ᛖᛖᚱ | /ɛr/ ᛖᚱ | IPA | Notes |
+|------|-------|------|-----|-------|
+| - | Aaron | [Erin](https://en.wikipedia.org/wiki/Erin) | ˈɛrən | [with weak-vowel merger](https://en.wikipedia.org/wiki/Weak-vowel_merger) |
+| apparel | - | a peril | əˈpɛrəl | [with weak-vowel merger](https://en.wikipedia.org/wiki/Weak-vowel_merger) |
+| arable | airable | errable | ˈɛrəbəl | - |
+| - | airer | error | ˈɛrə(r) | - |
+| barrel | - | beryl | ˈbɛrəl | with weak-vowel merger before /l/ |
+| barrier | - | burier | ˈbɛriə(r) | - |
+| [Barry](https://en.wikipedia.org/wiki/Barry_(name)) | - | berry | ˈbɛri | - |
+| Barry | - | bury | ˈbɛri | - |
+| [Carrie](https://en.wikipedia.org/wiki/Carrie_(name)) | [Cary](https://en.wikipedia.org/wiki/Cary_(disambiguation)) | [Kerry](https://en.wikipedia.org/wiki/Kerry_(name)) | ˈkɛri | - |
+| carry | Cary | [Kerry](https://en.wikipedia.org/wiki/Kerry_(disambiguation)) | ˈkɛri | - |
+| - | chary | cherry | ˈtʃɛri | - |
+| - | dairy | [Derry](https://en.wikipedia.org/wiki/Derry) | ˈdɛri | - |
+| - | fairy | ferry | ˈfɛri | - |
+| [Farrell](https://en.wikipedia.org/wiki/Farrell_(surname)) | - | feral | ˈfɛrəl | with weak-vowel merger before /l/ |
+| farrier | - | ferrier | ˈfɛriə(r) | - |
+| farrow | [Faroe](https://en.wikipedia.org/wiki/Faroe_Islands) | - | ˈfɛroʊ | - |
+| farrow | pharaoh | - | ˈfɛroʊ | - |
+| harrowing | - | heroin | ˈhɛroʊɪn | [with G-dropping](https://en.wikipedia.org/wiki/G-dropping) |
+| harrowing | - | heroine | ˈhɛroʊɪn | [with G-dropping](https://en.wikipedia.org/wiki/G-dropping) |
+| [Harry](https://en.wikipedia.org/wiki/Harry_(given_name)) | hairy | - | ˈhɛri | - |
+| - | haring | herring | ˈhɛrɪŋ | - |
+| [Harold](https://en.wikipedia.org/wiki/Harold_(given_name)) | - | herald | ˈhɛrəld | - |
+| marry | [Mary](https://en.wikipedia.org/wiki/Mary_(given_name)) | merry | ˈmɛri | - |
+| parish | - | perish | ˈpɛrɪʃ | - |
+| parry | - | [Perry](https://en.wikipedia.org/wiki/Perry) | ˈpɛri | - |
+| - | scary | skerry | ˈskɛri | - |
+| - | [Tara](https://en.wikipedia.org/wiki/Tara_(disambiguation)) | [Terra](https://en.wikipedia.org/wiki/Terra_(disambiguation)) | ˈtɛrə | - |
+| - | Tara | terror | ˈtɛrə | non-rhotic |
+| tarrier | - | terrier | ˈtɛriə(r) | - |
+| tarry | - | [Terry](https://en.wikipedia.org/wiki/Terry) | ˈtɛri | - |
+| - | tearable | [terrible](https://en.wiktionary.org/wiki/terrible) | ˈtɛrəbəl | with weak-vowel merger before /b/ |
+| - | tearer | terror | ˈtɛrə(r) | - |
+| - | vary | very | ˈvɛri | - |
+| - | wary | wherry | ˈwɛri | [with wine–whine merger](https://en.wikipedia.org/wiki/Wine%E2%80%93whine_merger) |
+
 ## Don't have the FACE merger
 
 If you don't have the FACE merger and instead have two distinct lexical sets of PANE and PAIN, I would suggest that you use a bindrune of ᛖ‍ᛡ for the PANE set to indicate that it is a closer monophthong and an unbound combination of ᛖᛡ for PAIN to indicate that it is the full diphthong.
@@ -261,6 +306,6 @@ There are 7 main vowel runes in the lexical sets chart
 
 ![Rune School Lexical Sets](/assets/images/RuneSchoolLexicalSets.png)
 
-Each column is a pattern that is applied to the *main* vowel rune on the far left. We don't apply patterns onto a shortcut rune. 
+Each column is a pattern that is applied to the *main* vowel rune on the far left. A shortcut rune like ᛠ or ᚪ doesn't carry over into other columns. We only apply patterns onto the main rune on the far left, not onto shortcut runes. 
 
 Each main vowel rune contains within it the potential for all of the phonemes in the rightward patterns. This means that ᚫ contains ᚫᚫ (ᚪ) within it. We don't write ᚫᚫᚹ or ᚫᚫᛡ, so we also don't write ᚪᚹ or ᚪᛡ. However, if you do, I don't think anyone would be confused.

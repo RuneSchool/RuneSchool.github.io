@@ -90,9 +90,10 @@ This allows us, among other things, to provide more fine distinctions like the b
 | --- | --- | 
 | fairy / ferry | ᚠᛖᛖᚱᛄ / ᚠᛖᚱᛄ |
 | there / they're | ᚦᛖᛖᚱ / ᚦᛖᛡᛟᚱ |
-| mirror / nearer | ᛗᛁᚱᛟᚱ / ᚾᛁᛁᚱᛟᚱ |
-| Sirius / Serious | ᛋᛁᚱᛄᛟᛋ / ᛋᛁᛁᚱᛄᛟᛋ |
-| keyring / hearing | ᛣᛁᛡᚱᛁᛝ / ᚻᛁᛁᚱᛁᛝ |
+| mirror / nearer | ᛗᛁᚱᛟᚱ / ᚾᛠᚱᛟᚱ |
+| sear / seer | ᛋᛠᚱ / ᛋᛇᛟᚱ |
+| Sirius / Serious | ᛋᛁᚱᛠᛋ / ᛋᛠᚱᛠᛋ |
+| keyring / clearing | ᛣᛇᚱᛁᛝ / ᚳᛚᛠᚱᛁᛝ |
 
 
 ## Merge Mary Merry and Marry

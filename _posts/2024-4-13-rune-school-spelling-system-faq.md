@@ -94,6 +94,7 @@ This allows us, among other things, to provide more fine distinctions like the b
 | sear / seer | ᛋᛠᚱ / ᛋᛇᛟᚱ |
 | Sirius / Serious | ᛋᛁᚱᛠᛋ / ᛋᛠᚱᛠᛋ |
 | keyring / clearing | ᛣᛇᚱᛁᛝ / ᚳᛚᛠᚱᛁᛝ |
+| pier / pee-er | ᛈᛠᚱ / ᛈᛇᛟᚱ |
 
 
 ## Merge Mary Merry and Marry

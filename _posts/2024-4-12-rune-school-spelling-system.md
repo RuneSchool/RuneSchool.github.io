@@ -45,7 +45,7 @@ The consonants are straight forward.
 | st | 𐑕𐑑 | ᛥ |  |
 | z | 𐑟 | ᛉ |  |
 | ʃ | 𐑖 | ᛋᚳ | ![sch bindrune](/assets/images/sch-bindrune.png) |
-| ʒ | 𐑠 | ᛉᚳ | ![zch bindrune](/assets/images/zch-bindrune.png) |
+| ʒ | 𐑠 | ᛉᚳ | ![zch bindrune](/assets/images/%E2%80%8Dzch-bindrune.png) |
 | ʧ | 𐑗 | ᚳ |  |
 | ʤ | 𐑡 | ᚷ |  |
 | j | 𐑘 | ᛡ |  |

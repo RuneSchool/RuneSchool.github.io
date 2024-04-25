@@ -84,12 +84,16 @@ NEAR and SQUARE lexical sets are hard to pin down. You could pronounce either of
 
 In this approach, we are going with the [Goldilocks principle](https://en.wikipedia.org/wiki/Goldilocks_principle). Not hot (red), not cold (blue), but just right (purple). 
 
-Consider:
+This allows us, among other things, to provide more fine distinctions like the below.
 
 | Latin | Runes |
 | --- | --- | 
-| There / They're | ᚦᛖᛖᚱ / ᚦᛖᛡᛟᚱ |
+| fairy / ferry | ᚠᛖᛖᚱᛄ / ᚠᛖᚱᛄ |
+| there / they're | ᚦᛖᛖᚱ / ᚦᛖᛡᛟᚱ |
+| mirror / nearer | ᛗᛁᚱᛟᚱ / ᚾᛠᚱᛟᚱ |
+| Sirius / Serious | ᛋᛁᚱᛠᛋ / ᛋᛠᚱᛠᛋ |
 | keyring / hearing | ᛣᛇᚱᛁᛝ / ᚻᛠᚱᛁᛝ |
+
 
 ## Merge Mary Merry and Marry
 

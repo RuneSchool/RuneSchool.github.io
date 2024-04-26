@@ -92,6 +92,7 @@ This allows us, among other things, to provide more fine distinctions like the b
 | there / they're | ᚦᛖᛖᚱ / ᚦᛖᛡᛟᚱ |
 | mirror / nearer | ᛗᛁᚱᛟᚱ / ᚾᛠᚱᛟᚱ |
 | sear / seer | ᛋᛠᚱ / ᛋᛇᛟᚱ |
+| real / reel | ᚱᛠᛚ / ᚱᛇᛚ |
 | Sirius / Serious | ᛋᛁᚱᛠᛋ / ᛋᛠᚱᛠᛋ |
 | keyring / clearing | ᛣᛇᚱᛁᛝ / ᚳᛚᛠᚱᛁᛝ |
 | pier / pee-er | ᛈᛠᚱ / ᛈᛇᛟᚱ |
@@ -202,6 +203,17 @@ Does lettER sound the same as NURSE to you? NURSE ᚢᚱ is stressed where lettE
 Here are some words that use **ᛟᚱ** where it's not the final part of a word. This should give you an idea of what is ᛟᚱ and what is ᚢᚱ.
 
 **or**iginal, **ar**ound, **or**iginally, **ar**rested, **ar**rives, **ar**ray, **Ar**uba, **ar**ena, **ar**rangement, **ar**rival, **ar**isen, **ar**ranged, **ar**ight, **ar**ises, originality, **Ar**abian, **ar**omatherapy, c**or**onavirus, off**er**ing, m**ar**ine, p**ar**ental, lux**ur**y, Cam**er**on, prim**ar**y, t**er**rain, mem**or**ies, c**ar**eer, K**or**ea, Tàm**er**a, gall**er**y, deliv**er**y, summ**ar**y, sal**ar**y, conf**er**ence, manufact**ur**er, vict**or**y, cent**ur**y, op**er**a, v**ar**iety, sep**ar**ate, M**ar**iah, M**ar**ina, mot**or**ing, di**ar**y, temp**or**ary, ling**er**ie, P**er**u, groc**er**y, access**or**y, Gall**er**y, gen**er**ation, p**ar**ade
+
+# Merge FLEECE and happY
+
+If the sound at the end of happY sounds the same as FLEECE, just use ᛄ when the sound is unstressed and ᛇ (ᛁᛡ) when the sound is stressed.
+
+| Latin | Runes |
+| --- | --- |
+| tr**u**sty | ᛏᚱᚢᛋᛏᛄ |
+| trust**ee** | ᛏᚱᚢᛋᛏᛇ |
+| re**a**ct | ᚱᛄᚫᛣᛏ |
+| r**e**inforce  | ᚱᛇᛁᚾᚠᚩᚱᛋ |
 
 # I don't understand schwa
 

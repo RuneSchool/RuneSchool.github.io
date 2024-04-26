@@ -98,7 +98,7 @@ Now what about question marks and exclamation points? Does McCarthy really avoid
 
 ---
 
-[Around the 700s](https://en.wikipedia.org/wiki/Question_mark), people used something like `᛫~`,`᛫˜`, or `᛫̃`, but that was replaced with the question mark that we see today by the 1600's. So we could use `?᛫​` for a question. Basically the same as a full stop, but the first dot is replaced with a question.
+[Around the 700s](https://en.wikipedia.org/wiki/Question_mark), people used something like `᛫~`,`᛫˜`, or `᛫̃`, but that was replaced with the question mark that we see today by the 1600's. So we could use `?᛫​` (or `᛫̃᛫`) for a question. Basically the same as a full stop, but the first dot is replaced with a question mark.
 
 But as mentioned above, how often is this even necessary? Most questions involve question words and phrasing, for example.
 
@@ -106,7 +106,7 @@ But as mentioned above, how often is this even necessary? Most questions involve
 
 > Did you go? How was it?
 
-If we absolutely need an exclamation mark, we could double up the comma. Or rather, double up the full stop, depending on how you look at it.
+If we absolutely need an exclamation mark, we could double up the comma. Or rather, double up the full stop `᛬​᛬`, depending on how you look at it. Why not use `!` since we could use `?`. Well, `!` supposedly has its origins in the latin letters "io", so it's a bit more latin-y in that sense.
 
 > ᚫᛡ᛫​ᛚᚢᚠ᛫​ᚦᚫᛏ᛬​᛬​ᛣᚫᚾ᛫​ᚫᛡ᛫​ᚻᚫᚠ᛫​ᛋᚢᛗ​?᛫​ᚦᚫᛝᛣ᛫​ᛡᚣᚹ᛫​᛫​
 

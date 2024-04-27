@@ -83,7 +83,7 @@ All runes together:
 
 ## Assigning sounds
 
-In order to use these runes, we needs to take their original sounds and apply them to sounds that exist in modern English.
+In order to use these runes, we need to take their original sounds and apply them to sounds that exist in modern English.
 
 Here is a list of runes so that you can see how this system has kept them the same or changed them. The text is green if it is the same, orange if it slightly different, and red if it is a fairly large difference.
 

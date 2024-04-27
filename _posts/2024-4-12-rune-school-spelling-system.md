@@ -18,7 +18,7 @@ You can think of it as a runic Shavian with a few improvements like:
 * transparently shows the relationships between phonemes with consistent use of combinatorial patterns
 * a letter for the happY vowel
 
-This document will explain the [system](#system), the logic of the [choices](#choices) made, and questions you may have about [your accent](#what-about-my-accent) in particular.
+This document will explain the [system](#system) and the logic of the [choices](#choices) behind it.
 
 # System
 
@@ -178,7 +178,7 @@ When in doubt, consider the derivatives.
 
 For example, consider "Terrible". Can it be spelled ᛏᛖᚱᛟᛒᛚ without a schwa before the L? If we can spell the derivative "Terribly" by just adding the -y on the end, then yes! ᛏᛖᚱᛟᛒᛚᛄ (it works!)
 
-Another example, consider "Imagine". Can it be spelled ᛁᛗᚫᚷᚾ without a schwa before the N? If we can spell the derivative "Imagination" by just adding the -ation on the end, then yes! ᛁᛗᚫᚷᚾᛖᛄᛋᚳᚾ. It fails because the syllable boundaries break. It needs to be ᛁᛗᚫᚷᛟᚾᛖᛄᛋᚳᚾ for it to sound right, and thus the base word should be ᛁᛗᚫᚷᛟᚾ.
+Another example, consider "Imagine". Can it be spelled ᛁᛗᚫᚷᚾ without a schwa before the N? If we can spell the derivative "Imagination" by just adding the -ation on the end, then yes! ᛁᛗᚫᚷᚾᛖᛡᛋᚳᚾ. It fails because the syllable boundaries break. It needs to be ᛁᛗᚫᚷᛟᚾᛖᛡᛋᚳᚾ for it to sound right, and thus the base word should be ᛁᛗᚫᚷᛟᚾ.
 
 ### Shortcut words
 
@@ -196,7 +196,19 @@ Another example, consider "Imagine". Can it be spelled ᛁᛗᚫᚷᚾ without a
 
 STRUT originally came from the "short u" sound. Because of this, it's appropriate to think that if runes had continued in use, people would have eventually started to pronounce ᚢ as a STRUT.
 
-Examples:
+Why not have the STRUT phoneme be represented by a short PALM letter? While STRUT and PALM can be understood as some kind of pair from a purely objective standpoint, they don't seem related from the subjective English standpoint (which is what we are concerned with). STRUT developed from the letter "u"  and thus remains quite psychologically distinct from "a" sounds for native speakers, despite some closeness in objective sound.
+
+> The STRUT–PALM merger is a merger of /ʌ/ and /ɑː/ that occurs in Black South African English and commonly also in non-native speech.
+
+> A three-way merger of /æ/, /ʌ/ and /ɑː/ is a common pronunciation error among L2 speakers of English whose native language is Italian, Spanish and Catalan.[35][36]
+
+https://en.wikipedia.org/wiki/Pronunciation_of_English_⟨a⟩#TRAP–STRUT_merger
+
+> Interestingly, as with the comment, when /ʌ/ is compared with phonetically similar vowels from different language systems where the possibility of interference is so low as to be negligible, e.g. Russian's [ɐ]/[ʌ] or Korean's [ʌ]/[ɘ], the native language transfer mapped it to a different vowel completely, Northern English's /a/. This shows the difference between phonemic and phonetic similarity very clearly: it is very likely that your familiarity with written English and the close affinity of Northern and Southern English that you associate the sound of [ʌ] with /ʊ/ at all; otherwise you associate it with /a/.
+
+https://linguistics.stackexchange.com/a/7105
+
+One point of this spelling system is that we want common mergers that occur among *native* English speakers to *look* similar (FOOT and STRUT merger, for example). But we want mergers that only occur among *non-native* speakers to *not* look similar at all (STRUT and PALM). If we made STRUT look similar to PALM, we would only be doing non-native learners of English a disservice by validating their common confusion between these two phonemes.
 
 | Latin | Runes  |
 | --- | --- |
@@ -295,13 +307,7 @@ Option 4 is the best because of the STRUT-FOOT (hull-pull) merger and the FOOT-G
 
 Previously, ᛇ was used for "rad*io*" and "g*eo*graphy" as well as the consonant sound in "lo*ch*". We are keeping the consonant sound the same. However, the vowel sound for this rune was more likely [ji(ː)] or [i(ː)j]. We are representing the FLEECE phoneme as /ij/ and as such, this is the perfect shortcut rune for that sound.
 
-| Latin | Runes  |
-| --- |  --- |
-| radio | ᚱᛖᛄᛞᛄᚩᚹ |
-| geography |  ᚷᛄᚩᚸᚱᛟᚠᛄ |
-| fleece | ᚠᛚᛇᛋ |
-
-Users may represent FLEECE as either ᛁᛄ or ᛇ.
+Users may represent FLEECE as either ᛁᛡ or ᛇ.
 
 ## ᛄ for happY vowel
 

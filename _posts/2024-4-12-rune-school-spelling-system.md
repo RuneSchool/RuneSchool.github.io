@@ -81,34 +81,36 @@ The Rune School Spelling System is pretty much a point for point recreation of t
 
 The idea is that you can use the ReadLex dictionary and swap Shavian out for runes.
 
-| Traditional IPA | Modern IPA | Shavian | Runes | Bindrune / Shortcut rune |
-| --- | --- | --- | --- |  --- | 
-| ə | ə | 𐑩 | ᛟ |  |
-| ər | ər | 𐑼 | ᛟᚱ | ![uhr bindrune](/assets/images/uhr-bindrune.png) |
-| ʌ | ə́ | 𐑳 | ᚢ |   |
-| ɜː | ə́ːr | 𐑻 | ᚢᚱ | ![ur bindrune](/assets/images/ur-bindrune.png) |
-| ɪ | ɪ | 𐑦 | ᛁ |  |
-| ɪə | ɪ́ː | 𐑾 | ᛁᛁ | ᛠ |
-| ɪər | ɪ́ːr | 𐑾 | ᛁᛁᚱ | ᛠᚱ |
-| i | ɪj | 𐑦 | ᛄ |  |
-| iː | ɪj | 𐑰 | ᛁᛡ  | ᛇ |
-| e | ɛ | 𐑧 | ᛖ |  |
-| eɪ | ɛj | 𐑱 | ᛖᛡ | ![ej bindrune](/assets/images/ej-bindrune.png) |
-| er | ɛ́r | 𐑧𐑮 | ᛖᚱ |  |
-| eə | ɛ́ːr | 𐑺 | ᛖᛖᚱ | ![er bindrune](/assets/images/er-bindrune.png) |
-| æ | a | 𐑨 | ᚫ |  |
-| aɪ | ɑj | 𐑲 | ᚫᛡ | ![aj bindrune](/assets/images/aj-bindrune.png) |
-| aʊ | áw | 𐑬 | ᚫᚹ | ![aw bindrune](/assets/images/aw-bindrune.png) |
-| ɑː | ɑː | 𐑭 | ᚫᚫ  | ᚪ |
-| ɑːr | ɑːr | 𐑸 | ᚫᚫᚱ  | ᚪᚱ |
-| ɒ | ɔ́ | 𐑪 | ᚩ |  |
-| ɔɪ | ój | 𐑶 | ᚩᛡ | ![oj bindrune](/assets/images/oj-bindrune.png) |
-| ɔː | óː | 𐑷 | ᚩᚩ | ![oo bindrune](/assets/images/oo-bindrune.png) |
-| ɔːr | óːr | 𐑹 | ᚩᚱ | ![or bindrune](/assets/images/or-bindrune.png) |
-| əʊ | əw | 𐑴 | ᚩᚹ | ![ow bindrune](/assets/images/ow-bindrune.png) |
-| ʊ | ʉ́ | 𐑫 | ᚣ |  |
-| uː | ʉ́w | 𐑵 | ᚣᚹ | ![yw bindrune](/assets/images/yw-bindrune.png) |
-| juː | jʉ́w | 𐑿 | ᛡᚣᚹ |  |
+| Traditional IPA | Modern IPA | Lexical Set | Shavian | Runes | Bindrune / Shortcut rune |
+| --- | --- | --- | --- | --- |  --- | 
+| ə | ə | commA | 𐑩 | ᛟ |  |
+| ər | ər | lettER | 𐑼 | ᛟᚱ | ![uhr bindrune](/assets/images/uhr-bindrune.png) |
+| ʌ | ə́ | STRUT | 𐑳 | ᚢ |   |
+| ɜː | ə́ːr | NURSE | 𐑻 | ᚢᚱ | ![ur bindrune](/assets/images/ur-bindrune.png) |
+| ɪ | ɪ | KIT | 𐑦 | ᛁ |  |
+| ɪə | ɪ́ː | NEAR Prime | 𐑾 | ᛁᛁ | ᛠ |
+| ɪər | ɪ́ːr | NEAR | 𐑾 | ᛁᛁᚱ | ᛠᚱ |
+| i | ɪj | happY | 𐑦 | ᛄ |  |
+| iː | ɪj | FLEECE | 𐑰 | ᛁᛡ  | ᛇ |
+| e | ɛ | DRESS | 𐑧 | ᛖ |  |
+| eɪ | ɛj | FACE | 𐑱 | ᛖᛡ | ![ej bindrune](/assets/images/ej-bindrune.png) |
+| er | ɛ́r | Merry | 𐑧𐑮 | ᛖᚱ |  |
+| eə | ɛ́ːr | SQUARE | 𐑺 | ᛖᛖᚱ | ![er bindrune](/assets/images/er-bindrune.png) |
+| æ | a | TRAP | 𐑨 | ᚫ |  |
+| ær | ár | Marry | 𐑨𐑮 | ᚫᚱ |  |
+| aɪ | ɑj | PRICE | 𐑲 | ᚫᛡ | ![aj bindrune](/assets/images/aj-bindrune.png) |
+| aʊ | áw | MOUTH | 𐑬 | ᚫᚹ | ![aw bindrune](/assets/images/aw-bindrune.png) |
+| ɑː | ɑː | PALM | 𐑭 | ᚫᚫ  | ᚪ |
+| ɑːr | ɑːr | START | 𐑸 | ᚫᚫᚱ  | ᚪᚱ |
+| ɒ | ɔ́ | LOT | 𐑪 | ᚩ |  |
+| ɔɪ | ój | CHOICE | 𐑶 | ᚩᛡ | ![oj bindrune](/assets/images/oj-bindrune.png) |
+| ɔː | óː | THOUGHT | 𐑷 | ᚩᚩ | ![oo bindrune](/assets/images/oo-bindrune.png) |
+| ɔːr | óːr | NORTH/FORCE | 𐑹 | ᚩᚱ | ![or bindrune](/assets/images/or-bindrune.png) |
+| əʊ | əw | GOAT | 𐑴 | ᚩᚹ | ![ow bindrune](/assets/images/ow-bindrune.png) |
+| ʊ | ʉ́ | FOOT | 𐑫 | ᚣ |  |
+| ʊə | ʉ́ː | CURE | 𐑫𐑼 | ᚣᚱ | ![yr](/assets/images/uir-bindrune.png) |
+| uː | ʉ́w | GOOSE | 𐑵 | ᚣᚹ | ![yw bindrune](/assets/images/yw-bindrune.png) |
+| juː | jʉ́w |  | 𐑿 | ᛡᚣᚹ |  |
 
 ### Bindrunes
 

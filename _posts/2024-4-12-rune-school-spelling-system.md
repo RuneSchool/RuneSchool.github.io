@@ -35,8 +35,10 @@ The consonants are straight forward.
 | t | 𐑑 | ᛏ |  |
 | d | 𐑛 | ᛞ |   |
 | k | 𐑒 | ᛣ |  |
+| ç | ![Loch Shavian alt letter](/assets/images/shavian-loch.png) | ᚻ |  |
 | kw | 𐑒𐑢 | ᛢ |  |
 | g | 𐑜 | ᚸ |   |
+| ɣ | ![Argh Shavian alt letter](/assets/images/shavian-argh.png) | ᚸᚳ |   |
 | f | 𐑓 | ᚠ |  |
 | v | 𐑝 | ᚠ | ![ff bindrune](/assets/images/ff-bindrune.png)  |
 | θ | 𐑔 | ᚦ |  |
@@ -50,7 +52,7 @@ The consonants are straight forward.
 | ʤ | 𐑡 | ᚷ |  |
 | j | 𐑘 | ᛡ |  |
 | w | 𐑢 | ᚹ |  |
-| ʍ | 𐑣𐑢 | ᚻᚹ | ![hw bindrune](/assets/images/hw-bindrune.png) |
+| ʍ | ![Which Shavian alt letter](/assets/images/shavian-which.png) | ᚻᚹ | ![hw bindrune](/assets/images/hw-bindrune.png) |
 | ŋ | 𐑙 | ᛝ |  |
 | h | 𐑣 | ᚻ |  |
 | l | 𐑤 | ᛚ |  |
@@ -86,6 +88,7 @@ The idea is that you can use the ReadLex dictionary and swap Shavian out for run
 | ə | ə | commA | 𐑩 | ᛟ |  |
 | ər | ər | lettER | 𐑼 | ᛟᚱ | ![uhr bindrune](/assets/images/uhr-bindrune.png) |
 | ʌ | ə́ | STRUT | 𐑳 | ᚢ |   |
+| ɜː | ə́ː | OEUvre | ![Oeuvre Shavian alt letter](/assets/images/shavian-oeuvre.png) | ᚢᚢ |  |
 | ɜː | ə́ːr | NURSE | 𐑻 | ᚢᚱ | ![ur bindrune](/assets/images/ur-bindrune.png) |
 | ɪ | ɪ | KIT | 𐑦 | ᛁ |  |
 | ɪə | ɪ́ː | NEAR Prime | 𐑾 | ᛁᛁ | ᛠ |
@@ -95,6 +98,7 @@ The idea is that you can use the ReadLex dictionary and swap Shavian out for run
 | e | ɛ | DRESS | 𐑧 | ᛖ |  |
 | eɪ | ɛj | FACE | 𐑱 | ᛖᛡ | ![ej bindrune](/assets/images/ej-bindrune.png) |
 | er | ɛ́r | Merry | 𐑧𐑮 | ᛖᚱ |  |
+| eə | ɛ́ːr | yEAH | ![Yeah Shavian alt letter](/assets/images/shavian-yeah.png) | ᛖᛖ |  |
 | eə | ɛ́ːr | SQUARE | 𐑺 | ᛖᛖᚱ | ![er bindrune](/assets/images/er-bindrune.png) |
 | æ | a | TRAP | 𐑨 | ᚫ |  |
 | ær | ár | Marry | 𐑨𐑮 | ᚫᚱ |  |

@@ -97,12 +97,12 @@ Here is a list of runes so that you can see how this system has kept them the sa
 | ᚳ    | cēn | /k/               | /k~c~tʃ/               | <span style="color:green"> /k~tʃ/ </span> |
 | ᚷ    | gyfu | /ɣ/               | /g~ɣ~ʎ~j/               | <span style="color:red"> /dʒ/ </span> |
 | ᚹ    | wynn | /w/               | /w/                   | <span style="color:green"> /w/ </span> |
-| ᚻ    | hægl | /h/               | /h/                   | <span style="color:green"> /h/ </span> |
+| ᚻ    | hægl | /h/               | /h~x~ç/                   | <span style="color:green"> /h~x~ç/ </span> |
 | ᚾ    | nēod | /n/               | /n/                   | <span style="color:green"> /n/ </span> |
 | ᛁ    | īs  | /i(ː)/           | /i(ː)/                   | <span style="color:orange"> /ɪ/ </span> |
 | ᛄ    | Gēr | /j/               | /j/                   | <span style="color:green"> /j/ </span> |
 | ᛡ    | Īor |                   | /jo/                   | <span style="color:green"> /j/  </span> |
-| ᛇ    | Ēoh / īw | /iː~ç/            | /iː~x~ç/               | <span style="color:green"> /iː~x~ç/ </span> |
+| ᛇ    | Ēoh / īw | /iː~ç/            | /iː~x~ç/               | <span style="color:green"> /iː/ </span> |
 | ᛈ    | peorð | /p/               | /p/                   | <span style="color:green"> /p/ </span> |
 | ᛉ    | ilcs (eolh?) | /z/               |    /ks/?                   | <span style="color:orange"> /z/ </span> |
 | ᛋ    | sigel | /s/               | /s~z/                   | <span style="color:orange"> /s/  </span> |

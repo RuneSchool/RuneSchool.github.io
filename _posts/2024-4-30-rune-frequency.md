@@ -143,3 +143,5 @@ Overall, ᛟ and ᛁ are the most common vowels in the Rune School Spelling Syst
 Of the three vowel sisters ᚫᚪᚩ, ᚫ and ᚩ will be about equally frequent with ᚪ being more rare. I think this is appropriate since ᚪ is in between the other two.
 
 ᚩ is the first rune in terms of frequency that is unique to just the Anglo-Saxon runes. So if you're trying to determine which language is being written with some runes, you will likely notice ᚩ and know that it is English. Seeing ᛣ will be the next clue that you're reading English.
+
+ᛝ is surprisingly low in this data. My guess is that common word derivations such as "-ᛁᛝ" or perhaps "-ᛉ" and "-ᛞ" are not taken into account.

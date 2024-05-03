@@ -92,7 +92,7 @@ The idea is that you can use the ReadLex dictionary and swap Shavian out for run
 | ɜː | ə́ːr | NURSE | 𐑻 | ᚢᚱ | ![ur bindrune](/assets/images/ur-bindrune.png) |
 | ɪ | ɪ | KIT | 𐑦 | ᛁ |  |
 | ɪə | ɪ́ː | NEAR Prime | 𐑾 | ᛁᛁ | ᛠ |
-| ɪər | ɪ́ːr | NEAR | 𐑾 | ᛁᛁᚱ | ᛠᚱ |
+| ɪər | ɪ́ːr | NEAR | 𐑽 | ᛁᛁᚱ | ᛠᚱ |
 | i | ɪj | happY | 𐑦 | ᛄ |  |
 | iː | ɪj | FLEECE | 𐑰 | ᛁᛡ  | ᛇ |
 | e | ɛ | DRESS | 𐑧 | ᛖ |  |
@@ -308,12 +308,6 @@ So out of the similar sounds, 12 dialects are using it for the GOOSE phoneme and
 Another option entirely would be to use ᚣ as a rune that represents /ju:/ like in the word "new". The downside of this is that the "yod" is coalesced to the consonant *before* and **not** to the vowel /u:/. So if the yod is written at all, it would make more sense to be thought of as belonging with the previous consonant, not combined with /u:/.
 
 Option 4 is the best because of the STRUT-FOOT (hull-pull) merger and the FOOT-GOOSE merger. *Visually* STRUT and FOOT look similar and *also* FOOT and GOOSE look similar. So FOOT is the meeting point of the two. Also, STRUT is a more open sound than FOOT on the IPA vowel chart and ᚢ looks more visually open than ᚣ.
-
-## ᛇ for FLEECE
-
-Previously, ᛇ was used for "rad*io*" and "g*eo*graphy" as well as the consonant sound in "lo*ch*". We are keeping the consonant sound the same. However, the vowel sound for this rune was more likely [ji(ː)] or [i(ː)j]. We are representing the FLEECE phoneme as /ij/ and as such, this is the perfect shortcut rune for that sound.
-
-Users may represent FLEECE as either ᛁᛡ or ᛇ.
 
 ## ᛄ for happY vowel
 

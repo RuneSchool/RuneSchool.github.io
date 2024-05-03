@@ -130,7 +130,7 @@ The only real changes to address are Double-Feoh, ᚢ, ᛠ, ᛉ, and ᚷ.
 
 Going back to the Elder Futhark, this rune had a clear /z/ sound. Old English didn't have a reason to use this rune because the ᛋ rune already covered this sound. It was eventually used for /ks/ like the latin letter "x". 
 
-However, now we are back in the same position where we don't need a distinct /ks/ sound because other runes can already cover this. So we can reach back to the Elder Futhark and keep that original /z/ sound. 
+However, now we are back in the same position where we don't need a distinct /ks/ sound because other runes can already cover this. But as English has developed, our need to distinguish between /s/ and /z/ has also grown. So we can reach back to the Elder Futhark and keep that original /z/ sound. 
 
 In Old Germanic languages, it was common to have a /z/ (ᛉ) on the ends of words because of the case system. What is nice about going back to the original /z/ sound for this rune is that in English, it returns to being very commonly used on the ends of words because of the English genitive case, among other things.
 

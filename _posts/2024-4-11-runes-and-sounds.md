@@ -128,7 +128,11 @@ The only real changes to address are Double-Feoh, ᚢ, ᛠ, ᛉ, and ᚷ.
 
 ### ᛉ 
 
-Old English didn't have a known sound for ᛉ despite keeping it in their rune rows. Some think that it made the sound of /ks/ like the latin "x", but it is unsure. Going back to the Elder Futhark, this had a /z/ sound, so we just keep that sound.
+Going back to the Elder Futhark, this rune had a clear /z/ sound. Old English didn't have a reason to use this rune because the ᛋ rune already covered this sound. It was eventually used for /ks/ like the latin letter "x". 
+
+However, now we are back in the same position where we don't need a distinct /ks/ sound because other runes can already cover this. So we can reach back to the Elder Futhark and keep that original /z/ sound. 
+
+In Old Germanic languages, it was common to have a /z/ (ᛉ) on the ends of words because of the case system. What is nice about going back to the original /z/ sound for this rune is that in English, it returns to being very commonly used on the ends of words because of the English genitive case, among other things.
 
 ### ᚢ 
 
@@ -140,7 +144,7 @@ STRUT originally came from the "short u" sound. Because of this, it's appropriat
 
 ### ᚷ 
 
-The original sound of ᚷ was /j/, but when French began to influence English after the Norman invasion (~1100), /j/ started to become /dʒ/ in English, [just like in French](https://en.wikipedia.org/wiki/Phonological_history_of_French#To_Early_Old_French[when?]) (Think of how the word Jehovah or Jesus changed in pronunciation over time). So also taking into account that ᛄ is already /j/, we can reduce historical ᚷᚷ to just ᚷ for /dʒ/.
+The original sound of ᚷ was /j/, but when French began to influence English after the Norman invasion (~1100), /j/ started to become /dʒ/ in English, [just like in French](https://en.wikipedia.org/wiki/Phonological_history_of_French#To_Early_Old_French[when?]) (Think of how the word Jehovah or Jesus changed in pronunciation over time). So also taking into account that ᛡ is already /j/, we can reduce historical ᚷᚷ to just ᚷ for /dʒ/.
 
 ### Double-Feoh
 

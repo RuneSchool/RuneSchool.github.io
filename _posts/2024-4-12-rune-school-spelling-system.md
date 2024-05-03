@@ -176,7 +176,7 @@ Use the happY rune ᛄ where Shavian would have a trailing 𐑦.
 
 Often times, you can write just ᛚ, ᛗ, or ᚾ where you see 𐑩𐑤, 𐑩𐑯, or 𐑩𐑥.
 
-In most places you see **𐑩𐑤**, it is because there is a glide right before it. We write the glides, so we don't need to explicitly include the schwas. Only write ᛟᚱ if it represents the suffix -er, or similar.
+In most places you see **𐑩𐑤**, it is because there is a glide right before it. We write the glides, so we don't need to explicitly include the schwas.
 
 In many (not all) places where you see **𐑩𐑯** or **𐑩𐑥**, you can just right the ᛗ or ᚾ directly without the schwa needed.
 

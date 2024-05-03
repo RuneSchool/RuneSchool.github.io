@@ -144,11 +144,26 @@ The original sound of ᚷ was /j/, but when French began to influence English af
 
 ### Double-Feoh
 
-Double-Feoh is applying the same idea behind ᚳ and ᛣ to ᚠ.
+Double-Feoh is applying the same idea behind ᚳ and ᛣ to ᚠ. The idea for this came from [Rune Revival](https://runerevival.online).
 
 ᚳ could previously be two sounds "ch" or "k". Its doubled cousin ᛣ takes one of those sounds "k".
 
 Similarly ᚠ can be two sounds "f" or "v". Its doubled cousin will take one of those sounds "v".
+
+#### What about ᚡ
+
+Why not use ᚡ for the "v" sound and ᚧ for the sound in "the"?
+
+The goal of Rune School is to only use the Anglo-Saxon runes. I want to be as true to those as possible. If we start adding in runes from Scandinavia and other places, the system loses its historical rootedness for the English language specifically. Thus, it loses a large part of its appeal. Because then it starts to feel a bit arbitrary like Shavian or Deseret. 
+
+I think a good comparison would be if the Latin alphabet for English died and then people wanted to revive it. But English changed since then. So they borrowed è from French or ö from German to fill in the gaps. Is it terrible? No, it's not terrible. They're related to letters in English and look somewhat similar. Is it authentic? No, not really.
+
+If you wanted to use the [medieval “stung” runes](https://en.m.wikipedia.org/wiki/Medieval_runes), this is what you could do if you didn’t mind using foreign runes:
+
+```
+ᚠ f   ᚡ v 
+ᚦ þ   ᚧ ð 
+```
 
 # Phonetic or Phonemic?
 

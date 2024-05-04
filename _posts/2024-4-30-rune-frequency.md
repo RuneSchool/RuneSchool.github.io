@@ -13,128 +13,250 @@ Which are the runes that are most common in the Rune School Spelling System?
 
 Since the spelling is largely based on the Shavian [ReadLex](https://readlex.pythonanywhere.com/spellingprinciples/) standard, we should be able to use that as a base of information to determine this.
 
-Lets look at letter frequency [in Shavian](https://www.reddit.com/r/shavian/comments/ovke9g/shavian_letter_frequencies/) and compare with the Runic equivalents.
+@kj7qlv in the Rune School discord server wrote a script that analyzes the IPA spelling in the Shavian ReadLex dictionary directly. This way we can get the data on things like our "happY" rune ᛄ.
 
-| Shavian | Frequency | Runes |
-| --- | --- | --- |
-| 𐑦 |   8.70% | ᛁ |
-| 𐑯 |   7.86% | ᚾ |
-| 𐑑  |  7.67% | ᛏ |
-| 𐑩 |   5.84% | ᛟ |
-| 𐑕 |   5.27% | ᛋ |
-| 𐑤 |   4.33% | ᛚ |
-| 𐑛  |  3.74% | ᛞ |
-| 𐑞 |   3.54% | ᚦ |
-| 𐑒  |  3.44% | ᛣ |
-| 𐑟  |  3.19% | ᛉ |
-| 𐑥 |   3.02% | ᛗ |
-|  𐑮 |   2.71% | ᚱ |
-| 𐑧 |   2.52% | ᛖ |
-| 𐑐 |   2.35% | ᛈ |
-| 𐑨  |  2.34% | ᚫ |
-| 𐑝  |  2.31% | ᚠ |
-| 𐑢 |   2.15% | ᚹ |
-| 𐑼 |   2.04% | ᛟᚱ |
-| 𐑚  |  2.02% | ᛒ |
-|  𐑰 |   2.01% | ᛇ |
-|  𐑪  |  2.00% | ᚩ |
-| 𐑓 |   1.91% | ᚠ |
-| 𐑱  |  1.80% | ᛖᛡ |
-|  𐑲  |  1.74% | ᚫᛡ |
-|  𐑣  |  1.54% | ᚻ |
-| 𐑳  |  1.53% | ᚢ |
-|  𐑴 |   1.28% | ᚩᚹ |
-|  𐑖 |   1.08% | ᛋᚳ |
-|  𐑙 |   1.01% | ᛝ |
-|  𐑜 |   0.84% | ᚸ |
-|  𐑻 |   0.78% | ᚢᚱ |
-|  𐑹  |  0.74% | ᚩᚱ |
-|  𐑵 |   0.71% | ᚣᚹ |
-|  𐑿 |   0.67% | ᛡᚣᚹ |
-|  𐑗  |  0.64% | ᚳ |
-|  𐑡  |  0.63% | ᚷ |
-|  𐑬 |   0.56% | ᚫᚹ |
-|  𐑸 |   0.47% | ᚪᚱ |
-|  𐑫 |   0.44% | ᚣ |
-|  𐑷 |   0.44% | ᚩᚩ |
-|  𐑔 |   0.42% | ᚦ |
-|  𐑺 |   0.39% | ᛖᛖᚱ |
-|  𐑘 |   0.35% | ᛡ |
-|  𐑭 |   0.29% | ᚪ |
-|  𐑽 |   0.25% | ᛠᚱ |
-|  𐑾 |   0.23% | ᛠ |
-| 𐑶  |  0.11% | ᚩᛡ |
-| 𐑠 |   0.08% | ᛉᚳ |
+```python
+import pandas as pd
+import re
 
-Now if we break apart the runes used in combination, we get the following:
+# Sample regular expressions and phonemes data
+phonemes = {
+    re.compile(r'(?<![aeɔ])ɪ'): {'ᛁ': 1},
+    re.compile(r'i(?!ː)'): {'ᛄ': 1},
+    re.compile(r'e(?!ə)'): {'ᛖ': 1},
+    re.compile(r'æ'): {'ᚫ': 1},
+    re.compile(r'ɒ(?!ː)'): {'ᚩ': 1},
+    re.compile(r'ɔːR'): {'ᚩ': 1, 'ᚱ': 1},
+    re.compile(r'ʊ'): {'ᚣ': 1},
+    re.compile(r'ʊəR'): {'ᚣ': 1, 'ᚱ': 1},
+    re.compile(r'ʌ'): {'ᚢ': 1},
+    re.compile(r'ɜːR'): {'ᚢ': 1, 'ᚱ': 1},
+    re.compile(r'ə(?!R)|I'): {'ᛟ': 1},
+    re.compile(r'əR'): {'ᛟ': 1, 'ᚱ': 1},
+    re.compile(r'iə(?!R)'): {'ᛠ': 1},
+    re.compile(r'iəR'): {'ᛠ': 1, 'ᚱ': 1},
+    re.compile(r'eəR'): {'ᛖ': 1, 'ᚱ': 1},
+    re.compile(r'(ɑː|Ɑ)(?!R)'): {'ᚪ': 1},
+    re.compile(r'(ɑː|Ɑ)R'): {'ᚪ': 1, 'ᚱ': 1},
+    re.compile(r'ɔː'): {'ᚩ': 2},
+    re.compile(r'iː'): {'ᛇ': 1},
+    re.compile(r'eɪ'): {'ᛖ': 1, 'ᛡ': 1},
+    re.compile(r'aɪ'): {'ᚫ': 1, 'ᛡ': 1},
+    re.compile(r'ɔɪ'): {'ᚩ': 1, 'ᛡ': 1},
+    re.compile(r'aʊ'): {'ᚫ': 1, 'ᚹ': 1},
+    re.compile(r'əʊ'): {'ᚩ': 1, 'ᚹ': 1},
+    re.compile(r'uː'): {'ᚣ': 1, 'ᚹ': 1},
+    re.compile(r'p'): {'ᛈ': 1},
+    re.compile(r'b'): {'ᛒ': 1},
+    re.compile(r't(?!ʃ)'): {'ᛏ': 1},
+    re.compile(r'd'): {'ᛞ': 1},
+    re.compile(r'k'): {'ᛣ': 1},
+    re.compile(r'(ɡ|g)'): {'ᚸ': 1},
+    re.compile(r'f'): {'ᚠ': 1},
+    re.compile(r'v'): {'v': 1},
+    re.compile(r'(θ|ð|Ð)'): {'ᚦ': 1},
+    re.compile(r's'): {'ᛋ': 1},
+    re.compile(r'z'): {'ᛉ': 1},
+    re.compile(r'(?<!t)ʃ'): {'ᛋ': 1, 'ᚳ': 1},
+    re.compile(r'(?<!d)ʒ'): {'ᛉ': 1, 'ᚳ': 1},
+    re.compile(r'tʃ'): {'ᚳ': 1},
+    re.compile(r'dʒ'): {'ᚷ': 1},
+    re.compile(r'j'): {'ᛡ': 1},
+    re.compile(r'w'): {'ᚹ': 1},
+    re.compile(r'ŋ'): {'ᛝ': 1},
+    re.compile(r'h'): {'ᚻ': 1},
+    re.compile(r'l'): {'ᛚ': 1},
+    re.compile(r'r'): {'ᚱ': 1},
+    re.compile(r'm'): {'ᛗ': 1},
+    re.compile(r'n'): {'ᚾ': 1}
+}
 
-| Frequency | Runes |
-| --- | --- | 
-|   8.70% | ᛁ |
-|   7.88% | ᛟ |
-|   7.86% | ᚾ |
-|  7.67% | ᛏ |
-|   7.38% | ᚱ |
-|   6.35% | ᛋ |
-|   5.37% | ᚹ |
-|   5.10% | ᛖ |
-|  5.01% | ᚩ |
-|   4.67% | ᛡ |
-|  4.64% | ᚫ |
-|   4.33% | ᛚ |
-|   3.96% | ᚦ |
-|  3.74% | ᛞ |
-|  3.44% | ᛣ |
-|  3.27% | ᛉ |
-|   3.02% | ᛗ |
-|   2.35% | ᛈ |
-|  2.31% | ![ff bindrune](/assets/images/ff-bindrune.png) |
-|  2.31% | ᚢ |
-|  2.02% | ᛒ |
-|   2.01% | ᛇ |
-|   1.91% | ᚠ |
-|   1.82% | ᚣ |
-|  1.80% | ᚳ |
-|  1.54% | ᚻ |
-|   1.01% | ᛝ |
-|   0.84% | ᚸ |
-|   0.76% | ᚪ |
-|  0.63% | ᚷ |
-|   0.48% | ᛠ |
+# Initialize running_total dictionary
+running_total = {}
+
+# Function to update running_total based on phonemes match
+def update_running_total(phoneme_dict, frequency, weighted: bool):
+    for key, value in phoneme_dict.items():
+        value =  value * frequency if weighted else value
+        if key in running_total:
+            running_total[key] += value
+        else:
+            running_total[key] = value
+
+# Function to initialize readlex DataFrame from TSV file
+def initialize_readlex(file_path):
+    try:
+        readlex_df = pd.read_csv(file_path, sep='\t', header=None, usecols=[3, 4])
+        readlex_df.columns = ['Pronunciation', 'Frequency']
+        return readlex_df
+    except Exception as e:
+        print(f"Error occurred while initializing readlex: {e}")
+        return None
+
+# Sample data for testing
+readlex_df = initialize_readlex('./kingsleyreadlexicon.tsv')
+if readlex_df is not None:
+    # Iterate through readlex
+    for index, row in readlex_df.iterrows():
+        pronunciation = row['Pronunciation']
+        frequency = row['Frequency']
+        
+        # Check against all keys in phonemes
+        for regex, phoneme_dict in phonemes.items():
+            matches = regex.findall(pronunciation)
+            for match in matches:
+                update_running_total(phoneme_dict, frequency, weighted=False)
+
+running_total_sum = sum(running_total.values())
+for key, value in running_total.items():
+    running_total[key] = value / running_total_sum
+running_total_sorted = dict(sorted(running_total.items(), key=lambda item: item[1], reverse=True))
+print(running_total_sorted)
+```
+
+## With All Runes
+
+So here is the data with all of the runes except for ᛥ and ᛢ.
+
+| Order | Runes w/ Shortcuts | Unweighted Value |
+| ----- | ------------------ | ---------------- |
+| 1     | ᛟ                  | 8.49%            |
+| 2     | ᚱ                  | 7.12%            |
+| 3     | ᛁ                  | 6.71%            |
+| 4     | ᛋ                  | 6.50%            |
+| 5     | ᛏ                  | 5.92%            |
+| 6     | ᛖ                  | 5.44%            |
+| 7     | ᚾ                  | 5.16%            |
+| 8     | ᛞ                  | 4.87%            |
+| 9     | ᚩ                  | 4.59%            |
+| 10    | ᛚ                  | 4.55%            |
+| 11    | ᛡ                  | 3.96%            |
+| 12    | ᚫ                  | 3.87%            |
+| 13    | ᛣ                  | 3.81%            |
+| 14    | ᛉ                  | 3.20%            |
+| 15    | ᚹ                  | 3.06%            |
+| 16    | ᛈ                  | 2.65%            |
+| 17    | ᚣ                  | 2.64%            |
+| 18    | ᛗ                  | 2.49%            |
+| 19    | ᛒ                  | 1.83%            |
+| 20    | ᚢ                  | 1.70%            |
+| 21    | ᛝ                  | 1.66%            |
+| 22    | ᚠ                  | 1.52%            |
+| 23    | ᚳ                  | 1.49%            |
+| 24    | ᛄ                  | 1.15%            |
+| 25    | ᛇ                  | 1.14%            |
+| 26    | ᚸ                  | 1.06%            |
+| 27    | ![FF Bindrune](/assets/images/ff-bindrune.png)   | 1.01%            |
+| 28    | ᚪ                  | 0.69%            |
+| 29    | ᚷ                  | 0.65%            |
+| 30    | ᚻ                  | 0.62%            |
+| 31    | ᚦ                  | 0.36%            |
+| 32    | ᛠ                  | 0.09%            |
+
+| Order | Runes w/ Shortcuts | Weighted Value |
+| ----- | ------------------ | -------------- |
+| 1     | ᛟ                  | 8.18%          |
+| 2     | ᛁ                  | 6.67%          |
+| 3     | ᚱ                  | 6.63%          |
+| 4     | ᚾ                  | 5.91%          |
+| 5     | ᛏ                  | 5.85%          |
+| 6     | ᛋ                  | 5.46%          |
+| 7     | ᚩ                  | 5.43%          |
+| 8     | ᛖ                  | 5.33%          |
+| 9     | ᚹ                  | 4.16%          |
+| 10    | ᚫ                  | 3.90%          |
+| 11    | ᛡ                  | 3.87%          |
+| 12    | ᛞ                  | 3.70%          |
+| 13    | ᛚ                  | 3.70%          |
+| 14    | ᚦ                  | 3.32%          |
+| 15    | ᚣ                  | 3.08%          |
+| 16    | ᛣ                  | 2.94%          |
+| 17    | ᛉ                  | 2.77%          |
+| 18    | ᛗ                  | 2.57%          |
+| 19    | ᛈ                  | 1.99%          |
+| 20    | ᚢ                  | 1.92%          |
+| 21    | ᛒ                  | 1.71%          |
+| 22    | ᛇ                  | 1.68%          |
+| 23    | ᚳ                  | 1.51%          |
+| 24    | ᚠ                  | 1.42%          |
+| 25    | ᚻ                  | 1.31%          |
+| 26    | ᛄ                  | 1.11%          |
+| 27    | ![FF Bindrune](/assets/images/ff-bindrune.png)   | 1.11%          |
+| 28    | ᛝ                  | 0.86%          |
+| 29    | ᚸ                  | 0.73%          |
+| 30    | ᚪ                  | 0.64%          |
+| 31    | ᚷ                  | 0.53%          |
+| 32    | ᛠ                  | 0.02%          |
+
+You can compare similar analysis done [in Shavian](https://www.reddit.com/r/shavian/comments/ovke9g/shavian_letter_frequencies/).
 
 Note that Shavian often assumes that you pronounce words like "lot" with ᚩ, but most Americans would probably use ᚪ for this sound, boosting it up in percentage.
 
-And if we got rid of the shortcut runes, the chart would be something like the following. This might be useful for a game like Scrabble, for example.
+## Without Shortcut Runes
 
-| Frequency | Runes |
-| --- | --- | 
-|   11.67% | ᛁ |
-|   7.88% | ᛟ |
-|   7.86% | ᚾ |
-|  7.67% | ᛏ |
-|   7.38% | ᚱ |
-|   6.68% | ᛡ |
-|   6.35% | ᛋ |
-|  6.16% | ᚫ |
-|   5.37% | ᚹ |
-|   5.10% | ᛖ |
-|  5.01% | ᚩ |
-|   4.33% | ᛚ |
-|   4.22% | ᚠ |
-|   3.96% | ᚦ |
-|  3.74% | ᛞ |
-|  3.44% | ᛣ |
-|  3.27% | ᛉ |
-|   3.02% | ᛗ |
-|   2.35% | ᛈ |
-|  2.31% | ᚢ |
-|  2.02% | ᛒ |
-|   1.82% | ᚣ |
-|  1.80% | ᚳ |
-|  1.54% | ᚻ |
-|   1.01% | ᛝ |
-|   0.84% | ᚸ |
-|  0.63% | ᚷ |
+If we got rid of the shortcut runes (ᛇᛠᚪ and double-feoh), the data becomes the following. This might be useful for a game like Scrabble, for example.
+
+| Order | Runes w/o Shortcuts | Unweighted value |
+| ----- | ------------------- | ---------------- |
+| 1     | ᛟ                   | 8.25%            |
+| 2     | ᛁ                   | 7.90%            |
+| 3     | ᚱ                   | 7.00%            |
+| 4     | ᛋ                   | 6.38%            |
+| 5     | ᛏ                   | 5.81%            |
+| 6     | ᛖ                   | 5.43%            |
+| 7     | ᚫ                   | 5.16%            |
+| 8     | ᚾ                   | 5.07%            |
+| 9     | ᛡ                   | 5.00%            |
+| 10    | ᛞ                   | 4.78%            |
+| 11    | ᚩ                   | 4.51%            |
+| 12    | ᛚ                   | 4.47%            |
+| 13    | ᛣ                   | 3.74%            |
+| 14    | ᛉ                   | 3.14%            |
+| 15    | ᚹ                   | 3.00%            |
+| 16    | ᛈ                   | 2.60%            |
+| 17    | ᚣ                   | 2.59%            |
+| 18    | ᚠ                   | 2.49%            |
+| 19    | ᛗ                   | 2.44%            |
+| 20    | ᛒ                   | 1.80%            |
+| 21    | ᚢ                   | 1.67%            |
+| 22    | ᛝ                   | 1.63%            |
+| 23    | ᚳ                   | 1.46%            |
+| 24    | ᚸ                   | 1.04%            |
+| 25    | ᛄ                   | 1.04%            |
+| 26    | ᚷ                   | 0.63%            |
+| 27    | ᚻ                   | 0.61%            |
+| 28    | ᚦ                   | 0.35%            |
+
+| Order | Runes w/o Shortcuts | Weighted Value |
+| ----- | ------------------- | -------------- |
+| 1     | ᛁ                   | 8.19%          |
+| 2     | ᛟ                   | 7.96%          |
+| 3     | ᚱ                   | 6.47%          |
+| 4     | ᚾ                   | 5.76%          |
+| 5     | ᛏ                   | 5.70%          |
+| 6     | ᛖ                   | 5.47%          |
+| 7     | ᛡ                   | 5.41%          |
+| 8     | ᛋ                   | 5.32%          |
+| 9     | ᚩ                   | 5.29%          |
+| 10    | ᚫ                   | 5.04%          |
+| 11    | ᚹ                   | 4.06%          |
+| 12    | ᛞ                   | 3.61%          |
+| 13    | ᛚ                   | 3.61%          |
+| 14    | ᚦ                   | 3.23%          |
+| 15    | ᚣ                   | 3.00%          |
+| 16    | ᛣ                   | 2.87%          |
+| 17    | ᛉ                   | 2.70%          |
+| 18    | ᛗ                   | 2.51%          |
+| 19    | ᚠ                   | 2.46%          |
+| 20    | ᛈ                   | 1.94%          |
+| 21    | ᚢ                   | 1.87%          |
+| 22    | ᛒ                   | 1.66%          |
+| 23    | ᚳ                   | 1.47%          |
+| 24    | ᚻ                   | 1.27%          |
+| 25    | ᛄ                   | 1.06%          |
+| 26    | ᛝ                   | 0.84%          |
+| 27    | ᚸ                   | 0.71%          |
+| 28    | ᚷ                   | 0.52%          |
 
 # Findings
 

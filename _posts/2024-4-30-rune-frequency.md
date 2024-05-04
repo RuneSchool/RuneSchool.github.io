@@ -13,7 +13,7 @@ Which are the runes that are most common in the Rune School Spelling System?
 
 Since the spelling is largely based on the Shavian [ReadLex](https://readlex.pythonanywhere.com/spellingprinciples/) standard, we should be able to use that as a base of information to determine this.
 
-@kj7qlv in the Rune School discord server wrote a script that analyzes the IPA spelling in the Shavian ReadLex dictionary directly. This way we can get the data on things like our "happY" rune ᛄ.
+@kj7qlv in the [Rune School discord server](https://discord.gg/BThW4fxAwN) wrote a script that analyzes the IPA spelling in the Shavian ReadLex dictionary directly. This way we can get the data on things like our "happY" rune ᛄ.
 
 ```python
 import pandas as pd
@@ -118,6 +118,8 @@ print(running_total_sorted)
 
 So here is the data with all of the runes except for ᛥ and ᛢ.
 
+Unweighted means that the frequency of the word doesn't matter.
+
 | Order | Runes w/ Shortcuts | Unweighted Value |
 | ----- | ------------------ | ---------------- |
 | 1     | ᛟ                  | 8.49%            |
@@ -152,6 +154,8 @@ So here is the data with all of the runes except for ᛥ and ᛢ.
 | 30    | ᚻ                  | 0.62%            |
 | 31    | ᚦ                  | 0.36%            |
 | 32    | ᛠ                  | 0.09%            |
+
+Weighted means that the frequency of the word is taken into account.
 
 | Order | Runes w/ Shortcuts | Weighted Value |
 | ----- | ------------------ | -------------- |
@@ -196,6 +200,8 @@ Note that Shavian often assumes that you pronounce words like "lot" with ᚩ, bu
 
 If we got rid of the shortcut runes (ᛇᛠᚪ and double-feoh), the data becomes the following. This might be useful for a game like Scrabble, for example.
 
+Unweighted.
+
 | Order | Runes w/o Shortcuts | Unweighted value |
 | ----- | ------------------- | ---------------- |
 | 1     | ᛟ                   | 8.25%            |
@@ -226,6 +232,8 @@ If we got rid of the shortcut runes (ᛇᛠᚪ and double-feoh), the data become
 | 26    | ᚷ                   | 0.63%            |
 | 27    | ᚻ                   | 0.61%            |
 | 28    | ᚦ                   | 0.35%            |
+
+And weighted by frequency.
 
 | Order | Runes w/o Shortcuts | Weighted Value |
 | ----- | ------------------- | -------------- |

@@ -298,7 +298,7 @@ Now to view this data in a [Scrabble Letter Distribution](https://en.wikipedia.o
     <th>1</th>
     <td></td>
     <td></td>
-    <td>ᛋ ᛏ ᚱ</td>
+    <td></td>
     <td></td>
     <td></td>
     <td>ᛟ ᛁ</td>
@@ -308,8 +308,8 @@ Now to view this data in a [Scrabble Letter Distribution](https://en.wikipedia.o
     <td></td>
     <td></td>
     <td></td>
-    <td>ᛖ ᚫ</td>
-    <td></td>
+    <td>ᛋ ᛏ ᚱ</td>
+    <td>ᛖ ᚫ ᚩ</td>
     <td></td>
 </tr>
 <tr>
@@ -317,8 +317,8 @@ Now to view this data in a [Scrabble Letter Distribution](https://en.wikipedia.o
     <td></td>
     <td></td>
     <td>ᚾ ᛡ</td>
+    <td>ᚹ ᚣ ᚢ</td>
     <td></td>
-    <td>ᚹ</td>
     <td></td>
 </tr>
 <tr>
@@ -334,7 +334,7 @@ Now to view this data in a [Scrabble Letter Distribution](https://en.wikipedia.o
     <th>5</th>
     <td>ᛣ</td>
     <td>ᛈ ᚠ</td>
-    <td>ᚩ ᚳ ᛗ ᛒ</td>
+    <td>ᚳ ᛗ ᛒ</td>
     <td></td>
     <td></td>
     <td></td>
@@ -343,7 +343,7 @@ Now to view this data in a [Scrabble Letter Distribution](https://en.wikipedia.o
     <th>8</th>
     <td><img src="/assets/images/ff-bindrune.png" alt="FF Bindrune"></td>
     <td>ᚦ ᚻ ᚷ ᚸ</td>
-    <td>ᚣ ᚢ</td>
+    <td></td>
     <td></td>
     <td></td>
     <td></td>

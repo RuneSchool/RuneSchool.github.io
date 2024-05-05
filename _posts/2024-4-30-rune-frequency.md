@@ -11,6 +11,8 @@ hidden: false
 
 Which are the runes that are most common in the Rune School Spelling System?
 
+# How
+
 Since the spelling is largely based on the Shavian [ReadLex](https://readlex.pythonanywhere.com/spellingprinciples/) standard, we should be able to use that as a base of information to determine this.
 
 @kj7qlv in the [Rune School discord server](https://discord.gg/BThW4fxAwN) wrote a script that analyzes the IPA spelling in the Shavian ReadLex dictionary directly. This way we can get the data on things like our "happY" rune ᛄ.
@@ -23,8 +25,10 @@ import argparse
 # Setup argument parser to accept flags
 parser = argparse.ArgumentParser(description='Calculate the most common runes for the Rune School Spelling System.')
 parser.add_argument('--weighted', action='store_true', help='Apply weighting based on frequency')
-parser.add_argument('--v', action='store_true', help='Use the Double Feoh bindrune for /v/ phoneme')
 parser.add_argument('--shortcuts', action='store_true', help='Use shortcut runes ᛇᛠᚪ')
+parser.add_argument('--v', action='store_true', help='Use the Double Feoh bindrune for /v/ phoneme')
+parser.add_argument('--kw', action='store_true', help='Use Cweorth rune for /kw/ phoneme')
+parser.add_argument('--st', action='store_true', help='(Naively) Use Stan rune for /st/ phoneme')
 
 # Parse the command line arguments
 args = parser.parse_args()
@@ -58,8 +62,10 @@ phonemes = {
     re.compile(r'uː'): {'ᚣ': 1, 'ᚹ': 1},
     re.compile(r'p'): {'ᛈ': 1},
     re.compile(r'b'): {'ᛒ': 1},
+    re.compile(r'st'): {'ᛥ': 1} if args.st else {'ᛋ': 1, 'ᛏ': 1},
     re.compile(r't(?!ʃ)'): {'ᛏ': 1},
     re.compile(r'd'): {'ᛞ': 1},
+    re.compile(r'kw'): {'ᛢ': 1} if args.kw else {'ᛣ': 1, 'ᚹ': 1},
     re.compile(r'k'): {'ᛣ': 1},
     re.compile(r'(ɡ|g)'): {'ᚸ': 1},
     re.compile(r'f'): {'ᚠ': 1},
@@ -127,18 +133,20 @@ print(running_total_sorted)
 If you put the [kingsleyreadlexicon.tsv](https://github.com/Shavian-info/readlex/blob/main/kingsleyreadlexicon.tsv) dictionary in the same directory as this script and do the command `python script.py --help` you will see the following:
 
 ```console
-usage: script.py [-h] [--weighted] [--v] [--shortcuts]
+usage: script.py [-h] [--weighted] [--v] [--shortcuts] [--kw] [--st]
 
 Calculate the most common runes for the Rune School Spelling System.
 
 options:
   -h, --help   show this help message and exit
   --weighted   Apply weighting based on frequency
-  --v          Use the Double Feoh bindrune for /v/ phoneme
   --shortcuts  Use shortcut runes ᛇᛠᚪ
+  --v          Use the Double Feoh bindrune for /v/ phoneme
+  --kw         Use Cweorth rune for /kw/ phoneme
+  --st         (Naively) Use Stan rune for /st/ phoneme
 ```
 
-## With All Runes
+# Results
 
 So here is the data with all of the runes except for ᛥ and ᛢ.
 
@@ -181,7 +189,7 @@ Unweighted means that the frequency of the word doesn't matter.
 | 31    | ᚦ                  | 0.36%            |
 | 32    | ᛠ                  | 0.09%            |
 
-Weighted means that the frequency of the word is taken into account.
+Weighted means that the frequency of the word is taken into account. This data will reflect how often you will see runes in a novel, for example.
 
 `python script.py --weighted --v --shortcuts`
 
@@ -224,11 +232,19 @@ You can compare similar analysis done [in Shavian](https://www.reddit.com/r/shav
 
 Note that Shavian often assumes that you pronounce words like "lot" with ᚩ, but most Americans would probably use ᚪ for this sound, boosting it up in percentage.
 
-## Without Shortcut Runes
+## Findings
 
-If we got rid of the shortcut runes (ᛇᛠᚪ and double-feoh), the data becomes the following. This might be useful for a game like Scrabble, for example.
+Overall, ᛟ and ᛁ are the most common vowels in the Rune School Spelling System by far. 
 
-Unweighted.
+Of the three vowel sisters ᚫᚪᚩ, ᚫ and ᚩ will be about equally frequent with ᚪ being more rare. I think this is appropriate since ᚪ is in between the other two.
+
+ᚩ is the first rune in terms of frequency that is unique to just the Anglo-Saxon runes. So if you're trying to determine which language is being written with some runes, you will likely notice ᚩ and know that it is English. Seeing ᛣ will be the next clue that you're reading English.
+
+ᛝ is surprisingly low in this data. My guess is that common word derivations such as "-ᛁᛝ" or perhaps "-ᛉ" and "-ᛞ" are not taken into account.
+
+## Scrabble
+
+If we wanted to get data for a game like Scrabble, we could get rid of the shortcut runes (ᛇᛠᚪ and double-feoh) and only consider the unweighted frequency.
 
 `python script.py`
 
@@ -262,48 +278,3 @@ Unweighted.
 | 26    | ᚷ                   | 0.63%            |
 | 27    | ᚻ                   | 0.61%            |
 | 28    | ᚦ                   | 0.35%            |
-
-And weighted by frequency.
-
-`python script.py --weighted`
-
-| Order | Runes w/o Shortcuts | Weighted Value |
-| ----- | ------------------- | -------------- |
-| 1     | ᛁ                   | 8.19%          |
-| 2     | ᛟ                   | 7.96%          |
-| 3     | ᚱ                   | 6.47%          |
-| 4     | ᚾ                   | 5.76%          |
-| 5     | ᛏ                   | 5.70%          |
-| 6     | ᛖ                   | 5.47%          |
-| 7     | ᛡ                   | 5.41%          |
-| 8     | ᛋ                   | 5.32%          |
-| 9     | ᚩ                   | 5.29%          |
-| 10    | ᚫ                   | 5.04%          |
-| 11    | ᚹ                   | 4.06%          |
-| 12    | ᛞ                   | 3.61%          |
-| 13    | ᛚ                   | 3.61%          |
-| 14    | ᚦ                   | 3.23%          |
-| 15    | ᚣ                   | 3.00%          |
-| 16    | ᛣ                   | 2.87%          |
-| 17    | ᛉ                   | 2.70%          |
-| 18    | ᛗ                   | 2.51%          |
-| 19    | ᚠ                   | 2.46%          |
-| 20    | ᛈ                   | 1.94%          |
-| 21    | ᚢ                   | 1.87%          |
-| 22    | ᛒ                   | 1.66%          |
-| 23    | ᚳ                   | 1.47%          |
-| 24    | ᚻ                   | 1.27%          |
-| 25    | ᛄ                   | 1.06%          |
-| 26    | ᛝ                   | 0.84%          |
-| 27    | ᚸ                   | 0.71%          |
-| 28    | ᚷ                   | 0.52%          |
-
-# Findings
-
-Overall, ᛟ and ᛁ are the most common vowels in the Rune School Spelling System by far. 
-
-Of the three vowel sisters ᚫᚪᚩ, ᚫ and ᚩ will be about equally frequent with ᚪ being more rare. I think this is appropriate since ᚪ is in between the other two.
-
-ᚩ is the first rune in terms of frequency that is unique to just the Anglo-Saxon runes. So if you're trying to determine which language is being written with some runes, you will likely notice ᚩ and know that it is English. Seeing ᛣ will be the next clue that you're reading English.
-
-ᛝ is surprisingly low in this data. My guess is that common word derivations such as "-ᛁᛝ" or perhaps "-ᛉ" and "-ᛞ" are not taken into account.

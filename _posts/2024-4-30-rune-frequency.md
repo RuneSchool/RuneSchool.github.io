@@ -307,7 +307,7 @@ Now to view this data in a [Scrabble Letter Distribution](https://en.wikipedia.o
     <th>2</th>
     <td></td>
     <td></td>
-    <td>ᚹ ᛡ</td>
+    <td>ᚹ ᛡ ᚢ</td>
     <td> </td>
     <td></td>
     <td></td>
@@ -315,7 +315,7 @@ Now to view this data in a [Scrabble Letter Distribution](https://en.wikipedia.o
 <tr>
     <th>3</th>
     <td>ᛄ ᛝ</td>
-    <td>ᛉ ᚣ ᚢ</td>
+    <td>ᛉ ᚣ </td>
     <td>ᛞ ᚳ ᛗ ᛒ</td>
     <td></td>
     <td></td>

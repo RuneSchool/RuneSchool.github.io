@@ -18,6 +18,16 @@ Since the spelling is largely based on the Shavian [ReadLex](https://readlex.pyt
 ```python
 import pandas as pd
 import re
+import argparse
+
+# Setup argument parser to accept flags
+parser = argparse.ArgumentParser(description='Calculate the most common runes for the Rune School Spelling System.')
+parser.add_argument('--weighted', action='store_true', help='Apply weighting based on frequency')
+parser.add_argument('--v', action='store_true', help='Use the Double Feoh bindrune for /v/ phoneme')
+parser.add_argument('--shortcuts', action='store_true', help='Use shortcut runes ᛇᛠᚪ')
+
+# Parse the command line arguments
+args = parser.parse_args()
 
 # Sample regular expressions and phonemes data
 phonemes = {
@@ -33,13 +43,13 @@ phonemes = {
     re.compile(r'ɜːR'): {'ᚢ': 1, 'ᚱ': 1},
     re.compile(r'ə(?!R)|I'): {'ᛟ': 1},
     re.compile(r'əR'): {'ᛟ': 1, 'ᚱ': 1},
-    re.compile(r'iə(?!R)'): {'ᛠ': 1},
-    re.compile(r'iəR'): {'ᛠ': 1, 'ᚱ': 1},
+    re.compile(r'iə(?!R)'): {'ᛠ': 1} if args.shortcuts else {'ᛁ': 2},
+    re.compile(r'iəR'): {'ᛠ': 1, 'ᚱ': 1} if args.shortcuts else {'ᛁ': 2, 'ᚱ': 1},
     re.compile(r'eəR'): {'ᛖ': 1, 'ᚱ': 1},
-    re.compile(r'(ɑː|Ɑ)(?!R)'): {'ᚪ': 1},
-    re.compile(r'(ɑː|Ɑ)R'): {'ᚪ': 1, 'ᚱ': 1},
+    re.compile(r'(ɑː|Ɑ)(?!R)'): {'ᚪ': 1} if args.shortcuts else {'ᚫ': 2},
+    re.compile(r'(ɑː|Ɑ)R'): {'ᚪ': 1, 'ᚱ': 1} if args.shortcuts else {'ᚫ': 2, 'ᚱ': 1},
     re.compile(r'ɔː'): {'ᚩ': 2},
-    re.compile(r'iː'): {'ᛇ': 1},
+    re.compile(r'iː'): {'ᛇ': 1} if args.shortcuts else {'ᛁ': 1, 'ᛡ': 1},
     re.compile(r'eɪ'): {'ᛖ': 1, 'ᛡ': 1},
     re.compile(r'aɪ'): {'ᚫ': 1, 'ᛡ': 1},
     re.compile(r'ɔɪ'): {'ᚩ': 1, 'ᛡ': 1},
@@ -53,7 +63,7 @@ phonemes = {
     re.compile(r'k'): {'ᛣ': 1},
     re.compile(r'(ɡ|g)'): {'ᚸ': 1},
     re.compile(r'f'): {'ᚠ': 1},
-    re.compile(r'v'): {'v': 1},
+    re.compile(r'v'): {'v': 1} if args.v else {'ᚠ': 1},
     re.compile(r'(θ|ð|Ð)'): {'ᚦ': 1},
     re.compile(r's'): {'ᛋ': 1},
     re.compile(r'z'): {'ᛉ': 1},
@@ -77,7 +87,7 @@ running_total = {}
 # Function to update running_total based on phonemes match
 def update_running_total(phoneme_dict, frequency, weighted: bool):
     for key, value in phoneme_dict.items():
-        value =  value * frequency if weighted else value
+        value = value * frequency if weighted else value
         if key in running_total:
             running_total[key] += value
         else:
@@ -105,7 +115,7 @@ if readlex_df is not None:
         for regex, phoneme_dict in phonemes.items():
             matches = regex.findall(pronunciation)
             for match in matches:
-                update_running_total(phoneme_dict, frequency, weighted=False)
+                update_running_total(phoneme_dict, frequency, weighted=args.weighted)
 
 running_total_sum = sum(running_total.values())
 for key, value in running_total.items():
@@ -114,11 +124,27 @@ running_total_sorted = dict(sorted(running_total.items(), key=lambda item: item[
 print(running_total_sorted)
 ```
 
+If you put the [kingsleyreadlexicon.tsv](https://github.com/Shavian-info/readlex/blob/main/kingsleyreadlexicon.tsv) dictionary in the same directory as this script and do the command `python script.py --help` you will see the following:
+
+```console
+usage: script.py [-h] [--weighted] [--v] [--shortcuts]
+
+Calculate the most common runes for the Rune School Spelling System.
+
+options:
+  -h, --help   show this help message and exit
+  --weighted   Apply weighting based on frequency
+  --v          Use the Double Feoh bindrune for /v/ phoneme
+  --shortcuts  Use shortcut runes ᛇᛠᚪ
+```
+
 ## With All Runes
 
 So here is the data with all of the runes except for ᛥ and ᛢ.
 
 Unweighted means that the frequency of the word doesn't matter.
+
+`python script.py --v --shortcuts`
 
 | Order | Runes w/ Shortcuts | Unweighted Value |
 | ----- | ------------------ | ---------------- |
@@ -156,6 +182,8 @@ Unweighted means that the frequency of the word doesn't matter.
 | 32    | ᛠ                  | 0.09%            |
 
 Weighted means that the frequency of the word is taken into account.
+
+`python script.py --weighted --v --shortcuts`
 
 | Order | Runes w/ Shortcuts | Weighted Value |
 | ----- | ------------------ | -------------- |
@@ -202,6 +230,8 @@ If we got rid of the shortcut runes (ᛇᛠᚪ and double-feoh), the data become
 
 Unweighted.
 
+`python script.py`
+
 | Order | Runes w/o Shortcuts | Unweighted value |
 | ----- | ------------------- | ---------------- |
 | 1     | ᛟ                   | 8.25%            |
@@ -234,6 +264,8 @@ Unweighted.
 | 28    | ᚦ                   | 0.35%            |
 
 And weighted by frequency.
+
+`python script.py --weighted`
 
 | Order | Runes w/o Shortcuts | Weighted Value |
 | ----- | ------------------- | -------------- |

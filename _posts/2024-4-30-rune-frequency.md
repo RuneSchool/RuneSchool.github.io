@@ -244,40 +244,41 @@ Of the three vowel sisters ᚫᚪᚩ, ᚫ and ᚩ will be about equally frequent
 
 # Scrabble
 
-If we wanted to get data for a game like Scrabble, we could get rid of the shortcut runes (ᛇᛠᚪ and double-feoh) and only consider the unweighted frequency. This would ensure a much more even frequency distribution, which I think is what we would want for word games.
+If we wanted to get data for a game like Scrabble, we could get rid of the shortcut runes (ᛇᛠᚪ) and only consider the unweighted frequency. This would ensure a much more even frequency distribution, which I think is what we would want for this game.
 
-`python script.py`
+`python script.py --v`
 
-| Order | Runes w/o Shortcuts | Unweighted value | 
-| ----- | ------------------- | ---------------- |
-| 1     | ᛟ                   | 8.25%            |
-| 2     | ᛁ                   | 7.90%            |
-| 3     | ᚱ                   | 7.00%            |
-| 4     | ᛋ                   | 6.38%            |
-| 5     | ᛏ                   | 5.81%            |
-| 6     | ᛖ                   | 5.43%            |
-| 7     | ᚫ                   | 5.16%            |
-| 8     | ᚾ                   | 5.07%            |
-| 9     | ᛡ                   | 5.00%            |
-| 10    | ᛞ                   | 4.78%            |
-| 11    | ᚩ                   | 4.51%            |
-| 12    | ᛚ                   | 4.47%            |
-| 13    | ᛣ                   | 3.74%            |
-| 14    | ᛉ                   | 3.14%            |
-| 15    | ᚹ                   | 3.00%            |
-| 16    | ᛈ                   | 2.60%            |
-| 17    | ᚣ                   | 2.59%            |
-| 18    | ᚠ                   | 2.49%            |
-| 19    | ᛗ                   | 2.44%            |
-| 20    | ᛒ                   | 1.80%            |
-| 21    | ᚢ                   | 1.67%            |
-| 22    | ᛝ                   | 1.63%            |
-| 23    | ᚳ                   | 1.46%            |
-| 24    | ᚸ                   | 1.04%            |
-| 25    | ᛄ                   | 1.04%            |
-| 26    | ᚷ                   | 0.63%            |
-| 27    | ᚻ                   | 0.61%            |
-| 28    | ᚦ                   | 0.35%            |
+| Order | Runes w/o Shortcuts | Unweighted value         |
+|-------|-----------|-------------------|
+| 1     | ᛟ         | 8.104%            |
+| 2     | ᛁ         | 7.673%            |
+| 3     | ᛋ         | 7.399%            |
+| 4     | ᛏ         | 6.847%            |
+| 5     | ᚱ         | 6.799%            |
+| 6     | ᛖ         | 5.190%            |
+| 7     | ᚫ         | 5.016%            |
+| 8     | ᚾ         | 4.927%            |
+| 9     | ᛡ         | 4.861%            |
+| 10    | ᛞ         | 4.648%            |
+| 11    | ᚩ         | 4.383%            |
+| 12    | ᛚ         | 4.345%            |
+| 13    | ᛣ         | 3.799%            |
+| 14    | ᚹ         | 3.079%            |
+| 15    | ᛉ         | 3.051%            |
+| 16    | ᛈ         | 2.529%            |
+| 17    | ᚣ         | 2.521%            |
+| 18    | ᛗ         | 2.376%            |
+| 19    | ᛒ         | 1.742%            |
+| 20    | ᚢ         | 1.626%            |
+| 21    | ᛝ         | 1.582%            |
+| 22    | ᚠ         | 1.452%            |
+| 23    | ᚳ         | 1.422%            |
+| 24    | ᛄ         | 1.099%            |
+| 25    | ᚸ         | 1.010%            |
+| 26    | ![FF Bindrune](/assets/images/ff-bindrune.png) | 0.966%            |
+| 27    | ᚷ         | 0.617%            |
+| 28    | ᚻ         | 0.594%            |
+| 29    | ᚦ         | 0.345%            |
 
 Now to view this data in a [Scrabble Letter Distribution](https://en.wikipedia.org/wiki/Scrabble_letter_distributions) table, we can assign tile numbers and point values like so:
 
@@ -298,22 +299,22 @@ Now to view this data in a [Scrabble Letter Distribution](https://en.wikipedia.o
 </tr>
 <tr>
     <th>1</th>
-    <td>ᚦ</td>
     <td></td>
-    <td>ᚳ</td>
-    <td>ᛒ ᚢ ᛝ</td>
     <td></td>
-    <td>ᛗ ᛈ ᚣ ᚠ</td>
-    <td>ᚹ</td>
-    <td>ᛣ ᛉ</td>
+    <td></td>
+    <td>ᛋ ᛏ ᚱ</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
     <td>ᛟ ᛁ</td>
 </tr>
 <tr>
     <th>2</th>
-    <td>ᚻ ᚷ ᛄ ᚸ</td>
     <td></td>
     <td></td>
     <td></td>
+    <td>ᛖ ᚫ</td>
     <td></td>
     <td></td>
     <td></td>
@@ -324,45 +325,45 @@ Now to view this data in a [Scrabble Letter Distribution](https://en.wikipedia.o
     <th>3</th>
     <td></td>
     <td></td>
+    <td>ᚾ ᛡ</td>
     <td></td>
     <td></td>
+    <td>ᚹ</td>
     <td></td>
     <td></td>
-    <td></td>
-    <td>ᚱ</td>
     <td></td>
 </tr>
 <tr>
     <th>4</th>
+    <td>ᛄ ᛝ ᛉ</td>
+    <td>ᛞ</td>
+    <td>ᛚ ᛣ</td>
     <td></td>
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td>ᛋ</td>
     <td></td>
     <td></td>
 </tr>
 <tr>
     <th>5</th>
+    <td>ᛣ</td>
+    <td>ᛈ ᚠ</td>
+    <td>ᚩ ᚳ ᛗ ᛒ</td>
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td>ᛏ ᛖ ᚫ</td>
     <td></td>
     <td></td>
     <td></td>
 </tr>
 <tr>
     <th>8</th>
+    <td><img src="/assets/images/ff-bindrune.png" alt="FF Bindrune"></td>
+    <td>ᚦ ᚻ ᚷ ᚸ</td>
+    <td>ᚣ ᚢ</td>
     <td></td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td>ᚾ ᛡ ᛞ ᚩ ᛚ</td>
     <td></td>
     <td></td>
     <td></td>

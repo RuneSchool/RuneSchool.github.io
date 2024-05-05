@@ -242,13 +242,13 @@ Of the three vowel sisters ᚫᚪᚩ, ᚫ and ᚩ will be about equally frequent
 
 ᛝ is surprisingly low in this data. My guess is that common word derivations such as "-ᛁᛝ" or perhaps "-ᛉ" and "-ᛞ" are not taken into account.
 
-## Scrabble
+# Scrabble
 
-If we wanted to get data for a game like Scrabble, we could get rid of the shortcut runes (ᛇᛠᚪ and double-feoh) and only consider the unweighted frequency.
+If we wanted to get data for a game like Scrabble, we could get rid of the shortcut runes (ᛇᛠᚪ and double-feoh) and only consider the unweighted frequency. This would ensure a much more even frequency distribution, which I think is what we would want for word games.
 
 `python script.py`
 
-| Order | Runes w/o Shortcuts | Unweighted value |
+| Order | Runes w/o Shortcuts | Unweighted value | 
 | ----- | ------------------- | ---------------- |
 | 1     | ᛟ                   | 8.25%            |
 | 2     | ᛁ                   | 7.90%            |
@@ -278,3 +278,95 @@ If we wanted to get data for a game like Scrabble, we could get rid of the short
 | 26    | ᚷ                   | 0.63%            |
 | 27    | ᚻ                   | 0.61%            |
 | 28    | ᚦ                   | 0.35%            |
+
+Now to view this data in a [Scrabble Letter Distribution](https://en.wikipedia.org/wiki/Scrabble_letter_distributions) table, we can assign tile numbers and point values like so:
+
+<table>
+<caption>Rune distribution<br>(Number of tiles across, point values down)</caption>
+<tbody>
+<tr>
+    <th></th>
+    <th>×1</th>
+    <th>×2</th>
+    <th>×3</th>
+    <th>×4</th>
+    <th>×5</th>
+    <th>×6</th>
+    <th>×7</th>
+    <th>×8</th>
+    <th>×9</th>
+</tr>
+<tr>
+    <th>1</th>
+    <td>ᚦ</td>
+    <td></td>
+    <td>ᚳ</td>
+    <td>ᛒ ᚢ ᛝ</td>
+    <td></td>
+    <td>ᛗ ᛈ ᚣ ᚠ</td>
+    <td>ᚹ</td>
+    <td>ᛣ ᛉ</td>
+    <td>ᛟ ᛁ</td>
+</tr>
+<tr>
+    <th>2</th>
+    <td>ᚻ ᚷ ᛄ ᚸ</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+</tr>
+<tr>
+    <th>3</th>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>ᚱ</td>
+    <td></td>
+</tr>
+<tr>
+    <th>4</th>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>ᛋ</td>
+    <td></td>
+    <td></td>
+</tr>
+<tr>
+    <th>5</th>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>ᛏ ᛖ ᚫ</td>
+    <td></td>
+    <td></td>
+    <td></td>
+</tr>
+<tr>
+    <th>8</th>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>ᚾ ᛡ ᛞ ᚩ ᛚ</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+</tr>
+</tbody>
+</table>

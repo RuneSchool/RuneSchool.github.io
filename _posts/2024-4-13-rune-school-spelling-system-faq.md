@@ -182,6 +182,12 @@ The [chart below](https://en.wikipedia.org/wiki/English-language_vowel_changes_b
 
 If you don't have the NORTH-FORCE merger, you can spell NORTH words with ᚩᚱ and FORCE words with ᚩᚹᚱ. If there are no potential homophones that need distinguishing, it is recommended to stick with ᚩᚱ.
 
+## Don't have WINE-WHINE merger
+
+If ["wine" sounds different than "whine"](https://en.wikipedia.org/wiki/Pronunciation_of_English_%E2%9F%A8wh%E2%9F%A9#Wine%E2%80%93whine_merger) to you, you should use ᚹ for "wine" and ᚻ‍ᚹ for "whine". 
+
+For people that say them the same, they will be able to understand your writing just fine. But this rune combo ᚻ‍ᚹ is not used in the spelling standard just because it doesn't exist in the majority of standard english varieties today.
+
 ## Chews sounds different than choose
 
 If "chews" sounds different than "choose", you can use ᛁᚹ for "chews" and ᚣᚹ for "choose".

@@ -17,6 +17,8 @@ If you've ever wanted to learn how to read and write English with the Anglo-Saxo
 
 <h2>Tools</h2>
 
+- [Dictionary](https://rune.school/dictionary)
+- [Daily Word Game](https://rune.school/game)
 - [Keyman](https://keyman.com/) app and the [keyboard](https://keyman.com/keyboards/runeboard) that Rune Revival made
 
 <h2>Friends</h2>

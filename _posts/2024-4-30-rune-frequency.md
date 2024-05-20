@@ -182,7 +182,7 @@ Unweighted means that the frequency of the word doesn't matter.
 | 24    | ᛄ                  | 1.15%            |
 | 25    | ᛇ                  | 1.14%            |
 | 26    | ᚸ                  | 1.06%            |
-| 27    | ![FF Bindrune](/assets/images/ff-bindrune.png)   | 1.01%            |
+| 27    | ᚠ‍ᚠ   | 1.01%            |
 | 28    | ᚪ                  | 0.69%            |
 | 29    | ᚷ                  | 0.65%            |
 | 30    | ᚻ                  | 0.62%            |
@@ -221,7 +221,7 @@ Weighted means that the frequency of the word is taken into account. This data w
 | 24    | ᚠ                  | 1.42%          |
 | 25    | ᚻ                  | 1.31%          |
 | 26    | ᛄ                  | 1.11%          |
-| 27    | ![FF Bindrune](/assets/images/ff-bindrune.png)   | 1.11%          |
+| 27    | ᚠ‍ᚠ   | 1.11%          |
 | 28    | ᛝ                  | 0.86%          |
 | 29    | ᚸ                  | 0.73%          |
 | 30    | ᚪ                  | 0.64%          |
@@ -275,7 +275,7 @@ If we wanted to get data for a game like Scrabble, we could get rid of the short
 | 23    | ᚳ         | 1.422%            |
 | 24    | ᛄ         | 1.099%            |
 | 25    | ᚸ         | 1.010%            |
-| 26    | ![FF Bindrune](/assets/images/ff-bindrune.png) | 0.966%            |
+| 26    | ᚠ‍ᚠ | 0.966%            |
 | 27    | ᚷ         | 0.617%            |
 | 28    | ᚻ         | 0.594%            |
 | 29    | ᚦ         | 0.345%            |
@@ -333,7 +333,7 @@ Now to view this data in a [Scrabble Letter Distribution](https://en.wikipedia.o
 <tr>
     <th>5</th>
     <td></td>
-    <td>ᚠ <img src="/assets/images/ff-bindrune.png" alt="FF Bindrune"></td>
+    <td>ᚠ ᚠ‍ᚠ</td>
     <td></td>
     <td></td>
     <td></td>

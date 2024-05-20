@@ -15,7 +15,7 @@ hidden: false
 <p lang="en-Runr"><i>ᛒᚫ‍ᛡ᛫​ᚱᚩᛒᛟᚱᛏ᛫​ᚠᚱᚩᛥ</i></p>
 
 <div lang="en-Runr" style="line-height:28px;">
-ᚻᚣ‍ᚹᛉ᛫​ᚹᚣᛞᛉ᛫​ᚦᛇᛉ᛫​ᚪ‍ᚱ᛫​ᚫᛡ᛫​ᚦᛁᛝᛣ᛫​ᚫ‍ᛡ᛫​ᚾ<span style="color:green">ᚩ‍ᚹ</span>​᛫​᛫​   
+ᚻᚣ‍ᚹᛉ᛫​ᚹᚣᛞᛉ᛫​ᚦᛇᛉ᛫​ᚪ‍ᚱ᛫​ᚫ‍ᛡ᛫​ᚦᛁᛝᛣ᛫​ᚫ‍ᛡ᛫​ᚾ<span style="color:green">ᚩ‍ᚹ</span>​᛫​᛫​   
 <br>
 ᚻᛁᛉ᛫​ᚻᚫ‍ᚹᛋ᛫​ᛁᛉ᛫​ᛁᚾ᛫​ᚦ᛫​ᚠ‍ᚠᛁᛚᛟᚷ᛫​ᚦ<span style="color:green">ᚩ‍ᚹ</span>᛬​   
 <br>

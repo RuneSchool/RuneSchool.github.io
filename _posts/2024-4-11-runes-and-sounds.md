@@ -122,9 +122,9 @@ Here is a list of runes so that you can see how this system has kept them the sa
 | ᚸ    | Gar |                   | /g/                     | <span style="color:green"> /g/ </span> |
 | ᛢ    | cweorð |           | /k/                   | <span style="color:orange"> /kw/ </span> |
 | ᛥ    | Stone |            | /st/                   | <span style="color:green"> /st/ </span> |
-| ![Catrinity font V](/assets/images/Catrinity-V.png) | Double-Feoh   |                   |                       | <span style="color:red"> /v/ </span> |
+| ᚠ‍ᚠ | Double-Feoh   |                   |                       | <span style="color:red"> /v/ </span> |
 
-The only real changes to address are Double-Feoh, ᚢ, ᛠ, ᛉ, and ᚷ.
+The only real changes to address are ᚠ‍ᚠ, ᚢ, ᛠ, ᛉ, and ᚷ.
 
 ### ᛉ 
 
@@ -148,7 +148,7 @@ STRUT originally came from the "short u" sound. Because of this, it's appropriat
 
 The original sound of ᚷ was /j/, but when French began to influence English after the Norman invasion (~1100), /j/ started to become /dʒ/ in English, [just like in French](https://en.wikipedia.org/wiki/Phonological_history_of_French#To_Early_Old_French[when?]) (Think of how the word Jehovah or Jesus changed in pronunciation over time). So also taking into account that ᛡ is already /j/, we can reduce historical ᚷᚷ to just ᚷ for /dʒ/.
 
-### Double-Feoh
+### ᚠ‍ᚠ
 
 Double-Feoh is applying the same idea behind ᚳ and ᛣ to ᚠ. The idea for this came from [Rune Revival](https://runerevival.online).
 

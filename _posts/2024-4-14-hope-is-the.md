@@ -14,7 +14,7 @@ hidden: false
 
 <h4 lang="en-Runr">ᛒ​ᚫ‍ᛡ᛫ᛖᛗᛟᛚᛄ᛫​ᛞᛁᛣᛁᚾ‍ᛋᛟᚾ</h4>
 
-<div lang="en-Runr" style="line-height:35px;">
+<div lang="en-Runr" style="line-height:28px;">
 ᛫᛬ᚻᚩ‍ᚹᛈ᛬᛫​ᛁᛉ᛫​ᚦᛟ᛫​ᚦᛁᛝ᛫​ᚹᛁᚦ᛫​ᚠᛖᚦ<span style="color:green">ᛟᚱᛉ</span>᛫᛫​<br>
 ᚦᚫᛏ᛫​ᛈᚢ‍ᚱᚳᛟᛉ᛫​ᛁᚾ᛫​ᚦᛟ᛫​ᛋ<span style="color:red">ᚩ‍ᚹ</span>ᛚ᛫᛫​<br>
 ᚫᚾᛞ᛫​ᛋᛁᛝᛉ᛫​ᚦᛟ᛫​ᛏᛡᚣ‍ᚹᚾ᛫​ᚹᛁᚦᚫ‍ᚹᛏ᛫​ᚦᛟ᛫​ᚹ<span style="color:green">ᚢ‍ᚱ</span>ᛞ<span style="color:green">ᛉ</span>᛫᛫​<br>
@@ -37,7 +37,7 @@ hidden: false
 
 <h4 lang="en-Latn">by Emily Dickinson</h4>
 
-<div lang="en-Latn" style="line-height:35px;">
+<div lang="en-Latn" style="line-height:28px;">
 “Hope” is the thing with feathers -<br>
 That perches in the soul -<br>
 And sings the tune without the words -<br>

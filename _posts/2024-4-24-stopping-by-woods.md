@@ -14,7 +14,7 @@ hidden: false
 
 <h4 lang="en-Runr">ᛒᚫ‍ᛡ᛫​ᚱᚩᛒᛟᚱᛏ᛫​ᚠᚱᚩᛥ</h4>
 
-<div lang="en-Runr" style="line-height:35px;">
+<div lang="en-Runr" style="line-height:28px;">
 ᚻᚣ‍ᚹᛉ᛫​ᚹᚣᛞᛉ᛫​ᚦᛇᛉ᛫​ᚪ‍ᚱ᛫​ᚫᛡ᛫​ᚦᛁᛝᛣ᛫​ᚫ‍ᛡ᛫​ᚾ<span style="color:green">ᚩ‍ᚹ</span>​᛫​᛫​   
 <br>
 ᚻᛁᛉ᛫​ᚻᚫ‍ᚹᛋ᛫​ᛁᛉ᛫​ᛁᚾ᛫​ᚦ᛫​ᚠ‍ᚠᛁᛚᛟᚷ᛫​ᚦ<span style="color:green">ᚩ‍ᚹ</span>᛬​   
@@ -54,7 +54,7 @@ hidden: false
 
 <h4 lang="en-Latn">by Robert Frost</h4>
 
-<div lang="en-Latn" style="line-height:35px;">
+<div lang="en-Latn" style="line-height:28px;">
 Whose woods these are I think I know.  <br> 
 His house is in the village though;   <br>
 He will not see me stopping here   <br>

@@ -15,10 +15,10 @@ hidden: false
 <p lang="en-Runr"><i>ᛒ​ᚫ‍ᛡ᛫ᛖᛗᛟᛚᛄ᛫​ᛞᛁᛣᛁᚾ‍ᛋᛟᚾ</i></p>
 
 <div lang="en-Runr" style="line-height:28px;">
-᛫᛬ᚻᚩ‍ᚹᛈ᛬᛫​ᛁᛉ᛫​ᚦᛟ᛫​ᚦᛁᛝ᛫​ᚹᛁᚦ᛫​ᚠᛖᚦ<span style="color:green">ᛟᚱᛉ</span>᛫᛫​<br>
-ᚦᚫᛏ᛫​ᛈᚢ‍ᚱᚳᛟᛉ᛫​ᛁᚾ᛫​ᚦᛟ᛫​ᛋ<span style="color:red">ᚩ‍ᚹ</span>ᛚ᛫᛫​<br>
+᛫᛬ᚻᚩ‍ᚹᛈ᛬᛫​ᛁᛉ᛫​ᚦᛟ᛫​ᚦᛁᛝ᛫​ᚹᛁᚦ᛫​ᚠᛖᚦ<span style="color:green">ᛟ‍ᚱᛉ</span>᛫᛫​<br>
+ᚦᚫᛏ᛫​ᛈᚢ‍ᚱᚳᛟᛉ᛫​ᛁᚾ᛫​ᚦᛟ᛫​ᛋ<span style="color:red">ᚩ‍ᚹᛚ</span>᛫᛫​<br>
 ᚫᚾᛞ᛫​ᛋᛁᛝᛉ᛫​ᚦᛟ᛫​ᛏᛡᚣ‍ᚹᚾ᛫​ᚹᛁᚦᚫ‍ᚹᛏ᛫​ᚦᛟ᛫​ᚹ<span style="color:green">ᚢ‍ᚱ</span>ᛞ<span style="color:green">ᛉ</span>᛫᛫​<br>
-ᚫᚾᛞ᛫​ᚾᛖᚠ‍ᚠᛟᚱ᛫​ᛥᚩᛈᛋ᛫᛫​ᚫᛏ᛫<span style="color:red">ᚩ‍​ᚩ</span>ᛚ᛫᛫​
+ᚫᚾᛞ᛫​ᚾᛖᚠ‍ᚠᛟᚱ᛫​ᛥᚩᛈᛋ᛫᛫​ᚫᛏ᛫<span style="color:red">ᚩ‍​ᚩᛚ</span>᛫᛫​
 <br><br>
 ᚫᚾᛞ᛫​ᛋᚹᛁᛡᛏᛟᛋᛏ᛫᛫​ᛁᚾ᛫​ᚦᛟ᛫​ᚸᛖ‍ᛡᛚ᛫᛫​ᛁᛉ᛫​ᚻ<span style="color:green">ᚢ‍ᚱᛞ</span>᛫᛫​<br>
 ᚫᚾᛞ᛫​ᛋᚩ‍ᚱ᛫​ᛗᚢᛋᛏ᛫​ᛒᛁᛡ᛫​ᚦᛟ᛫​ᛥ<span style="color:purple">ᚩ‍ᚱᛗ</span>᛫᛫​<br>

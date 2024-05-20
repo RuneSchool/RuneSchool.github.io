@@ -12,7 +12,7 @@ hidden: false
 
 <h2 lang="en-Runr">ᚻᚩ‍ᚹᛈ᛫​ᛁᛉ᛫​ᚦᛟ᛫​ᚦᛁᛝ᛫​ᚹᛁᚦ᛫​ᚠᛖᚦᛟ‍ᚱᛉ</h2>
 
-<h4 lang="en-Runr">ᛒ​ᚫ‍ᛡ᛫ᛖᛗᛟᛚᛄ᛫​ᛞᛁᛣᛁᚾ‍ᛋᛟᚾ</h4>
+<p lang="en-Runr"><i>ᛒ​ᚫ‍ᛡ᛫ᛖᛗᛟᛚᛄ᛫​ᛞᛁᛣᛁᚾ‍ᛋᛟᚾ</i></p>
 
 <div lang="en-Runr" style="line-height:28px;">
 ᛫᛬ᚻᚩ‍ᚹᛈ᛬᛫​ᛁᛉ᛫​ᚦᛟ᛫​ᚦᛁᛝ᛫​ᚹᛁᚦ᛫​ᚠᛖᚦ<span style="color:green">ᛟᚱᛉ</span>᛫᛫​<br>

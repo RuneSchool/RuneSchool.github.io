@@ -46,13 +46,13 @@ The consonants are straight forward.
 | s | 𐑕 | ᛋ |  |
 | st | 𐑕𐑑 | ᛥ |  |
 | z | 𐑟 | ᛉ |  |
-| ʃ | 𐑖 | ᛋᚳ | ![sch bindrune](/assets/images/sch-bindrune.png) |
-| ʒ | 𐑠 | ᛉᚳ | ![zch bindrune](/assets/images/%E2%80%8Dzch-bindrune.png) |
+| ʃ | 𐑖 | ᛋᚳ | ᛋ‍ᚳ |
+| ʒ | 𐑠 | ᛉᚳ | ᛉ‍ᚳ |
 | ʧ | 𐑗 | ᚳ |  |
 | ʤ | 𐑡 | ᚷ |  |
 | j | 𐑘 | ᛡ |  |
 | w | 𐑢 | ᚹ |  |
-| ʍ | ![Which Shavian alt letter](/assets/images/shavian-which.png) | ᚻᚹ | ![hw bindrune](/assets/images/hw-bindrune.png) |
+| ʍ | ![Which Shavian alt letter](/assets/images/shavian-which.png) | ᚻᚹ | ᚻ‍ᚹ |
 | ŋ | 𐑙 | ᛝ |  |
 | h | 𐑣 | ᚻ |  |
 | l | 𐑤 | ᛚ |  |
@@ -86,39 +86,39 @@ The idea is that you can use the ReadLex dictionary and swap Shavian out for run
 | Traditional IPA | Modern IPA | Lexical Set | Shavian | Runes | Bindrune / Shortcut rune |
 | --- | --- | --- | --- | --- |  --- | 
 | ə | ə | commA | 𐑩 | ᛟ |  |
-| ər | ər | lettER | 𐑼 | ᛟᚱ | ![uhr bindrune](/assets/images/uhr-bindrune.png) |
+| ər | ər | lettER | 𐑼 | ᛟᚱ | ᛟ‍ᚱ |
 | ʌ | ə́ | STRUT | 𐑳 | ᚢ |   |
 | ɜː | ə́ː | OEUvre | ![Oeuvre Shavian alt letter](/assets/images/shavian-oeuvre.png) | ᚢᚢ |  |
-| ɜː | ə́ːr | NURSE | 𐑻 | ᚢᚱ | ![ur bindrune](/assets/images/ur-bindrune.png) |
+| ɜː | ə́ːr | NURSE | 𐑻 | ᚢᚱ | ᚢ‍ᚱ |
 | ɪ | ɪ | KIT | 𐑦 | ᛁ |  |
 | ɪə | ɪ́ː | NEAR Prime | 𐑾 | ᛁᛁ | ᛠ |
 | ɪər | ɪ́ːr | NEAR | 𐑽 | ᛁᛁᚱ | ᛠᚱ |
 | i | ɪj | happY | 𐑦 | ᛄ |  |
 | iː | ɪj | FLEECE | 𐑰 | ᛁᛡ  | ᛇ |
 | e | ɛ | DRESS | 𐑧 | ᛖ |  |
-| eɪ | ɛj | FACE | 𐑱 | ᛖᛡ | ![ej bindrune](/assets/images/ej-bindrune.png) |
+| eɪ | ɛj | FACE | 𐑱 | ᛖᛡ | ᛖ‍ᛡ |
 | er | ɛ́r | Merry | 𐑧𐑮 | ᛖᚱ |  |
 | eə | ɛ́ːr | yEAH | ![Yeah Shavian alt letter](/assets/images/shavian-yeah.png) | ᛖᛖ |  |
-| eə | ɛ́ːr | SQUARE | 𐑺 | ᛖᛖᚱ | ![er bindrune](/assets/images/er-bindrune.png) |
+| eə | ɛ́ːr | SQUARE | 𐑺 | ᛖᛖᚱ | ᛖ‍ᚱ |
 | æ | a | TRAP | 𐑨 | ᚫ |  |
 | ær | ár | Marry | 𐑨𐑮 | ᚫᚱ |  |
-| aɪ | ɑj | PRICE | 𐑲 | ᚫᛡ | ![aj bindrune](/assets/images/aj-bindrune.png) |
-| aʊ | áw | MOUTH | 𐑬 | ᚫᚹ | ![aw bindrune](/assets/images/aw-bindrune.png) |
+| aɪ | ɑj | PRICE | 𐑲 | ᚫᛡ | ᚫ‍ᛡ |
+| aʊ | áw | MOUTH | 𐑬 | ᚫᚹ | ᚫ‍ᚹ |
 | ɑː | ɑː | PALM | 𐑭 | ᚫᚫ  | ᚪ |
-| ɑːr | ɑːr | START | 𐑸 | ᚫᚫᚱ  | ᚪᚱ |
+| ɑːr | ɑːr | START | 𐑸 | ᚫᚫᚱ  | ᚪᚱ / ᚪ‍ᚱ |
 | ɒ | ɔ́ | LOT | 𐑪 | ᚩ |  |
-| ɔɪ | ój | CHOICE | 𐑶 | ᚩᛡ | ![oj bindrune](/assets/images/oj-bindrune.png) |
-| ɔː | óː | THOUGHT | 𐑷 | ᚩᚩ | ![oo bindrune](/assets/images/oo-bindrune.png) |
-| ɔːr | óːr | NORTH/FORCE | 𐑹 | ᚩᚱ | ![or bindrune](/assets/images/or-bindrune.png) |
-| əʊ | əw | GOAT | 𐑴 | ᚩᚹ | ![ow bindrune](/assets/images/ow-bindrune.png) |
+| ɔɪ | ój | CHOICE | 𐑶 | ᚩᛡ | ᚩ‍ᛡ |
+| ɔː | óː | THOUGHT | 𐑷 | ᚩᚩ | ᚩ‍ᚩ |
+| ɔːr | óːr | NORTH/FORCE | 𐑹 | ᚩᚱ | ᚩ‍ᚱ |
+| əʊ | əw | GOAT | 𐑴 | ᚩᚹ | ᚩ‍ᚹ |
 | ʊ | ʉ́ | FOOT | 𐑫 | ᚣ |  |
-| ʊə | ʉ́ː | CURE | 𐑫𐑼 | ᚣᚱ | ![yr](/assets/images/uir-bindrune.png) |
-| uː | ʉ́w | GOOSE | 𐑵 | ᚣᚹ | ![yw bindrune](/assets/images/yw-bindrune.png) |
-| juː | jʉ́w |  | 𐑿 | ᛡᚣᚹ |  |
+| ʊə | ʉ́ː | CURE | 𐑫𐑼 | ᚣᚱ | ᚣ‍ᚱ |
+| uː | ʉ́w | GOOSE | 𐑵 | ᚣᚹ | ᚣ‍ᚹ |
+| juː | jʉ́w |  | 𐑿 | ᛡᚣᚹ | ᛡᚣ‍ᚹ |
 
 ### Bindrunes
 
-While it's definitely possible to have bindrunes that have the same effect as the "compound" or "ligature" Shavian letters, we don't want to rely on them for the system to work. If we do, we would be totally dependent on just a few font options, which is not practical for real world use.
+While it's definitely possible to have bindrunes that have the same effect as the "compound" or "ligature" Shavian letters, we don't want to rely on them for the system to work. If we do, we would be totally dependent on just a few font options, which is not practical for real world use (yet).
 
 <!-- 
 | Lexical Set | Rune | Stress |
@@ -188,13 +188,13 @@ Another example, consider "Imagine". Can it be spelled ᛁᛗᚫᚷᚾ without a
 
 ### Shortcut words
 
-| Latin | Shavian | Runes | Bindrune / Shortcut rune |
+| Latin | Shavian | Runes | With Bindrunes / Shortcut runes |
 | --- | --- | --- |
-| the | 𐑞 | ᚦ |
-| to | 𐑑 | ᛏ |
-| and | 𐑯 | ᚾ |
-| for | 𐑓 | ᚠᚱ |
-| of | 𐑝 | ᚠ | ![ff bindrune](/assets/images/ff-bindrune.png) |
+| the | 𐑞 | ᚦ | ᚦ |
+| to | 𐑑 | ᛏ | ᛏ |
+| and | 𐑯 | ᚾ | ᚾ |
+| for | 𐑓 | ᚠᚱ | ᚠ |
+| of | 𐑝 | ᚠ | ᚠ‍ᚠ |
 
 # Choices
 

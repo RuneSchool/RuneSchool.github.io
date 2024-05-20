@@ -25,13 +25,13 @@ In this runic writing system, we allow for bindrunes to show exactly this.
 
 | Latin | Standard without bindrunes | R dropping | Standard with bindrunes |
 | --- | --- | --- | --- | 
-| Square | ᛖᛖᚱ | ᛖᛖ | ![ᛖᚱ bindrune](/assets/images/er-bindrune.png) | 
-| NEAR | ᛠᚱ | ᛠ | ![IIᚱ bindrune](/assets/images/iir-bindrune.png) |
-| Spar | ᚪᚱ | ᚪ | ![ᚪᚱ bindrune](/assets/images/ar-bindrune.png) |
-| NORTH | ᚩᚱ | ᚩᚩ | ![ᚩᚱ bindrune](/assets/images/or-bindrune.png) |
-| lettER | ᛟᚱ | ᛟ | ![ᛟᚱ bindrune](/assets/images/uhr-bindrune.png) |
-| CURE | ᚣᚱ | ᚣᚣ | ![ᚣᚱ bindrune](/assets/images/uir-bindrune.png) |
-| NURSE | ᚢᚱ | ᚢᚢ | ![ᚢᚱ bindrune](/assets/images/ur-bindrune.png) |
+| Square | ᛖᛖᚱ | ᛖᛖ | ᛖ‍ᚱ | 
+| NEAR | ᛠᚱ | ᛠ | ᛠ‍ᚱ |
+| Spar | ᚪᚱ | ᚪ | ᚪ‍ᚱ |
+| NORTH | ᚩᚱ | ᚩᚩ | ᚩ‍ᚱ |
+| lettER | ᛟᚱ | ᛟ | ᛟ‍ᚱ |
+| CURE | ᚣᚱ | ᚣᚣ | ᚣ‍ᚱ |
+| NURSE | ᚢᚱ | ᚢᚢ | ᚢ‍ᚱ |
 
 "Know your audience". This system is capable of being flexible depending on your needs. Bindrunes are probably the ideal, but since they are not yet common, we would always recommend writing the Rs for an international audience.
 
@@ -100,13 +100,13 @@ This allows us, among other things, to provide more fine distinctions like the b
 
 ## Merge Mary Merry and Marry
 
-If Mary, merry, and marry all sound the same to you, you could spell all of them with ᛖᚱ or the bindrune of ᛖᚱ ![er bindrune](/assets/images/er-bindrune.png).
+If Mary, merry, and marry all sound the same to you, you could spell all of them with ᛖᚱ or the bindrune of ᛖ‍ᚱ.
 
 The standard spelling of this system however accounts for all three of these phonemes being distinct. It may benefit you to learn the distinctions nonetheless.
 
 The [following table](https://en.wikipedia.org/wiki/English-language_vowel_changes_before_historic_/r/#Mary%E2%80%93marry%E2%80%93merry_merger) shows all of the potential homophones that can be distinguished by spelling these three phonemes differently.
 
-| /ær/ ᚫᚱ | /ɛər/ ᛖᛖᚱ | /ɛr/ ᛖᚱ | IPA | Notes |
+| /ær/ ᚫᚱ | /ɛər/ ᛖᛖᚱ or ᛖ‍ᚱ | /ɛr/ ᛖᚱ | IPA | Notes |
 |------|-------|------|-----|-------|
 | - | Aaron | [Erin](https://en.wikipedia.org/wiki/Erin) | ˈɛrən | [with weak-vowel merger](https://en.wikipedia.org/wiki/Weak-vowel_merger) |
 | apparel | - | a peril | əˈpɛrəl | [with weak-vowel merger](https://en.wikipedia.org/wiki/Weak-vowel_merger) |
@@ -145,7 +145,7 @@ The [following table](https://en.wikipedia.org/wiki/English-language_vowel_chang
 
 ## Don't have the FACE merger
 
-If you don't have the FACE merger and instead have two distinct lexical sets of PANE and PAIN, I would suggest that you use a bindrune of ᛖ‍ᛡ for the PANE set to indicate that it is a closer monophthong and an unbound combination of ᛖᛡ for PAIN to indicate that it is the full diphthong.
+If you don't have the FACE merger and instead have two distinct lexical sets of PANE and PAIN, I would suggest that you use a bindrune of ᛖ‍ᛡ for the PANE set to indicate that it is a monophthong and an unbound combination of ᛖᛡ for PAIN to indicate that it is the full diphthong.
 
 ## Don't have NURSE merger
 
@@ -194,7 +194,7 @@ If "chews" sounds different than "choose", you can use ᛁᚹ for "chews" and �
 
 ## hUrry sounds different than fUrry
 
-In this system, we have merged the historical ᛖᚱ and ᛁᚱ into ᚢᚱ for the NURSE phoneme. If you pronounce "hurry" like a true STRUT+R, you may write ᚢᚱ as a bindrune for NURSE and ᚢᚱ unbound for "hurry".
+In this system, we have merged the historical ᛖᚱ and ᛁᚱ into ᚢᚱ for the NURSE phoneme. If you pronounce "hurry" like a true STRUT+R, you may write ᚢ‍ᚱ as a bindrune for NURSE and ᚢᚱ unbound for "hurry".
 
 I don't believe however that there are any homophones that can be distinguished by pronouncing "hurry" and "furry" differently, however. So please drop by the discord and let us know if you found some!
 

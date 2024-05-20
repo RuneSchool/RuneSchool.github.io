@@ -10,11 +10,11 @@ description: "Stopping by Woods on a Snowy Evening by Robert Frost in Modern Eng
 hidden: false
 ---
 
-<h2 lang="en-Runr" style="font-family:BabelStoneRunic;">ᛋᛏᚩᛈᛁᛝ᛫​ᛒᚫᛡ᛫​ᚹᚣᛞᛉ᛫​ᚩᚾ᛫​ᛟ᛫​ᛋᚾᚩ‍ᚹᛄ᛫​ᛇᚠ‍ᚠᚾᛁᛝ</h2>
+<h2 lang="en-Runr">ᛋᛏᚩᛈᛁᛝ᛫​ᛒᚫᛡ᛫​ᚹᚣᛞᛉ᛫​ᚩᚾ᛫​ᛟ᛫​ᛋᚾᚩ‍ᚹᛄ᛫​ᛇᚠ‍ᚠᚾᛁᛝ</h2>
 
-<h4 lang="en-Runr" style="font-family:BabelStoneRunic;">ᛒᚫᛡ᛫​ᚱᚩᛒᛟᚱᛏ᛫​ᚠᚱᚩᛥ</h4>
+<h4 lang="en-Runr">ᛒᚫᛡ᛫​ᚱᚩᛒᛟᚱᛏ᛫​ᚠᚱᚩᛥ</h4>
 
-<div lang="en-Runr" style="line-height:35px;font-size:14px;font-family:BabelStoneRunic;">
+<div lang="en-Runr" style="line-height:35px;font-size:14px;">
 ᚻ‍ᚹᚣᚹᛉ᛫​ᚹᚣᛞᛉ᛫​ᚦᛇᛉ᛫​ᚪ‍ᚱ᛫​ᚫᛡ᛫​ᚦᛁᛝᛣ᛫​ᚫᛡ᛫​ᚾ<span style="color:green">ᚩ‍ᚹ</span>​᛫​᛫​   
 <br>
 ᚻᛁᛉ᛫​ᚻᚫᚹᛋ᛫​ᛁᛉ᛫​ᛁᚾ᛫​ᚦ᛫​ᚠ‍ᚠᛁᛚᛟᚷ᛫​ᚦ<span style="color:green">ᚩ‍ᚹ</span>᛬​   

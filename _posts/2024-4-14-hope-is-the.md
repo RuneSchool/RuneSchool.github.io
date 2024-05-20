@@ -10,11 +10,11 @@ description: "Hope is the Thing with Feathers by Emily Dickinson in Modern Engli
 hidden: false
 ---
 
-<h2 lang="en-Runr" style="font-family:BabelStoneRunic;">ᚻᚩ‍ᚹᛈ᛫​ᛁᛉ᛫​ᚦᛟ᛫​ᚦᛁᛝ᛫​ᚹᛁᚦ᛫​ᚠᛖᚦᛟᚱᛉ</h2>
+<h2 lang="en-Runr">ᚻᚩ‍ᚹᛈ᛫​ᛁᛉ᛫​ᚦᛟ᛫​ᚦᛁᛝ᛫​ᚹᛁᚦ᛫​ᚠᛖᚦᛟᚱᛉ</h2>
 
-<h4 lang="en-Runr" style="font-family:BabelStoneRunic;">ᛒ​ᚫᛄ᛫ᛖᛗᛟᛚᛄ᛫​ᛞᛁᛣᛁᚾ‍ᛋᛟᚾ</h4>
+<h4 lang="en-Runr">ᛒ​ᚫᛄ᛫ᛖᛗᛟᛚᛄ᛫​ᛞᛁᛣᛁᚾ‍ᛋᛟᚾ</h4>
 
-<div lang="en-Runr" style="line-height:35px;font-size:14px;font-family:BabelStoneRunic;">
+<div lang="en-Runr" style="line-height:35px;font-size:14px;">
 ᛫᛬ᚻᚩ‍ᚹᛈ᛬᛫​ᛁᛉ᛫​ᚦᛟ᛫​ᚦᛁᛝ᛫​ᚹᛁᚦ᛫​ᚠᛖᚦ<span style="color:green">ᛟᚱᛉ</span>᛫᛫​<br>
 ᚦᚫᛏ᛫​ᛈᛟᚱᚳᛟᛉ᛫​ᛁᚾ᛫​ᚦᛟ᛫​ᛋ<span style="color:red">ᚩ</span>ᚹ<span style="color:red">ᛚ</span>᛫᛫​<br>
 ᚫᚾᛞ᛫​ᛋᛁᛝᛉ᛫​ᚦᛟ᛫​ᛏᛡᚣᚾ᛫​ᚹᛁᚦᚪᚹᛏ᛫​ᚦᛟ᛫​ᚹᛟ<span style="color:green">ᛟᚱ</span>ᛞ<span style="color:green">ᛉ</span>᛫᛫​<br>

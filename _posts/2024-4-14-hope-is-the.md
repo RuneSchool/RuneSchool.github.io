@@ -27,7 +27,7 @@ hidden: false
 <br><br>
 ​ᚫᛡᚠ‍ᚠ᛫​ᚻᚢ‍ᚱᛞ᛫​ᛁᛏ᛫​ᛁᚾ᛫​ᚦᛟ᛫​ᚳᛁᛚ​<span style="color:green">ᛟ</span>ᛋᛏ᛫​ᛚᚫᚾᛞ᛫᛫​<br>
 ᚫᚾᛞ᛫​ᚩᚾ᛫​ᚦᛟ᛫​ᛥᚱᛖ‍ᛡᚾᚷ​<span style="color:green">ᛟ</span>ᛋᛏ᛫​ᛋᛁ<span style="color:SlateBlue">ᛡ</span>᛫᛫​<br>
-ᛡᛖᛏ᛫᛫​ᚾᛖᚠ‍ᚠᛟ‍ᚱ᛫᛫​ᛁᚾ᛫ᛁᛣᛥᚱᛖᛗ<span style="color:green">ᛟ</span>ᛏ<span style="color:#5a84cd">ᛄ</span>᛫​<br>
+ᛡᛖᛏ᛫᛫​ᚾᛖᚠ‍ᚠᛟ‍‍ᚱ᛫᛫​ᛁᚾ᛫ᛁᛣᛥᚱᛖᛗ<span style="color:green">ᛟ</span>ᛏ<span style="color:#5a84cd">ᛄ</span>᛫​<br>
 ᛁᛏ᛫​ᚫᛋᛣᛏ᛫​ᛟ᛫​ᚳᚱᚢᛗ᛫᛫​<span style="color:green">​ᛟ</span>ᚠ‍ᚠ᛫​ᛗᛁ<span style="color:SlateBlue">ᛡ</span>᛬​
 </div>
 

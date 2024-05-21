@@ -9,7 +9,47 @@ description: The Frequency of Runes in the Rune School Spelling System
 hidden: false
 ---
 
-Which are the runes that are most common in the Rune School Spelling System?
+The rune frequency in the original Anglo-Saxon Futhorc corpus is something like this:
+
+| rune | count |
+| ---- | ----- |
+| ᛁ    | 254   |
+| ᛖ    | 184   |
+| ᚱ    | 183   |
+| ᚢ    | 177   |
+| ᚫ    | 172   |
+| ᚪ    | 172   |
+| ᛚ    | 170   |
+| ᛞ    | 167   |
+| ᛋ    | 155   |
+| ᚾ    | 146   |
+| ᛏ    | 128   |
+| ᚩ    | 123   |
+| ᚷ    | 110   |
+| ᛗ    | 98    |
+| ᚳ    | 98    |
+| ᚦ    | 97    |
+| ᛒ    | 92    |
+| ᚻ    | 85    |
+| ᚠ    | 74    |
+| ᚹ    | 73    |
+| ᛈ    | 46    |
+| ᛟ    | 42    |
+| ᛉ    | 32    |
+| ᚣ    | 29    |
+| ᛡ    | 28    |
+| ᛠ    | 26    |
+| ᛇ    | 24    |
+| ᚸ    | 23    |
+| ᛝ    | 20    |
+| ᛣ    | 18    |
+| ᛄ    | 13    |
+| ᛢ    | 9     |
+| ᛥ    | 8     |
+| ᚴ    | 4     |
+| ᛤ    | 2     |
+
+Now, which are the most common runes in our Rune School Spelling System?
 
 # How
 
@@ -17,7 +57,9 @@ Since the spelling is largely based on the Shavian [ReadLex](https://readlex.pyt
 
 @kj7qlv in the [Rune School discord server](https://discord.gg/BThW4fxAwN) wrote a script that analyzes the IPA spelling in the Shavian ReadLex dictionary directly. This way we can get the data on things like our "happY" rune ᛄ.
 
-```python
+<details>
+    <summary>Expand here to see the code:</summary>
+<pre>
 import pandas as pd
 import re
 import argparse
@@ -128,7 +170,8 @@ for key, value in running_total.items():
     running_total[key] = value / running_total_sum
 running_total_sorted = dict(sorted(running_total.items(), key=lambda item: item[1], reverse=True))
 print(running_total_sorted)
-```
+</pre>
+</details>
 
 If you put the [kingsleyreadlexicon.tsv](https://github.com/Shavian-info/readlex/blob/main/kingsleyreadlexicon.tsv) dictionary in the same directory as this script and do the command `python script.py --help` you will see the following:
 
@@ -241,6 +284,44 @@ Of the three vowel sisters ᚫᚪᚩ, ᚫ and ᚩ will be about equally frequent
 ᚩ is the first rune in terms of frequency that is unique to just the Anglo-Saxon runes. So if you're trying to determine which language is being written with some runes, you will likely notice ᚩ and know that it is English. Seeing ᛣ will be the next clue that you're reading English.
 
 ᛝ is surprisingly low in this data. My guess is that common word derivations such as "-ᛁᛝ" or perhaps "-ᛉ" and "-ᛞ" are not taken into account.
+
+Now to compare this frequency with the original Futhorc corpus frequency:
+
+| Original Futhorc Corpus | Rune School weighted frequency | Change | Visual change      |
+|-----|-----|-------------------|--------------------|
+| ᛁ   | ᛟ   | 22 to 1           | ▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲ |
+| ᛖ   | ᛁ   | 1 to 2            | ▼                  |
+| ᚱ   | ᚱ   | 3 to 3            | -                  |
+| ᚢ   | ᚾ   | 10 to 4           | ▲▲▲▲▲▲           |
+| ᚫ   | ᛏ   | 11 to 5           | ▲▲▲▲▲▲              |
+| ᚪ   | ᛋ   | 9 to 6            | ▲▲▲                |
+| ᛚ   | ᚩ   | 12 to 7           | ▲▲▲▲▲              |
+| ᛞ   | ᛖ   | 2 to 8            | ▼▼▼▼▼▼              |
+| ᛋ   | ᚹ   | 20 to 9           | ▲▲▲▲▲▲▲▲▲▲▲       |
+| ᚾ   | ᚫ   | 5 to 10           | ▼▼▼▼▼              |
+| ᛏ   | ᛡ   | 25 to 11          | ▲▲▲▲▲▲▲▲▲▲▲▲▲▲ |
+| ᚩ   | ᛞ   | 8 to 12           | ▼▼▼▼               |
+| ᚷ   | ᛚ   | 7 to 13           | ▼▼▼▼▼▼              |
+| ᛗ   | ᚦ   | 16 to 14          | ▲▲                  |
+| ᚳ   | ᚣ   | 24 to 15          | ▲▲▲▲▲▲▲▲▲           |
+| ᚦ   | ᚠ   | 19 to 16          | ▲▲▲                |
+| ᛒ   | ᛣ   | 30 to 17          | ▲▲▲▲▲▲▲▲▲▲▲▲▲     |
+| ᚻ   | ᛉ   | 23 to 18          | ▲▲▲▲▲        |
+| ᚠ   | ᛗ   | 14 to 19          | ▼▼▼▼▼              |
+| ᚹ   | ᛈ   | 21 to 20          | ▼                  |
+| ᛈ   | ᚢ   | 4 to 21           | ▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼     |
+| ᛟ   | ᛒ   | 17 to 22          | ▼▼▼▼▼              |
+| ᛉ   | ᛇ   | 27 to 23          | ▲▲▲▲                |
+| ᚣ   | ᚳ   | 15 to 24          | ▼▼▼▼▼▼▼▼▼          |
+| ᛡ   | ᚻ   | 18 to 25          | ▼▼▼▼▼▼▼              |
+| ᛠ   | ᛄ   | 31 to 26          | ▲▲▲▲▲               |
+| ᛇ   | ᛝ   | 29 to 27          | ▲▲                  |
+| ᚸ   | ᚸ   | 28 to 28          | -                   |
+| ᛝ   | ᚪ   | 6 to 29           | ▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼     |
+| ᛣ   | ᚷ   | 13 to 30          | ▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼     |
+| ᛄ   | ᛠ   | 26 to 31          | ▼▼▼▼▼               |
+
+Naively, we can just sum up the points of change as being 220. How much of this change is just due to the English language itself changing? It's hard to say, but I suspect a lot. 
 
 # Scrabble
 

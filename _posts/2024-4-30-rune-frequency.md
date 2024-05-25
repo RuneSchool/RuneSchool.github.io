@@ -370,39 +370,6 @@ Now lets compare these two results with the original Futhorc corpus frequency:
 
 Naively, we can just sum up the points of change as being 220.
 
-| Original Futhorc Corpus  |  Rune School Sample Text Method |  Change  |   Visual change    |
-| - | - | -------- | -------------------- |
-| ᛁ | ᛁ | 1 to 1   | -                   |
-| ᛖ | ᛏ | 10 to 2  | ▲▲▲▲▲▲▲▲             |
-| ᚱ | ᚾ | 9 to 3   | ▲▲▲▲▲▲               |
-| ᚢ | ᛡ | 24 to 4  | ▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲ |
-| ᚫ | ᚱ | 3 to 5   | ▼▼                   |
-| ᛚ | ᚫ | 5 to 6   | ▼                    |
-| ᛞ | ᚹ | 19 to 7  | ▲▲▲▲▲▲▲▲▲▲▲▲         |
-| ᛋ | ᚩ | 11 to 8  | ▲▲▲                  |
-| ᚾ | ᛟ | 21 to 9  | ▲▲▲▲▲▲▲▲▲▲▲▲         |
-| ᛏ | ᛖ | 2 to 10  | ▼▼▼▼▼▼▼▼             |
-| ᚩ | ᛞ | 7 to 11  | ▼▼▼▼                 |
-| ᚷ | ᛋ | 8 to 12  | ▼▼▼▼                 |
-| ᚳ | ᚦ | 15 to 13 | ▲▲                   |
-| ᛗ | ᛚ | 6 to 14  | ▼▼▼▼▼▼▼▼             |
-| ᚦ | ᚠ | 18 to 15 | ▲▲▲                  |
-| ᛒ | ᚻ | 17 to 16 | ▲                    |
-| ᚻ | ᛗ | 14 to 17 | ▼▼▼                  |
-| ᚠ | ᛣ | 27 to 18 | ▲▲▲▲▲▲▲▲▲            |
-| ᚹ | ᛉ | 22 to 19 | ▲▲▲                  |
-| ᛈ | ᚢ | 4 to 20  | ▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼     |
-| ᛟ | ᛒ | 16 to 21 | ▼▼▼▼▼                |
-| ᛉ | ᚣ | 23 to 22 | ▲                    |
-| ᚣ | ᛈ | 20 to 23 | ▲▲▲                  |
-| ᛡ | ᛄ | 28 to 24 | ▲▲▲▲                 |
-| ᚸ | ᚳ | 13 to 25 | ▼▼▼▼▼▼▼▼▼▼▼▼         |
-| ᛝ | ᛝ | 26 to 26 | -                   |
-| ᛣ | ᚸ | 25 to 27 | ▼▼                   |
-| ᛄ | ᚷ | 12 to 28 | ▼▼▼▼▼▼▼▼▼▼▼▼▼▼▼      |
-
-And in the sample text method, 168 points of change.
-
 How much of these changes are just due to the English language itself changing? It's hard to say, but I suspect a lot. 
 
 # Scrabble

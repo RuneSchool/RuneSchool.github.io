@@ -4,6 +4,7 @@ layout: post
 date: 2024-4-16
 tag:
 - spelling system
+- theory
 category: blog
 description: How much punctuation is truly necessary?
 hidden: false

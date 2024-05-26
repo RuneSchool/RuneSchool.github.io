@@ -59,7 +59,7 @@ For example, runes evolved exactly as law number 4 says they would. The older fo
 
 Now lets go through the laws and see how they might apply to our thinking about the Rune School system in other ways.
 
-1. A two-part marker tends to replace a one-part simple marker.
+### A two-part marker tends to replace a one-part simple marker.
 
 In English with Latin letters, we have a number of ways to spell the GOAT vowel. In some words, they just use a single "o" letter for this sound. Eg. "no", "so", "go"
 
@@ -67,19 +67,19 @@ There are also words that use two letters like "ow" for this sound. Eg. "row", "
 
 Rune School uses the two-part marker for this GOAT vowel ᚩᚹ which then replaces any one-part marker. Seemingly, humans just prefer composability and that is why things will trend towards being composable if at all possible.
 
-2. The directionality of analogy is from a “basic” form to a “subordinate” form with respect to their spheres of usage.
+### The directionality of analogy is from a “basic” form to a “subordinate” form with respect to their spheres of usage.
 
 As mentioned, we use the form ᚩᚹ for the GOAT vowel, which is basically "ow" in English with Latin letters. This is like the words "show", "snow", "bowl", "low", "grow", "flow". 
 
 We could then say that these very common "ow" words influence the less common words. So we use an "ow" form (ᚩᚹ) for *all* similar vowel sounds. The "ow" form has replaced the less common "-ough", "-ew", "-eau" words.
 
-3. A structure consisting of a basic and a subordinate member serves as a foundation for a basic member which is isofunctional but isolated.
+### A structure consisting of a basic and a subordinate member serves as a foundation for a basic member which is isofunctional but isolated.
 
 By making heavier use of two-part rune combinations, the Rune School system helps to reinforce the understanding of individual runes. 
 
 For example, by using ᚫᛡ for the sound in "price", we are creating a more robust foundation for the individual ᚫ rune. If you pronounce "price" like \[æi̯\], \[ai̯\], or \[ɑi̯\], you then learn that ᚫ could sound like \[æ\], \[a\], or \[ɑ\]. This is important because in a phonemic system, individual letters need to feel a bit malleable in that way.
 
-4. When the old (non-analogical) form and the new (analogical) form are both in use, the former remains in secondary function and the latter takes the basic function.
+### When the old (non-analogical) form and the new (analogical) form are both in use, the former remains in secondary function and the latter takes the basic function.
 
 English used to have a main "u" sound which was like the word "goose". Then this sound shortened to be like "foot", at which point we had two sounds in the "u" category. Then the "foot" sound split into both "foot" and "strut".
 
@@ -89,7 +89,7 @@ Similarly, in Rune School we use ᚷ for the J sound in "joke". It's no secret t
 
 So ᚢ and ᚷ follow the same pattern of ᚫ and ᚳ.
 
-5. A more marginal distinction is eliminated for the benefit of a more significant distinction.
+### A more marginal distinction is eliminated for the benefit of a more significant distinction.
 
 In the standard Rune School system, we follow Shavian's lead in eliminating as much as possible the distinctions in sound that just don't matter all that much. The benefit of this is that comprehension becomes easier
 
@@ -101,7 +101,7 @@ We could have added another row specifically for ᚪ (/ɑ/-ish sounds), but by d
 
 We eliminate the more marginal distinction between ᚫ and ᚪ for the benefit of a more significant distinction between ᚫ and ᚩ. 
 
-6. The way people speak in a prestigious or standard dialect can influence how people speak in other dialects. For example, regional dialects might adopt grammatical forms from the standard language used in formal settings.
+### The way people speak in a prestigious or standard dialect can influence how people speak in other dialects. For example, regional dialects might adopt grammatical forms from the standard language used in formal settings.
 
 It's no secret that Rune School uses a somewhat "fancy" pronunciation for a standard. It follows [Shavian's lead](https://readlex.pythonanywhere.com/spellingprinciples/) in this regard.
 

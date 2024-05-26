@@ -97,7 +97,7 @@ For example, we only have 7 rows in our vowel chart.
 
 ![Rune School Lexical Sets](/assets/images/RuneSchoolLexicalSets.png)
 
-We could have added another row specifically for ᚪ (/a/-ish sounds), but by doing so, the distinctions between sounds become smaller. So instead, we make ᚪ a shortcut for writing ᚫᚫ. 
+We could have added another row specifically for ᚪ (/ɑ/-ish sounds), but by doing so, the distinctions between sounds become smaller. So instead, we make ᚪ a shortcut for writing ᚫᚫ. 
 
 We eliminate the more marginal distinction between ᚫ and ᚪ for the benefit of a more significant distinction between ᚫ and ᚩ. 
 

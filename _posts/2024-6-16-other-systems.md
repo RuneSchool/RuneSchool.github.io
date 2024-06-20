@@ -120,13 +120,15 @@ Want to try your hand at a layout? Give it a shot!
 
 ![](/assets/images/BlankComparisonIPAchart.png)
 
-# Thoughts
+# Analysis
 
 Now just comparing sound assignments doesn't fully explain the reasons *why* the creators of these systems made the choices they did. Each sound assignment has ripple effects that will change the sound assignments for other runes.
 
 In order to really compare these choices, we need to talk about the underlying values and philosophy. For example, are we going for authenticity? Are we going for clarity of design?
 
-I would say that American Futharch aims to be more opinionated, as a work of art. Younger Futhorc and Rune Revival aim to be more authentic. Futhorc.com and Rune School seem to aim for authenticity while also wanting something more systematic.
+I would say that American Futharch aims to be more opinionated, as a work of art. Younger Futhorc and Rune Revival aim to be more authentic. Futhorc.com and Rune School seem to aim for authenticity while also wanting something more systematic. For example, Futhorc.com and Rune School both shared the vowel+semivowel digraph for the diphthongs. And Futhorc.com even goes further and uses t+sh for the "ch" sound (very analytical).
+
+# Shared values
 
 My primary goals for a good modern rune system would be:
 
@@ -135,6 +137,13 @@ My primary goals for a good modern rune system would be:
 3. Systematically satisfying
 
 Regarding authenticity, I like one principle that Rune Revival adheres to. They are willing to draw from the Elder Futhark, but they won't draw from any traditions later than the Anglo Futhorc. I find that to be an authentic comporomise when thinking outside the box is needed. Another aspect of authenticity is the most common runes still being the most common in a modern system (if possible). 
+
+Regarding accents, a couple of these are fairly obviously designed for American English. I think a good system would work with accents across the world.
+
+Regarding Systematics, I am speaking mostly about things like phonemic mergers and splits. Things like the FOOT-STRUT split, the COT-CAUGHT merger, etc. A good system should take these into account.
+
+
+
 # Compromise
 
 Now what would a compromise between all of these systems look like?

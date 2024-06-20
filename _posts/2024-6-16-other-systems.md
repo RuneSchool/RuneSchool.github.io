@@ -116,6 +116,8 @@ In order to really compare these choices, we need to talk about the underlying v
 
 I would say that American Futharch aims to be more opinionated, as a work of art. Younger Futhorc and Rune Revival aim to be more authentic. Futhorc.com and Rune School seem to aim for authenticity while also wanting something more systematic. For example, Futhorc.com and Rune School both shared the vowel+semivowel digraph for the diphthongs. And Futhorc.com even goes further and uses t+sh for the "ch" sound (very analytical).
 
+One of the biggest decisions is whether or not to represent the commA sound (schwa). Younger Futhorc opts to not represent it. The tradeoff then is you need to be comfortable with 5 ways of writing a schwa and 3 ways of writing the NURSE vowel. It's not terrible, but you still completely lose the sound-spelling connection.
+
 # Shared values
 
 My primary goals for a good modern rune system would be:

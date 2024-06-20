@@ -35,7 +35,7 @@ For the most part, the consonants are all the same in these systems. The only di
 | /ð/ | ᚦ | ᛨ | ᚧ | ᚦ | ᚦ |
 | /r/ | ᚱ | ᚱ | ᚱ | ᚱ | ᚱ |
 | /tʃ/ | ᚳ | ᚳ | ᛏᚳ | ᚳ | ᚳ |
-| /j/ | ᚷ ᛡ | ᛄ | ᛃ |  | ᛡ |
+| /j/ | ᚷ ᛡ | ᛄ | ᛃ | ᛄ | ᛡ |
 | /x/ | ᛇ |  |  | ᛇ | ᚻ |
 | /w/ | ᚹ | ᚹ | ᚹ | ᚹ | ᚹ |
 | /h/ | ᚻ | ᚻ | ᚻ | ᚻ | ᚻ |
@@ -81,16 +81,16 @@ Predictably, the vowels are where things tend to vary the most between these sys
 | GOOSE | ᚢ | ᚢ | ᚢ | ᚢ | ᚣᚹ |
 | FOOT | ᚢ | ᚣ | ᚢ | ᚢ | ᚣ |
 | commA |  | ᛠ | ᚣ | ᛟ | ᛟ |
-| PRICE | ᚫᚷ | ᚫᛁ |  |  | ᚫᛡ |
+| PRICE | ᚫᚷ | ᚫᛁ |  | ᚪᛡ | ᚫᛡ |
 | MOUTH | ᚫᚢ | ᚫᚣ |  | ᚣ | ᚫᚹ |
-| CHOICE |  | ᛟᛁ | |    |  |
+| CHOICE |  | ᛟᛁ | | ᚩᛡ | ᚩᛡ |
 | lettER |  | ᛠᚱ | ᚣᚱ | ᛟᚱ | ᛟᚱ |
-| NURSE | ᛖᚱ | ᛠᚱ |  |  | ᚢᚱ |
+| NURSE | ᛖᚱ | ᛠᚱ |  | ᛟᚱ | ᚢᚱ |
 | START |  |  |  | ᚪᚱ | ᚪᚱ |
-| NORTH |  |  |  |  | ᚩᚱ |
-| FORCE |  |  |  |  | ᚩᚹᚱ |
-| mErry |  |  |  |  | ᛖᚱ |
-| mArry |  |  |  |  | ᚫᚱ |
+| NORTH |  |  |  | ᚩᚱ | ᚩᚱ |
+| FORCE |  |  |  | ᚩᚢᚱ | ᚩᚹᚱ |
+| mErry |  |  |  | ᛖᚱ | ᛖᚱ |
+| mArry |  |  |  | ᚫᚱ | ᚫᚱ |
 | SQUARE |  |  |  | ᛖᚱ | ᛖᛖᚱ |
 | NEAR | ᛁᚱ |  |  | ᛠᚱ | ᛠᚱ ᛁᛁᚱ |
 
@@ -98,23 +98,23 @@ Now let's look at how the vowel runes land on the IPA vowel chart for a stronger
 
 Younger Futhorc:
 
-![Younger Futhorc IPA vowel chart](assets/images/YoungerFuthorcIPAchart.png)
+![Younger Futhorc IPA vowel chart](/assets/images/YoungerFuthorcIPAchart.png)
 
 American Futharch:
 
-![American Futharch IPA vowel chart](assets/images/AmericanFutharchIPAchart.png)
+![American Futharch IPA vowel chart](/assets/images/AmericanFutharchIPAchart.png)
 
 Futhorc.com:
 
-![Futhorc.com IPA vowel chart](assets/images/FuthorcdotcomIPAchart.png)
+![Futhorc.com IPA vowel chart](/assets/images/FuthorcdotcomIPAchart.png)
 
 Rune Revival:
 
-![Rune Revival IPA vowel chart](assets/images/RuneRevivalIPAchart.png)
+![Rune Revival IPA vowel chart](/assets/images/RuneRevivalIPAchart.png)
 
 Rune School:
 
-![Rune School IPA vowel chart](assets/images/RuneSchoolIPAchart.png)
+![Rune School IPA vowel chart](/assets/images/RuneSchoolIPAchart.png)
 
 Want to try your hand at a layout? Give it a shot!
 

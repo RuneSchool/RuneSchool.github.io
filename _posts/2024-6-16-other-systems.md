@@ -17,82 +17,70 @@ In this blog, I am going to compare 5 different systems for writing Modern Engli
 4. [Rune Revival](https://runerevival.online/)
 5. Rune School (here)
 
-**Note**: American Futharch and Futhorc.com end up using runes from outside the standard Futhorc corpus
-
-# Sample Texts
-
-
+I will include a first pass at a compromise as I outline each.
 
 # Consonants
 
-For the most part, the consonants are all the same in these systems. The only differences are with **z**oo, vi**s**ion, **y**od, 
-
-| sound | Younger Futhorc | American Futharch | Futhorc .com | Rune Revival | Rune School |
-| --- | --- | --- | --- | --- | --- |
-| /f/ | ᚠ | ᚠ | ᚠ | ᚠ | ᚠ |
-| /v/ | ᚠ | ᛡ | ᚡ | ᚠ‍ᚠ | ᚠ‍ᚠ |
-| /θ/ | ᚦ | ᚦ | ᚦ | ᚦ | ᚦ |
-| /ð/ | ᚦ | ᛨ | ᚧ | ᚦ | ᚦ |
-| /r/ | ᚱ | ᚱ | ᚱ | ᚱ | ᚱ |
-| /tʃ/ | ᚳ | ᚳ | ᛏᚳ | ᚳ | ᚳ |
-| /j/ | ᚷ ᛡ | ᛄ | ᛃ | ᛄ | ᛡ |
-| /x/ | ᛇ |  |  | ᛇ | ᚻ |
-| /w/ | ᚹ | ᚹ | ᚹ | ᚹ | ᚹ |
-| /h/ | ᚻ | ᚻ | ᚻ | ᚻ | ᚻ |
-| /n/ | ᚾ | ᚾ | ᚾ | ᚾ | ᚾ |
-| /p/ | ᛈ | ᛈ | ᛈ | ᛈ | ᛈ |
-| /ks~gz/ | ᛉ | ᚴᛋ | ᚴᛋ | ᛣᛋ | ᛣᛋ |
-| /s/ | ᛋ | ᛋ | ᛋ | ᛋ | ᛋ |
-| /z/ | ᛋ | ᛉ | ᛋ | ᛉ | ᛉ |
-| /t/ | ᛏ | ᛏ | ᛏ | ᛏ | ᛏ |
-| /b/ | ᛒ | ᛒ | ᛒ | ᛒ | ᛒ |
-| /m/ | ᛗ | ᛗ | ᛗ | ᛗ | ᛗ |
-| /l/ | ᛚ | ᛚ | ᛚ | ᛚ | ᛚ |
-| /ŋ/ | ᛝ | ᛝ | ᛝ | ᛝ | ᛝ |
-| /ŋg/ | ᛝ | ᛝᚷ | ᛝᚸ | ᛝ | ᛝᚸ |
-| /d/ | ᛞ | ᛞ | ᛞ | ᛞ | ᛞ |
-| /k/ | ᛣ | ᚴ | ᚴ | ᛣ | ᛣ |
-| /g/ | ᚸ | ᚷ | ᚸ | ᚸ | ᚸ |
-| /dʒ/ | ᚳᚷ | ᛥ | ᛞᛄ | ᚷ | ᚷ |
-| /ʒ/ | ᚳᚷ | ᛯ | ᛄ | ᛉᚳ | ᛉᚳ |
-| /ʃ/ | ᛋᚳ | ᛊ | ᚳ | ᛋᚳ | ᛋᚳ |
-| /ʍ/ | ᚻᚹ |  |  | ᚻᚹ | ᚻᚹ |
-
-So let's take a closer look at some of these differences. 
-
-The Younger Futhorc stuck with ᚷ for the /j/ (yod) sound. This would perhaps be the most authentic choice.
+| sound | Younger Futhorc | American Futharch | Futhorc .com | Rune Revival | Rune School | Compromise? |
+| --- | --- | --- | --- | --- | --- | --- |
+| /f/ | ᚠ | ᚠ | ᚠ | ᚠ | ᚠ | ᚠ |
+| /v/ | ᚠ | ᛡ | ᚡ | ᚠ‍ᚠ | ᚠ‍ᚠ | ᚠ‍ᚠ |
+| /θ/ | ᚦ | ᚦ | ᚦ | ᚦ | ᚦ | ᚦ |
+| /ð/ | ᚦ | ᛨ | ᚧ | ᚦ | ᚦ | ᚦᚦ? |
+| /r/ | ᚱ | ᚱ | ᚱ | ᚱ | ᚱ | ᚱ |
+| /tʃ/ | ᚳ | ᚳ | ᛏᚳ | ᚳ | ᚳ | ᚳ |
+| /j/ | ᚷ ᛡ | ᛄ | ᛃ | ᛄ | ᛡ | ᚷ |
+| /x/ | ᛇ |  |  | ᛇ | ᚻ | ᚻ |
+| /w/ | ᚹ | ᚹ | ᚹ | ᚹ | ᚹ |  ᚹ |
+| /h/ | ᚻ | ᚻ | ᚻ | ᚻ | ᚻ |  ᚻ |
+| /n/ | ᚾ | ᚾ | ᚾ | ᚾ | ᚾ |  ᚾ |
+| /p/ | ᛈ | ᛈ | ᛈ | ᛈ | ᛈ | ᛈ |
+| /ks~gz/ | ᛉ | ᚴᛋ | ᚴᛋ | ᛣᛋ | ᛣᛋ | ᛣᛋ |
+| /s/ | ᛋ | ᛋ | ᛋ | ᛋ | ᛋ | ᛋ ᚴ |
+| /z/ | ᛋ | ᛉ | ᛋ | ᛉ | ᛉ | ᛉ |
+| /t/ | ᛏ | ᛏ | ᛏ | ᛏ | ᛏ | ᛏ |
+| /b/ | ᛒ | ᛒ | ᛒ | ᛒ | ᛒ | ᛒ |
+| /m/ | ᛗ | ᛗ | ᛗ | ᛗ | ᛗ | ᛗ |
+| /l/ | ᛚ | ᛚ | ᛚ | ᛚ | ᛚ | ᛚ |
+| /ŋ/ | ᛝ | ᛝ | ᛝ | ᛝ | ᛝ | ᛝ |
+| /ŋg/ | ᛝ | ᛝᚷ | ᛝᚸ | ᛝ | ᛝᚸ | ᛝ |
+| /d/ | ᛞ | ᛞ | ᛞ | ᛞ | ᛞ | ᛞ |
+| /k/ | ᛣ | ᚴ | ᚴ | ᛣ | ᛣ | ᛣ |
+| /g/ | ᚸ | ᚷ | ᚸ | ᚸ | ᚸ | ᚸ |
+| /dʒ/ | ᚳᚷ | ᛥ | ᛞᛄ | ᚷ | ᚷ | ᚷᚳ |
+| /ʒ/ | ᚳᚷ | ᛯ | ᛄ | ᛉᚳ | ᛉᚳ | ᚷᚳ |
+| /ʃ/ | ᛋᚳ | ᛊ | ᚳ | ᛋᚳ | ᛋᚳ | ᛋᚳ |
+| /ʍ/ | ᚻᚹ |  |  | ᚻᚹ | ᚻᚹ | ᚻᚹ |
 
 # Vowels
 
-Predictably, the vowels are where things tend to vary the most between these systems.
-
-| Lexical Set | Younger Futhorc | American Futharch | Futhorc .com | Rune Revival | Rune School |
-| --- | --- | --- | --- | --- | --- |
-| KIT | ᛁ | ᛁ | ᛁ | ᛁ | ᛁ |
-| FLEECE | ᛠ | ᛇ | ᛁ | ᛁ | ᛇ ᛁᛡ |
-| FACE | ᛖᚷ | ᛖᛁ | ᛖ | ᛖᛡ | ᛖᛡ |
-| DRESS | ᛖ | ᛖ | ᛖ | ᛖ | ᛖ |
-| TRAP | ᚫ | ᚫ | ᚫ | ᚫ | ᚫ |
-| fAther | ᚪ | ᚩ | ᚪ | ᚪ | ᚪ |
-| LOT | ᚪ |  | ᚪ | ᚩ | ᚩ |
-| THOUGHT | ᚪᚢ | ᛟ | ᚩ | ᚩ | ᚩᚩ |
-| STRUT | ᛟ | ᛠ |  | ᚪ | ᚢ |
+| Lexical Set | Younger Futhorc | American Futharch | Futhorc .com | Rune Revival | Rune School | Compromise? |
+| --- | --- | --- | --- | --- | --- | --- |
+| KIT | ᛁ | ᛁ | ᛁ | ᛁ | ᛁ | ᛁ |
+| FLEECE | ᛠ | ᛇ | ᛁ | ᛁ | ᛇ ᛁᛡ | ᛁᚷ (ᛡ) |
+| FACE | ᛖᚷ | ᛖᛁ | ᛖ | ᛖᛡ | ᛖᛡ | ᛖᛖ ᛖᚷ |
+| DRESS | ᛖ | ᛖ | ᛖ | ᛖ | ᛖ | ᛖ |
+| TRAP | ᚫ | ᚫ | ᚫ | ᚫ | ᚫ | ᛇ |
+| fAther | ᚪ | ᚩ | ᚪ | ᚪ | ᚪ | ᚫ |
+| LOT | ᚪ |  | ᚪ | ᚩ | ᚩ | ᚪ |
+| THOUGHT | ᚪᚢ | ᛟ | ᚩ | ᚩ | ᚩᚩ | ᚩ |
 | GOAT | ᚩ | ᛟᚣ | ᚩ | ᚩᚢ | ᚩᚹ |
-| GOOSE | ᚢ | ᚢ | ᚢ | ᚢ | ᚣᚹ |
-| FOOT | ᚢ | ᚣ | ᚢ | ᚢ | ᚣ |
-| commA |  | ᛠ | ᚣ | ᛟ | ᛟ |
-| PRICE | ᚫᚷ | ᚫᛁ |  | ᚪᛡ | ᚫᛡ |
-| MOUTH | ᚫᚢ | ᚫᚣ |  | ᚣ | ᚫᚹ |
-| CHOICE |  | ᛟᛁ | | ᚩᛡ | ᚩᛡ |
-| lettER |  | ᛠᚱ | ᚣᚱ | ᛟᚱ | ᛟᚱ |
-| NURSE | ᛖᚱ | ᛠᚱ |  | ᛟᚱ | ᚢᚱ |
-| START |  |  |  | ᚪᚱ | ᚪᚱ |
-| NORTH |  |  |  | ᚩᚱ | ᚩᚱ |
-| FORCE |  |  |  | ᚩᚢᚱ | ᚩᚹᚱ |
-| mErry |  |  |  | ᛖᚱ | ᛖᚱ |
-| mArry |  |  |  | ᚫᚱ | ᚫᚱ |
-| SQUARE |  |  |  | ᛖᚱ | ᛖᛖᚱ |
-| NEAR | ᛁᚱ |  |  | ᛠᚱ | ᛠᚱ ᛁᛁᚱ |
+| GOOSE | ᚢ | ᚢ | ᚢ | ᚢ | ᚣᚹ | ᚢᚢ ᚢᚹ |
+| FOOT | ᚢ | ᚣ | ᚢ | ᚢ | ᚣ | ᚢ |
+| STRUT | ᛟ | ᛠ |  | ᚪ | ᚢ | ᚣ |
+| commA |  | ᛠ | ᚣ | ᛟ | ᛟ | ᛟ |
+| PRICE | ᚫᚷ | ᚫᛁ |  | ᚪᛡ | ᚫᛡ | ᚫᚷ |
+| MOUTH | ᚫᚢ | ᚫᚣ |  | ᚣ | ᚫᚹ | ᚫᚹ |
+| CHOICE |  | ᛟᛁ | | ᚩᛡ | ᚩᛡ | ᚩᚷ |
+| lettER |  | ᛠᚱ | ᚣᚱ | ᛟᚱ | ᛟᚱ | ᛟᚱ |
+| NURSE | ᛖᚱ | ᛠᚱ |  | ᛟᚱ | ᚢᚱ | ᛠᚱ |
+| START |  |  |  | ᚪᚱ | ᚪᚱ | ᚫᚱ |
+| NORTH |  |  |  | ᚩᚱ | ᚩᚱ | ᚪᚱ |
+| FORCE |  |  |  | ᚩᚢᚱ | ᚩᚹᚱ | ᚩᚱ |
+| mErry |  |  |  | ᛖᚱ | ᛖᚱ | ᛖᚱ |
+| mArry |  |  |  | ᚫᚱ | ᚫᚱ | ᛇᚱ |
+| SQUARE |  |  |  | ᛖᚱ | ᛖᛖᚱ | ᛖᛖᚱ |
+| NEAR | ᛁᚱ |  |  | ᛠᚱ | ᛠᚱ ᛁᛁᚱ | ᛁᛁᚱ |
 
 Now let's look at how the vowel runes land on the IPA vowel chart for a stronger visual comparison.
 
@@ -133,29 +121,33 @@ I would say that American Futharch aims to be more opinionated, as a work of art
 My primary goals for a good modern rune system would be:
 
 1. Authenticity to the original Futhorc
+
+I like one principle that Rune Revival adheres to. They are willing to draw from the Elder Futhark, but they won't draw from any traditions later than the Anglo Futhorc. I find that to be an authentic compromise when thinking outside the box is needed. Another aspect of authenticity is the most common runes still being the most common in a modern system (if possible). 
+
 2. Usable for all English accents
+
+A couple of these systems are fairly obviously designed for American English. I think a good system would work for the entire English speaking world. Because the Futhorc is the "birthright" of English everywhere.
+
 3. Systematically satisfying
 
-Regarding authenticity, I like one principle that Rune Revival adheres to. They are willing to draw from the Elder Futhark, but they won't draw from any traditions later than the Anglo Futhorc. I find that to be an authentic comporomise when thinking outside the box is needed. Another aspect of authenticity is the most common runes still being the most common in a modern system (if possible). 
-
-Regarding accents, a couple of these are fairly obviously designed for American English. I think a good system would work with accents across the world.
-
-Regarding Systematics, I am speaking mostly about things like phonemic mergers and splits. Things like the FOOT-STRUT split, the COT-CAUGHT merger, etc. A good system should take these into account.
-
-
+Regarding Systematics, I am speaking mostly about phonemic mergers and splits as well as historical development of sounds. Things like the FOOT-STRUT split, the COT-CAUGHT merger, etc. A good system should take these into account.
 
 # Compromise
 
-Now what would a compromise between all of these systems look like?
+Now what would a compromise between all of these systems look like? The authenticity of the Younger Futhorc but with an added element of a more robust... system? 
 
-The authenticity of the Younger Futhorc but with an added element of a more robust... system? 
-
-Let's try something as a way to start the conversation:
-
-After using and teaching the Rune School system, I can say that it really does feel *intuitive*, simple, and functional. This is because time was spent thinking about how to phonologically analyze English as a complete system. 
+After using and teaching the Rune School system, I can say that it really does feel *intuitive*, simple, and functional. This is because time was spent thinking about how to phonemically analyze English as a complete system. There are [7 base vowels](rune-school-spelling-system#vowels), from which all other vowel sounds come.
 
 What I am looking for in improvements to the Rune School system:
 
-1. Being more functional for people with different accents (mergers of phonemes, for example)
+1. Being more functional for people with different accents
+
 2. More authentic to the original Futhorc
 
+Let's try something as a way to start the conversation:
+
+![](/assets/images/RuneSystemCompromise.png)
+
+This draws on the Elder Futhark for the assignment of ᛇ. This gives us an immense benefit to representing ["hell's corner"](https://youtu.be/sALAE6iqLWk?si=YNuboGC4OHwRBfQZ) with all similar looking runes. It also lets us distinguish TOE from TOW, PAIN from PANE, and potentially rosEs and happY. The only thing that is lost is potentially a cleanness of the system as a whole. For example, lettER is no longer grouped with commA and contrasted with NURSE-STRUT. The 7 base vowels of Rune School would be upped to 9 base vowels. And such a system has not taken into account the [frequency of phonemes](rune-frequency), either. In the original Futhorc corpus, ᚢ was extremely common, which may lead one to use ᚢ as a commA (schwa) phoneme instead. Or even merge FOOT with commA (there are no minimal pairs between these two, so it's possible, technically).
+
+If you designed one of these systems, or if you have your own that I have not included, please join the [Rune School Discord server](https://discord.gg/BThW4fxAwN) and we can discuss in a sort of "peer review" working group. I'll see you there!

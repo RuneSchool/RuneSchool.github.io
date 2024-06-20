@@ -27,7 +27,7 @@ In this blog, I am going to compare 5 different systems for writing Modern Engli
 
 For the most part, the consonants are all the same in these systems. The only differences are with **z**oo, vi**s**ion, **y**od, 
 
-| sound | Younger Futhorc | American Futharch | Futhorc.com | Rune Revival | Rune School |
+| sound | Younger Futhorc | American Futharch | Futhorc .com | Rune Revival | Rune School |
 | --- | --- | --- | --- | --- | --- |
 | /f/ | ᚠ | ᚠ | ᚠ | ᚠ | ᚠ |
 | /v/ | ᚠ | ᛡ | ᚡ | ᚠ‍ᚠ | ᚠ‍ᚠ |
@@ -66,7 +66,7 @@ The Younger Futhorc stuck with ᚷ for the /j/ (yod) sound. This would perhaps b
 
 Predictably, the vowels are where things tend to vary the most between these systems.
 
-| Lexical Set | Younger Futhorc | American Futharch | Futhorc.com | Rune Revival | Rune School |
+| Lexical Set | Younger Futhorc | American Futharch | Futhorc .com | Rune Revival | Rune School |
 | --- | --- | --- | --- | --- | --- |
 | KIT | ᛁ | ᛁ | ᛁ | ᛁ | ᛁ |
 | FLEECE | ᛠ | ᛇ | ᛁ | ᛁ | ᛇ ᛁᛡ |
@@ -118,7 +118,7 @@ Rune School:
 
 Want to try your hand at a layout? Give it a shot!
 
-![](assets/images/BlankComparisonIPAchart.png)
+![](/assets/images/BlankComparisonIPAchart.png)
 
 # Thoughts
 

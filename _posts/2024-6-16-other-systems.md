@@ -64,7 +64,7 @@ I will include a first pass at a compromise as I outline each.
 | fAther | ᚪ | ᚩ | ᚪ | ᚪ | ᚪ | ᚫ |
 | LOT | ᚪ |  | ᚪ | ᚩ | ᚩ | ᚪ |
 | THOUGHT | ᚪᚢ | ᛟ | ᚩ | ᚩ | ᚩᚩ | ᚩ |
-| GOAT | ᚩ | ᛟᚣ | ᚩ | ᚩᚢ | ᚩᚹ |
+| GOAT | ᚩ | ᛟᚣ | ᚩ | ᚩᚢ | ᚩᚹ | ᚩᚹ |
 | GOOSE | ᚢ | ᚢ | ᚢ | ᚢ | ᚣᚹ | ᚢᚢ ᚢᚹ |
 | FOOT | ᚢ | ᚣ | ᚢ | ᚢ | ᚣ | ᚢ |
 | STRUT | ᛟ | ᛠ |  | ᚪ | ᚢ | ᚣ |

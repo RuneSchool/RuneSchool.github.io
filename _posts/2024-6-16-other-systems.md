@@ -62,7 +62,7 @@ I will include a first pass at a compromise as I outline each.
 | DRESS | ᛖ | ᛖ | ᛖ | ᛖ | ᛖ | ᛖ |
 | TRAP | ᚫ | ᚫ | ᚫ | ᚫ | ᚫ | ᛇ |
 | fAther | ᚪ | ᚩ | ᚪ | ᚪ | ᚪ | ᚫ |
-| LOT | ᚪ |  | ᚪ | ᚩ | ᚩ | ᚪ |
+| LOT | ᚪ | ᚩ | ᚪ | ᚩ | ᚩ | ᚪ |
 | THOUGHT | ᚪᚢ | ᛟ | ᚩ | ᚩ | ᚩᚩ | ᚩ |
 | GOAT | ᚩ | ᛟᚣ | ᚩ | ᚩᚢ | ᚩᚹ | ᚩᚹ |
 | GOOSE | ᚢ | ᚢ | ᚢ | ᚢ | ᚣᚹ | ᚢᚢ ᚢᚹ |
@@ -74,13 +74,13 @@ I will include a first pass at a compromise as I outline each.
 | CHOICE |  | ᛟᛁ | | ᚩᛡ | ᚩᛡ | ᚩᚷ |
 | lettER |  | ᛠᚱ | ᚣᚱ | ᛟᚱ | ᛟᚱ | ᛟᚱ |
 | NURSE | ᛖᚱ | ᛠᚱ |  | ᛟᚱ | ᚢᚱ | ᛠᚱ |
-| START |  |  |  | ᚪᚱ | ᚪᚱ | ᚫᚱ |
-| NORTH |  |  |  | ᚩᚱ | ᚩᚱ | ᚪᚱ |
-| FORCE |  |  |  | ᚩᚢᚱ | ᚩᚹᚱ | ᚩᚱ |
-| mErry |  |  |  | ᛖᚱ | ᛖᚱ | ᛖᚱ |
-| mArry |  |  |  | ᚫᚱ | ᚫᚱ | ᛇᚱ |
-| SQUARE |  |  |  | ᛖᚱ | ᛖᛖᚱ | ᛖᛖᚱ |
-| NEAR | ᛁᚱ |  |  | ᛠᚱ | ᛠᚱ ᛁᛁᚱ | ᛁᛁᚱ |
+| START |  | ᚩᚱ |  | ᚪᚱ | ᚪᚱ | ᚫᚱ |
+| NORTH |  | ᛟᚱ |  | ᚩᚱ | ᚩᚱ | ᚪᚱ |
+| FORCE |  | ᛟᚱ |  | ᚩᚢᚱ | ᚩᚹᚱ | ᚩᚱ |
+| mErry |  | ᛖᚱ |  | ᛖᚱ | ᛖᚱ | ᛖᚱ |
+| mArry |  | ᛖᚱ |  | ᚫᚱ | ᚫᚱ | ᛇᚱ |
+| SQUARE |  | ᛖᚱ |  | ᛖᚱ | ᛖᛖᚱ | ᛖᛖᚱ |
+| NEAR | ᛁᚱ | ᛁᚱ |  | ᛠᚱ | ᛠᚱ ᛁᛁᚱ | ᛁᛁᚱ |
 
 Now let's look at how the vowel runes land on the IPA vowel chart for a stronger visual comparison.
 

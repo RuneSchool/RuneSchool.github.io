@@ -138,7 +138,7 @@ Regarding Systematics, I am speaking mostly about phonemic mergers and splits as
 
 Now what would a compromise between all of these systems look like? The authenticity of the Younger Futhorc but with an added element of a more robust... system? 
 
-After using and teaching the Rune School system, I can say that it really does feel *intuitive*, simple, and functional. This is because time was spent thinking about how to phonemically analyze English as a complete system. There are [7 base vowels](rune-school-spelling-system#vowels), from which all other vowel sounds come.
+After using and teaching the Rune School system, I can say that it really does feel *intuitive*, simple, and functional. This is because time was spent thinking about how to phonemically analyze English as a complete system. There are [7 base vowels](/rune-school-spelling-system#vowels), from which all other vowel sounds come.
 
 What I am looking for in improvements to the Rune School system:
 

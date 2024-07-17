@@ -30,6 +30,7 @@ If you've ever wanted to learn how to read and write English with the Anglo-Saxo
 - [Shavian.Info](https://shavian.info)
 - [Quickscript](https://en.wikipedia.org/wiki/Quikscript)
 - [Deseret](https://en.wikipedia.org/wiki/Deseret_alphabet)
+- [Anglish](https://anglish.org/)
 
 <h2>My other language related websites</h2>
 

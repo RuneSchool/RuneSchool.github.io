@@ -56,7 +56,7 @@ Perhaps in the 2100's, people will embrace actually writing by hand and seek a s
 
 * Books -> Podcasts and videos
 * Letters -> Voice messages
-* Searching for information -> Conversational AI assistant (see [Rabbit Tech](https://www.rabbit.tech/), for example)
+* Searching for information -> Conversational AI assistant
 
 The written word could essentially become a machine-only tool with an elite group of people that are literate just for the purposes of maintaining the machines.
 

@@ -81,9 +81,13 @@ For example, by using ᚫᛡ for the sound in "price", we are creating a more ro
 
 ### When the old (non-analogical) form and the new (analogical) form are both in use, the former remains in secondary function and the latter takes the basic function.
 
-In Rune School we use ᚷ for the J sound in "joke". It's no secret that in English the "soft j" sound like in "yule" slowly became a "hard j" like in "John". So as ᚷ changed (yet again), the *newer* rune ᛡ took on the *older* sound. So ᚷ is reserved for the secondary function of "Jello" while ᛡ has the primary function of "yellow".
+English used to have a main "u" sound which was like the word "goose". Then this sound shortened to be like "foot", at which point we had two sounds in the "u" category. Then the "foot" sound split into both "foot" and "strut".
 
-So ᚷ follows the same pattern of ᚫ and ᚳ.
+The idea is that the ᚢ rune used to have the "goose" and "foot" sounds and then when the sound split into "strut", the *newer* ᚣ rune took on the *older* sound. So ᚢ is then reserved for the secondary function of "strut" (even if "strut" is quite a common sound in modern English).
+
+Similarly, in Rune School we use ᚷ for the J sound in "joke". It's no secret that in English the "soft j" sound like in "yule" slowly became a "hard j" like in "John". So as ᚷ changed (yet again), the *newer* rune ᛡ took on the *older* sound. So ᚷ is reserved for the secondary function of "Jello" while ᛡ has the primary function of "yellow".
+
+So ᚢ and ᚷ follow the same pattern of ᚫ and ᚳ.
 
 ### A more marginal distinction is eliminated for the benefit of a more significant distinction.
 

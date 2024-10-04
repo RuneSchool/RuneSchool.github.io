@@ -57,19 +57,20 @@ I will include a first pass at a compromise as I outline each.
 | Lexical Set | Younger Futhorc | American Futharch | Futhorc .com | Rune Revival | Rune School | Compromise? |
 | --- | --- | --- | --- | --- | --- | --- |
 | KIT | ᛁ | ᛁ | ᛁ | ᛁ | ᛁ | ᛁ |
-| FLEECE | ᛠ | ᛇ | ᛁ | ᛁ | ᛇ ᛁᛡ | ᛁᚷ (ᛡ) |
+| happY | ᛠ | ᛇ | ᛁ | ᛇ | ᛄ | ᛁ |
+| FLEECE | ᛠ | ᛇ | ᛁ | ᛨ | ᛇ ᛁᛡ | ᛁᚷ (ᛡ) |
 | FACE | ᛖᚷ | ᛖᛁ | ᛖ | ᛖᛡ | ᛖᛡ | ᛖᛖ ᛖᚷ |
 | DRESS | ᛖ | ᛖ | ᛖ | ᛖ | ᛖ | ᛖ |
 | TRAP | ᚫ | ᚫ | ᚫ | ᚫ | ᚫ | ᛇ |
-| fAther | ᚪ | ᚩ | ᚪ | ᚪ | ᚪ | ᚫ |
+| fAther | ᚪ | ᚩ | ᚪ | ᚪᚪ | ᚪ | ᚫ |
 | LOT | ᚪ | ᚩ | ᚪ | ᚩ | ᚩ | ᚪ |
-| THOUGHT | ᚪᚢ | ᛟ | ᚩ | ᚩ | ᚩᚩ | ᚩ |
+| THOUGHT | ᚪᚢ | ᛟ | ᚩ | ᚩᚩ | ᚩᚩ | ᚩ |
 | GOAT | ᚩ | ᛟᚣ | ᚩ | ᚩᚢ | ᚩᚹ | ᚩᚹ |
-| GOOSE | ᚢ | ᚢ | ᚢ | ᚢ | ᚣᚹ | ᚢᚢ ᚢᚹ |
+| GOOSE | ᚢ | ᚢ | ᚢ | ᚢᚢ | ᚣᚹ | ᚢᚢ ᚢᚹ |
 | FOOT | ᚢ | ᚣ | ᚢ | ᚢ | ᚣ | ᚢ |
 | STRUT | ᛟ | ᛠ |  | ᚪ | ᚢ | ᚣ |
 | commA |  | ᛠ | ᚣ | ᛟ | ᛟ | ᛟ |
-| PRICE | ᚫᚷ | ᚫᛁ |  | ᚪᛡ | ᚫᛡ | ᚫᚷ |
+| PRICE | ᚫᚷ | ᚫᛁ |  | ᚫᛡ | ᚫᛡ | ᚫᚷ |
 | MOUTH | ᚫᚢ | ᚫᚣ |  | ᚣ | ᚫᚹ | ᚫᚹ |
 | CHOICE |  | ᛟᛁ | | ᚩᛡ | ᚩᛡ | ᚩᚷ |
 | lettER |  | ᛠᚱ | ᚣᚱ | ᛟᚱ | ᛟᚱ | ᛟᚱ |

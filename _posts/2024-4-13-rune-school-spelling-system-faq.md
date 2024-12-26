@@ -319,8 +319,8 @@ For example, in the phrase "Rosa's roses", the Shavian ReadLex standard (the one
 
 | Latin | Readlex (Shavian) | Rune School Standard |
 | --- | --- | --- | 
-| Rosa's | 𐑐𐑸𐑑𐑩𐑛 | ᚱᚢᚹᛉᛟᛉ |
-| roses | 𐑮𐑴𐑟𐑩𐑟 | ᚱᚢᚹᛉᛟᛉ | 
+| Rosa's | 𐑐𐑸𐑑𐑩𐑛 | ᚱᚩᚹᛉᛟᛉ |
+| roses | 𐑮𐑴𐑟𐑩𐑟 | ᚱᚩᚹᛉᛟᛉ | 
 | bazaar | 𐑚𐑩𐑟𐑸 | ᛒᛟᛉᚪᚱ |
 | bizarre | 𐑚𐑦𐑟𐑸  |  ᛒᛁᛉᚪᚱ | 
 

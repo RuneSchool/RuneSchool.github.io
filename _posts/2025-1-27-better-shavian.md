@@ -1,10 +1,12 @@
 ---
 title: "An Improved Shavian"
 layout: post
-date: 2024-6-16
+date: 2025-1-27
 category: blog
 tag:
 - shavian
+- brevian
+- neography
 description: My take on a way to fix Shavian
 hidden: true
 ---

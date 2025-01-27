@@ -108,7 +108,7 @@ In addition to the the 2nd column in the vowel chart being stretched lengthwise,
 
 ![Dotted vowels](/assets/images/New/dottedLongVowels.png)
 
-This is pretty much up to your subjective taste, I just prefer the aesthetic of the variable width of vowels that more accurately match the (sometimes) variable length of vowels when spoken.
+This is pretty much up to your subjective taste. On one hand, I like the aesthetic of the variable width of vowels that more accurately match the (sometimes) variable length of vowels when spoken. On the other hand, the overdots could serve to bring the script more "up", balancing out the plentiful descenders.
 
 One option is to save either the stretched or the dotted column for an extra column that would only be needed in certain scenarios. For example, if a speaker distinguishes BAD from LAD, they could use this extra "column" as the motif for their vowel.
 

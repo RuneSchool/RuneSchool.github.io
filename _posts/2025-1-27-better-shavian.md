@@ -34,6 +34,8 @@ Here are the vowels:
 
 ![Vowels](/assets/images/New/stretchedLongVowels.png)
 
+I've kept these largely the same as Brevian.
+
 Right away, you'll see a layout that has columns and rows. Each row represents a distinct vowel category. Each column represents a consistent change applied to that category. This means that FACE and CHOICE have something in common as well as LOT and CHOICE having something in common. The relations are transparent in that way.
 
 The 2nd column is stretched horizontally which can give a very aesthetically satisfying "push and pull" to a text which better matches the prosody of how it is pronounced out loud. It provides breathing room and some breaking up of large chunks of letters.
@@ -48,7 +50,7 @@ Here are the consonants in the system:
 
 ![Consonants](/assets/images/New/consonants.png)
 
-I have only changed what I deemed necessary to change. 
+I have kept these the same as Shavian and only changed what I deemed necessary to change. 
 
 In order, you can see the changes:
 
@@ -80,7 +82,7 @@ You'll notice that S and Z and the TH sounds look exactly the same except ascend
 
 This is intentional. S and Z still remain very close allophones even in the modern day (think of "dogs" vs "cats", etc), as do θ and ð (think of "the" or "with").
 
-Now you might say "But F and V were historic allophones just like those! Why do these letters look more different when rotated?"
+The letters for /f/ and /v/ are inspired by the Greek [phi](https://en.wikipedia.org/wiki/Phi). Now you might say "But F and V were historic allophones just like those others! Why do these letters look more different when rotated?"
 
 That is because F and V split to become distinct phonemes much earlier than the others.
 

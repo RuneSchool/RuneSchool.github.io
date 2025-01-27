@@ -17,11 +17,11 @@ These inconsistencies may be something that only I personally find annoying, but
 
 ## Voiced and Unvoiced Dilemma
 
-In Shavian today, 𐑙 is for a voiced sound and 𐑣 is for an unvoiced sound. The problem is that in Shavian, tall letters are unvoiced and deep letters are voiced. This is a consistent rule. But Reed wanted the “ng” letter (𐑙) to be tall just for the fact that he thought it looked better as 𐑦𐑙 (-ing). But this is subjective. 𐑦𐑣 would look just as good and it would have the benefit of being consistent. 
+In Shavian today, 𐑙 is for a voiced sound and 𐑣 is for an unvoiced sound. The problem is that in Shavian, tall letters are unvoiced and deep letters are voiced ([I learned recently that perhaps this should not be promulgated as a consistent rule](https://www.reddit.com/r/shavian/comments/1i85a5k/comment/m8r21s9/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button), but nonetheless it is). But Reed wanted the “ng” letter (𐑙) to be tall just for the fact that he thought it looked better as 𐑦𐑙 (-ing). But this is subjective. 𐑦𐑣 would look just as good and it would have the benefit of being consistent. 
 
-Why does this consistency matter? Because in English there are phonemic rules like “plurals use a /z/ sound when after a short or deep letter, and they use a /s/ after a tall letter”. If you don’t have consistency with the letters, you need to have silly exceptions for things like 𐑙. An exception to a rule is yet another burden on a user of English and defeats the purpose of Shavian to begin with. It’s not worth preserving the mere opinion of Reed to have this exception.
+Why does this consistency matter? Because in English there are phonemic rules like “plurals use a /z/ sound after a short or deep letter, and they use a /s/ after a tall letter”. If you don’t have consistency with the letters, you need to have silly exceptions for things like 𐑙. An exception to a rule is yet another burden on a user of English and defeats the purpose of Shavian to begin with. It’s not worth preserving the mere opinion of Reed to have this exception.
 
-Now you may be thinking, "what about 𐑘 and 𐑢? 𐑘 (/j/) is voiced and it's a tall letter!" That is correct, but 
+Now you may be thinking, "what about 𐑘 and 𐑢? 𐑘 (/j/) is voiced and it's a tall letter!" That is correct. I have nothing to say about it.
 
 ## SQUARE and NURSE Reversal
 

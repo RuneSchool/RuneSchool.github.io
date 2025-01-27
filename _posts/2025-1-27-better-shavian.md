@@ -15,6 +15,10 @@ There are many genius choices that Read made. We can see them explained in that 
 
 Nonetheless, that thread inspired me to revisit my own attempt at creating a better Shavian that I have not yet publicized.
 
+The second row is me freehand writing with a mouse the new script:
+
+![Sample writing](/assets/images/New/sampleText2.png)
+
 In 2022, a gentleman created the [Brevian](https://sites.google.com/view/brevian) (and subsequent Anglovian) scripts. There are some great ideas in there (particularly the vowels). I am being clear that I have taken some ideas from this and used it as a jumping off point.
 
 Now here are my goals:

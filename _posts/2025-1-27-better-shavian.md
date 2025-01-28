@@ -8,7 +8,7 @@ tag:
 - brevian
 - neography
 description: My take on a way to fix Shavian
-hidden: true
+hidden: false
 ---
 
 There was [another reddit thread](https://www.reddit.com/r/shavian/comments/1i85a5k/kingsley_reads_design_choices/) about the design choices that Kingsley Read made for Shavian. 

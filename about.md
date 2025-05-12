@@ -34,5 +34,5 @@ If you've ever wanted to learn how to read and write English with the Anglo-Saxo
 
 <h2>My other language related websites</h2>
 
-- [Shavian.School](https://shavian.school)
+- [Shavian.School](https://shavian-school.github.io/)
 - [Occidental-Lang.com](https://occidental-lang.com/)

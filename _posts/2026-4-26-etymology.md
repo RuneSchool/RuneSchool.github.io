@@ -93,4 +93,4 @@ This is still very much early days. I have intentionally not shared the details 
 
 - A cool added benefit of an etymological spelling system is that if "spelling pronunciation" continues as a trend, English speakers could very well recover old pronunciations that used to exist. Some isolated people could just read a lot in this orthography and eventually their pronunciations would get much closer to the original Old English phonemes! Or at least the original "lexical sets" for words could be recovered.
 
-- The Latin version encodes more information than the Runic version. It's genuinely something like Traditional Chinese characters (as the creator of this system put it once). 
+- The Latin version encodes more information than the Runic version. The Latin forms are helpful for learning for that reason. But the Runic being more succinct, it boils words down to their essential forms. Not "ᛋᛚᛖᛖᛈ" but "ᛋᛚᛖᛈ". Not "ᛋᚾᚩᚪᚹ" but "ᛋᚾᚪᚹ". These Runic forms could be useful almost as symbols; recognizable at a glance by native speakers. 

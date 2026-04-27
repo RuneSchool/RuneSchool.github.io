@@ -1,7 +1,7 @@
 ---
 title: "Uniting The Clans"
 layout: post
-date: 2026-4-30
+date: 2026-4-26
 category: blog
 description: Developing a etymological writing system that all English dialects can use together
 hidden: true

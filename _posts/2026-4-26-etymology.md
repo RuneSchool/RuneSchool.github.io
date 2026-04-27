@@ -59,11 +59,11 @@ I'm still correct about that. The difference is that because we are going back i
 
 So it's taking the historical rootedness argument from the preface to its fullest.
 
-## What I did
+## What we did
 
-I want to just *do* things, so I took the mapping of OE phonemes to latin letter spellings and I started making a dictionary file, starting from the most common words, working my way down. 
+I want to just *do* things, so I took the mapping of OE phonemes to latin letter spellings and I started making a dictionary file. Myself and the creator of this system started from the most common words, working our way down. 
 
-There are currently ~1,000 words in the dictionary. I then exposed this dictionary via a [translation tool](https://rune.school/dictionary/translate-etym) so that we could generate sample sentences and get a feel for the system.
+We got ~1,000 words in the dictionary. I then exposed this dictionary via a [translation tool](https://rune.school/dictionary/translate-etym) so that we could generate sample sentences and get a feel for the system.
 
 I then made a [Keyman keyboard](https://github.com/trosel/etym-spelling-keyboard) for typing and text prediction to help with spelling.
 

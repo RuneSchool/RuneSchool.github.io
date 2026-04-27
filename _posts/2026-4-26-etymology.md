@@ -35,17 +35,29 @@ Really, all an etymological system does is rewind the clock as far back as we ca
 
 2. The period of time known as "Middle English" was *wild*, orthographically speaking. There were many inconsistencies or plain errors that caught on in this time that we can easily fix if we just go back a bit further. 
 
-For example, instead of General American speakers writing "wut" and Received Pronunciation speakers writing "wot", they both write "hwæt".
+Let's look at an example. Take the words Sew, So, Sow.
+
+All of these words in the Rune School system would be spelled with ᚩᚹ or ᚩ‍ᚹ. But not all dialects or accents today consider these words to be the same phoneme or lexical set. Mainstream accents like General American simply have the [Tow-Toe Merger](https://en.wikipedia.org/wiki/Phonological_history_of_English_diphthongs#Toe%E2%80%93tow_merger).
+
+Some accents would put Sew and Sow in one category and So in another. Notice that these aren't just different realizations of the same phoneme. They are two different categories entirely. Sure, Rune School could support spellings like ᚩᚩ for "Toe" words and ᚩᚹ for "Tow" words, but what about accents that don't consider Sew and Sow to be in the same lexical set? Believe it or not, there are dialects used today that consider these two to be in different categories as well!
+
+The easiest way to include all dialects is to simply go further back in time. And when we do this, we arrive at, essentially, an etymological spelling system.
+
+- Sew was originally Siw    
+- Sow was originally Soaw 
+- So was originally Swoa 
+
+English speakers are already accustomed to making accomodations in this way. We all use "what" even though neither General American nor Received Pronunciation pronounce that word with an "a" sound.
 
 ## Arguing against myself
 
-"hwæt"? Isn't that part of the issue I explained in the preface of Rune School?
+Isn't "what" part of the issue I explained in the preface of Rune School?
 
 > Now, the original idea of an alphabet is simple; like a hammer. But today with English, the way that we use the alphabet (how we spell) has become something complicated; like a large factory machine for which we have lost the instructions.
 
-It's really not any more complicated than asking an American to write "what" as "wot" or asking a Brit to write "what" as "wut". 
+80% of the words in this etymological system are not written super differently from our current "orthodox" spelling system. So what is required is just a re-framing of the value of English writing. If language is a technology to connect people together, then this system would be the most effective at doing that.
 
-80% of the words in this etymological system are not written super differently either. 
+Is it more complicated? Perhaps slightly. But the benefit of potentially unifying all dialects together and increasing the connective power is worth it.
 
 What about this next part in the preface?
 
@@ -57,7 +69,9 @@ I'm still correct about that. The difference is that because we are going back i
 
 > The only problem is, if an alphabet can be created arbitrarily, it can be changed arbitrarily. It has no tie to history to make it feel concrete. 
 
-So it's taking the historical rootedness argument from the preface to its fullest.
+So it's taking the historical rootedness argument from the preface to its fullest. And if language is meant to connect people together, going further into history will also help to recover our shared heritage as English speakers. 
+
+English is a blend of Germanic languages. Such a historic writing system would also serve to connect English with its own cousins, sisters, brothers, and ultimately its mother (Proto-Indo-European).
 
 ## What we did
 
@@ -73,16 +87,15 @@ What this means is that the runic version of the etymological system actually en
 
 ## Examples
 
-```
 Modern Orthodox:
-I know that the twain will never meet, but I am looking forward to the day next summer.
+> I know that the twain will never meet, but I am looking forward to the day next summer.
 
 Etym Latin:
-Ih cnoaw thæt the twœeyen will n·ea·f’r meet, b’·out ih ạm looc·ing fore·wạrd too the dæy neạh·’st sųmor.
+> Ih cnoaw thæt the twœeyen will n·ea·f’r meet, b’·out ih ạm looc·ing fore·wạrd too the dæy neạh·’st sųmor.
 
 Etym Runic:
-ᛁᚻ᛫ᚳᚾᚪᚹ᛫ᚦᚫᛏ᛫ᚦᛖ᛫ᛏᚹᛟᚷᛖᚾ᛫ᚹᛁᛚᛚ᛫ᚾᚫᚠᚱ᛫ᛗᛖᛏ᛬ᛒᚢᛏ᛫ᛁᚻ᛫ᛠᛗ᛫ᛚᚩᛣᛁᛝ᛫ᚠᚩᚱᛖᚹᛠᚱᛞ᛫ᛏᚩ᛫ᚦᛖ᛫ᛞᚫᚷ᛫ᚾᛠᚻᛋᛏ᛫ᛋᚢᛗᚩᚱ᛫
-```
+> ᛁᚻ᛫ᚳᚾᚪᚹ᛫ᚦᚫᛏ᛫ᚦᛖ᛫ᛏᚹᛟᚷᛖᚾ᛫ᚹᛁᛚᛚ᛫ᚾᚫᚠᚱ᛫ᛗᛖᛏ᛬ᛒᚢᛏ᛫ᛁᚻ᛫ᛠᛗ᛫ᛚᚩᛣᛁᛝ᛫ᚠᚩᚱᛖᚹᛠᚱᛞ᛫ᛏᚩ᛫ᚦᛖ᛫ᛞᚫᚷ᛫ᚾᛠᚻᛋᛏ᛫ᛋᚢᛗᚩᚱ᛫
+
 
 ## Status
 

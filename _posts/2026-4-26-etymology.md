@@ -87,15 +87,16 @@ What this means is that the runic version of the etymological system actually en
 
 ## Examples
 
+```
 Modern Orthodox:
-> I know that the twain will never meet, but I am looking forward to the day next summer.
+I know that the twain will never meet, but I am looking forward to the day next summer.
 
 Etym Latin:
-> Ih cnoaw thæt the twœeyen will n·ea·f’r meet, b’·out ih ạm looc·ing fore·wạrd too the dæy neạh·’st sųmor.
+Ih cnoaw thæt the twœeyen will n·ea·f’r meet, b’·out ih ạm looc·ing fore·wạrd too the dæy neạh·’st sųmor.
 
 Etym Runic:
-> ᛁᚻ᛫ᚳᚾᚪᚹ᛫ᚦᚫᛏ᛫ᚦᛖ᛫ᛏᚹᛟᚷᛖᚾ᛫ᚹᛁᛚᛚ᛫ᚾᚫᚠᚱ᛫ᛗᛖᛏ᛬ᛒᚢᛏ᛫ᛁᚻ᛫ᛠᛗ᛫ᛚᚩᛣᛁᛝ᛫ᚠᚩᚱᛖᚹᛠᚱᛞ᛫ᛏᚩ᛫ᚦᛖ᛫ᛞᚫᚷ᛫ᚾᛠᚻᛋᛏ᛫ᛋᚢᛗᚩᚱ᛫
-
+ᛁᚻ᛫ᚳᚾᚪᚹ᛫ᚦᚫᛏ᛫ᚦᛖ᛫ᛏᚹᛟᚷᛖᚾ᛫ᚹᛁᛚᛚ᛫ᚾᚫᚠᚱ᛫ᛗᛖᛏ᛬ᛒᚢᛏ᛫ᛁᚻ᛫ᛠᛗ᛫ᛚᚩᛣᛁᛝ᛫ᚠᚩᚱᛖᚹᛠᚱᛞ᛫ᛏᚩ᛫ᚦᛖ᛫ᛞᚫᚷ᛫ᚾᛠᚻᛋᛏ᛫ᛋᚢᛗᚩᚱ᛫
+```
 
 ## Status
 

@@ -25,7 +25,7 @@ I ran into these issues again and again with Rune School.
 
 One day, someone in the Rune School discord server explained that an etymological system could be better for these issues. 
 
-I thought it was interesting, but I ultimately wrote it off. I went back to tinkering and tinkering and tinkering on the current Rune School system. At the time, I was researching new ways to make the system more intuitive and English-native. I was doing things like mapping out regular sound changes and assigning runes to connected sounds.
+I thought it was interesting, but I ultimately wrote it off. I went back to [tinkering](GVS) and tinkering and [tinkering](maxims) on the current Rune School system. At the time, I was researching new ways to make the system more intuitive and English-native. I was doing things like mapping out regular sound changes and assigning runes to connected sounds.
 
 The more I worked on that, the more I realized that I was essentially re-inventing an etymological system from first principles. So I decided to revisit this person's idea. They had created a little chart that mapped all vowel phonemes that existed in Old English to Latin letter spellings. "Hey wait, didn't you say this *wasn't* phonemic?" Yes, I did. 
 
@@ -65,7 +65,7 @@ What about this next part in the preface?
 
 > You could start using your preferred spelling change today, but it would be percieved by others as spelling mistakes. In order to be able to adopt a new spelling system and avoid the confusion with the current spelling system, a new alphabet (script) is needed.
 
-I'm still correct about that. The difference is that because we are going back in time and correcting the errors that accrued in the past, the spellings in this system would be technically speaking *more* correct than the orthography that we have today.
+I'm still correct about that. The difference is that because we are going back in time and correcting the errors that accrued in the past, the spellings in this system would be, technically speaking, *more* correct than the orthography that we have today.
 
 > The only problem is, if an alphabet can be created arbitrarily, it can be changed arbitrarily. It has no tie to history to make it feel concrete. 
 
@@ -89,18 +89,18 @@ What this means is that the runic version of the etymological system actually en
 
 ```
 Modern Orthodox:
-I know that the twain will never meet, but I am looking forward to the day next summer.
+I know that the eaves will never meet, but I am looking forward to the day next summer.
 
 Etym Latin:
-Ih cnoaw thæt the twœeyen will n·ea·f’r meet, b’·out ih ạm looc·ing fore·wạrd too the dæy neạh·’st sųmor.
+Ih cnoaw thæt the œfes will n·ea·f’r meet, b’·out ih ạm looc·ing fore·wạrd too the dæy neạh·’st sųmor.
 
 Etym Runic:
-ᛁᚻ᛫ᚳᚾᚪᚹ᛫ᚦᚫᛏ᛫ᚦᛖ᛫ᛏᚹᛟᚷᛖᚾ᛫ᚹᛁᛚᛚ᛫ᚾᚫᚠᚱ᛫ᛗᛖᛏ᛬ᛒᚢᛏ᛫ᛁᚻ᛫ᛠᛗ᛫ᛚᚩᛣᛁᛝ᛫ᚠᚩᚱᛖᚹᛠᚱᛞ᛫ᛏᚩ᛫ᚦᛖ᛫ᛞᚫᚷ᛫ᚾᛠᚻᛋᛏ᛫ᛋᚢᛗᚩᚱ᛫
+ᛁᚻ᛫ᚳᚾᚪᚹ᛫ᚦᚫᛏ᛫ᚦᛖ᛫ᛟᚠᛖᛋ᛫ᚹᛁᛚᛚ᛫ᚾᚫᚠᚱ᛫ᛗᛖᛏ᛬ᛒᚢᛏ᛫ᛁᚻ᛫ᛠᛗ᛫ᛚᚩᛣᛁᛝ᛫ᚠᚩᚱᛖᚹᛠᚱᛞ᛫ᛏᚩ᛫ᚦᛖ᛫ᛞᚫᚷ᛫ᚾᛠᚻᛋᛏ᛫ᛋᚢᛗᚩᚱ᛫
 ```
 
 ## Status
 
-This is still very much early days. I have intentionally not shared the details of how this works yet. If you are interested in contributing, we want more people to ask questions and give feedback. So please come by the discord. The link is in the [About](/about) page of this website.
+This is still very much early days. I have intentionally not shared the full details of how this works yet. If you are interested in contributing, we want more people to ask questions and give feedback. So please come by the discord. The link is in the [About](/about) page of this website.
 
 
 ## Random thoughts
@@ -110,3 +110,5 @@ This is still very much early days. I have intentionally not shared the details 
 - The Latin version encodes more information than the Runic version. For that reason, the Latin forms are helpful for learning and finding connections across pronunciations. It's also just closer to what we are used to today. But the Runic being more succinct, it boils words down to their essential forms. Not "ᛋᛚᛖᛖᛈ" but "ᛋᛚᛖᛈ". Not "ᛋᚾᚩᚪᚹ" but "ᛋᚾᚪᚹ". These Runic forms could be useful almost as symbols; recognizable at a glance by native speakers. 
 
 - Even though the runic etymological spellings are more simple (no vowel length), it surprisingly doesn't increase the amount of words that are spelled the same. This is due to the lexical set organization of Old English and also the fact that there's a lot more letters that are silent today that weren't silent in the past.
+
+- One thing a phonemic runic system will always struggle with is that there are legitimately several possible runes for a long "ee" sound (ᛁ? ᛡ? ᛇ? ᛠ?). In an etymological system, you will see each of these naturally show up at fairly even intervals. Free = ᚠᚱᛡ, Be = ᛒᛇ, Leaf = ᛚᛠᚠ.

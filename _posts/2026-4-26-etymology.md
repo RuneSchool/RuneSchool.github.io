@@ -19,7 +19,7 @@ But there are two major issues that phonemic systems run into.
 
 Issue 2 is very much related to issue 1. When someone is asking how to write a word in a phonemic system, you must ask them questions about how they say it. They often think they are saying it one way, but they are saying it another. You often advise them to write it how they "think" they're saying it regardless of how they "really" say it.
 
-I ran into these issues again and again with Rune School.
+I ran into these issues [again and again](/rune-school-spelling-system-faq) with Rune School.
 
 ## A solution appears
 

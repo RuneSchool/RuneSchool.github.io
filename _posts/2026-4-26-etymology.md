@@ -25,7 +25,7 @@ I ran into these issues [again and again](/rune-school-spelling-system-faq) with
 
 One day, someone in the Rune School discord server explained that an etymological system could be better for these issues. 
 
-I thought it was interesting, but I ultimately wrote it off. I went back to [tinkering](/GVS) and tinkering and [tinkering](/maxims) on the current Rune School system. At the time, I was researching new ways to make the system more intuitive and English-native. I was doing things like mapping out regular sound changes and assigning runes to connected sounds.
+I thought it was interesting, but I ultimately wrote it off. I went back to tinkering and tinkering and tinkering on the current Rune School system. At the time, I was researching new ways to make the system more intuitive and English-native. I was doing things like [mapping out regular sound changes](/GVS) and [assigning runes to connected sounds](/maxims).
 
 The more I worked on that, the more I realized that I was essentially re-inventing an etymological system from first principles. So I decided to revisit this person's idea. They had created a little chart that mapped all vowel phonemes that existed in Old English to Latin letter spellings. "Hey wait, didn't you say this *wasn't* phonemic?" Yes, I did. 
 
